@@ -23,9 +23,16 @@ export async function getAllClaims() {
 }
 
 export async function setClaimTag(claimId, tag) {
-  await db.query(SQL`
+  const result = await db.query(SQL`
     UPDATE claims 
     SET tag = ${tag} 
     WHERE id = ${claimId}
+    RETURNING id
   `);
+  return result.rowCount > 0;
+}
+
+export async function getClaimById(claimId) {
+  const result = await db.query(SQL`SELECT * FROM claims WHERE id = ${claimId}`);
+  return result.rows[0] ?? null;
 }

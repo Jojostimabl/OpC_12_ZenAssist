@@ -86,3 +86,33 @@
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   font-weight: 700;
 }
+
+.selectClaim {
+  width: 100%;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.autoTagControls { display: flex; flex-direction: column; gap: 10px; }
+.autoTagControls p { font-size: 13px; line-height: 1.5; margin: 0; }
+.autoTagButton, .dismissButton {
+  width: fit-content;
+  padding: 8px 12px;
+  border-radius: var(--radius-sm);
+  font: inherit;
+  font-size: 13px;
+  cursor: pointer;
+}
+.autoTagButton { border: 1px solid var(--primary-blue); background: var(--primary-blue); color: #fff; }
+.selected .autoTagButton { border-color: #fff; background: #fff; color: var(--primary-blue); }
+.dismissButton { border: 1px solid currentColor; background: transparent; color: inherit; }
+.autoTagButton:disabled, .dismissButton:disabled { opacity: .65; cursor: wait; }
+.suggestion { display: flex; flex-direction: column; gap: 10px; padding-top: 4px; }
+.suggestionActions { display: flex; flex-wrap: wrap; gap: 10px; }
+.error { background: #fef2f2; color: #991b1b; border-radius: var(--radius-sm); padding: 10px; }
+.selectClaim:focus-visible, .autoTagButton:focus-visible, .dismissButton:focus-visible { outline: 2px solid var(--accent-yellow); outline-offset: 3px; }

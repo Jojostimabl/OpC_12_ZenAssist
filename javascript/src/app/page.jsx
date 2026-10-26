@@ -46,15 +46,12 @@ export default function Home() {
     };
 
     const handleTagUpdate = (claimId, tag) => {
-        if (selectedClaim && selectedClaim.id === claimId) {
-            setSelectedClaim({ ...selectedClaim, tag });
-        }
-        try {
-            const tagParam = selectedInboxId === 'untagged' ? 'untagged' : selectedInboxId;
-            fetchClaims(tagParam).then(res => setClaims(res));
-        } catch (error) {
-            console.error('Error refreshing claims after tag update:', error);
-        }
+        setSelectedClaim(current => current?.id === claimId ? { ...current, tag } : current);
+        const tagParam = selectedInboxId === 'untagged' ? 'untagged' : selectedInboxId;
+        fetchClaims(tagParam).then(setClaims).catch(() => {
+            // The saved tag remains visible if a subsequent list refresh fails.
+            setClaims(current => current.map(claim => claim.id === claimId ? { ...claim, tag } : claim));
+        });
     };
 
     return (
@@ -86,6 +83,7 @@ export default function Home() {
                         claims={claims}
                         loading={loading}
                         onTagClick={handleTagClick}
+                        onTagUpdate={handleTagUpdate}
                     />
                 </section>
 

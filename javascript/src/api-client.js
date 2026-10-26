@@ -1,4 +1,4 @@
-// Removed Claim type import as it's not needed in JavaScript
+import { ALLOWED_TAGS } from './constants/tags.js';
 
 const BASE_URL = '/api/claims';
 
@@ -26,6 +26,38 @@ export async function updateClaimTag(claimId, tag) {
   });
 
   if (!response.ok) {
-    throw new Error('Failed to update tag');
+    throw new Error(await errorMessage(response, 'The tag could not be saved. Please try again.'));
   }
+}
+
+async function errorMessage(response, fallback) {
+  try {
+    const data = await response.json();
+    return typeof data?.error === 'string' ? data.error : fallback;
+  } catch {
+    return fallback;
+  }
+}
+
+export async function suggestClaimTag(claimId, { signal } = {}) {
+  const response = await fetch(`${BASE_URL}/${claimId}/suggest-tag`, {
+    method: 'POST',
+    signal: AbortSignal.any([signal, AbortSignal.timeout(55_000)].filter(Boolean)),
+    cache: 'no-store',
+    headers: { 'Content-Type': 'application/json' },
+    body: '{}',
+  });
+  if (!response.ok) {
+    throw new Error(await errorMessage(response, 'Automatic tagging is unavailable. Please try again.'));
+  }
+  let data;
+  try {
+    data = await response.json();
+  } catch {
+    throw new Error('The tagging service returned an invalid response. No tag was changed.');
+  }
+  if (!ALLOWED_TAGS.includes(data?.tag)) {
+    throw new Error('The tagging service returned an invalid suggestion. No tag was changed.');
+  }
+  return data;
 }

@@ -3,7 +3,7 @@
 import styles from './Inbox.module.css';
 import ClaimComponent from '@/components/Claim.jsx';
 
-export default function Inbox({ inboxId, onSelectClaim, selectedClaimId, claims, loading, onTagClick }) {
+export default function Inbox({ inboxId, onSelectClaim, selectedClaimId, claims, loading, onTagClick, onTagUpdate }) {
 
     const getInboxTitle = () => {
         if (inboxId === 'all') return 'All Claims';
@@ -38,6 +38,7 @@ export default function Inbox({ inboxId, onSelectClaim, selectedClaimId, claims,
                             isSelected={selectedClaimId === claim.id}
                             onClick={() => onSelectClaim(claim)}
                             onTagClick={onTagClick}
+                            onTagUpdate={onTagUpdate}
                         />
                     ))
                 )}

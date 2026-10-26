@@ -1,18 +1,23 @@
-version: '3.8'
+name: zenassist-mission2
 
 services:
   postgres:
     image: postgres:14.18
-    container_name: dev-ia-p12-postgres
+    container_name: zenassist-mission2-postgres
     environment:
-      POSTGRES_DB: dev_ia_p12
+      POSTGRES_DB: zenassist_mission2
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: postgres
     ports:
-      - "5432:5432"
+      - "127.0.0.1:55432:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
     restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d zenassist_mission2"]
+      interval: 3s
+      timeout: 3s
+      retries: 20
 
 volumes:
   postgres_data:

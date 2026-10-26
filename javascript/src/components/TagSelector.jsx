@@ -7,16 +7,18 @@ import { updateClaimTag } from '@/api-client.js';
 
 export default function TagSelector({ claim, onTagUpdate }) {
     const [isUpdating, setIsUpdating] = useState(false);
+    const [error, setError] = useState('');
 
     const handleTagSelect = async (tag) => {
         if (!claim) return;
 
         setIsUpdating(true);
+        setError('');
         try {
             await updateClaimTag(claim.id, tag);
             onTagUpdate(claim.id, tag);
         } catch (error) {
-            console.error('Error updating tag:', error);
+            setError(error.message || 'The tag could not be saved. Please try again.');
         } finally {
             setIsUpdating(false);
         }
@@ -50,6 +52,7 @@ export default function TagSelector({ claim, onTagUpdate }) {
                     <div className={styles.tagSelector}>
                         <select
                             className={styles.select}
+                            aria-label="Assign tag"
                             value={claim.tag ?? ''}
                             onChange={(e) => handleTagSelect(e.target.value)}
                             disabled={isUpdating}
@@ -87,6 +90,7 @@ export default function TagSelector({ claim, onTagUpdate }) {
                             </div>
                         )}
                     </div>
+                    {error && <p role="alert">{error}</p>}
                 </div>
             </div>
         </div>

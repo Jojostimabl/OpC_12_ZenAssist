@@ -10,6 +10,7 @@ const compat = new FlatCompat({
 });
 
 const eslintConfig = [
+  { ignores: ['.next/**', '.local-postgres/**', 'test-results/**', 'playwright-report/**'] },
   ...compat.extends("next/core-web-vitals"),
 ];
 

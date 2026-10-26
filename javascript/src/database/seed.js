@@ -31,4 +31,8 @@ async function reset() {
   await seed();
 }
 
-await reset();
+try {
+  await reset();
+} finally {
+  await db.end();
+}
