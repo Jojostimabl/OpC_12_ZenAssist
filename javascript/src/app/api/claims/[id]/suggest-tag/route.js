@@ -1,5 +1,5 @@
 import { getClaimById } from '@/database/queries.js';
-import { suggestTag } from '@/server/llm-service.js';
+import { suggestTag } from '@/server/ml-service.js';
 import { createSuggestionHandler } from '@/server/suggestion-handler.js';
 
 export const runtime = 'nodejs';

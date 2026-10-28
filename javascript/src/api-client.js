@@ -42,7 +42,7 @@ async function errorMessage(response, fallback) {
 export async function suggestClaimTag(claimId, { signal } = {}) {
   const response = await fetch(`${BASE_URL}/${claimId}/suggest-tag`, {
     method: 'POST',
-    signal: AbortSignal.any([signal, AbortSignal.timeout(55_000)].filter(Boolean)),
+    signal: AbortSignal.any([signal, AbortSignal.timeout(15_000)].filter(Boolean)),
     cache: 'no-store',
     headers: { 'Content-Type': 'application/json' },
     body: '{}',

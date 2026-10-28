@@ -10,6 +10,7 @@
     "lint": "eslint .",
     "test": "node --test tests/*.test.js",
     "test:e2e": "playwright test",
+    "test:integration": "node scripts/smoke-ml.js",
     "db:start": "docker compose up -d --wait",
     "db:local": "node --env-file=.env.local scripts/local-postgres.js",
     "db:init": "node --env-file=.env.local scripts/init-demo.js",
@@ -18,7 +19,6 @@
   },
   "dependencies": {
     "next": "15.5.28",
-    "openai": "7.43.0",
     "pg": "^8.16.3",
     "react": "19.1.10",
     "react-dom": "19.1.10",

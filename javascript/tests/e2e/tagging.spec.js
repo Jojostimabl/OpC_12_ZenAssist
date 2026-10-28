@@ -43,7 +43,7 @@ test('loading, one request, human confirmation and persistent save', async ({ pa
     await expect(page.getByRole('button', { name: `Select claim #${claimId}`, exact: true })).toBeVisible();
 });
 
-test('provider error, retry and dismiss preserve the database', async ({ page }) => {
+test('ML error, retry and dismiss preserve the database', async ({ page }) => {
     let calls = 0;
     await page.route(`**/api/claims/${claimId}/suggest-tag`, async route => {
         calls++;
@@ -69,7 +69,7 @@ test('malformed response is rejected and manual tagging still works', async ({ p
     await expect.poll(async () => (await pool.query('SELECT tag FROM claims WHERE id = $1', [claimId])).rows[0].tag).toBe('Mortgage');
 });
 
-test('a failed save keeps the suggestion and retries without a second LLM request', async ({ page }) => {
+test('a failed save keeps the suggestion and retries without a second ML request', async ({ page }) => {
     let suggestions = 0;
     let saves = 0;
     await page.route(`**/api/claims/${claimId}/suggest-tag`, route => {
@@ -86,4 +86,21 @@ test('a failed save keeps the suggestion and retries without a second LLM reques
     await page.getByRole('button', { name: 'Apply suggestion' }).click();
     await expect.poll(async () => (await pool.query('SELECT tag FROM claims WHERE id = $1', [claimId])).rows[0].tag).toBe('Credit card');
     expect(suggestions).toBe(1);
+});
+
+test('the real Python model proposes a tag that is saved only after confirmation', async ({ page, request }) => {
+    const content = (await pool.query('SELECT content FROM claims WHERE id = $1', [claimId])).rows[0].content;
+    const prediction = await request.post('http://127.0.0.1:8000/tags', { data: { user_claim: content } });
+    expect(prediction.ok()).toBeTruthy();
+    const expected = await prediction.json();
+    const response = page.waitForResponse(response => response.url().endsWith(`/api/claims/${claimId}/suggest-tag`));
+    await page.getByRole('button', { name: 'Auto-tag', exact: true }).click();
+    const suggestion = await (await response).json();
+    expect(suggestion.model).toBe('logistic_regression');
+    expect(suggestion.modelVersion).toBe(expected.modelVersion);
+    await expect(page.getByRole('status')).toContainText(`Suggested tag: ${expected.tag}`);
+    await expect(page.getByText(/ML suggestion · Response time: \d+ ms/)).toBeVisible();
+    expect((await pool.query('SELECT tag FROM claims WHERE id = $1', [claimId])).rows[0].tag).toBeNull();
+    await page.getByRole('button', { name: 'Apply suggestion', exact: true }).click();
+    await expect.poll(async () => (await pool.query('SELECT tag FROM claims WHERE id = $1', [claimId])).rows[0].tag).toBe(expected.tag);
 });

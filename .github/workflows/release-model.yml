@@ -1,0 +1,62 @@
+name: Export and publish ML model
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    defaults:
+      run:
+        working-directory: ml-service
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: astral-sh/setup-uv@d0d8abe699bfb85fec6de9f7adb5ae17292296ff # v6
+        with:
+          version: "0.10.6"
+          enable-cache: true
+          cache-dependency-glob: ml-service/uv.lock
+      - name: Install the locked training-compatible environment
+        run: uv sync --locked --python 3.13.5
+      - name: Export the verified training artefact as standard pickle
+        run: uv run --locked python -m scripts.export_model
+      - name: Test export and API before publication
+        run: uv run --locked pytest -q
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: zenassist-ml-model
+          if-no-files-found: error
+          path: |
+            ml-service/models/model.pkl
+            ml-service/models/metadata.json
+            ml-service/models/metrics.json
+
+  attach-to-release:
+    if: github.event_name == 'release'
+    needs: export
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+      actions: read
+    steps:
+      - name: Download the artefact produced and tested above
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RUN_ID: ${{ github.run_id }}
+        run: gh run download "$RUN_ID" --name zenassist-ml-model --dir model
+      - name: Attach immutable assets to the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RELEASE_TAG: ${{ github.event.release.tag_name }}
+        run: gh release upload "$RELEASE_TAG" model/model.pkl model/metadata.json model/metrics.json

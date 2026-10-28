@@ -1,0 +1,21 @@
+[project]
+name = "zenassist-ml-service"
+version = "0.1.0"
+description = "API de classification des réclamations — mission 3 OpenClassrooms"
+requires-python = ">=3.13,<3.14"
+dependencies = [
+    "fastapi>=0.115,<1",
+    "uvicorn>=0.30,<1",
+    "scikit-learn==1.9.1",
+    "numpy==2.5.3",
+    "scipy==1.18.1",
+    "joblib==1.6.0",
+    "threadpoolctl>=3.6,<4",
+]
+
+[dependency-groups]
+dev = ["pytest>=8,<10", "httpx>=0.27,<1"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

@@ -1,0 +1,57 @@
+{
+  "modelVersion": "mission1-logreg-balanced-6e116aa07c0f",
+  "sourceSha256": "6e116aa07c0f156f0f21639fb6fd9e965c1f0a8730be18fdb53ab148ca8a08c1",
+  "labels": [
+    "Bank account or service",
+    "Checking or savings account",
+    "Consumer Loan",
+    "Credit card",
+    "Credit card or prepaid card",
+    "Credit reporting",
+    "Credit reporting, credit repair services, or other personal consumer reports",
+    "Debt collection",
+    "Money transfer, virtual currency, or money service",
+    "Money transfers",
+    "Mortgage",
+    "Other financial service",
+    "Payday loan",
+    "Payday loan, title loan, or personal loan",
+    "Prepaid card",
+    "Student loan",
+    "Vehicle loan or lease",
+    "Virtual currency"
+  ],
+  "environment": {
+    "python": "3.13.5",
+    "packages": {
+      "scikit-learn": "1.9.1",
+      "numpy": "2.5.3",
+      "scipy": "1.18.1",
+      "joblib": "1.6.0"
+    }
+  },
+  "training": {
+    "trainedAt": "2026-10-19T20:21:45.456594+00:00",
+    "trainRows": 254731,
+    "fitPartition": "train",
+    "selectionPartition": "validation",
+    "selectionMetric": "f1_macro_present",
+    "candidate": "logistic_regression__balanced",
+    "sourceSignature": "57495e95de817e74b91e10ccc356b9f397d266ee93edb27c129934fc735c0303",
+    "partitionsSha256": "0b1b7cc3412cf14ba7e27540aa6eaa9dbe841cfe3f760f1682532261ce0c3381",
+    "vectorizer": {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "min_df": 3,
+      "max_df": 0.995,
+      "max_features": 100000,
+      "sublinear_tf": true,
+      "strip_accents": "unicode",
+      "lowercase": true,
+      "stop_words": null,
+      "dtype": "float32"
+    }
+  }
+}

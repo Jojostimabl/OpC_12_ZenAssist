@@ -1,5 +1,5 @@
 import { createHash } from 'node:crypto';
-import { SuggestionError } from './tag-suggestion.js';
+import { SuggestionError } from './suggestion-error.js';
 
 export function parseClaimId(value) {
     if (typeof value !== 'string' || !/^[1-9]\d*$/.test(value)) return null;
@@ -34,7 +34,7 @@ export function createSuggestionHandler({ getClaim, classify }) {
         if (!claim) return json({ error: 'This claim no longer exists.', code: 'CLAIM_NOT_FOUND' }, 404);
         const key = `${id}:${createHash('sha256').update(claim.content).digest('hex')}`;
         if (!pending.has(key) && pending.size >= 2) {
-            return json({ error: 'The tagging service is busy. Please try again shortly.', code: 'LLM_RATE_LIMITED' }, 429);
+            return json({ error: 'The tagging service is busy. Please try again shortly.', code: 'ML_RATE_LIMITED' }, 429);
         }
         let result = pending.get(key);
         if (!result) {

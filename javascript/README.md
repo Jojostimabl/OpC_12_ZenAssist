@@ -1,74 +1,69 @@
-# ZenAssist — mission 2, intégration LLM
+# Application JavaScript — mission 3 ML
 
-Application JavaScript/React du dépôt officiel [OpenClassrooms dev-ia-P12](https://github.com/OpenClassrooms-Student-Center/dev-ia-P12), base `23c0f63e1cc589488cb1de3574fdebcf4da77a55`. Next.js 15.5.28, React 19.1.10, PostgreSQL, SDK OpenAI compatible OpenRouter. La variante TypeScript reste inchangée.
+Cette branche remplace l’intégration LLM par le service Python. La version OpenRouter est conservée sur `main`, commit `f41c052`. Le [guide commun](../README.md) décrit les trois processus à démarrer ; le [guide FastAPI](../ml-service/README.md) décrit l’API et l’export.
 
-## Démarrage sous Windows
+## Lancer l’application
 
-Dans `application/javascript`, avec Node.js 24 et npm :
+Depuis `application/javascript` :
 
 ```powershell
+# Première installation uniquement
 npm.cmd ci
-Copy-Item .env.example .env.local
+# Uniquement si .env.local est absent
+if (!(Test-Path .env.local)) { Copy-Item .env.example .env.local }
 ```
 
-Renseigner `OPENROUTER_API_KEY` dans `.env.local`. Ce fichier privé existe déjà sur le poste : ne pas le remplacer. Ne jamais préfixer cette clé par `NEXT_PUBLIC_`.
+Le fichier privé existe déjà sur le poste : ne pas le remplacer. La variable `ML_API_URL=http://127.0.0.1:8000` est lue par le serveur Next.js, avec cette adresse comme défaut. Les anciennes variables privées de fournisseur, si elles existent localement, sont inutilisées. Aucune clé API n’est requise.
 
-Choisir un seul mode PostgreSQL :
-
-```powershell
-# Docker Desktop, moteur démarré
-npm.cmd run db:start
-
-# OU PostgreSQL local dans .local-postgres, sans Docker.
-# Garder ce terminal ouvert ; Ctrl+C arrête le serveur et préserve les données.
-npm.cmd run db:local
-```
-
-Dans un autre terminal :
+Démarrer PostgreSQL dans un terminal (`npm.cmd run db:local`, ou `npm.cmd run db:start` si Docker fonctionne), puis FastAPI dans `../ml-service` selon son guide. Ne pas démarrer deux bases sur le même port.
 
 ```powershell
 npm.cmd run db:init
-npm.cmd run build
-npm.cmd run start -- --hostname 127.0.0.1 --port 3100
+npm.cmd run dev -- --hostname 127.0.0.1 --port 3100
 ```
 
-Ouvrir [l’application](http://127.0.0.1:3100). `db:init` charge les 10 tickets du starter seulement si la table est absente. Toute table existante est préservée. `db:reset`, hérité du starter, **efface les tickets** : uniquement pour une réinitialisation volontaire. En développement : `npm.cmd run dev -- --hostname 127.0.0.1 --port 3100` à la place de build/start.
+Ouvrir [l’application](http://127.0.0.1:3100). `db:init` crée et peuple la table uniquement si elle est absente ; il préserve les tickets existants. `db:reset` est une commande destructive de réinitialisation volontaire.
 
-Les deux modes utilisent la base isolée `zenassist_mission2`, port `55432`, sur `127.0.0.1`. Le mode local utilise PostgreSQL 18.4 ; Docker conserve PostgreSQL 14.18 du starter. Pilote `pg` et requêtes SQL identiques. Ne pas démarrer les deux modes simultanément.
+## Parcours de test
 
-## Utilisation
+1. Sélectionner un ticket dans **Untagged**.
+2. Cliquer **Auto-tag** : chargement visible, bouton désactivé.
+3. Vérifier la proposition **ML suggestion** et son temps de réponse. À ce stade le ticket reste sans étiquette.
+4. Cliquer **Apply suggestion** : l’étiquette est enregistrée dans PostgreSQL et le ticket quitte **Untagged**. Le retrouver dans sa boîte ou **All Claims**.
+5. Sur un autre ticket, essayer **Dismiss**, puis **Assign tag** pour vérifier l’abandon et la saisie manuelle.
+6. Arrêter FastAPI avec `Ctrl+C` et réessayer **Auto-tag** : un message d’indisponibilité apparaît sans changer l’étiquette. Redémarrer le service puis réessayer.
 
-1. Sélectionner un ticket.
-2. Cliquer sur **Auto-tag**, dans `Claim.jsx`. Attente visible, bouton désactivé, requête asynchrone.
-3. Relire la proposition. **Apply suggestion** enregistre ; **Dismiss** abandonne. **Assign tag** reste disponible pour l’attribution manuelle.
+La réponse affiche le temps mesuré dans le navigateur, jusqu’à réception de la suggestion ; le rendu visuel peut ajouter un faible délai. La route serveur retourne aussi `elapsedMs` (appel interne HTTP) et `inferenceMs` (inférence Python), ainsi que `modelVersion` pour la traçabilité.
 
-La proposition seule ne modifie jamais la base. Réponses malformées, étiquettes inconnues, erreurs HTTP et délais dépassés produisent un message visible. Un échec d’enregistrement conserve la proposition pour réessayer sans nouvel appel LLM.
+## Fonctionnement
 
-## Modèle et prompt
+`Claim.jsx` → `POST /api/claims/[id]/suggest-tag` → `POST http://127.0.0.1:8000/tags` avec `user_claim`. Next.js lit le texte complet en base, valide l’étiquette parmi les 18 originales et renvoie la proposition. La confirmation utilise séparément `PUT /api/claims/[id]/tag`.
 
-`OPENROUTER_MODEL=qwen/qwen3.8-flash` par défaut. Les autres configurations évaluées sont `deepseek/deepseek-v4-flash-0731` et `openai/gpt-6-luna`. Un modèle inconnu est refusé, sans remplacement silencieux.
+Le modèle Python est chargé une seule fois. Timeout d’appel interne : 10 s ; timeout navigateur : 15 s. Les demandes simultanées du même ticket sont regroupées, deux tickets distincts maximum par processus. Les erreurs de réseau, HTTP, JSON ou catégorie invalide restent affichées sans enregistrement. Aucun repli vers un fournisseur externe.
 
-Les prompts sélectionnés en mission 1 sont repris **à l’identique**, avec les 18 étiquettes d’origine. `src/server/llm-config.json` contient leurs textes, empreintes et paramètres. Régénération depuis la racine : `uv run python scripts/export_mission2_config.py`.
+Le SDK, les prompts et les modules d’intégration fournisseur ont été retirés de cette version. Next.js 15.5.28, React 19.1.10, CSS Modules et pilote PostgreSQL `pg` sont conservés. La variante `../typescript/` reste le starter inchangé.
 
-Le serveur lit le texte complet du ticket en PostgreSQL, appelle OpenRouter et valide strictement le JSON `{ "label": "..." }`. Limite de 100 000 caractères, sans troncature silencieuse. La réponse interne contient l’étiquette, le modèle, la durée en millisecondes et le coût USD s’il est fourni. Les plafonds de prix sont ceux du catalogue de mission 1 : une hausse ou un paramètre non pris en charge entraîne une erreur explicite.
-
-La clé et le SDK restent côté serveur (`server-only`). Timeout fournisseur : 45 s, aucune relance automatique payante ; timeout navigateur : 55 s. Les appels simultanés sur le même ticket partagent une requête ; au maximum deux tickets sont analysés simultanément par processus.
-
-## Vérifications
+## Vérifications automatiques
 
 ```powershell
 npm.cmd test
 npm.cmd run lint
-npm.cmd run build
-npm.cmd audit
-# Base et application démarrées ; Edge installé
+# Base, Python et application démarrés
+npm.cmd run test:integration
 npm.cmd run test:e2e
-# Un appel réel facturable, à lancer volontairement
-node scripts/smoke-llm.js
 ```
 
-Les tests navigateur simulent uniquement les réponses de la route LLM pour ne rien facturer ; lecture et enregistrement utilisent PostgreSQL. Ils créent puis suppriment leur propre ticket synthétique. Le contrôle réel sauvegarde son résultat dans `artifacts/mission2/smoke-live.json`, à la racine du projet.
+Les tests navigateur nécessitent Edge. Quatre scénarios simulent la réponse de la route de suggestion pour tester les erreurs ; un cinquième utilise réellement FastAPI et le modèle. Les écritures PostgreSQL sont réelles et limitées à un ticket synthétique créé puis supprimé par les tests. Le contrôle d’intégration effectue 10 requêtes locales et écrit `artifacts/mission3/smoke-live.json` dans le projet d’étude.
 
-## Périmètre
+## Build de production
 
-Prototype local pédagogique, sans authentification comme le starter. Avant exposition publique : authentification, droits, limitation persistante des appels, suivi des coûts et politique de données. Les données envoyées à OpenRouter quittent le poste ; les essais réels utilisent les tickets publics de démonstration. Aucun entraînement ou évaluation de mission 1 n’est relancé. L’intégration ML de mission 3 reste à réaliser.
+```powershell
+# Dossier séparé pour pouvoir garder le mode développement ouvert
+$env:NEXT_DIST_DIR = '.next-build'
+npm.cmd run build
+npm.cmd run start -- --hostname 127.0.0.1 --port 3101
+```
+
+L’application de production est alors sur le port 3101. Utiliser la même valeur `NEXT_DIST_DIR` lors du build et du start. Dans un nouveau terminal sans cette variable, le mode développement garde son dossier `.next`. Le starter télécharge ses polices Google lors du premier build.
+
+Le prototype reste limité à la boucle locale, sans authentification comme le starter. Ajouter authentification et contrôle des droits avant exposition publique.

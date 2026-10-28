@@ -20,9 +20,10 @@ function AutoTagControls({ claim, onTagUpdate }) {
         setStatus('loading');
         setSuggestion(null);
         setError('');
+        const started = performance.now();
         try {
             const result = await suggestClaimTag(claim.id, { signal: controller.current.signal });
-            if (!controller.current.signal.aborted) setSuggestion(result.tag);
+            if (!controller.current.signal.aborted) setSuggestion({ ...result, clientElapsedMs: Math.round(performance.now() - started) });
         } catch (error) {
             if (!controller.current.signal.aborted) {
                 setError(error.name === 'TimeoutError'
@@ -41,8 +42,8 @@ function AutoTagControls({ claim, onTagUpdate }) {
         setStatus('saving');
         setError('');
         try {
-            await updateClaimTag(claim.id, suggestion);
-            onTagUpdate(claim.id, suggestion);
+            await updateClaimTag(claim.id, suggestion.tag);
+            onTagUpdate(claim.id, suggestion.tag);
             setSuggestion(null);
         } catch (error) {
             setError(error.message || 'The tag could not be saved. Please try again.');
@@ -61,7 +62,8 @@ function AutoTagControls({ claim, onTagUpdate }) {
             {status === 'loading' && <p role="status">Finding a suggested tag. This may take a few seconds…</p>}
             {suggestion && (
                 <div className={styles.suggestion}>
-                    <p role="status">Suggested tag: <strong>{suggestion}</strong></p>
+                    <p role="status">Suggested tag: <strong>{suggestion.tag}</strong></p>
+                    <p>ML suggestion · Response time: {suggestion.clientElapsedMs} ms</p>
                     <p>Review before applying, or assign a different tag manually.</p>
                     <div className={styles.suggestionActions}>
                         <button type="button" className={styles.autoTagButton} onClick={handleApply} disabled={isBusy}>
