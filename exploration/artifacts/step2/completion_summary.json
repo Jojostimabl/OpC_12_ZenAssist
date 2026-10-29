@@ -1,0 +1,35 @@
+{
+  "development_calls": 240,
+  "test_calls": 4000,
+  "ledger_calls": 4240,
+  "known_cost_usd": 1.19307164952,
+  "unknown_cost_calls": 0,
+  "not_evaluated_labels": [
+    "Virtual currency"
+  ],
+  "llm_evaluation_code_sha256": "53b4a8637dd7f28d5bddce0e18ad77b9eea8934405b14a3e2a0ce83cd9c39015",
+  "measurement_periods_utc": {
+    "deepseek/deepseek-v4-flash-0731": {
+      "min": "2026-10-19T16:53:08.726498+00:00",
+      "max": "2026-10-19T17:20:57.333665+00:00"
+    },
+    "openai/gpt-6-luna": {
+      "min": "2026-10-19T16:52:53.323696+00:00",
+      "max": "2026-10-19T17:20:00.294500+00:00"
+    },
+    "openai/gpt-6.1-terra": {
+      "min": "2026-10-28T14:34:51.947625+00:00",
+      "max": "2026-10-28T14:58:49.930593+00:00"
+    },
+    "qwen/qwen3.8-flash": {
+      "min": "2026-10-19T16:54:12.045114+00:00",
+      "max": "2026-10-19T17:29:13.732584+00:00"
+    }
+  },
+  "extension": {
+    "model": "openai/gpt-6.1-terra",
+    "calls": 1060,
+    "known_cost_usd": 0.9311835,
+    "historical_calls_reused": 3180
+  }
+}

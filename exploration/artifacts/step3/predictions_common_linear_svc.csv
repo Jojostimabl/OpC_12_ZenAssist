@@ -1,0 +1,1001 @@
+complaint_id,n_chars,prediction,response_ms,status,erreur_type,expected,model
+1294526,185,Credit reporting,2.3424000246450305,valide,,Credit reporting,linear_svc
+1295955,3866,Debt collection,3.58249997952953,valide,,Debt collection,linear_svc
+1299118,493,Bank account or service,1.5072000096552074,valide,,Bank account or service,linear_svc
+1300254,3313,Credit reporting,2.713099995162338,valide,,Credit reporting,linear_svc
+1301091,1371,Mortgage,1.588999992236495,valide,,Mortgage,linear_svc
+1305244,2021,Bank account or service,2.3412000155076385,valide,,Bank account or service,linear_svc
+1305760,3561,Credit reporting,3.0176000436767936,valide,,Credit reporting,linear_svc
+1306144,193,Credit reporting,1.5215000021271408,valide,,Credit reporting,linear_svc
+1306485,1181,Debt collection,1.6177999787032604,valide,,Debt collection,linear_svc
+1311380,1102,Mortgage,2.1714000031352043,valide,,Mortgage,linear_svc
+1312699,611,Student loan,1.3649000320583582,valide,,Debt collection,linear_svc
+1317993,783,Student loan,1.4462000108323991,valide,,Student loan,linear_svc
+1324365,163,Credit reporting,1.4530999469570816,valide,,Credit reporting,linear_svc
+1324786,3240,Mortgage,2.820099995005876,valide,,Mortgage,linear_svc
+1325160,530,Debt collection,1.2387000024318695,valide,,Debt collection,linear_svc
+1326349,624,Credit reporting,1.2656999751925468,valide,,Credit reporting,linear_svc
+1330532,852,Credit reporting,1.3239000109024346,valide,,Credit reporting,linear_svc
+1332096,100,Debt collection,0.9138000314123929,valide,,Debt collection,linear_svc
+1340021,282,Credit reporting,1.652900013141334,valide,,Credit reporting,linear_svc
+1341039,2355,Credit card,2.21060001058504,valide,,Credit card,linear_svc
+1342658,2959,Bank account or service,2.2951000137254596,valide,,Bank account or service,linear_svc
+1348981,2227,Credit card,1.9954000017605722,valide,,Bank account or service,linear_svc
+1351305,1743,Mortgage,1.9287000177428126,valide,,Mortgage,linear_svc
+1352105,95,Credit card,0.9954999550245702,valide,,Bank account or service,linear_svc
+1354146,218,Mortgage,0.9453999809920788,valide,,Mortgage,linear_svc
+1354595,1033,Mortgage,1.36749999364838,valide,,Mortgage,linear_svc
+1358045,1288,Student loan,1.6445000073872507,valide,,Student loan,linear_svc
+1365219,492,Bank account or service,1.2546000070869923,valide,,Debt collection,linear_svc
+1366121,107,Debt collection,0.9791000047698617,valide,,Debt collection,linear_svc
+1370420,413,Payday loan,1.1121000279672444,valide,,Payday loan,linear_svc
+1373946,260,Debt collection,1.0886999662034214,valide,,Debt collection,linear_svc
+1376467,2782,Debt collection,2.1635000011883676,valide,,Debt collection,linear_svc
+1377276,264,Bank account or service,1.1400000075809658,valide,,Bank account or service,linear_svc
+1385936,240,Credit reporting,1.0275000240653753,valide,,Debt collection,linear_svc
+1387553,261,Debt collection,1.1045999708585441,valide,,Debt collection,linear_svc
+1388647,2435,Debt collection,2.3553999490104616,valide,,Debt collection,linear_svc
+1388769,1390,Bank account or service,1.9239000394009054,valide,,Bank account or service,linear_svc
+1391707,821,Credit reporting,1.4426999841816723,valide,,Credit reporting,linear_svc
+1393363,599,Debt collection,1.3175999629311264,valide,,Debt collection,linear_svc
+1395625,358,Consumer Loan,1.2592999846674502,valide,,Consumer Loan,linear_svc
+1396662,396,Credit reporting,1.545200007967651,valide,,Credit reporting,linear_svc
+1398012,660,Credit card or prepaid card,1.4621000154875219,valide,,Credit card,linear_svc
+1398598,3058,Bank account or service,2.7231999556533992,valide,,Bank account or service,linear_svc
+1399684,93,Student loan,1.4439999940805137,valide,,Debt collection,linear_svc
+1402856,1245,Mortgage,1.6574999899603426,valide,,Mortgage,linear_svc
+1403337,226,Mortgage,1.1811000294983387,valide,,Mortgage,linear_svc
+1405625,3401,Mortgage,2.5674999924376607,valide,,Mortgage,linear_svc
+1406082,334,Consumer Loan,1.32310000481084,valide,,Bank account or service,linear_svc
+1406132,742,Mortgage,1.4188999775797129,valide,,Mortgage,linear_svc
+1408400,616,Mortgage,1.3915000017732382,valide,,Mortgage,linear_svc
+1409635,567,Mortgage,1.2972000404261053,valide,,Mortgage,linear_svc
+1410529,231,Student loan,1.158699975349009,valide,,Student loan,linear_svc
+1413781,122,Debt collection,1.5090000233612955,valide,,Debt collection,linear_svc
+1414892,136,Debt collection,1.3832999975420535,valide,,Debt collection,linear_svc
+1417092,451,Debt collection,1.3340000296011567,valide,,Debt collection,linear_svc
+1419013,1854,Credit card,1.8511000089347363,valide,,Credit card,linear_svc
+1419093,406,Mortgage,1.3906999956816435,valide,,Mortgage,linear_svc
+1421086,479,Consumer Loan,1.3875000295229256,valide,,Consumer Loan,linear_svc
+1430456,520,Credit card,1.3277999823912978,valide,,Credit card,linear_svc
+1439510,774,Debt collection,1.3292999938130379,valide,,Debt collection,linear_svc
+1451726,67,Debt collection,1.0088999988511205,valide,,Debt collection,linear_svc
+1453932,374,Credit card,1.19420001283288,valide,,Credit card,linear_svc
+1454726,1484,Credit card,1.7293000128120184,valide,,Money transfers,linear_svc
+1463485,29,Debt collection,1.0501999640837312,valide,,Prepaid card,linear_svc
+1463647,354,Credit reporting,1.1945999576710165,valide,,Credit reporting,linear_svc
+1465881,2382,Credit reporting,2.2862000041641295,valide,,Credit reporting,linear_svc
+1466449,39,"Credit reporting, credit repair services, or other personal consumer reports",1.005200028885156,valide,,Consumer Loan,linear_svc
+1467149,258,Debt collection,1.1400000075809658,valide,,Debt collection,linear_svc
+1467684,2149,Mortgage,1.9447999657131732,valide,,Mortgage,linear_svc
+1472555,112,Debt collection,1.0664000292308629,valide,,Debt collection,linear_svc
+1476983,251,Debt collection,1.158699975349009,valide,,Debt collection,linear_svc
+1479065,1550,Credit reporting,1.7515000072307885,valide,,Credit reporting,linear_svc
+1480271,1846,Student loan,1.8137000151909888,valide,,Student loan,linear_svc
+1480682,2303,Bank account or service,2.4158000014722347,valide,,Money transfers,linear_svc
+1481932,424,Credit reporting,1.8449999624863267,valide,,Credit reporting,linear_svc
+1484860,2411,Credit card,2.8390000225044787,valide,,Credit card,linear_svc
+1486944,408,Debt collection,1.4285999932326376,valide,,Debt collection,linear_svc
+1489753,3440,Bank account or service,3.2715999986976385,valide,,Consumer Loan,linear_svc
+1493279,492,Mortgage,1.8502000020816922,valide,,Mortgage,linear_svc
+1496184,332,Debt collection,1.8431000062264502,valide,,Debt collection,linear_svc
+1497481,989,Debt collection,1.9095000461675227,valide,,Debt collection,linear_svc
+1498069,1263,Credit card,2.384200051892549,valide,,Credit card,linear_svc
+1498077,175,Credit reporting,1.628900005016476,valide,,Credit reporting,linear_svc
+1500811,73,Credit reporting,1.399700006004423,valide,,Credit reporting,linear_svc
+1500841,3726,Mortgage,3.4847999922931194,valide,,Mortgage,linear_svc
+1504421,526,Checking or savings account,1.5941000310704112,valide,,Money transfers,linear_svc
+1505529,241,Credit reporting,1.5994000132195652,valide,,Credit card,linear_svc
+1506072,1373,Bank account or service,2.0447999704629183,valide,,Bank account or service,linear_svc
+1510242,503,Debt collection,1.8755000201053917,valide,,Credit reporting,linear_svc
+1512685,722,Mortgage,1.6701000276952982,valide,,Mortgage,linear_svc
+1522914,966,Mortgage,2.030900039244443,valide,,Mortgage,linear_svc
+1525616,1962,Credit card,2.4686999968253076,valide,,Payday loan,linear_svc
+1526661,794,Mortgage,1.6813999973237514,valide,,Mortgage,linear_svc
+1527182,3880,Mortgage,3.6925000022165477,valide,,Mortgage,linear_svc
+1530236,322,Bank account or service,1.8254999886266887,valide,,Bank account or service,linear_svc
+1531919,822,Credit reporting,1.9295000238344073,valide,,Credit reporting,linear_svc
+1534670,1491,Mortgage,1.9472999847494066,valide,,Mortgage,linear_svc
+1539051,876,Mortgage,2.100700046867132,valide,,Mortgage,linear_svc
+1540487,779,Mortgage,1.9401000463403761,valide,,Mortgage,linear_svc
+1544181,1070,Credit card,2.050300012342632,valide,,Debt collection,linear_svc
+1545114,171,Student loan,1.2496000272221863,valide,,Debt collection,linear_svc
+1548476,385,Credit card,1.2157000019215047,valide,,Credit card,linear_svc
+1553635,1115,Credit card,2.435100032016635,valide,,Credit card,linear_svc
+1553925,533,Debt collection,2.486800018232316,valide,,Debt collection,linear_svc
+1555469,147,Debt collection,1.4426999841816723,valide,,Debt collection,linear_svc
+1556590,85,Credit reporting,1.7095999792218208,valide,,Credit card,linear_svc
+1562391,932,Vehicle loan or lease,2.163600001949817,valide,,Mortgage,linear_svc
+1562417,283,Mortgage,1.871699991170317,valide,,Mortgage,linear_svc
+1562429,614,Checking or savings account,2.335200028028339,valide,,Bank account or service,linear_svc
+1564110,215,Mortgage,1.8069000216200948,valide,,Mortgage,linear_svc
+1569909,364,Credit card,2.0031000021845102,valide,,Credit card,linear_svc
+1571887,783,Consumer Loan,2.132800000254065,valide,,Consumer Loan,linear_svc
+1574511,439,Mortgage,1.3774000108242035,valide,,Mortgage,linear_svc
+1577166,663,Credit card,1.4096000231802464,valide,,Credit card,linear_svc
+1577395,1828,Credit reporting,2.61199998203665,valide,,Debt collection,linear_svc
+1577770,377,Credit reporting,1.5887999907135963,valide,,Credit reporting,linear_svc
+1579486,2500,Mortgage,2.617499965708703,valide,,Mortgage,linear_svc
+1582754,1196,Checking or savings account,1.8435000092722476,valide,,Bank account or service,linear_svc
+1583644,445,Checking or savings account,1.381999987643212,valide,,Bank account or service,linear_svc
+1585296,46,Credit reporting,1.1424000258557498,valide,,Credit reporting,linear_svc
+1589541,1324,Debt collection,2.406100044026971,valide,,Debt collection,linear_svc
+1590016,1638,Consumer Loan,2.578600018750876,valide,,Consumer Loan,linear_svc
+1591556,495,Money transfers,1.7596000107005239,valide,,Credit card,linear_svc
+1591715,838,Mortgage,1.963400049135089,valide,,Mortgage,linear_svc
+1591812,339,Vehicle loan or lease,1.5839000116102397,valide,,Debt collection,linear_svc
+1595732,3663,Student loan,3.3085999893955886,valide,,Student loan,linear_svc
+1595934,311,Credit reporting,1.7854999750852585,valide,,Credit reporting,linear_svc
+1596153,260,Debt collection,1.596099988091737,valide,,Debt collection,linear_svc
+1602628,3895,Bank account or service,4.018699983134866,valide,,Debt collection,linear_svc
+1610620,2888,Mortgage,2.8799999854527414,valide,,Mortgage,linear_svc
+1612314,191,Debt collection,1.3805999769829214,valide,,Debt collection,linear_svc
+1612481,387,Mortgage,1.4429999864660203,valide,,Mortgage,linear_svc
+1612526,494,Credit reporting,1.4935999643057585,valide,,Credit reporting,linear_svc
+1613784,588,Mortgage,1.6691999626345932,valide,,Mortgage,linear_svc
+1617615,1120,Debt collection,2.445799997076392,valide,,Credit card,linear_svc
+1621710,205,Bank account or service,1.8896000110544264,valide,,Credit card,linear_svc
+1623555,222,Prepaid card,1.7773000290617347,valide,,Prepaid card,linear_svc
+1626509,188,Mortgage,1.408900017850101,valide,,Mortgage,linear_svc
+1627546,38,Credit reporting,1.4085000148043036,valide,,Credit reporting,linear_svc
+1630749,704,Bank account or service,2.29049997869879,valide,,Prepaid card,linear_svc
+1631843,633,Credit card,2.4723000242374837,valide,,Credit reporting,linear_svc
+1639436,1883,Consumer Loan,3.1910999678075314,valide,,Consumer Loan,linear_svc
+1642152,208,Debt collection,1.2527999933809042,valide,,Debt collection,linear_svc
+1650506,2177,Mortgage,2.0708999945782125,valide,,Mortgage,linear_svc
+1650517,758,Bank account or service,1.7174999811686575,valide,,Bank account or service,linear_svc
+1656185,1187,Credit card,1.6846000216901302,valide,,Credit card,linear_svc
+1657205,1554,Mortgage,1.9311000360175967,valide,,Mortgage,linear_svc
+1661068,1148,Debt collection,1.8244999810121953,valide,,Debt collection,linear_svc
+1666799,2001,Bank account or service,2.328099973965436,valide,,Bank account or service,linear_svc
+1667046,238,Student loan,1.644899952225387,valide,,Debt collection,linear_svc
+1669900,3067,Bank account or service,3.7486000219359994,valide,,Bank account or service,linear_svc
+1672544,1982,Bank account or service,2.6222000014968216,valide,,Prepaid card,linear_svc
+1676493,1370,Vehicle loan or lease,2.318299957551062,valide,,Consumer Loan,linear_svc
+1678093,708,Debt collection,1.903099997434765,valide,,Debt collection,linear_svc
+1678961,1027,Money transfers,2.2767999907955527,valide,,Credit reporting,linear_svc
+1682784,493,Debt collection,1.964299997780472,valide,,Debt collection,linear_svc
+1683914,2854,Mortgage,3.99300002027303,valide,,Mortgage,linear_svc
+1685611,1262,Mortgage,2.3159999982453883,valide,,Mortgage,linear_svc
+1689828,566,Debt collection,1.8823000136762857,valide,,Debt collection,linear_svc
+1691135,468,Credit reporting,2.0007999846711755,valide,,Credit reporting,linear_svc
+1693336,1232,Credit card,2.3082999978214502,valide,,Credit card,linear_svc
+1695344,176,Credit card,1.9144999678246677,valide,,Credit card,linear_svc
+1695935,3166,Mortgage,3.3408000017516315,valide,,Mortgage,linear_svc
+1697246,3036,Debt collection,3.1909000244922936,valide,,Debt collection,linear_svc
+1714281,1772,Mortgage,2.7067000046372414,valide,,Mortgage,linear_svc
+1718160,1770,Mortgage,2.3324000067077577,valide,,Mortgage,linear_svc
+1727705,1133,Credit card or prepaid card,2.356699958909303,valide,,Credit card,linear_svc
+1728610,81,Bank account or service,1.4659999869763851,valide,,Bank account or service,linear_svc
+1728988,324,Debt collection,1.8209000118076801,valide,,Consumer Loan,linear_svc
+1747517,719,Student loan,2.363300009164959,valide,,Student loan,linear_svc
+1748681,412,Credit card,2.0245000487193465,valide,,Credit card,linear_svc
+1755248,492,Student loan,1.7970000044442713,valide,,Debt collection,linear_svc
+1756767,1198,"Credit reporting, credit repair services, or other personal consumer reports",2.162399992812425,valide,,Credit card,linear_svc
+1761555,217,Consumer Loan,1.5864000306464732,valide,,Consumer Loan,linear_svc
+1765487,3034,"Money transfer, virtual currency, or money service",3.3096999977715313,valide,,Bank account or service,linear_svc
+1767401,640,Credit reporting,1.7886999994516373,valide,,Credit reporting,linear_svc
+1767703,396,Credit card,1.7697999719530344,valide,,Credit card,linear_svc
+1771215,495,Credit reporting,1.913400017656386,valide,,Credit reporting,linear_svc
+1781394,1275,"Credit reporting, credit repair services, or other personal consumer reports",2.020999963860959,valide,,Credit reporting,linear_svc
+1785360,1774,Mortgage,2.0558999967761338,valide,,Mortgage,linear_svc
+1789023,2742,Mortgage,2.426500024739653,valide,,Mortgage,linear_svc
+1789243,2993,Mortgage,2.638899954035878,valide,,Mortgage,linear_svc
+1789521,533,Debt collection,1.394400023855269,valide,,Debt collection,linear_svc
+1792984,3921,Checking or savings account,3.3815999631769955,valide,,Bank account or service,linear_svc
+1794681,1947,Debt collection,2.349899965338409,valide,,Debt collection,linear_svc
+1797501,813,Credit reporting,1.4787999680265784,valide,,Credit reporting,linear_svc
+1798074,1028,Mortgage,1.5095000271685421,valide,,Mortgage,linear_svc
+1804128,3165,Mortgage,2.469400002155453,valide,,Mortgage,linear_svc
+1805774,1520,Bank account or service,1.8081000307574868,valide,,Bank account or service,linear_svc
+1805969,3462,Mortgage,2.933699986897409,valide,,Mortgage,linear_svc
+1807034,503,Mortgage,1.974599959794432,valide,,Mortgage,linear_svc
+1810336,209,Debt collection,1.437600003555417,valide,,Debt collection,linear_svc
+1813804,667,Credit reporting,2.1093999966979027,valide,,Credit reporting,linear_svc
+1816655,489,Mortgage,1.9258999964222312,valide,,Mortgage,linear_svc
+1817335,1775,"Payday loan, title loan, or personal loan",2.3480000090785325,valide,,Payday loan,linear_svc
+1818113,165,Debt collection,1.382600050419569,valide,,Debt collection,linear_svc
+1818562,893,"Credit reporting, credit repair services, or other personal consumer reports",1.8447000184096396,valide,,Credit reporting,linear_svc
+1822437,572,Credit card or prepaid card,1.6540000215172768,valide,,Credit card,linear_svc
+1827894,360,Bank account or service,1.6862000338733196,valide,,Bank account or service,linear_svc
+1829409,538,"Credit reporting, credit repair services, or other personal consumer reports",1.8359000096097589,valide,,Credit reporting,linear_svc
+1829993,462,Credit card,1.9354000105522573,valide,,Credit card,linear_svc
+1830451,2364,Mortgage,2.715199952945113,valide,,Mortgage,linear_svc
+1838360,237,"Credit reporting, credit repair services, or other personal consumer reports",1.5186999808065593,valide,,Credit reporting,linear_svc
+1840371,767,Debt collection,1.8835000228136778,valide,,Debt collection,linear_svc
+1845498,2730,Mortgage,2.8161000227555633,valide,,Mortgage,linear_svc
+1847040,730,Credit card,2.1358999656513333,valide,,Credit card,linear_svc
+1847136,413,Debt collection,1.644000003580004,valide,,Mortgage,linear_svc
+1850303,387,Debt collection,1.3016000157222152,valide,,Debt collection,linear_svc
+1852441,2324,Debt collection,1.6253000358119607,valide,,Debt collection,linear_svc
+1861470,214,Debt collection,0.9159999899566174,valide,,Debt collection,linear_svc
+1861704,430,Credit card,2.1561000030487776,valide,,Consumer Loan,linear_svc
+1863185,220,Debt collection,1.5732000465504825,valide,,Debt collection,linear_svc
+1864193,718,Credit reporting,1.3083000085316598,valide,,Credit reporting,linear_svc
+1872112,423,Credit reporting,1.3241000124253333,valide,,Credit reporting,linear_svc
+1872438,1012,Debt collection,1.565599988680333,valide,,Debt collection,linear_svc
+1879728,1156,Money transfers,1.2956000282429159,valide,,Bank account or service,linear_svc
+1881943,684,Bank account or service,0.9874000097624958,valide,,Bank account or service,linear_svc
+1882563,245,Checking or savings account,0.8409000001847744,valide,,Payday loan,linear_svc
+1894320,619,Mortgage,0.9968000231310725,valide,,Mortgage,linear_svc
+1895598,455,Credit reporting,0.9952000109478831,valide,,Credit reporting,linear_svc
+1898488,375,Credit card,0.9411000064574182,valide,,Bank account or service,linear_svc
+1903040,2280,Debt collection,1.7211000085808337,valide,,Debt collection,linear_svc
+1905909,1700,Debt collection,1.9261999987065792,valide,,Debt collection,linear_svc
+1906791,1795,Debt collection,3.23890004074201,valide,,Mortgage,linear_svc
+1907542,1338,Credit card,2.3978999815881252,valide,,Consumer Loan,linear_svc
+1909546,1303,Student loan,2.3334999568760395,valide,,Student loan,linear_svc
+1914925,1082,Mortgage,2.0690999808721244,valide,,Mortgage,linear_svc
+1916677,618,Debt collection,1.9035000004805624,valide,,Debt collection,linear_svc
+1921619,2503,"Credit reporting, credit repair services, or other personal consumer reports",2.9934000340290368,valide,,Credit reporting,linear_svc
+1921886,245,Mortgage,1.8610000261105597,valide,,Mortgage,linear_svc
+1922034,75,Debt collection,1.5189999830909073,valide,,Debt collection,linear_svc
+1922878,1030,Mortgage,2.0204000174999237,valide,,Mortgage,linear_svc
+1924859,373,Debt collection,1.562700024805963,valide,,Debt collection,linear_svc
+1925828,94,Debt collection,1.380199973937124,valide,,Debt collection,linear_svc
+1926461,443,Debt collection,1.9057000172324479,valide,,Debt collection,linear_svc
+1931713,102,Payday loan,1.1453000479377806,valide,,Payday loan,linear_svc
+1935407,468,Credit reporting,1.2161999475210905,valide,,Credit reporting,linear_svc
+1939528,136,Credit card,0.9665000252425671,valide,,Credit card,linear_svc
+1940808,777,Credit card,1.32460001623258,valide,,Credit card,linear_svc
+1943017,310,Consumer Loan,1.1099999537691474,valide,,Consumer Loan,linear_svc
+1945269,369,Credit reporting,1.226399966981262,valide,,Credit reporting,linear_svc
+1952282,91,Debt collection,1.8313999753445387,valide,,Student loan,linear_svc
+1952870,877,Debt collection,2.3737999727018178,valide,,Debt collection,linear_svc
+1953368,139,Credit reporting,1.5994999557733536,valide,,Credit reporting,linear_svc
+1954713,1453,Credit card or prepaid card,2.4739999789744616,valide,,Credit card,linear_svc
+1958081,259,Debt collection,2.0605000318028033,valide,,Debt collection,linear_svc
+1958621,519,Debt collection,1.321400050073862,valide,,Debt collection,linear_svc
+1960313,2506,Mortgage,3.0329000437632203,valide,,Mortgage,linear_svc
+1960480,618,Mortgage,2.6336999726481736,valide,,Mortgage,linear_svc
+1962525,2124,Checking or savings account,3.0766999698244035,valide,,Bank account or service,linear_svc
+1963694,3188,Debt collection,3.42550000641495,valide,,Debt collection,linear_svc
+1965904,3908,Mortgage,3.6389000015333295,valide,,Mortgage,linear_svc
+1972910,1588,Credit reporting,2.1924000466242433,valide,,Credit reporting,linear_svc
+1975193,1460,Mortgage,2.265700022689998,valide,,Mortgage,linear_svc
+1989727,545,Payday loan,1.8407999887131155,valide,,Consumer Loan,linear_svc
+1998809,887,Mortgage,2.0239000441506505,valide,,Mortgage,linear_svc
+2001197,1161,Credit reporting,2.3993999930098653,valide,,Credit reporting,linear_svc
+2001686,757,Debt collection,2.007399976719171,valide,,Debt collection,linear_svc
+2005312,3413,Credit reporting,3.529100038576871,valide,,Credit reporting,linear_svc
+2006333,1091,Debt collection,2.166599966585636,valide,,Debt collection,linear_svc
+2010062,448,Debt collection,2.041699946857989,valide,,Debt collection,linear_svc
+2016532,1370,Bank account or service,3.2623999868519604,valide,,Bank account or service,linear_svc
+2021185,271,Debt collection,1.2358000385574996,valide,,Debt collection,linear_svc
+2024231,594,Mortgage,1.2451999937184155,valide,,Mortgage,linear_svc
+2032252,936,"Credit reporting, credit repair services, or other personal consumer reports",2.17489997157827,valide,,Credit reporting,linear_svc
+2035733,889,Student loan,2.1625999943353236,valide,,Student loan,linear_svc
+2036231,2168,Bank account or service,2.507500001229346,valide,,Bank account or service,linear_svc
+2044167,711,Credit reporting,1.236500043887645,valide,,Credit reporting,linear_svc
+2054709,674,Credit card,1.1836999910883605,valide,,Credit card,linear_svc
+2056578,460,Debt collection,1.0941000073216856,valide,,Debt collection,linear_svc
+2057191,3417,Bank account or service,2.581499982625246,valide,,Bank account or service,linear_svc
+2062920,444,Bank account or service,1.8144999630749226,valide,,Credit card,linear_svc
+2062989,3863,Mortgage,3.2112000044435263,valide,,Mortgage,linear_svc
+2064578,28,Debt collection,1.4272999833337963,valide,,Debt collection,linear_svc
+2066350,1412,Debt collection,1.9991000299341977,valide,,Debt collection,linear_svc
+2070911,3876,Vehicle loan or lease,3.7588999839499593,valide,,Consumer Loan,linear_svc
+2072650,620,Credit reporting,1.651400001719594,valide,,Credit reporting,linear_svc
+2079062,2052,Mortgage,2.334300021175295,valide,,Mortgage,linear_svc
+2079387,827,Credit reporting,1.7781000351533294,valide,,Credit reporting,linear_svc
+2080511,1820,Mortgage,2.174600027501583,valide,,Mortgage,linear_svc
+2081382,2608,Student loan,2.956200041808188,valide,,Student loan,linear_svc
+2082248,1126,"Credit reporting, credit repair services, or other personal consumer reports",2.343100029975176,valide,,Consumer Loan,linear_svc
+2084809,62,Credit card or prepaid card,1.3429000391624868,valide,,Credit card,linear_svc
+2086787,1181,Mortgage,2.230099984444678,valide,,Mortgage,linear_svc
+2087976,214,Credit reporting,1.5301000094041228,valide,,Credit reporting,linear_svc
+2090600,236,Debt collection,1.7438000068068504,valide,,Debt collection,linear_svc
+2090855,748,Credit reporting,1.9103999948129058,valide,,Credit reporting,linear_svc
+2090995,3809,Bank account or service,3.706799994688481,valide,,Bank account or service,linear_svc
+2092755,179,Credit reporting,1.633700041566044,valide,,Credit reporting,linear_svc
+2098019,377,Credit reporting,1.7367000109516084,valide,,Credit reporting,linear_svc
+2104006,1265,Debt collection,2.092599985189736,valide,,Debt collection,linear_svc
+2106274,417,Vehicle loan or lease,1.6368000069633126,valide,,Consumer Loan,linear_svc
+2107040,1249,Credit card,2.145600039511919,valide,,Bank account or service,linear_svc
+2109799,105,Debt collection,1.3297999976202846,valide,,Debt collection,linear_svc
+2112008,857,Credit reporting,1.809899986255914,valide,,Credit reporting,linear_svc
+2112727,1086,Mortgage,2.0828000269830227,valide,,Mortgage,linear_svc
+2118380,1871,Debt collection,2.5245000142604113,valide,,Debt collection,linear_svc
+2124747,1248,Student loan,1.9902000203728676,valide,,Student loan,linear_svc
+2130153,796,Checking or savings account,1.7383000231347978,valide,,Bank account or service,linear_svc
+2130425,715,"Credit reporting, credit repair services, or other personal consumer reports",1.7306999652646482,valide,,Mortgage,linear_svc
+2134545,1002,Mortgage,1.8681000219658017,valide,,Credit reporting,linear_svc
+2139120,298,Bank account or service,1.3752999948337674,valide,,Bank account or service,linear_svc
+2146174,436,Payday loan,1.5272999880835414,valide,,Consumer Loan,linear_svc
+2147086,1240,Credit reporting,2.0320999901741743,valide,,Credit reporting,linear_svc
+2147110,302,Credit reporting,1.574499998241663,valide,,Credit reporting,linear_svc
+2147247,462,Credit reporting,2.153599984012544,valide,,Credit card,linear_svc
+2149492,1003,Debt collection,2.69499997375533,valide,,Debt collection,linear_svc
+2150556,1679,Mortgage,2.71730002714321,valide,,Mortgage,linear_svc
+2152410,2486,"Credit reporting, credit repair services, or other personal consumer reports",2.987599989864975,valide,,Credit reporting,linear_svc
+2153679,241,Credit reporting,1.8114999984391034,valide,,Credit reporting,linear_svc
+2154464,392,Checking or savings account,1.7591999494470656,valide,,Money transfers,linear_svc
+2157683,376,Credit reporting,1.8281000084243715,valide,,Consumer Loan,linear_svc
+2164779,435,Debt collection,1.6713000368326902,valide,,Credit reporting,linear_svc
+2165449,1148,Credit card,2.090300025884062,valide,,Credit card,linear_svc
+2166258,1092,Bank account or service,1.9182999967597425,valide,,Bank account or service,linear_svc
+2166419,149,Credit card,1.33050000295043,valide,,Debt collection,linear_svc
+2166588,2197,Credit card,2.867200004402548,valide,,Debt collection,linear_svc
+2170703,722,Credit card,2.111000008881092,valide,,Bank account or service,linear_svc
+2174159,83,Bank account or service,1.3977999915368855,valide,,Bank account or service,linear_svc
+2178377,396,Debt collection,1.5545000205747783,valide,,Credit card,linear_svc
+2178503,747,Credit reporting,1.9192000036127865,valide,,Credit reporting,linear_svc
+2182443,158,Debt collection,1.4634000253863633,valide,,Debt collection,linear_svc
+2182602,604,Mortgage,1.6500999918207526,valide,,Mortgage,linear_svc
+2183179,445,Mortgage,1.5499999863095582,valide,,Student loan,linear_svc
+2183362,2110,Bank account or service,2.653400006238371,valide,,Other financial service,linear_svc
+2186887,2506,Mortgage,2.783800009638071,valide,,Mortgage,linear_svc
+2187244,3823,Bank account or service,3.3112000091932714,valide,,Bank account or service,linear_svc
+2189806,1980,Credit card,2.6585000450722873,valide,,Credit card,linear_svc
+2198923,858,Student loan,1.7653999966569245,valide,,Student loan,linear_svc
+2199354,364,Consumer Loan,1.736300007905811,valide,,Consumer Loan,linear_svc
+2202119,80,Credit reporting,1.5656999894417822,valide,,Credit reporting,linear_svc
+2205135,648,Debt collection,2.1007999894209206,valide,,Debt collection,linear_svc
+2206136,268,Debt collection,1.6093000303953886,valide,,Debt collection,linear_svc
+2206764,506,Debt collection,2.0458000362850726,valide,,Debt collection,linear_svc
+2207285,749,Credit card,1.9751000218093395,valide,,Credit card,linear_svc
+2211067,1656,Mortgage,2.467599988449365,valide,,Mortgage,linear_svc
+2213977,850,Debt collection,1.7996999667957425,valide,,Debt collection,linear_svc
+2216323,1274,Credit reporting,2.0052000181749463,valide,,Credit reporting,linear_svc
+2216809,1453,Debt collection,2.378300006967038,valide,,Student loan,linear_svc
+2217643,435,Debt collection,1.609999977517873,valide,,Credit card,linear_svc
+2218239,1627,Credit reporting,2.2231999901123345,valide,,Credit reporting,linear_svc
+2224202,937,Credit card,1.9529000273905694,valide,,Credit card,linear_svc
+2224495,420,Mortgage,1.6527999541722238,valide,,Mortgage,linear_svc
+2224736,613,Credit reporting,1.6954999882727861,valide,,Credit reporting,linear_svc
+2228641,947,Mortgage,2.2234999923966825,valide,,Mortgage,linear_svc
+2229734,381,Debt collection,1.6252999776042998,valide,,Debt collection,linear_svc
+2230675,1331,Mortgage,2.2971999715082347,valide,,Mortgage,linear_svc
+2234364,346,Debt collection,1.6810999950394034,valide,,Debt collection,linear_svc
+2234404,306,Credit reporting,1.2476000119931996,valide,,Credit card,linear_svc
+2237779,938,Debt collection,1.8002999713644385,valide,,Debt collection,linear_svc
+2242482,2157,Prepaid card,2.0203000167384744,valide,,Consumer Loan,linear_svc
+2248041,942,Mortgage,1.4977999962866306,valide,,Mortgage,linear_svc
+2250987,940,Debt collection,1.3845000066794455,valide,,Debt collection,linear_svc
+2252503,495,"Credit reporting, credit repair services, or other personal consumer reports",1.0596000356599689,valide,,Credit reporting,linear_svc
+2254723,169,Debt collection,1.331700012087822,valide,,Debt collection,linear_svc
+2259828,691,Credit card,1.7291000112891197,valide,,Credit card,linear_svc
+2263785,3349,Mortgage,3.4331000060774386,valide,,Mortgage,linear_svc
+2264253,253,Mortgage,1.9286000169813633,valide,,Mortgage,linear_svc
+2265512,653,Credit reporting,2.016099984757602,valide,,Credit reporting,linear_svc
+2266628,468,Mortgage,1.6875999863259494,valide,,Mortgage,linear_svc
+2267090,189,Student loan,1.4370999997481704,valide,,Consumer Loan,linear_svc
+2271310,326,"Credit reporting, credit repair services, or other personal consumer reports",1.4322000206448138,valide,,Credit reporting,linear_svc
+2272411,1052,Consumer Loan,2.0779999904334545,valide,,Consumer Loan,linear_svc
+2278441,280,Credit card,1.5620000194758177,valide,,Credit card,linear_svc
+2278845,221,Mortgage,1.4912000042386353,valide,,Bank account or service,linear_svc
+2281195,417,Debt collection,1.5438999980688095,valide,,Debt collection,linear_svc
+2283163,313,Student loan,1.4007000136189163,valide,,Debt collection,linear_svc
+2287638,622,"Credit reporting, credit repair services, or other personal consumer reports",1.6960999928414822,valide,,Debt collection,linear_svc
+2288368,205,Debt collection,1.5756000066176057,valide,,Debt collection,linear_svc
+2289817,1019,Credit card,2.0062000257894397,valide,,Credit card,linear_svc
+2291775,363,"Credit reporting, credit repair services, or other personal consumer reports",1.5878000413067639,valide,,Credit reporting,linear_svc
+2292545,401,Mortgage,1.5431000501848757,valide,,Mortgage,linear_svc
+2292833,767,Credit card,2.029100025538355,valide,,Credit reporting,linear_svc
+2293270,414,Student loan,1.6989000141620636,valide,,Student loan,linear_svc
+2295638,119,"Credit reporting, credit repair services, or other personal consumer reports",1.4187999768182635,valide,,Credit reporting,linear_svc
+2295779,1211,Student loan,2.2184000117704272,valide,,Student loan,linear_svc
+2297823,416,Student loan,1.7262000474147499,valide,,Student loan,linear_svc
+2299363,1564,Student loan,2.596300037112087,valide,,Student loan,linear_svc
+2299662,151,Student loan,1.4593999949283898,valide,,Student loan,linear_svc
+2299768,922,Student loan,1.9245999865233898,valide,,Student loan,linear_svc
+2299827,2329,Credit card,2.761900017503649,valide,,Credit card,linear_svc
+2300004,427,Consumer Loan,1.4717000303789973,valide,,Mortgage,linear_svc
+2301260,984,"Payday loan, title loan, or personal loan",2.3713000118732452,valide,,Consumer Loan,linear_svc
+2303606,1766,Student loan,2.627599984407425,valide,,Student loan,linear_svc
+2305781,1692,Debt collection,2.418800024315715,valide,,Debt collection,linear_svc
+2306799,625,Checking or savings account,1.7752000130712986,valide,,Bank account or service,linear_svc
+2308900,394,Debt collection,1.5554999699816108,valide,,Mortgage,linear_svc
+2310149,751,Credit card,1.6261999844573438,valide,,Credit card,linear_svc
+2310693,3333,Consumer Loan,3.134800004772842,valide,,Consumer Loan,linear_svc
+2312769,886,Debt collection,1.5376000083051622,valide,,Debt collection,linear_svc
+2316723,464,"Credit reporting, credit repair services, or other personal consumer reports",1.7026999848894775,valide,,Debt collection,linear_svc
+2318771,1597,Debt collection,2.2742999717593193,valide,,Debt collection,linear_svc
+2325138,110,Debt collection,1.3421999756246805,valide,,Credit reporting,linear_svc
+2326973,299,Student loan,1.372800034005195,valide,,Debt collection,linear_svc
+2334419,1438,Mortgage,1.8692000303417444,valide,,Debt collection,linear_svc
+2341932,487,Debt collection,1.455599965993315,valide,,Debt collection,linear_svc
+2351336,691,Consumer Loan,1.6883999924175441,valide,,Consumer Loan,linear_svc
+2351625,1353,Mortgage,2.1216999739408493,valide,,Mortgage,linear_svc
+2352338,658,Debt collection,1.6163000254891813,valide,,Debt collection,linear_svc
+2352579,795,Student loan,1.7173000378534198,valide,,Student loan,linear_svc
+2360538,1079,Checking or savings account,2.0369000267237425,valide,,Bank account or service,linear_svc
+2364111,439,Debt collection,1.5860000276006758,valide,,Debt collection,linear_svc
+2366088,272,"Credit reporting, credit repair services, or other personal consumer reports",1.5215000021271408,valide,,Credit reporting,linear_svc
+2366225,653,Credit reporting,1.6811999958008528,valide,,Credit reporting,linear_svc
+2368562,269,Debt collection,1.3315000105649233,valide,,Debt collection,linear_svc
+2370263,2235,Credit card or prepaid card,2.4252000148408115,valide,,Credit card,linear_svc
+2370880,53,Debt collection,1.2051999801769853,valide,,Debt collection,linear_svc
+2377503,250,Credit reporting,1.492600014898926,valide,,Credit reporting,linear_svc
+2383599,535,Credit reporting,1.2031999649479985,valide,,Credit reporting,linear_svc
+2386136,506,Debt collection,1.5173000283539295,valide,,Debt collection,linear_svc
+2390215,838,Credit card,1.9209000165574253,valide,,Credit card,linear_svc
+2390513,892,Mortgage,1.5884999884292483,valide,,Mortgage,linear_svc
+2392509,111,Debt collection,1.331700012087822,valide,,Mortgage,linear_svc
+2396277,1869,Mortgage,2.406399988103658,valide,,Mortgage,linear_svc
+2400859,2116,Bank account or service,2.0237999851815403,valide,,Bank account or service,linear_svc
+2403918,89,Debt collection,1.0200999677181244,valide,,Debt collection,linear_svc
+2407173,608,Credit reporting,1.419799984432757,valide,,Credit reporting,linear_svc
+2414025,670,Mortgage,1.1100000119768083,valide,,Mortgage,linear_svc
+2414432,611,Student loan,1.3393000117503107,valide,,Student loan,linear_svc
+2414831,943,Debt collection,1.7416999908164144,valide,,Debt collection,linear_svc
+2418124,1770,Mortgage,1.9891000119969249,valide,,Mortgage,linear_svc
+2418311,457,Credit reporting,1.3393000117503107,valide,,Credit reporting,linear_svc
+2421120,730,Credit reporting,1.0105000110343099,valide,,Credit reporting,linear_svc
+2421866,903,Mortgage,1.1119000264443457,valide,,Mortgage,linear_svc
+2421964,3464,Credit card or prepaid card,2.580599975772202,valide,,Credit card,linear_svc
+2422640,419,"Credit reporting, credit repair services, or other personal consumer reports",1.2598999892361462,valide,,Credit reporting,linear_svc
+2423690,1052,Student loan,1.3236000086180866,valide,,Student loan,linear_svc
+2425123,55,Debt collection,1.137999992351979,valide,,Debt collection,linear_svc
+2426316,1437,Student loan,2.0004999823868275,valide,,Student loan,linear_svc
+2429719,948,Debt collection,1.8082000315189362,valide,,Debt collection,linear_svc
+2432276,1031,Credit card,2.464299963321537,valide,,Credit card,linear_svc
+2437158,510,"Credit reporting, credit repair services, or other personal consumer reports",1.7924999701790512,valide,,Credit reporting,linear_svc
+2437616,1280,Credit card or prepaid card,1.6694000223651528,valide,,Credit card,linear_svc
+2437617,121,Credit reporting,1.302099961321801,valide,,Credit reporting,linear_svc
+2439172,183,Debt collection,1.243900042027235,valide,,Credit card,linear_svc
+2441536,628,Student loan,1.7569000483490527,valide,,Student loan,linear_svc
+2443518,1405,Mortgage,1.8937000422738492,valide,,Mortgage,linear_svc
+2443773,57,"Credit reporting, credit repair services, or other personal consumer reports",1.1680000461637974,valide,,Credit reporting,linear_svc
+2467124,666,"Credit reporting, credit repair services, or other personal consumer reports",1.48610002361238,valide,,Debt collection,linear_svc
+2471016,1095,"Credit reporting, credit repair services, or other personal consumer reports",1.4554000226780772,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2472024,1141,Mortgage,2.2926999954506755,valide,,Mortgage,linear_svc
+2473558,2456,Mortgage,2.2997999913059175,valide,,Mortgage,linear_svc
+2474031,193,Consumer Loan,0.977699994109571,valide,,Debt collection,linear_svc
+2475109,5532,Checking or savings account,2.9676000121980906,valide,,Checking or savings account,linear_svc
+2475646,698,Vehicle loan or lease,1.6851999680511653,valide,,Vehicle loan or lease,linear_svc
+2476841,280,Debt collection,1.4896999928168952,valide,,Debt collection,linear_svc
+2477305,102,"Credit reporting, credit repair services, or other personal consumer reports",1.303300028666854,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2477702,2214,Debt collection,2.3204999743029475,valide,,Debt collection,linear_svc
+2481351,413,Credit card or prepaid card,1.8290000152774155,valide,,Credit card or prepaid card,linear_svc
+2481361,109,Debt collection,1.3534000026993454,valide,,Debt collection,linear_svc
+2482007,1636,Credit reporting,2.273700025398284,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2482187,1828,Mortgage,2.3050999734550714,valide,,Mortgage,linear_svc
+2482470,2403,"Credit reporting, credit repair services, or other personal consumer reports",2.8537000180222094,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2485426,1169,"Credit reporting, credit repair services, or other personal consumer reports",2.0114000071771443,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2486322,1100,Mortgage,1.9803000031970441,valide,,Mortgage,linear_svc
+2488150,477,Debt collection,1.5693000168539584,valide,,Debt collection,linear_svc
+2488403,563,Debt collection,1.5991000109352171,valide,,Debt collection,linear_svc
+2491311,2920,Credit card or prepaid card,3.227400011382997,valide,,"Money transfer, virtual currency, or money service",linear_svc
+2491660,2112,"Credit reporting, credit repair services, or other personal consumer reports",2.6910000015050173,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2493766,448,Checking or savings account,1.4277000445872545,valide,,Checking or savings account,linear_svc
+2495933,530,Checking or savings account,1.5776000218465924,valide,,Checking or savings account,linear_svc
+2495979,848,"Credit reporting, credit repair services, or other personal consumer reports",1.6450000111944973,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2496037,1298,Consumer Loan,2.060999977402389,valide,,Student loan,linear_svc
+2496743,829,Credit card or prepaid card,1.7211000085808337,valide,,Student loan,linear_svc
+2497201,2072,Credit card or prepaid card,2.57210002746433,valide,,Credit card or prepaid card,linear_svc
+2498096,846,"Credit reporting, credit repair services, or other personal consumer reports",1.7809999990276992,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2500078,193,Debt collection,1.617699977941811,valide,,Student loan,linear_svc
+2502179,964,Debt collection,1.7263999907299876,valide,,Debt collection,linear_svc
+2505130,805,"Credit reporting, credit repair services, or other personal consumer reports",1.2547000078484416,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2540713,1145,Debt collection,1.3971999869681895,valide,,Debt collection,linear_svc
+2541786,3897,"Credit reporting, credit repair services, or other personal consumer reports",2.405600040219724,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2542255,621,Debt collection,1.1607999913394451,valide,,Debt collection,linear_svc
+2545082,269,"Credit reporting, credit repair services, or other personal consumer reports",0.971500005107373,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2548231,940,Checking or savings account,2.036199963185936,valide,,Checking or savings account,linear_svc
+2548862,262,Credit card or prepaid card,1.6210000030696392,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2552305,1492,"Credit reporting, credit repair services, or other personal consumer reports",2.257099957205355,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2553244,625,Mortgage,1.8631999846547842,valide,,Mortgage,linear_svc
+2554856,657,"Credit reporting, credit repair services, or other personal consumer reports",1.5801999834366143,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2555800,716,Consumer Loan,1.5483999741263688,valide,,Vehicle loan or lease,linear_svc
+2556295,398,Debt collection,1.3013000134378672,valide,,Debt collection,linear_svc
+2557125,310,Debt collection,1.2581999762915075,valide,,Debt collection,linear_svc
+2557186,706,Student loan,1.5116000431589782,valide,,Student loan,linear_svc
+2557722,274,"Credit reporting, credit repair services, or other personal consumer reports",1.2419000267982483,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2558216,1555,"Credit reporting, credit repair services, or other personal consumer reports",1.9885000074282289,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2559294,2636,"Money transfer, virtual currency, or money service",2.7482000296004117,valide,,"Money transfer, virtual currency, or money service",linear_svc
+2559461,307,Checking or savings account,1.369300007354468,valide,,Checking or savings account,linear_svc
+2560126,1481,Debt collection,1.9149999716319144,valide,,Checking or savings account,linear_svc
+2561721,245,"Credit reporting, credit repair services, or other personal consumer reports",0.9809000184759498,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2562457,3783,Mortgage,2.1871000062674284,valide,,Credit card or prepaid card,linear_svc
+2562973,1257,"Credit reporting, credit repair services, or other personal consumer reports",1.346499950159341,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2563657,692,Mortgage,1.2014999520033598,valide,,Mortgage,linear_svc
+2565371,233,Credit reporting,1.034800021443516,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2568244,506,"Credit reporting, credit repair services, or other personal consumer reports",1.0588000295683742,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2568271,570,Debt collection,1.4628999633714557,valide,,Debt collection,linear_svc
+2568801,578,Debt collection,1.5896999975666404,valide,,Debt collection,linear_svc
+2569353,675,Debt collection,1.8819000106304884,valide,,Debt collection,linear_svc
+2570423,941,Checking or savings account,2.1803000126965344,valide,,Checking or savings account,linear_svc
+2570461,921,Debt collection,1.6355999978259206,valide,,Credit card or prepaid card,linear_svc
+2573841,838,Mortgage,1.5935000265017152,valide,,Mortgage,linear_svc
+2578353,1476,Student loan,2.0449000294320285,valide,,Student loan,linear_svc
+2578494,323,"Credit reporting, credit repair services, or other personal consumer reports",1.3581999810412526,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2579359,651,Debt collection,1.5465000178664923,valide,,Debt collection,linear_svc
+2581352,226,Credit reporting,1.3414000277407467,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2581783,1167,"Credit reporting, credit repair services, or other personal consumer reports",1.7723999917507172,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2581888,1042,Mortgage,1.6003000200726092,valide,,Mortgage,linear_svc
+2582102,1440,Mortgage,1.9694000366143882,valide,,Mortgage,linear_svc
+2582958,611,"Credit reporting, credit repair services, or other personal consumer reports",1.7530000186525285,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2583104,1083,"Credit reporting, credit repair services, or other personal consumer reports",1.990300021134317,valide,,Vehicle loan or lease,linear_svc
+2583326,1449,Credit reporting,2.389000030234456,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2584237,301,Credit card or prepaid card,1.4676999999210238,valide,,Credit card or prepaid card,linear_svc
+2585713,1258,Debt collection,2.2779999999329448,valide,,Debt collection,linear_svc
+2586367,194,Consumer Loan,1.663199975155294,valide,,Vehicle loan or lease,linear_svc
+2588210,1646,Mortgage,2.156200003810227,valide,,Mortgage,linear_svc
+2590348,415,"Credit reporting, credit repair services, or other personal consumer reports",1.4128999901004136,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2592363,1083,Debt collection,1.7224999610334635,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2592984,361,Credit reporting,1.6016000299714506,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2593387,368,Debt collection,1.545799954328686,valide,,Debt collection,linear_svc
+2595805,523,"Credit reporting, credit repair services, or other personal consumer reports",1.6997000202536583,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2597033,409,"Credit reporting, credit repair services, or other personal consumer reports",1.5036000404506922,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2601298,2648,Credit card or prepaid card,2.820699999574572,valide,,Credit card or prepaid card,linear_svc
+2602100,646,Debt collection,1.6969999996945262,valide,,Debt collection,linear_svc
+2603972,503,"Credit reporting, credit repair services, or other personal consumer reports",1.560300006531179,valide,,Vehicle loan or lease,linear_svc
+2607690,6102,Mortgage,5.019899981562048,valide,,Mortgage,linear_svc
+2612384,1004,Credit reporting,1.713500008918345,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2624462,888,"Credit reporting, credit repair services, or other personal consumer reports",1.344699994660914,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2626379,1524,"Credit reporting, credit repair services, or other personal consumer reports",1.497599994763732,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2630778,1275,"Credit reporting, credit repair services, or other personal consumer reports",2.047699992544949,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2630785,521,Credit card or prepaid card,1.6432999982498586,valide,,Credit card or prepaid card,linear_svc
+2630938,1989,Mortgage,2.1084999898448586,valide,,Mortgage,linear_svc
+2633594,815,Checking or savings account,1.4903999981470406,valide,,Mortgage,linear_svc
+2634256,237,"Payday loan, title loan, or personal loan",1.2014999520033598,valide,,Debt collection,linear_svc
+2644476,1117,Credit reporting,1.818500051740557,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2645579,764,Credit card or prepaid card,1.8936000415124,valide,,Credit card or prepaid card,linear_svc
+2645833,2160,Mortgage,2.369699999690056,valide,,Mortgage,linear_svc
+2646286,1201,"Credit reporting, credit repair services, or other personal consumer reports",2.110299945343286,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2647998,3330,Student loan,2.626400033477694,valide,,Student loan,linear_svc
+2649339,1621,"Credit reporting, credit repair services, or other personal consumer reports",2.0886000129394233,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2651641,1190,Vehicle loan or lease,1.7450000159442425,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2652075,1343,"Credit reporting, credit repair services, or other personal consumer reports",1.7351999995298684,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2652081,480,"Payday loan, title loan, or personal loan",1.3697999529540539,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2652231,1092,Mortgage,1.6778000281192362,valide,,Mortgage,linear_svc
+2652432,3413,Mortgage,3.1777999829500914,valide,,Mortgage,linear_svc
+2653011,471,Bank account or service,1.5033999807201326,valide,,Checking or savings account,linear_svc
+2653078,1017,Student loan,1.6416999860666692,valide,,Student loan,linear_svc
+2653756,420,"Credit reporting, credit repair services, or other personal consumer reports",1.3164000120013952,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2653961,2141,"Money transfer, virtual currency, or money service",2.6108999736607075,valide,,"Money transfer, virtual currency, or money service",linear_svc
+2655184,1781,Student loan,2.0812000147998333,valide,,Student loan,linear_svc
+2656161,2858,Debt collection,2.4437999818474054,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2659202,1190,Student loan,1.6690000193193555,valide,,Student loan,linear_svc
+2660304,199,"Credit reporting, credit repair services, or other personal consumer reports",1.517399970907718,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2662600,1763,Vehicle loan or lease,2.255900006275624,valide,,Debt collection,linear_svc
+2662767,513,Debt collection,1.2923000031150877,valide,,Debt collection,linear_svc
+2662920,451,Student loan,1.0547999991104007,valide,,Student loan,linear_svc
+2663370,361,"Credit reporting, credit repair services, or other personal consumer reports",0.9338000090792775,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2663412,252,"Credit reporting, credit repair services, or other personal consumer reports",1.3915000017732382,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2663451,458,Credit card,1.483400003053248,valide,,Credit card or prepaid card,linear_svc
+2665094,380,"Credit reporting, credit repair services, or other personal consumer reports",1.0673999786376953,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2667433,208,Credit card or prepaid card,1.2653000303544104,valide,,Credit card or prepaid card,linear_svc
+2667530,391,Credit card,1.3413000269792974,valide,,Credit card or prepaid card,linear_svc
+2667585,150,"Credit reporting, credit repair services, or other personal consumer reports",1.0970999719575047,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2668307,84,"Credit reporting, credit repair services, or other personal consumer reports",1.5640000347048044,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2668846,214,"Credit reporting, credit repair services, or other personal consumer reports",2.1448000334203243,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2670344,1082,Mortgage,2.0219000289216638,valide,,Mortgage,linear_svc
+2670579,721,Debt collection,1.1224999907426536,valide,,Debt collection,linear_svc
+2671830,3197,"Credit reporting, credit repair services, or other personal consumer reports",2.1342000109143555,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2673189,2171,Credit reporting,1.6660999972373247,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2673233,474,"Credit reporting, credit repair services, or other personal consumer reports",0.9758000378496945,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2673518,1149,"Credit reporting, credit repair services, or other personal consumer reports",1.2871999642811716,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2674237,1280,Credit reporting,1.1656999704428017,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2675075,306,Credit card or prepaid card,0.8936999947763979,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2675276,727,"Credit reporting, credit repair services, or other personal consumer reports",1.1545000015757978,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2675605,1183,"Credit reporting, credit repair services, or other personal consumer reports",1.3212999911047518,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2675948,1762,Credit card or prepaid card,1.8890000064857304,valide,,Credit card or prepaid card,linear_svc
+2677902,800,Credit reporting,1.0111000156030059,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2679529,1053,Vehicle loan or lease,1.3878000318072736,valide,,Vehicle loan or lease,linear_svc
+2683674,901,Bank account or service,1.4546000165864825,valide,,Checking or savings account,linear_svc
+2686242,3455,Mortgage,2.0670000230893493,valide,,Mortgage,linear_svc
+2686614,750,Credit card,1.0947000118903816,valide,,Credit card or prepaid card,linear_svc
+2688025,169,Vehicle loan or lease,0.8452999754808843,valide,,Vehicle loan or lease,linear_svc
+2688540,65,Debt collection,0.7745000184513628,valide,,Debt collection,linear_svc
+2689846,2420,"Credit reporting, credit repair services, or other personal consumer reports",1.644000003580004,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2689876,1206,Student loan,1.2514000409282744,valide,,Student loan,linear_svc
+2690933,475,"Credit reporting, credit repair services, or other personal consumer reports",0.914999982342124,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2691158,1359,"Credit reporting, credit repair services, or other personal consumer reports",1.3694000081159174,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2692204,611,"Credit reporting, credit repair services, or other personal consumer reports",0.8454000344499946,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2694904,1205,"Credit reporting, credit repair services, or other personal consumer reports",1.2522999895736575,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2695949,1039,"Credit reporting, credit repair services, or other personal consumer reports",1.4316000160761178,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2697061,2526,Mortgage,1.9998999778181314,valide,,Mortgage,linear_svc
+2697234,1269,Credit reporting,1.3126000412739813,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2697990,4050,Student loan,2.1526999771595,valide,,Student loan,linear_svc
+2698393,457,"Credit reporting, credit repair services, or other personal consumer reports",1.0522000375203788,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2698952,312,Credit reporting,0.8922999841161072,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2701299,1000,"Credit reporting, credit repair services, or other personal consumer reports",1.008200051728636,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2701693,461,"Payday loan, title loan, or personal loan",1.0277999681420624,valide,,Debt collection,linear_svc
+2702423,1510,Consumer Loan,1.2305999989621341,valide,,Vehicle loan or lease,linear_svc
+2703830,155,"Credit reporting, credit repair services, or other personal consumer reports",0.6738000083714724,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2704592,988,Credit card,1.068200042936951,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2704651,440,Debt collection,1.5484000323340297,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2705962,726,"Credit reporting, credit repair services, or other personal consumer reports",0.9145999792963266,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2707227,2195,Credit card or prepaid card,1.7866999842226505,valide,,Credit card or prepaid card,linear_svc
+2708951,502,"Credit reporting, credit repair services, or other personal consumer reports",1.0006999946199358,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2711079,506,Debt collection,1.1372000444680452,valide,,Debt collection,linear_svc
+2711116,490,"Credit reporting, credit repair services, or other personal consumer reports",1.0017000022344291,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2712799,1644,Debt collection,1.5073000104166567,valide,,Debt collection,linear_svc
+2714173,3167,Student loan,2.2012999979779124,valide,,Student loan,linear_svc
+2714407,1867,Credit card,1.416600018274039,valide,,Credit card or prepaid card,linear_svc
+2714430,957,Debt collection,1.1501999688334763,valide,,Debt collection,linear_svc
+2715103,499,"Credit reporting, credit repair services, or other personal consumer reports",0.9156999876722693,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2716045,1531,"Credit reporting, credit repair services, or other personal consumer reports",1.304199977312237,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2717042,302,Vehicle loan or lease,0.8586999610997736,valide,,Vehicle loan or lease,linear_svc
+2718085,1407,Credit card or prepaid card,1.2478000135160983,valide,,Credit card or prepaid card,linear_svc
+2718239,354,Credit card or prepaid card,1.042200019583106,valide,,Credit card or prepaid card,linear_svc
+2719446,2497,Mortgage,1.7599000129848719,valide,,Mortgage,linear_svc
+2720263,1493,Credit card,1.46240001777187,valide,,Debt collection,linear_svc
+2722422,26,Consumer Loan,1.0011999984271824,valide,,Credit card or prepaid card,linear_svc
+2723921,1276,Debt collection,1.3627000153064728,valide,,Debt collection,linear_svc
+2724942,1083,Credit card,1.1292000417597592,valide,,Credit card or prepaid card,linear_svc
+2725456,2730,Student loan,2.04320001648739,valide,,Student loan,linear_svc
+2726147,803,Debt collection,1.3027999666519463,valide,,Debt collection,linear_svc
+2726585,305,Credit card,1.0285000316798687,valide,,"Payday loan, title loan, or personal loan",linear_svc
+2727161,116,Vehicle loan or lease,0.8439000230282545,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2729599,737,Credit card,1.2153999996371567,valide,,Credit card or prepaid card,linear_svc
+2730181,2044,Checking or savings account,1.5479999710805714,valide,,Checking or savings account,linear_svc
+2731426,168,Debt collection,0.8090999908745289,valide,,Debt collection,linear_svc
+2731739,208,Debt collection,0.7665000157430768,valide,,Debt collection,linear_svc
+2732569,667,Debt collection,1.8236999749206007,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2732891,299,Student loan,1.1992999934591353,valide,,Student loan,linear_svc
+2735155,226,Debt collection,0.7411999977193773,valide,,"Payday loan, title loan, or personal loan",linear_svc
+2735918,831,Consumer Loan,1.4528999454341829,valide,,"Payday loan, title loan, or personal loan",linear_svc
+2735941,721,Student loan,1.1245999485254288,valide,,Student loan,linear_svc
+2737508,837,Checking or savings account,1.0704000014811754,valide,,Checking or savings account,linear_svc
+2737653,562,Credit card or prepaid card,1.218099961988628,valide,,Credit card or prepaid card,linear_svc
+2739997,679,Student loan,1.1081000557169318,valide,,Debt collection,linear_svc
+2742766,687,"Credit reporting, credit repair services, or other personal consumer reports",1.0658999672159553,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2743397,501,Credit reporting,0.973000016529113,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2744160,455,Debt collection,1.1041000252589583,valide,,Debt collection,linear_svc
+2744233,1972,"Credit reporting, credit repair services, or other personal consumer reports",1.5154000138863921,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2744416,63,Credit card or prepaid card,0.7411999977193773,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2744820,458,Credit card or prepaid card,0.9362000273540616,valide,,Credit card or prepaid card,linear_svc
+2745283,1395,Mortgage,1.3509999844245613,valide,,Mortgage,linear_svc
+2745432,557,Debt collection,0.9431999642401934,valide,,Debt collection,linear_svc
+2745593,195,Credit reporting,0.7622000412084162,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2745723,243,Debt collection,0.8251999970525503,valide,,Debt collection,linear_svc
+2748957,1663,Credit card,1.361000002361834,valide,,Credit card or prepaid card,linear_svc
+2749784,3734,Debt collection,2.1044000168330967,valide,,Debt collection,linear_svc
+2750251,1586,"Credit reporting, credit repair services, or other personal consumer reports",1.2176000163890421,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2750676,1633,Credit card or prepaid card,1.4737999881617725,valide,,Credit card or prepaid card,linear_svc
+2753750,1558,Credit card or prepaid card,1.3776000123471022,valide,,Credit card or prepaid card,linear_svc
+2755155,1530,"Credit reporting, credit repair services, or other personal consumer reports",1.4201999874785542,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2755849,1544,Student loan,1.5089000225998461,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2756390,948,Credit card or prepaid card,1.2264999677427113,valide,,Credit card or prepaid card,linear_svc
+2760420,260,Student loan,0.8516000234521925,valide,,Student loan,linear_svc
+2761075,2584,Mortgage,1.8300000228919089,valide,,Mortgage,linear_svc
+2763190,332,Prepaid card,0.9315999923273921,valide,,Credit card or prepaid card,linear_svc
+2763602,531,"Credit reporting, credit repair services, or other personal consumer reports",1.0497000184841454,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2764310,1414,Debt collection,1.4326000236906111,valide,,"Payday loan, title loan, or personal loan",linear_svc
+2766014,853,Vehicle loan or lease,1.4449000009335577,valide,,Vehicle loan or lease,linear_svc
+2767438,418,"Credit reporting, credit repair services, or other personal consumer reports",0.9178000036627054,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2768135,475,"Money transfer, virtual currency, or money service",0.860299973282963,valide,,Checking or savings account,linear_svc
+2772161,2079,Student loan,1.6938999760895967,valide,,Student loan,linear_svc
+2772323,754,Debt collection,1.1582000297494233,valide,,Debt collection,linear_svc
+2772396,432,Debt collection,0.8248999947682023,valide,,Debt collection,linear_svc
+2773639,527,Checking or savings account,1.222899998538196,valide,,"Money transfer, virtual currency, or money service",linear_svc
+2773901,401,Debt collection,1.0343999601900578,valide,,Debt collection,linear_svc
+2774522,671,Credit card or prepaid card,1.0701999999582767,valide,,Credit card or prepaid card,linear_svc
+2774910,3719,Credit reporting,2.0081999828107655,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2775309,616,"Credit reporting, credit repair services, or other personal consumer reports",1.5522000030614436,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2776395,484,Debt collection,1.357699977234006,valide,,Debt collection,linear_svc
+2779023,1802,Mortgage,1.7982000135816634,valide,,Mortgage,linear_svc
+2779781,417,Debt collection,0.9600999765098095,valide,,Debt collection,linear_svc
+2780449,458,Debt collection,0.9933999972417951,valide,,Debt collection,linear_svc
+2781559,371,Credit card,0.8783999946899712,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2784888,2028,"Credit reporting, credit repair services, or other personal consumer reports",1.7291000112891197,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2789674,2020,Credit card or prepaid card,2.0009000436402857,valide,,Credit card or prepaid card,linear_svc
+2789857,219,Debt collection,1.1944999569095671,valide,,Debt collection,linear_svc
+2789905,172,"Credit reporting, credit repair services, or other personal consumer reports",1.0729000205174088,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2790556,1064,"Credit reporting, credit repair services, or other personal consumer reports",1.5171999693848193,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2791756,732,"Money transfer, virtual currency, or money service",1.4136999961920083,valide,,"Money transfer, virtual currency, or money service",linear_svc
+2794152,1094,Credit card or prepaid card,1.5304000116884708,valide,,Credit card or prepaid card,linear_svc
+2795077,1220,Debt collection,1.4185000327415764,valide,,Debt collection,linear_svc
+2796119,1468,Credit card or prepaid card,1.2797999661415815,valide,,Credit card or prepaid card,linear_svc
+2796328,232,"Money transfer, virtual currency, or money service",0.8887999574653804,valide,,"Money transfer, virtual currency, or money service",linear_svc
+2798053,1125,"Credit reporting, credit repair services, or other personal consumer reports",1.0943999513983727,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2798458,171,"Money transfer, virtual currency, or money service",0.9610999841243029,valide,,"Money transfer, virtual currency, or money service",linear_svc
+2799626,789,Mortgage,1.304799981880933,valide,,Mortgage,linear_svc
+2799998,2539,Debt collection,1.6238000243902206,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2800953,1130,Mortgage,1.1221999884583056,valide,,Mortgage,linear_svc
+2802978,1904,"Credit reporting, credit repair services, or other personal consumer reports",1.9398999866098166,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2803494,2280,Credit card or prepaid card,1.704900001641363,valide,,Credit card or prepaid card,linear_svc
+2806661,851,Student loan,1.0756999836303294,valide,,Student loan,linear_svc
+2806692,556,Credit card or prepaid card,0.9478999418206513,valide,,Credit card or prepaid card,linear_svc
+2806726,596,Debt collection,1.205399981699884,valide,,Debt collection,linear_svc
+2807484,2867,Mortgage,2.181900024879724,valide,,Mortgage,linear_svc
+2808377,235,"Credit reporting, credit repair services, or other personal consumer reports",1.2605999945662916,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2808386,993,"Credit reporting, credit repair services, or other personal consumer reports",1.9120999495498836,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2810465,1959,Mortgage,1.9195000058971345,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2811040,644,"Credit reporting, credit repair services, or other personal consumer reports",1.3705000164918602,valide,,Vehicle loan or lease,linear_svc
+2811182,479,"Credit reporting, credit repair services, or other personal consumer reports",1.2422999716363847,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2811379,975,Mortgage,1.4915000065229833,valide,,Mortgage,linear_svc
+2812449,1956,Checking or savings account,2.0280000171624124,valide,,Checking or savings account,linear_svc
+2813031,367,Mortgage,1.2543000048026443,valide,,Mortgage,linear_svc
+2814066,473,Credit card or prepaid card,1.6842999611981213,valide,,Credit card or prepaid card,linear_svc
+2814401,517,Debt collection,1.3924000086262822,valide,,Debt collection,linear_svc
+2824133,232,Student loan,0.9056000271812081,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2826204,237,"Credit reporting, credit repair services, or other personal consumer reports",1.0714000090956688,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2826481,59,"Credit reporting, credit repair services, or other personal consumer reports",0.9867000044323504,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2828453,5873,Mortgage,2.7466000174172223,valide,,Mortgage,linear_svc
+2828941,2975,Mortgage,1.8525999621488154,valide,,Mortgage,linear_svc
+2829792,1425,Mortgage,1.3562999665737152,valide,,Mortgage,linear_svc
+2831427,1111,"Credit reporting, credit repair services, or other personal consumer reports",1.1181000154465437,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2831431,607,"Credit reporting, credit repair services, or other personal consumer reports",1.019700022879988,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2832804,520,"Money transfer, virtual currency, or money service",1.2045000330545008,valide,,"Money transfer, virtual currency, or money service",linear_svc
+2836574,243,Debt collection,0.8551999926567078,valide,,Debt collection,linear_svc
+2838902,207,Debt collection,0.7676000241190195,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2840016,6757,"Credit reporting, credit repair services, or other personal consumer reports",3.499999991618097,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2842242,1760,Student loan,1.6024000360630453,valide,,Student loan,linear_svc
+2843709,840,"Credit reporting, credit repair services, or other personal consumer reports",1.061699993442744,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2843982,1291,Debt collection,1.4899999951012433,valide,,Debt collection,linear_svc
+2844085,2285,"Credit reporting, credit repair services, or other personal consumer reports",1.6807999927550554,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2845388,322,Vehicle loan or lease,0.9325999999418855,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2846721,623,"Credit reporting, credit repair services, or other personal consumer reports",1.0305000469088554,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2846871,766,"Credit reporting, credit repair services, or other personal consumer reports",1.1749999830499291,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2847776,118,Debt collection,0.7957000052556396,valide,,Debt collection,linear_svc
+2848563,1125,"Credit reporting, credit repair services, or other personal consumer reports",1.1606000480242074,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2849009,288,Debt collection,0.8572000078856945,valide,,Debt collection,linear_svc
+2849018,311,Credit card or prepaid card,0.9720000089146197,valide,,Credit card or prepaid card,linear_svc
+2849126,844,Debt collection,1.9771999795921147,valide,,Debt collection,linear_svc
+2850417,610,"Credit reporting, credit repair services, or other personal consumer reports",1.065499964170158,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2850498,3650,Credit card or prepaid card,2.1173999994061887,valide,,Credit card or prepaid card,linear_svc
+2852293,256,Mortgage,1.1729999678209424,valide,,Mortgage,linear_svc
+2853528,290,"Credit reporting, credit repair services, or other personal consumer reports",0.9424000163562596,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2853664,1259,Debt collection,1.3546000118367374,valide,,Debt collection,linear_svc
+2853978,419,Debt collection,0.9931999957188964,valide,,Debt collection,linear_svc
+2856844,622,"Credit reporting, credit repair services, or other personal consumer reports",0.9698999929241836,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2856899,1444,"Credit reporting, credit repair services, or other personal consumer reports",1.2656999751925468,valide,,Mortgage,linear_svc
+2856970,816,Mortgage,1.061399991158396,valide,,Mortgage,linear_svc
+2859741,1576,"Credit reporting, credit repair services, or other personal consumer reports",1.3084000092931092,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2859909,745,Debt collection,0.9804000146687031,valide,,Debt collection,linear_svc
+2860013,1758,"Money transfer, virtual currency, or money service",1.4441999956034124,valide,,"Money transfer, virtual currency, or money service",linear_svc
+2860170,548,Checking or savings account,1.1383999953977764,valide,,Checking or savings account,linear_svc
+2861021,1400,Credit card or prepaid card,1.9816000130958855,valide,,Credit card or prepaid card,linear_svc
+2861748,568,Checking or savings account,1.5394000220112503,valide,,Checking or savings account,linear_svc
+2862506,1170,Checking or savings account,1.514800009317696,valide,,"Money transfer, virtual currency, or money service",linear_svc
+2863149,439,"Credit reporting, credit repair services, or other personal consumer reports",0.950800022110343,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2863227,2429,Debt collection,1.728600007481873,valide,,Debt collection,linear_svc
+2863741,1735,Vehicle loan or lease,1.5190999838523567,valide,,Vehicle loan or lease,linear_svc
+2865310,1101,"Credit reporting, credit repair services, or other personal consumer reports",1.2067999923601747,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2865403,2682,Credit card or prepaid card,1.6574999899603426,valide,,Credit card or prepaid card,linear_svc
+2865533,1478,"Credit reporting, credit repair services, or other personal consumer reports",1.2466999469324946,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2865657,5125,Credit card or prepaid card,2.3695999989286065,valide,,Credit card or prepaid card,linear_svc
+2866292,1046,"Credit reporting, credit repair services, or other personal consumer reports",1.6132000018842518,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2867480,711,"Money transfer, virtual currency, or money service",1.319899980444461,valide,,"Money transfer, virtual currency, or money service",linear_svc
+2868274,353,Debt collection,0.8234999841079116,valide,,Student loan,linear_svc
+2869413,745,"Credit reporting, credit repair services, or other personal consumer reports",1.1461999965831637,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2869830,434,Checking or savings account,0.9916999842971563,valide,,Checking or savings account,linear_svc
+2874007,573,Credit card or prepaid card,0.9736000210978091,valide,,Credit card or prepaid card,linear_svc
+2874917,542,Student loan,0.9435999672859907,valide,,Student loan,linear_svc
+2875576,42,Checking or savings account,1.0621999972499907,valide,,"Money transfer, virtual currency, or money service",linear_svc
+2875913,1895,Mortgage,1.762599975336343,valide,,Mortgage,linear_svc
+2875965,1303,Student loan,1.2325000134296715,valide,,Student loan,linear_svc
+2876026,765,Debt collection,1.0096000041812658,valide,,Debt collection,linear_svc
+2877663,751,"Credit reporting, credit repair services, or other personal consumer reports",1.0383999906480312,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2878910,1566,Credit card or prepaid card,1.218399964272976,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2880044,1428,Debt collection,1.2475999537855387,valide,,Debt collection,linear_svc
+2882366,1489,Debt collection,1.9805999472737312,valide,,Debt collection,linear_svc
+2884517,1389,"Credit reporting, credit repair services, or other personal consumer reports",1.4105000300332904,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2885367,266,"Credit reporting, credit repair services, or other personal consumer reports",0.8442000253126025,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2888285,191,Debt collection,1.2687999987974763,valide,,Debt collection,linear_svc
+2890282,248,"Credit reporting, credit repair services, or other personal consumer reports",1.2486999621614814,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2890559,2139,Credit card or prepaid card,1.9823000184260309,valide,,Credit card or prepaid card,linear_svc
+2890995,565,Credit card or prepaid card,1.4022000250406563,valide,,Credit card or prepaid card,linear_svc
+2891749,1598,"Payday loan, title loan, or personal loan",1.8824999569915235,valide,,"Payday loan, title loan, or personal loan",linear_svc
+2892201,306,Debt collection,1.2712999596260488,valide,,Debt collection,linear_svc
+2892544,1347,Mortgage,1.7328999820165336,valide,,Mortgage,linear_svc
+2893271,1739,"Credit reporting, credit repair services, or other personal consumer reports",1.9882000051438808,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2893509,201,Debt collection,1.1616000556387007,valide,,Debt collection,linear_svc
+2894843,160,Credit reporting,0.8387999841943383,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2901748,747,Checking or savings account,1.1039000237360597,valide,,Checking or savings account,linear_svc
+2905222,2321,"Credit reporting, credit repair services, or other personal consumer reports",1.731799973640591,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2906288,2045,Student loan,1.5088000218383968,valide,,Debt collection,linear_svc
+2906355,1683,Mortgage,1.3235000078566372,valide,,Mortgage,linear_svc
+2908837,639,"Credit reporting, credit repair services, or other personal consumer reports",0.9680999792180955,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2910141,767,Debt collection,0.9923999896273017,valide,,Debt collection,linear_svc
+2910295,1223,Vehicle loan or lease,1.2119999737478793,valide,,Vehicle loan or lease,linear_svc
+2913103,1093,Credit card or prepaid card,1.1284000356681645,valide,,Credit card or prepaid card,linear_svc
+2913473,157,Bank account or service,0.7556999917142093,valide,,Debt collection,linear_svc
+2915802,3268,Credit card or prepaid card,1.7219000146724284,valide,,Credit card or prepaid card,linear_svc
+2916296,676,Vehicle loan or lease,1.1029000161215663,valide,,Vehicle loan or lease,linear_svc
+2917257,623,"Credit reporting, credit repair services, or other personal consumer reports",1.105200033634901,valide,,Debt collection,linear_svc
+2918054,6944,Debt collection,4.351800016593188,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2919868,1953,"Credit reporting, credit repair services, or other personal consumer reports",1.117000007070601,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2920765,3532,Student loan,2.2047999664209783,valide,,Debt collection,linear_svc
+2920972,1021,Debt collection,1.3248000177554786,valide,,Debt collection,linear_svc
+2925738,673,Debt collection,1.1109999613836408,valide,,Debt collection,linear_svc
+2927406,737,"Credit reporting, credit repair services, or other personal consumer reports",1.1281000333838165,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2929358,338,Debt collection,0.930100039113313,valide,,Debt collection,linear_svc
+2931279,272,"Money transfer, virtual currency, or money service",0.9349000174552202,valide,,"Money transfer, virtual currency, or money service",linear_svc
+2931940,801,"Money transfer, virtual currency, or money service",1.1934000067412853,valide,,Checking or savings account,linear_svc
+2933328,466,Debt collection,1.0142000392079353,valide,,Debt collection,linear_svc
+2933577,1677,Mortgage,1.5835000085644424,valide,,Mortgage,linear_svc
+2933693,328,Debt collection,1.4349000412039459,valide,,Debt collection,linear_svc
+2934120,177,Debt collection,1.6678999527357519,valide,,Student loan,linear_svc
+2934902,838,Bank account or service,1.6200999962165952,valide,,Checking or savings account,linear_svc
+2935319,670,Mortgage,1.3398000155575573,valide,,Mortgage,linear_svc
+2936987,4573,"Credit reporting, credit repair services, or other personal consumer reports",2.9143000137992203,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2938190,289,"Credit reporting, credit repair services, or other personal consumer reports",1.0880999616347253,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2938823,1286,Debt collection,1.5056999982334673,valide,,Debt collection,linear_svc
+2942579,1337,"Credit reporting, credit repair services, or other personal consumer reports",1.5657999902032316,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2944370,1570,Mortgage,1.2524999910965562,valide,,Mortgage,linear_svc
+2945722,573,Vehicle loan or lease,1.5015999670140445,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2947037,337,Debt collection,1.35859998408705,valide,,Debt collection,linear_svc
+2947055,485,Debt collection,1.3068999978713691,valide,,Debt collection,linear_svc
+2949141,1211,"Credit reporting, credit repair services, or other personal consumer reports",1.7131000058725476,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2950223,1055,"Credit reporting, credit repair services, or other personal consumer reports",1.6482999781146646,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2950779,506,Mortgage,1.6450000111944973,valide,,Mortgage,linear_svc
+2951326,727,Credit card or prepaid card,1.6255000373348594,valide,,Debt collection,linear_svc
+2951769,881,"Credit reporting, credit repair services, or other personal consumer reports",1.7676999559625983,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2951953,1206,"Credit reporting, credit repair services, or other personal consumer reports",1.8978000152856112,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2959288,764,"Credit reporting, credit repair services, or other personal consumer reports",1.6833999543450773,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2959354,5677,Checking or savings account,4.392300033941865,valide,,Checking or savings account,linear_svc
+2961313,705,Debt collection,1.706700015347451,valide,,Debt collection,linear_svc
+2962490,251,"Credit reporting, credit repair services, or other personal consumer reports",1.2447000481188297,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2963679,261,Debt collection,1.201900013256818,valide,,Debt collection,linear_svc
+2965141,2064,Checking or savings account,2.168099978007376,valide,,Checking or savings account,linear_svc
+2965501,97,Mortgage,0.855900056194514,valide,,Mortgage,linear_svc
+2965745,648,Credit card or prepaid card,1.2365999864414334,valide,,Student loan,linear_svc
+2965820,1047,Debt collection,1.4335999730974436,valide,,Debt collection,linear_svc
+2966950,841,Debt collection,1.146900001913309,valide,,Debt collection,linear_svc
+2967387,1130,"Credit reporting, credit repair services, or other personal consumer reports",1.1937999515794218,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2969169,511,"Credit reporting, credit repair services, or other personal consumer reports",0.9666999685578048,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2970075,461,Credit card or prepaid card,0.9056000271812081,valide,,Credit card or prepaid card,linear_svc
+2970445,1201,Mortgage,1.9604000262916088,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2970971,614,Debt collection,1.4944999711588025,valide,,Debt collection,linear_svc
+2975533,641,Debt collection,1.3944999664090574,valide,,Debt collection,linear_svc
+2977116,744,"Credit reporting, credit repair services, or other personal consumer reports",1.3762000016868114,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2980155,306,Bank account or service,1.220200036186725,valide,,Checking or savings account,linear_svc
+2980894,1178,Mortgage,1.7414999892935157,valide,,Mortgage,linear_svc
+2980922,517,"Credit reporting, credit repair services, or other personal consumer reports",1.2621000059880316,valide,,Debt collection,linear_svc
+2981228,4920,Mortgage,3.387699951417744,valide,,Mortgage,linear_svc
+2981747,450,Debt collection,1.2697000056505203,valide,,Debt collection,linear_svc
+2982227,825,Debt collection,1.3949000276625156,valide,,Debt collection,linear_svc
+2982752,2245,Debt collection,2.3295999853871763,valide,,Debt collection,linear_svc
+2984334,453,"Credit reporting, credit repair services, or other personal consumer reports",1.3702000142075121,valide,,Credit card or prepaid card,linear_svc
+2984471,329,Bank account or service,1.3641000259667635,valide,,Checking or savings account,linear_svc
+2984878,1216,Credit card or prepaid card,1.9174999906681478,valide,,Credit card or prepaid card,linear_svc
+2985086,2322,Debt collection,2.2187000140547752,valide,,Debt collection,linear_svc
+2988918,519,Debt collection,1.3566000270657241,valide,,Debt collection,linear_svc
+2989074,180,"Credit reporting, credit repair services, or other personal consumer reports",1.0821999749168754,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2989152,757,Credit card or prepaid card,1.4480000245384872,valide,,Credit card or prepaid card,linear_svc
+2990321,838,"Credit reporting, credit repair services, or other personal consumer reports",1.6407999792136252,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2991914,975,Credit card,1.578899973537773,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2992049,700,Credit card or prepaid card,1.35570002021268,valide,,"Money transfer, virtual currency, or money service",linear_svc
+2995214,2030,Checking or savings account,2.170399995520711,valide,,Checking or savings account,linear_svc
+2995327,1322,Debt collection,1.977299980353564,valide,,Debt collection,linear_svc
+2995645,549,Credit card,1.5240999637171626,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2995901,928,Debt collection,1.493800024036318,valide,,Debt collection,linear_svc
+2995903,94,"Credit reporting, credit repair services, or other personal consumer reports",0.9331000037491322,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2997960,468,Credit card or prepaid card,0.8424000116065145,valide,,Checking or savings account,linear_svc
+2998589,353,"Credit reporting, credit repair services, or other personal consumer reports",1.3868999667465687,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+2998764,1039,Debt collection,1.7995000234805048,valide,,Debt collection,linear_svc
+2999333,5159,Debt collection,4.212600004393607,valide,,Debt collection,linear_svc
+2999560,1813,Debt collection,2.064600004814565,valide,,Debt collection,linear_svc
+3000520,345,"Credit reporting, credit repair services, or other personal consumer reports",1.3046999811194837,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3001349,267,Debt collection,1.360399997793138,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3001489,2676,Mortgage,2.776999957859516,valide,,Mortgage,linear_svc
+3001960,237,"Credit reporting, credit repair services, or other personal consumer reports",1.3318000128492713,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3004444,241,Debt collection,1.0603999835439026,valide,,Debt collection,linear_svc
+3005013,2229,Checking or savings account,1.9735000096261501,valide,,Checking or savings account,linear_svc
+3005627,1624,Credit card or prepaid card,1.9422000041231513,valide,,Credit card or prepaid card,linear_svc
+3006551,760,"Credit reporting, credit repair services, or other personal consumer reports",1.7608999623917043,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3007094,684,Consumer Loan,2.23430001642555,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3007982,2419,"Credit reporting, credit repair services, or other personal consumer reports",2.9516000067815185,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3008649,227,Debt collection,1.360399997793138,valide,,Debt collection,linear_svc
+3010101,3243,Checking or savings account,3.1021999893710017,valide,,Checking or savings account,linear_svc
+3010467,1188,"Credit reporting, credit repair services, or other personal consumer reports",2.0234999828971922,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3013473,62,Student loan,1.2277000350877643,valide,,Student loan,linear_svc
+3013798,746,"Credit reporting, credit repair services, or other personal consumer reports",1.4977000537328422,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3013984,612,Debt collection,1.331100007519126,valide,,Debt collection,linear_svc
+3015672,152,"Credit reporting, credit repair services, or other personal consumer reports",1.1517000384628773,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3022242,245,Credit card or prepaid card,1.2601999915204942,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3022695,2338,Mortgage,2.359399979468435,valide,,Mortgage,linear_svc
+3022812,800,Checking or savings account,1.4881999813951552,valide,,Checking or savings account,linear_svc
+3022874,856,"Credit reporting, credit repair services, or other personal consumer reports",1.5736999921500683,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3023307,2963,Credit card or prepaid card,2.556400024332106,valide,,Credit card or prepaid card,linear_svc
+3023544,3273,"Credit reporting, credit repair services, or other personal consumer reports",2.854499965906143,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3024716,410,Mortgage,1.493200019467622,valide,,Mortgage,linear_svc
+3026809,1853,"Credit reporting, credit repair services, or other personal consumer reports",1.949199999216944,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3026889,1606,Debt collection,1.8902000156231225,valide,,Debt collection,linear_svc
+3029598,1959,Checking or savings account,2.13789998088032,valide,,Checking or savings account,linear_svc
+3031067,244,"Credit reporting, credit repair services, or other personal consumer reports",1.5067000058479607,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3031780,426,"Credit reporting, credit repair services, or other personal consumer reports",1.5842999564483762,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3036926,1075,Checking or savings account,1.7420999938622117,valide,,Checking or savings account,linear_svc
+3037158,463,Vehicle loan or lease,1.417200022842735,valide,,Student loan,linear_svc
+3039163,890,Checking or savings account,1.6852999688126147,valide,,Checking or savings account,linear_svc
+3039456,842,Checking or savings account,1.5289000002667308,valide,,"Money transfer, virtual currency, or money service",linear_svc
+3039483,2517,Mortgage,2.406999992672354,valide,,Mortgage,linear_svc
+3039677,387,"Payday loan, title loan, or personal loan",1.2623000075109303,valide,,"Payday loan, title loan, or personal loan",linear_svc
+3041720,979,Debt collection,1.5576999867334962,valide,,Debt collection,linear_svc
+3042079,425,"Credit reporting, credit repair services, or other personal consumer reports",1.3458000030368567,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3043304,893,Credit card,1.5190999838523567,valide,,Credit card or prepaid card,linear_svc
+3043421,723,"Credit reporting, credit repair services, or other personal consumer reports",1.3984999968670309,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3043501,2091,"Credit reporting, credit repair services, or other personal consumer reports",2.370900008827448,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3043810,319,Debt collection,1.712600002065301,valide,,Debt collection,linear_svc
+3043841,849,"Credit reporting, credit repair services, or other personal consumer reports",1.889200008008629,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3045436,684,Debt collection,1.7830999568104744,valide,,Debt collection,linear_svc
+3045831,423,Credit card or prepaid card,1.445600006263703,valide,,Credit card or prepaid card,linear_svc
+3047418,1136,Credit card or prepaid card,1.65049999486655,valide,,Credit card or prepaid card,linear_svc
+3047890,1771,Student loan,2.6337000308558345,valide,,Student loan,linear_svc
+3053078,1493,Vehicle loan or lease,2.396100026089698,valide,,Vehicle loan or lease,linear_svc
+3053691,2278,"Credit reporting, credit repair services, or other personal consumer reports",2.5205000420100987,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3054161,1383,"Credit reporting, credit repair services, or other personal consumer reports",1.8773000338114798,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3054473,1183,Debt collection,1.7880999948829412,valide,,Debt collection,linear_svc
+3054679,289,Debt collection,1.2697999482043087,valide,,Student loan,linear_svc
+3055868,1562,Debt collection,1.7538000247441232,valide,,Debt collection,linear_svc
+3057906,1247,"Credit reporting, credit repair services, or other personal consumer reports",1.6922999639064074,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3058054,136,Checking or savings account,1.1490000179037452,valide,,Credit card or prepaid card,linear_svc
+3059236,3918,Mortgage,4.026799986604601,valide,,Mortgage,linear_svc
+3059722,103,"Payday loan, title loan, or personal loan",1.5406999737024307,valide,,"Payday loan, title loan, or personal loan",linear_svc
+3061435,966,"Credit reporting, credit repair services, or other personal consumer reports",1.6417000442743301,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3062187,138,"Credit reporting, credit repair services, or other personal consumer reports",1.2706999550573528,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3062332,972,Mortgage,1.695500046480447,valide,,Mortgage,linear_svc
+3062500,1934,"Credit reporting, credit repair services, or other personal consumer reports",1.9663000130094588,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3062884,349,Mortgage,1.261600002180785,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3063721,625,"Payday loan, title loan, or personal loan",1.5378000098280609,valide,,"Payday loan, title loan, or personal loan",linear_svc
+3065271,1024,Debt collection,1.7174999811686575,valide,,Debt collection,linear_svc
+3065561,1467,"Credit reporting, credit repair services, or other personal consumer reports",2.0262000034563243,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3066648,297,"Credit reporting, credit repair services, or other personal consumer reports",1.3463999493978918,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3066838,230,"Credit reporting, credit repair services, or other personal consumer reports",1.2958000297658145,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3068002,545,Mortgage,1.368700002785772,valide,,"Payday loan, title loan, or personal loan",linear_svc
+3070408,539,Debt collection,1.4372000005096197,valide,,Debt collection,linear_svc
+3073046,5952,"Credit reporting, credit repair services, or other personal consumer reports",4.020599997602403,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3074506,2843,Checking or savings account,2.4497000267729163,valide,,Checking or savings account,linear_svc
+3076377,673,"Credit reporting, credit repair services, or other personal consumer reports",1.0212999768555164,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3076926,652,Credit reporting,1.569800020661205,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3079683,1064,Debt collection,2.157399954739958,valide,,Debt collection,linear_svc
+3081670,846,Credit card or prepaid card,1.7713000415824354,valide,,Credit card or prepaid card,linear_svc
+3081813,5891,"Credit reporting, credit repair services, or other personal consumer reports",3.43590002739802,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3082208,621,Debt collection,1.4863999676890671,valide,,Debt collection,linear_svc
+3082355,659,Debt collection,1.4673999976366758,valide,,Debt collection,linear_svc
+3084137,1022,"Credit reporting, credit repair services, or other personal consumer reports",1.65350001771003,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3084154,660,Debt collection,2.0353999570943415,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3085016,252,"Credit reporting, credit repair services, or other personal consumer reports",1.3587999856099486,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3085979,1934,Checking or savings account,2.3090000031515956,valide,,Checking or savings account,linear_svc
+3086601,1413,Checking or savings account,2.076299977488816,valide,,Checking or savings account,linear_svc
+3089069,1195,Consumer Loan,2.0043000113219023,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3093780,139,"Credit reporting, credit repair services, or other personal consumer reports",1.0705000022426248,valide,,Debt collection,linear_svc
+3094334,542,Bank account or service,1.1132999788969755,valide,,Checking or savings account,linear_svc
+3095146,1749,Debt collection,1.5623000217601657,valide,,Debt collection,linear_svc
+3097669,593,"Credit reporting, credit repair services, or other personal consumer reports",1.0144999832846224,valide,,Debt collection,linear_svc
+3098559,1138,Debt collection,1.49789999704808,valide,,Debt collection,linear_svc
+3098574,1509,Debt collection,1.9735000096261501,valide,,Debt collection,linear_svc
+3099029,774,Student loan,1.5698999632149935,valide,,Student loan,linear_svc
+3100826,280,"Credit reporting, credit repair services, or other personal consumer reports",1.1733000283129513,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3101164,603,"Credit reporting, credit repair services, or other personal consumer reports",1.8371999613009393,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3103082,1576,Credit card or prepaid card,1.845100021455437,valide,,Credit card or prepaid card,linear_svc
+3105500,5549,Mortgage,3.7935999571345747,valide,,Mortgage,linear_svc
+3105774,294,"Credit reporting, credit repair services, or other personal consumer reports",1.6312000225298107,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3106478,540,"Credit reporting, credit repair services, or other personal consumer reports",1.3842000043950975,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3106752,693,"Credit reporting, credit repair services, or other personal consumer reports",1.4264000346884131,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3107512,1264,Credit card or prepaid card,1.7027000430971384,valide,,Credit card or prepaid card,linear_svc
+3108587,1348,"Credit reporting, credit repair services, or other personal consumer reports",1.6288000042550266,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3111473,625,"Credit reporting, credit repair services, or other personal consumer reports",1.5608000103384256,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3112411,650,"Credit reporting, credit repair services, or other personal consumer reports",1.7287000082433224,valide,,Student loan,linear_svc
+3113061,361,Debt collection,1.400900015141815,valide,,Debt collection,linear_svc
+3116153,473,"Payday loan, title loan, or personal loan",1.5364999999292195,valide,,"Payday loan, title loan, or personal loan",linear_svc
+3116837,620,Credit card or prepaid card,1.5384000143967569,valide,,Credit card or prepaid card,linear_svc
+3117155,1397,"Credit reporting, credit repair services, or other personal consumer reports",2.696799987461418,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3117933,3394,Mortgage,3.6755999899469316,valide,,Mortgage,linear_svc
+3120960,1237,Mortgage,2.654500014614314,valide,,Mortgage,linear_svc
+3121453,685,Credit reporting,1.7045000568032265,valide,,Debt collection,linear_svc
+3121807,1147,"Credit reporting, credit repair services, or other personal consumer reports",1.954799983650446,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3121879,400,Checking or savings account,1.0779000003822148,valide,,Debt collection,linear_svc
+3123121,132,"Credit reporting, credit repair services, or other personal consumer reports",1.5095000271685421,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3125861,573,"Credit reporting, credit repair services, or other personal consumer reports",1.789500005543232,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3128186,493,Debt collection,1.4374000020325184,valide,,Debt collection,linear_svc
+3129060,472,Debt collection,1.5560000319965184,valide,,Debt collection,linear_svc
+3133615,1178,Mortgage,1.8129999516531825,valide,,Mortgage,linear_svc
+3133909,800,"Credit reporting, credit repair services, or other personal consumer reports",1.4037000364623964,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3135218,1357,"Credit reporting, credit repair services, or other personal consumer reports",1.6940999776124954,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3136784,1309,"Credit reporting, credit repair services, or other personal consumer reports",1.3781000161543489,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3138487,595,Mortgage,1.0883999639190733,valide,,"Payday loan, title loan, or personal loan",linear_svc
+3138593,990,"Credit reporting, credit repair services, or other personal consumer reports",1.3656000373885036,valide,,"Payday loan, title loan, or personal loan",linear_svc
+3139093,1248,Student loan,1.52160000288859,valide,,Student loan,linear_svc
+3139508,709,"Credit reporting, credit repair services, or other personal consumer reports",1.8905000179074705,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3139633,289,"Credit reporting, credit repair services, or other personal consumer reports",1.35570002021268,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3140013,553,Debt collection,1.5913000097498298,valide,,Debt collection,linear_svc
+3141937,543,Student loan,1.435799989849329,valide,,Student loan,linear_svc
+3142011,1286,Checking or savings account,1.9318999839015305,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3144860,133,"Credit reporting, credit repair services, or other personal consumer reports",1.2592999846674502,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3145374,1306,Mortgage,1.6685000155121088,valide,,Debt collection,linear_svc
+3146111,516,"Credit reporting, credit repair services, or other personal consumer reports",1.441399974282831,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3146903,1910,Debt collection,2.516699954867363,valide,,Debt collection,linear_svc
+3147293,322,Credit reporting,1.318400027230382,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3149319,105,"Credit reporting, credit repair services, or other personal consumer reports",1.2140999897383153,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3151172,982,Student loan,1.8266999977640808,valide,,Student loan,linear_svc
+3153390,739,Vehicle loan or lease,1.5925000188872218,valide,,Vehicle loan or lease,linear_svc
+3156201,1472,"Credit reporting, credit repair services, or other personal consumer reports",2.0676000276580453,valide,,"Credit reporting, credit repair services, or other personal consumer reports",linear_svc
+3159921,810,"Credit reporting, credit repair services, or other personal consumer reports",1.9686000305227935,valide,,Debt collection,linear_svc
+3169400,440,Debt collection,1.3792000245302916,valide,,Debt collection,linear_svc
+3169543,949,Mortgage,1.7530000186525285,valide,,Mortgage,linear_svc

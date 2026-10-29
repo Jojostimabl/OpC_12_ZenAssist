@@ -1,0 +1,8 @@
+phase,model,candidate,parameters,fit_classifier_s,fit_vectorizer_s,converged,n_iter_max,warnings,n,accuracy,f1_macro_present,f1_weighted,absent_labels
+validation,dummy,dummy__majority,{},0.38802539999596775,183.26096619997406,True,0,[],54585,0.230741046074929,0.020831265919089674,0.08651930560624385,
+validation,complement_nb,complement_nb__alpha_0.1,"{""alpha"": 0.1}",3.0377118999604136,183.26096619997406,True,0,[],54585,0.6769075753412109,0.3797768028190122,0.6308181965143895,
+validation,complement_nb,complement_nb__alpha_1,"{""alpha"": 1.0}",2.9793844999512658,183.26096619997406,True,0,[],54585,0.6770541357515801,0.37866035359636235,0.6304244321461838,
+validation,logistic_regression,logistic_regression__unweighted,"{""C"": 1.0, ""class_weight"": null}",217.95031230000313,183.26096619997406,True,103,[],54585,0.7647155812036274,0.5520325487844236,0.7579477892767486,
+validation,logistic_regression,logistic_regression__balanced,"{""C"": 1.0, ""class_weight"": ""balanced""}",102.5163713999791,183.26096619997406,True,54,[],54585,0.730731886049281,0.5727086270085242,0.7369152531382415,
+validation,linear_svc,linear_svc__unweighted,"{""C"": 1.0, ""class_weight"": null}",241.07453430001624,183.26096619997406,True,35,[],54585,0.7657964642300998,0.5589906565674256,0.7600405618827935,
+validation,linear_svc,linear_svc__balanced,"{""C"": 1.0, ""class_weight"": ""balanced""}",354.4399235000019,183.26096619997406,True,266,[],54585,0.7615828524319868,0.5663779711228364,0.7620133116655875,

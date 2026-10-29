@@ -1,0 +1,93 @@
+{
+  "created_at_utc": "2026-10-19T20:00:57.814746+00:00",
+  "sources": {
+    "source_manifest_sha256": "0391e543abb320d9190fcb5f14b9453a8bd146c19757e9fbcab6a93ae9bfbb10",
+    "partitions_sha256": "0b1b7cc3412cf14ba7e27540aa6eaa9dbe841cfe3f760f1682532261ce0c3381",
+    "common_ids_sha256": "f186779d01788e517facf5ae3ba0e12505d19bbff0b69a0551c6fc33b58a9d40"
+  },
+  "seed": 42,
+  "fit_partition": "train",
+  "selection_partition": "validation",
+  "selection_metric": "f1_macro_present",
+  "tie_breaker": "accuracy_then_candidate_order",
+  "refit_train_plus_validation": false,
+  "full_text": true,
+  "vectorizer": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 3,
+    "max_df": 0.995,
+    "max_features": 100000,
+    "sublinear_tf": true,
+    "strip_accents": "unicode",
+    "lowercase": true,
+    "stop_words": null,
+    "dtype": "float32"
+  },
+  "candidates": [
+    [
+      "dummy",
+      "majority",
+      {}
+    ],
+    [
+      "complement_nb",
+      "alpha_0.1",
+      {
+        "alpha": 0.1
+      }
+    ],
+    [
+      "complement_nb",
+      "alpha_1",
+      {
+        "alpha": 1.0
+      }
+    ],
+    [
+      "logistic_regression",
+      "unweighted",
+      {
+        "C": 1.0,
+        "class_weight": null
+      }
+    ],
+    [
+      "logistic_regression",
+      "balanced",
+      {
+        "C": 1.0,
+        "class_weight": "balanced"
+      }
+    ],
+    [
+      "linear_svc",
+      "unweighted",
+      {
+        "C": 1.0,
+        "class_weight": null
+      }
+    ],
+    [
+      "linear_svc",
+      "balanced",
+      {
+        "C": 1.0,
+        "class_weight": "balanced"
+      }
+    ]
+  ],
+  "threads": 2,
+  "code_sha256": "afa10f17787a0d60ee1515d9ba9c7f3705baf7b68010b07940518f1153409ae0",
+  "python": "3.13.5",
+  "sklearn": "1.9.1",
+  "numpy": "2.5.3",
+  "scipy": "1.18.1",
+  "machine": "AMD64",
+  "processor": "Intel64 Family 6 Model 170 Stepping 4, GenuineIntel",
+  "logical_cpus": 22,
+  "external_api_calls": 0,
+  "signature": "57495e95de817e74b91e10ccc356b9f397d266ee93edb27c129934fc735c0303"
+}

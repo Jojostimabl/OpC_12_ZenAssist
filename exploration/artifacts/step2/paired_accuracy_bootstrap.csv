@@ -1,0 +1,7 @@
+modele_A,modele_B,ecart_accuracy_A_moins_B,ic95_bas,ic95_haut
+deepseek/deepseek-v4-flash-0731,openai/gpt-6-luna,0.032,-0.002,0.064
+deepseek/deepseek-v4-flash-0731,qwen/qwen3.8-flash,0.038,0.006,0.07
+deepseek/deepseek-v4-flash-0731,openai/gpt-6.1-terra,-0.123,-0.154,-0.091
+openai/gpt-6-luna,qwen/qwen3.8-flash,0.006,-0.015,0.027
+openai/gpt-6-luna,openai/gpt-6.1-terra,-0.155,-0.189025,-0.11797500000000014
+qwen/qwen3.8-flash,openai/gpt-6.1-terra,-0.161,-0.196,-0.125

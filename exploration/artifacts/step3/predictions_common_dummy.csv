@@ -1,0 +1,1001 @@
+complaint_id,n_chars,prediction,response_ms,status,erreur_type,expected,model
+1294526,185,Debt collection,9.166100004222244,valide,,Credit reporting,dummy
+1295955,3866,Debt collection,5.668799974955618,valide,,Debt collection,dummy
+1299118,493,Debt collection,4.261400026734918,valide,,Bank account or service,dummy
+1300254,3313,Debt collection,4.430700035300106,valide,,Credit reporting,dummy
+1301091,1371,Debt collection,3.4079999895766377,valide,,Mortgage,dummy
+1305244,2021,Debt collection,3.7606999976560473,valide,,Bank account or service,dummy
+1305760,3561,Debt collection,5.646199977491051,valide,,Credit reporting,dummy
+1306144,193,Debt collection,2.818899985868484,valide,,Credit reporting,dummy
+1306485,1181,Debt collection,4.383700026664883,valide,,Debt collection,dummy
+1311380,1102,Debt collection,4.002399975433946,valide,,Mortgage,dummy
+1312699,611,Debt collection,5.099300004076213,valide,,Debt collection,dummy
+1317993,783,Debt collection,2.4345999700017273,valide,,Student loan,dummy
+1324365,163,Debt collection,2.4503000313416123,valide,,Credit reporting,dummy
+1324786,3240,Debt collection,4.786499950569123,valide,,Mortgage,dummy
+1325160,530,Debt collection,4.081999999471009,valide,,Debt collection,dummy
+1326349,624,Debt collection,2.8247999725863338,valide,,Credit reporting,dummy
+1330532,852,Debt collection,2.6744999922811985,valide,,Credit reporting,dummy
+1332096,100,Debt collection,2.943500003311783,valide,,Debt collection,dummy
+1340021,282,Debt collection,4.530200036242604,valide,,Credit reporting,dummy
+1341039,2355,Debt collection,7.395600026939064,valide,,Credit card,dummy
+1342658,2959,Debt collection,3.744299989193678,valide,,Bank account or service,dummy
+1348981,2227,Debt collection,3.2120999530889094,valide,,Bank account or service,dummy
+1351305,1743,Debt collection,3.7711000186391175,valide,,Mortgage,dummy
+1352105,95,Debt collection,2.5952000287361443,valide,,Bank account or service,dummy
+1354146,218,Debt collection,3.3804000122472644,valide,,Mortgage,dummy
+1354595,1033,Debt collection,5.249899986665696,valide,,Mortgage,dummy
+1358045,1288,Debt collection,4.180899995844811,valide,,Student loan,dummy
+1365219,492,Debt collection,3.5356999724172056,valide,,Debt collection,dummy
+1366121,107,Debt collection,2.820199995767325,valide,,Debt collection,dummy
+1370420,413,Debt collection,2.322699991054833,valide,,Payday loan,dummy
+1373946,260,Debt collection,2.215299988165498,valide,,Debt collection,dummy
+1376467,2782,Debt collection,4.057600046508014,valide,,Debt collection,dummy
+1377276,264,Debt collection,3.446799993980676,valide,,Bank account or service,dummy
+1385936,240,Debt collection,3.1547999824397266,valide,,Debt collection,dummy
+1387553,261,Debt collection,2.7907000039704144,valide,,Debt collection,dummy
+1388647,2435,Debt collection,4.468400031328201,valide,,Debt collection,dummy
+1388769,1390,Debt collection,3.694000013638288,valide,,Bank account or service,dummy
+1391707,821,Debt collection,5.001199955586344,valide,,Credit reporting,dummy
+1393363,599,Debt collection,3.673099970910698,valide,,Debt collection,dummy
+1395625,358,Debt collection,2.1179000032134354,valide,,Consumer Loan,dummy
+1396662,396,Debt collection,2.603700035251677,valide,,Credit reporting,dummy
+1398012,660,Debt collection,2.498699992429465,valide,,Credit card,dummy
+1398598,3058,Debt collection,4.670599999371916,valide,,Bank account or service,dummy
+1399684,93,Debt collection,1.76910002483055,valide,,Debt collection,dummy
+1402856,1245,Debt collection,2.503699972294271,valide,,Mortgage,dummy
+1403337,226,Debt collection,1.8940999871119857,valide,,Mortgage,dummy
+1405625,3401,Debt collection,4.048099974170327,valide,,Mortgage,dummy
+1406082,334,Debt collection,2.2895000292919576,valide,,Bank account or service,dummy
+1406132,742,Debt collection,2.5038999738171697,valide,,Mortgage,dummy
+1408400,616,Debt collection,4.103899991605431,valide,,Mortgage,dummy
+1409635,567,Debt collection,3.8797000306658447,valide,,Mortgage,dummy
+1410529,231,Debt collection,2.151500026229769,valide,,Student loan,dummy
+1413781,122,Debt collection,1.8829000182449818,valide,,Debt collection,dummy
+1414892,136,Debt collection,1.7374999588355422,valide,,Debt collection,dummy
+1417092,451,Debt collection,2.90679995669052,valide,,Debt collection,dummy
+1419013,1854,Debt collection,4.994800023268908,valide,,Credit card,dummy
+1419093,406,Debt collection,3.031899977941066,valide,,Mortgage,dummy
+1421086,479,Debt collection,2.8034999850206077,valide,,Consumer Loan,dummy
+1430456,520,Debt collection,2.284299989696592,valide,,Credit card,dummy
+1439510,774,Debt collection,2.3094999487511814,valide,,Debt collection,dummy
+1451726,67,Debt collection,2.292299992404878,valide,,Debt collection,dummy
+1453932,374,Debt collection,2.564899972639978,valide,,Credit card,dummy
+1454726,1484,Debt collection,3.3357000211253762,valide,,Money transfers,dummy
+1463485,29,Debt collection,2.784299955237657,valide,,Prepaid card,dummy
+1463647,354,Debt collection,4.5202000183053315,valide,,Credit reporting,dummy
+1465881,2382,Debt collection,4.841399961151183,valide,,Credit reporting,dummy
+1466449,39,Debt collection,1.8765999702736735,valide,,Consumer Loan,dummy
+1467149,258,Debt collection,2.0689000375568867,valide,,Debt collection,dummy
+1467684,2149,Debt collection,3.493900003377348,valide,,Mortgage,dummy
+1472555,112,Debt collection,2.049400005489588,valide,,Debt collection,dummy
+1476983,251,Debt collection,2.3096000077202916,valide,,Debt collection,dummy
+1479065,1550,Debt collection,3.976500011049211,valide,,Credit reporting,dummy
+1480271,1846,Debt collection,4.287500050850213,valide,,Student loan,dummy
+1480682,2303,Debt collection,4.422900034114718,valide,,Money transfers,dummy
+1481932,424,Debt collection,3.048399987164885,valide,,Credit reporting,dummy
+1484860,2411,Debt collection,4.658600024413317,valide,,Credit card,dummy
+1486944,408,Debt collection,2.0014000474475324,valide,,Debt collection,dummy
+1489753,3440,Debt collection,4.293999983929098,valide,,Consumer Loan,dummy
+1493279,492,Debt collection,2.9678999562747777,valide,,Mortgage,dummy
+1496184,332,Debt collection,2.3708000080659986,valide,,Debt collection,dummy
+1497481,989,Debt collection,3.0350000015459955,valide,,Debt collection,dummy
+1498069,1263,Debt collection,3.1778999837115407,valide,,Credit card,dummy
+1498077,175,Debt collection,1.964900002349168,valide,,Credit reporting,dummy
+1500811,73,Debt collection,2.892900025472045,valide,,Credit reporting,dummy
+1500841,3726,Debt collection,4.6805000165477395,valide,,Mortgage,dummy
+1504421,526,Debt collection,2.35580001026392,valide,,Money transfers,dummy
+1505529,241,Debt collection,3.7148999981582165,valide,,Credit card,dummy
+1506072,1373,Debt collection,3.0230999691411853,valide,,Bank account or service,dummy
+1510242,503,Debt collection,2.170399995520711,valide,,Credit reporting,dummy
+1512685,722,Debt collection,1.9579000072553754,valide,,Mortgage,dummy
+1522914,966,Debt collection,2.969500026665628,valide,,Mortgage,dummy
+1525616,1962,Debt collection,3.5401000059209764,valide,,Payday loan,dummy
+1526661,794,Debt collection,3.3205999643541873,valide,,Mortgage,dummy
+1527182,3880,Debt collection,5.334499990567565,valide,,Mortgage,dummy
+1530236,322,Debt collection,2.5186000275425613,valide,,Bank account or service,dummy
+1531919,822,Debt collection,4.0287000010721385,valide,,Credit reporting,dummy
+1534670,1491,Debt collection,3.625400015152991,valide,,Mortgage,dummy
+1539051,876,Debt collection,3.2408000552095473,valide,,Mortgage,dummy
+1540487,779,Debt collection,2.280400018207729,valide,,Mortgage,dummy
+1544181,1070,Debt collection,2.7849000180140138,valide,,Debt collection,dummy
+1545114,171,Debt collection,2.126400009728968,valide,,Debt collection,dummy
+1548476,385,Debt collection,2.412299974821508,valide,,Credit card,dummy
+1553635,1115,Debt collection,2.6660000439733267,valide,,Credit card,dummy
+1553925,533,Debt collection,2.2051999694667757,valide,,Debt collection,dummy
+1555469,147,Debt collection,1.9483999931253493,valide,,Debt collection,dummy
+1556590,85,Debt collection,1.6992000164464116,valide,,Credit card,dummy
+1562391,932,Debt collection,2.3022000095807016,valide,,Mortgage,dummy
+1562417,283,Debt collection,2.1359000238589942,valide,,Mortgage,dummy
+1562429,614,Debt collection,2.141100005246699,valide,,Bank account or service,dummy
+1564110,215,Debt collection,1.9246999872848392,valide,,Mortgage,dummy
+1569909,364,Debt collection,2.118400007020682,valide,,Credit card,dummy
+1571887,783,Debt collection,2.772499981801957,valide,,Consumer Loan,dummy
+1574511,439,Debt collection,2.810999983921647,valide,,Mortgage,dummy
+1577166,663,Debt collection,2.525900024920702,valide,,Credit card,dummy
+1577395,1828,Debt collection,3.194599994458258,valide,,Debt collection,dummy
+1577770,377,Debt collection,2.483299991581589,valide,,Credit reporting,dummy
+1579486,2500,Debt collection,4.60319995181635,valide,,Mortgage,dummy
+1582754,1196,Debt collection,2.8115000459365547,valide,,Bank account or service,dummy
+1583644,445,Debt collection,3.303100005723536,valide,,Bank account or service,dummy
+1585296,46,Debt collection,2.104200015310198,valide,,Credit reporting,dummy
+1589541,1324,Debt collection,2.643599989823997,valide,,Debt collection,dummy
+1590016,1638,Debt collection,3.0971000087447464,valide,,Consumer Loan,dummy
+1591556,495,Debt collection,2.5083000073209405,valide,,Credit card,dummy
+1591715,838,Debt collection,2.5548000121489167,valide,,Mortgage,dummy
+1591812,339,Debt collection,2.3828999837860465,valide,,Debt collection,dummy
+1595732,3663,Debt collection,4.821400041691959,valide,,Student loan,dummy
+1595934,311,Debt collection,2.7212999993935227,valide,,Credit reporting,dummy
+1596153,260,Debt collection,3.316699992865324,valide,,Debt collection,dummy
+1602628,3895,Debt collection,5.2214000024832785,valide,,Debt collection,dummy
+1610620,2888,Debt collection,4.311999946366996,valide,,Mortgage,dummy
+1612314,191,Debt collection,1.8931000377051532,valide,,Debt collection,dummy
+1612481,387,Debt collection,2.065699954982847,valide,,Mortgage,dummy
+1612526,494,Debt collection,3.1993999728001654,valide,,Credit reporting,dummy
+1613784,588,Debt collection,2.987299987580627,valide,,Mortgage,dummy
+1617615,1120,Debt collection,3.242800012230873,valide,,Credit card,dummy
+1621710,205,Debt collection,2.329900045879185,valide,,Credit card,dummy
+1623555,222,Debt collection,2.354600001126528,valide,,Prepaid card,dummy
+1626509,188,Debt collection,2.584200003184378,valide,,Mortgage,dummy
+1627546,38,Debt collection,3.492599993478507,valide,,Credit reporting,dummy
+1630749,704,Debt collection,2.9489000444300473,valide,,Prepaid card,dummy
+1631843,633,Debt collection,2.6900999946519732,valide,,Credit reporting,dummy
+1639436,1883,Debt collection,3.598499984946102,valide,,Consumer Loan,dummy
+1642152,208,Debt collection,2.482400042936206,valide,,Debt collection,dummy
+1650506,2177,Debt collection,4.059899947606027,valide,,Mortgage,dummy
+1650517,758,Debt collection,2.36169999698177,valide,,Bank account or service,dummy
+1656185,1187,Debt collection,3.316999995149672,valide,,Credit card,dummy
+1657205,1554,Debt collection,4.215800028759986,valide,,Mortgage,dummy
+1661068,1148,Debt collection,2.820399997290224,valide,,Debt collection,dummy
+1666799,2001,Debt collection,3.4697999944910407,valide,,Bank account or service,dummy
+1667046,238,Debt collection,2.480700029991567,valide,,Debt collection,dummy
+1669900,3067,Debt collection,4.236499953549355,valide,,Bank account or service,dummy
+1672544,1982,Debt collection,3.552399983163923,valide,,Prepaid card,dummy
+1676493,1370,Debt collection,3.138400032185018,valide,,Consumer Loan,dummy
+1678093,708,Debt collection,2.4150999961420894,valide,,Debt collection,dummy
+1678961,1027,Debt collection,4.735699971206486,valide,,Credit reporting,dummy
+1682784,493,Debt collection,1.936800021212548,valide,,Debt collection,dummy
+1683914,2854,Debt collection,4.37509996118024,valide,,Mortgage,dummy
+1685611,1262,Debt collection,3.6835999926552176,valide,,Mortgage,dummy
+1689828,566,Debt collection,3.009999985806644,valide,,Debt collection,dummy
+1691135,468,Debt collection,2.944599953480065,valide,,Credit reporting,dummy
+1693336,1232,Debt collection,4.003999987617135,valide,,Credit card,dummy
+1695344,176,Debt collection,2.13350000558421,valide,,Credit card,dummy
+1695935,3166,Debt collection,4.065999994054437,valide,,Mortgage,dummy
+1697246,3036,Debt collection,5.078700021840632,valide,,Debt collection,dummy
+1714281,1772,Debt collection,2.807999961078167,valide,,Mortgage,dummy
+1718160,1770,Debt collection,3.181799955200404,valide,,Mortgage,dummy
+1727705,1133,Debt collection,3.8632999639958143,valide,,Credit card,dummy
+1728610,81,Debt collection,1.8967000069096684,valide,,Bank account or service,dummy
+1728988,324,Debt collection,2.0404999959282577,valide,,Consumer Loan,dummy
+1747517,719,Debt collection,6.958800018765032,valide,,Student loan,dummy
+1748681,412,Debt collection,16.132400021888316,valide,,Credit card,dummy
+1755248,492,Debt collection,5.2986000082455575,valide,,Debt collection,dummy
+1756767,1198,Debt collection,7.701599970459938,valide,,Credit card,dummy
+1761555,217,Debt collection,2.6291999965906143,valide,,Consumer Loan,dummy
+1765487,3034,Debt collection,4.104599996935576,valide,,Bank account or service,dummy
+1767401,640,Debt collection,3.1645999988541007,valide,,Credit reporting,dummy
+1767703,396,Debt collection,4.502099996898323,valide,,Credit card,dummy
+1771215,495,Debt collection,4.867799987550825,valide,,Credit reporting,dummy
+1781394,1275,Debt collection,3.856999974232167,valide,,Credit reporting,dummy
+1785360,1774,Debt collection,3.2211000216193497,valide,,Mortgage,dummy
+1789023,2742,Debt collection,3.951999999117106,valide,,Mortgage,dummy
+1789243,2993,Debt collection,4.217899986542761,valide,,Mortgage,dummy
+1789521,533,Debt collection,2.402900019660592,valide,,Debt collection,dummy
+1792984,3921,Debt collection,4.384899977594614,valide,,Bank account or service,dummy
+1794681,1947,Debt collection,3.2922999816946685,valide,,Debt collection,dummy
+1797501,813,Debt collection,2.85360001726076,valide,,Credit reporting,dummy
+1798074,1028,Debt collection,3.518399957101792,valide,,Mortgage,dummy
+1804128,3165,Debt collection,4.971999966073781,valide,,Mortgage,dummy
+1805774,1520,Debt collection,3.6888999748043716,valide,,Bank account or service,dummy
+1805969,3462,Debt collection,5.4579999996349216,valide,,Mortgage,dummy
+1807034,503,Debt collection,2.8606000123545527,valide,,Mortgage,dummy
+1810336,209,Debt collection,2.3406000109389424,valide,,Debt collection,dummy
+1813804,667,Debt collection,2.2590000298805535,valide,,Credit reporting,dummy
+1816655,489,Debt collection,2.1825999720022082,valide,,Mortgage,dummy
+1817335,1775,Debt collection,2.934299991466105,valide,,Payday loan,dummy
+1818113,165,Debt collection,2.1224000374786556,valide,,Debt collection,dummy
+1818562,893,Debt collection,2.733199973590672,valide,,Credit reporting,dummy
+1822437,572,Debt collection,2.3660999722778797,valide,,Credit card,dummy
+1827894,360,Debt collection,2.090000023599714,valide,,Bank account or service,dummy
+1829409,538,Debt collection,2.40320002194494,valide,,Credit reporting,dummy
+1829993,462,Debt collection,2.324200002476573,valide,,Credit card,dummy
+1830451,2364,Debt collection,3.4636000054888427,valide,,Mortgage,dummy
+1838360,237,Debt collection,2.9885999974794686,valide,,Credit reporting,dummy
+1840371,767,Debt collection,3.251299960538745,valide,,Debt collection,dummy
+1845498,2730,Debt collection,4.141499986872077,valide,,Mortgage,dummy
+1847040,730,Debt collection,2.7827000012621284,valide,,Credit card,dummy
+1847136,413,Debt collection,2.3683999897912145,valide,,Mortgage,dummy
+1850303,387,Debt collection,2.5519999908283353,valide,,Debt collection,dummy
+1852441,2324,Debt collection,3.7880000309087336,valide,,Debt collection,dummy
+1861470,214,Debt collection,2.894400036893785,valide,,Debt collection,dummy
+1861704,430,Debt collection,2.448400016874075,valide,,Consumer Loan,dummy
+1863185,220,Debt collection,2.1146999788470566,valide,,Debt collection,dummy
+1864193,718,Debt collection,2.7057999977841973,valide,,Credit reporting,dummy
+1872112,423,Debt collection,2.3870999575592577,valide,,Credit reporting,dummy
+1872438,1012,Debt collection,3.288600011728704,valide,,Debt collection,dummy
+1879728,1156,Debt collection,2.916499972343445,valide,,Bank account or service,dummy
+1881943,684,Debt collection,2.2276000236161053,valide,,Bank account or service,dummy
+1882563,245,Debt collection,2.1378000383265316,valide,,Payday loan,dummy
+1894320,619,Debt collection,2.321500040125102,valide,,Mortgage,dummy
+1895598,455,Debt collection,2.0954000065103173,valide,,Credit reporting,dummy
+1898488,375,Debt collection,3.0549000366590917,valide,,Bank account or service,dummy
+1903040,2280,Debt collection,3.8052000454626977,valide,,Debt collection,dummy
+1905909,1700,Debt collection,3.154599980916828,valide,,Debt collection,dummy
+1906791,1795,Debt collection,3.1882000039331615,valide,,Mortgage,dummy
+1907542,1338,Debt collection,2.899100014474243,valide,,Consumer Loan,dummy
+1909546,1303,Debt collection,4.097500001080334,valide,,Student loan,dummy
+1914925,1082,Debt collection,3.4954000147990882,valide,,Mortgage,dummy
+1916677,618,Debt collection,3.2023999956436455,valide,,Debt collection,dummy
+1921619,2503,Debt collection,3.5883000236935914,valide,,Credit reporting,dummy
+1921886,245,Debt collection,1.904799952171743,valide,,Mortgage,dummy
+1922034,75,Debt collection,2.3079999955371022,valide,,Debt collection,dummy
+1922878,1030,Debt collection,2.68470001174137,valide,,Mortgage,dummy
+1924859,373,Debt collection,2.369499998167157,valide,,Debt collection,dummy
+1925828,94,Debt collection,2.0471999887377024,valide,,Debt collection,dummy
+1926461,443,Debt collection,2.607799950055778,valide,,Debt collection,dummy
+1931713,102,Debt collection,2.657199976965785,valide,,Payday loan,dummy
+1935407,468,Debt collection,3.308700048364699,valide,,Credit reporting,dummy
+1939528,136,Debt collection,3.6754999891854823,valide,,Credit card,dummy
+1940808,777,Debt collection,3.1023999908939004,valide,,Credit card,dummy
+1943017,310,Debt collection,2.973700000438839,valide,,Consumer Loan,dummy
+1945269,369,Debt collection,2.2701999987475574,valide,,Credit reporting,dummy
+1952282,91,Debt collection,2.243399969302118,valide,,Student loan,dummy
+1952870,877,Debt collection,3.8270000368356705,valide,,Debt collection,dummy
+1953368,139,Debt collection,2.009000047110021,valide,,Credit reporting,dummy
+1954713,1453,Debt collection,2.79440003214404,valide,,Credit card,dummy
+1958081,259,Debt collection,2.449299965519458,valide,,Debt collection,dummy
+1958621,519,Debt collection,4.964199964888394,valide,,Debt collection,dummy
+1960313,2506,Debt collection,6.8174999905750155,valide,,Mortgage,dummy
+1960480,618,Debt collection,2.802400034852326,valide,,Mortgage,dummy
+1962525,2124,Debt collection,4.579200001899153,valide,,Bank account or service,dummy
+1963694,3188,Debt collection,9.361600037664175,valide,,Debt collection,dummy
+1965904,3908,Debt collection,4.645700042601675,valide,,Mortgage,dummy
+1972910,1588,Debt collection,3.1420000013895333,valide,,Credit reporting,dummy
+1975193,1460,Debt collection,3.2070999732241035,valide,,Mortgage,dummy
+1989727,545,Debt collection,2.7382999542169273,valide,,Consumer Loan,dummy
+1998809,887,Debt collection,4.91160003002733,valide,,Mortgage,dummy
+2001197,1161,Debt collection,3.399200038984418,valide,,Credit reporting,dummy
+2001686,757,Debt collection,2.7048999909311533,valide,,Debt collection,dummy
+2005312,3413,Debt collection,7.25389999570325,valide,,Credit reporting,dummy
+2006333,1091,Debt collection,2.7182999765500426,valide,,Debt collection,dummy
+2010062,448,Debt collection,3.791700000874698,valide,,Debt collection,dummy
+2016532,1370,Debt collection,3.2837000326253474,valide,,Bank account or service,dummy
+2021185,271,Debt collection,2.463800017721951,valide,,Debt collection,dummy
+2024231,594,Debt collection,2.424100006464869,valide,,Mortgage,dummy
+2032252,936,Debt collection,2.940600039437413,valide,,Credit reporting,dummy
+2035733,889,Debt collection,2.4827999877743423,valide,,Student loan,dummy
+2036231,2168,Debt collection,3.756200021598488,valide,,Bank account or service,dummy
+2044167,711,Debt collection,2.786099968943745,valide,,Credit reporting,dummy
+2054709,674,Debt collection,2.401100005954504,valide,,Credit card,dummy
+2056578,460,Debt collection,2.482699987012893,valide,,Debt collection,dummy
+2057191,3417,Debt collection,3.7776000099256635,valide,,Bank account or service,dummy
+2062920,444,Debt collection,1.8607000238262117,valide,,Credit card,dummy
+2062989,3863,Debt collection,4.423399979714304,valide,,Mortgage,dummy
+2064578,28,Debt collection,1.9925999804399908,valide,,Debt collection,dummy
+2066350,1412,Debt collection,2.515500003937632,valide,,Debt collection,dummy
+2070911,3876,Debt collection,5.326899990905076,valide,,Consumer Loan,dummy
+2072650,620,Debt collection,3.0756000196561217,valide,,Credit reporting,dummy
+2079062,2052,Debt collection,3.0408999882638454,valide,,Mortgage,dummy
+2079387,827,Debt collection,2.4836999946273863,valide,,Credit reporting,dummy
+2080511,1820,Debt collection,3.5203000297769904,valide,,Mortgage,dummy
+2081382,2608,Debt collection,3.796100034378469,valide,,Student loan,dummy
+2082248,1126,Debt collection,2.804799994919449,valide,,Consumer Loan,dummy
+2084809,62,Debt collection,2.2353999665938318,valide,,Credit card,dummy
+2086787,1181,Debt collection,3.3724000095389783,valide,,Mortgage,dummy
+2087976,214,Debt collection,2.1317999926395714,valide,,Credit reporting,dummy
+2090600,236,Debt collection,2.1966000203974545,valide,,Debt collection,dummy
+2090855,748,Debt collection,2.7022999711334705,valide,,Credit reporting,dummy
+2090995,3809,Debt collection,4.713699978310615,valide,,Bank account or service,dummy
+2092755,179,Debt collection,2.050400013104081,valide,,Credit reporting,dummy
+2098019,377,Debt collection,2.0800000056624413,valide,,Credit reporting,dummy
+2104006,1265,Debt collection,2.97070003580302,valide,,Debt collection,dummy
+2106274,417,Debt collection,2.6051000459119678,valide,,Consumer Loan,dummy
+2107040,1249,Debt collection,3.133099991828203,valide,,Bank account or service,dummy
+2109799,105,Debt collection,1.8606999656185508,valide,,Debt collection,dummy
+2112008,857,Debt collection,2.8790999785996974,valide,,Credit reporting,dummy
+2112727,1086,Debt collection,2.1087999921292067,valide,,Mortgage,dummy
+2118380,1871,Debt collection,3.5806000232696533,valide,,Debt collection,dummy
+2124747,1248,Debt collection,3.541400015819818,valide,,Student loan,dummy
+2130153,796,Debt collection,4.682400031015277,valide,,Bank account or service,dummy
+2130425,715,Debt collection,3.1413999968208373,valide,,Mortgage,dummy
+2134545,1002,Debt collection,3.1453000265173614,valide,,Credit reporting,dummy
+2139120,298,Debt collection,2.3159999982453883,valide,,Bank account or service,dummy
+2146174,436,Debt collection,2.3369999835267663,valide,,Consumer Loan,dummy
+2147086,1240,Debt collection,2.8621999663300812,valide,,Credit reporting,dummy
+2147110,302,Debt collection,2.0370999700389802,valide,,Credit reporting,dummy
+2147247,462,Debt collection,2.205900033004582,valide,,Credit card,dummy
+2149492,1003,Debt collection,3.063299984205514,valide,,Debt collection,dummy
+2150556,1679,Debt collection,3.303700010292232,valide,,Mortgage,dummy
+2152410,2486,Debt collection,3.8531000027433038,valide,,Credit reporting,dummy
+2153679,241,Debt collection,1.9779999856837094,valide,,Credit reporting,dummy
+2154464,392,Debt collection,2.199399983510375,valide,,Money transfers,dummy
+2157683,376,Debt collection,2.091200032737106,valide,,Consumer Loan,dummy
+2164779,435,Debt collection,2.2843999904580414,valide,,Credit reporting,dummy
+2165449,1148,Debt collection,2.6199999847449362,valide,,Credit card,dummy
+2166258,1092,Debt collection,2.881899999920279,valide,,Bank account or service,dummy
+2166419,149,Debt collection,2.5977000477723777,valide,,Debt collection,dummy
+2166588,2197,Debt collection,3.216099983546883,valide,,Debt collection,dummy
+2170703,722,Debt collection,2.3087000008672476,valide,,Bank account or service,dummy
+2174159,83,Debt collection,1.9885999499820173,valide,,Bank account or service,dummy
+2178377,396,Debt collection,2.375099982600659,valide,,Credit card,dummy
+2178503,747,Debt collection,2.9731999966315925,valide,,Credit reporting,dummy
+2182443,158,Debt collection,1.6515000024810433,valide,,Debt collection,dummy
+2182602,604,Debt collection,2.4065999896265566,valide,,Mortgage,dummy
+2183179,445,Debt collection,2.5412000250071287,valide,,Student loan,dummy
+2183362,2110,Debt collection,3.0308999703265727,valide,,Other financial service,dummy
+2186887,2506,Debt collection,4.029100004117936,valide,,Mortgage,dummy
+2187244,3823,Debt collection,5.62259997241199,valide,,Bank account or service,dummy
+2189806,1980,Debt collection,4.9649000284262,valide,,Credit card,dummy
+2198923,858,Debt collection,2.619400038383901,valide,,Student loan,dummy
+2199354,364,Debt collection,3.0027999891899526,valide,,Consumer Loan,dummy
+2202119,80,Debt collection,2.101799997035414,valide,,Credit reporting,dummy
+2205135,648,Debt collection,2.433400019071996,valide,,Debt collection,dummy
+2206136,268,Debt collection,2.389599976595491,valide,,Debt collection,dummy
+2206764,506,Debt collection,2.1268000127747655,valide,,Debt collection,dummy
+2207285,749,Debt collection,2.3447999847121537,valide,,Credit card,dummy
+2211067,1656,Debt collection,2.8782000299543142,valide,,Mortgage,dummy
+2213977,850,Debt collection,2.882800006773323,valide,,Debt collection,dummy
+2216323,1274,Debt collection,2.994900045450777,valide,,Credit reporting,dummy
+2216809,1453,Debt collection,3.2202000147663057,valide,,Student loan,dummy
+2217643,435,Debt collection,2.081400016322732,valide,,Credit card,dummy
+2218239,1627,Debt collection,3.193400043528527,valide,,Credit reporting,dummy
+2224202,937,Debt collection,2.7733000461012125,valide,,Credit card,dummy
+2224495,420,Debt collection,2.3838000488467515,valide,,Mortgage,dummy
+2224736,613,Debt collection,2.8747000033035874,valide,,Credit reporting,dummy
+2228641,947,Debt collection,2.541300025768578,valide,,Mortgage,dummy
+2229734,381,Debt collection,2.902400039602071,valide,,Debt collection,dummy
+2230675,1331,Debt collection,2.977500029373914,valide,,Mortgage,dummy
+2234364,346,Debt collection,3.6566999624483287,valide,,Debt collection,dummy
+2234404,306,Debt collection,2.2480000043287873,valide,,Credit card,dummy
+2237779,938,Debt collection,2.819299988914281,valide,,Debt collection,dummy
+2242482,2157,Debt collection,3.6518999841064215,valide,,Consumer Loan,dummy
+2248041,942,Debt collection,2.5698000099509954,valide,,Mortgage,dummy
+2250987,940,Debt collection,2.446700003929436,valide,,Debt collection,dummy
+2252503,495,Debt collection,2.357899968046695,valide,,Credit reporting,dummy
+2254723,169,Debt collection,1.9717999966815114,valide,,Debt collection,dummy
+2259828,691,Debt collection,2.642699982970953,valide,,Credit card,dummy
+2263785,3349,Debt collection,4.875199985690415,valide,,Mortgage,dummy
+2264253,253,Debt collection,1.894499990157783,valide,,Mortgage,dummy
+2265512,653,Debt collection,2.159399969968945,valide,,Credit reporting,dummy
+2266628,468,Debt collection,2.434800029732287,valide,,Mortgage,dummy
+2267090,189,Debt collection,1.9435000140219927,valide,,Consumer Loan,dummy
+2271310,326,Debt collection,1.996200007852167,valide,,Credit reporting,dummy
+2272411,1052,Debt collection,2.4651000276207924,valide,,Consumer Loan,dummy
+2278441,280,Debt collection,1.7930999747477472,valide,,Credit card,dummy
+2278845,221,Debt collection,2.437499992083758,valide,,Bank account or service,dummy
+2281195,417,Debt collection,2.049400005489588,valide,,Debt collection,dummy
+2283163,313,Debt collection,2.1640000049956143,valide,,Debt collection,dummy
+2287638,622,Debt collection,2.2721999557688832,valide,,Debt collection,dummy
+2288368,205,Debt collection,1.8044000025838614,valide,,Debt collection,dummy
+2289817,1019,Debt collection,2.5625000125728548,valide,,Credit card,dummy
+2291775,363,Debt collection,2.3181000142358243,valide,,Credit reporting,dummy
+2292545,401,Debt collection,2.426500024739653,valide,,Mortgage,dummy
+2292833,767,Debt collection,2.787899982649833,valide,,Credit reporting,dummy
+2293270,414,Debt collection,3.2893999596126378,valide,,Student loan,dummy
+2295638,119,Debt collection,2.563999965786934,valide,,Credit reporting,dummy
+2295779,1211,Debt collection,3.21649998659268,valide,,Student loan,dummy
+2297823,416,Debt collection,2.3113000206649303,valide,,Student loan,dummy
+2299363,1564,Debt collection,3.389200021047145,valide,,Student loan,dummy
+2299662,151,Debt collection,2.039099985267967,valide,,Student loan,dummy
+2299768,922,Debt collection,2.545099996495992,valide,,Student loan,dummy
+2299827,2329,Debt collection,3.213799966033548,valide,,Credit card,dummy
+2300004,427,Debt collection,2.036100020632148,valide,,Mortgage,dummy
+2301260,984,Debt collection,2.4557000142522156,valide,,Consumer Loan,dummy
+2303606,1766,Debt collection,3.2215999672189355,valide,,Student loan,dummy
+2305781,1692,Debt collection,3.022800025064498,valide,,Debt collection,dummy
+2306799,625,Debt collection,2.343099971767515,valide,,Bank account or service,dummy
+2308900,394,Debt collection,1.8817000091075897,valide,,Mortgage,dummy
+2310149,751,Debt collection,1.706100010778755,valide,,Credit card,dummy
+2310693,3333,Debt collection,3.2509000157006085,valide,,Consumer Loan,dummy
+2312769,886,Debt collection,2.141200006008148,valide,,Debt collection,dummy
+2316723,464,Debt collection,2.140800002962351,valide,,Debt collection,dummy
+2318771,1597,Debt collection,3.127100004348904,valide,,Debt collection,dummy
+2325138,110,Debt collection,1.7633999814279377,valide,,Credit reporting,dummy
+2326973,299,Debt collection,1.8433000077493489,valide,,Debt collection,dummy
+2334419,1438,Debt collection,2.574099984485656,valide,,Debt collection,dummy
+2341932,487,Debt collection,1.7145999590866268,valide,,Debt collection,dummy
+2351336,691,Debt collection,1.8837999668903649,valide,,Consumer Loan,dummy
+2351625,1353,Debt collection,1.8649999983608723,valide,,Mortgage,dummy
+2352338,658,Debt collection,2.105900028254837,valide,,Debt collection,dummy
+2352579,795,Debt collection,2.8654999914579093,valide,,Student loan,dummy
+2360538,1079,Debt collection,3.456599952187389,valide,,Bank account or service,dummy
+2364111,439,Debt collection,2.470000006724149,valide,,Debt collection,dummy
+2366088,272,Debt collection,2.0737999584525824,valide,,Credit reporting,dummy
+2366225,653,Debt collection,1.7911000177264214,valide,,Credit reporting,dummy
+2368562,269,Debt collection,1.6000000177882612,valide,,Debt collection,dummy
+2370263,2235,Debt collection,4.144699953030795,valide,,Credit card,dummy
+2370880,53,Debt collection,2.2390999947674572,valide,,Debt collection,dummy
+2377503,250,Debt collection,1.496099983341992,valide,,Credit reporting,dummy
+2383599,535,Debt collection,1.7242000321857631,valide,,Credit reporting,dummy
+2386136,506,Debt collection,2.9975000070407987,valide,,Debt collection,dummy
+2390215,838,Debt collection,2.66840000404045,valide,,Credit card,dummy
+2390513,892,Debt collection,2.9286000062711537,valide,,Mortgage,dummy
+2392509,111,Debt collection,2.007200033403933,valide,,Mortgage,dummy
+2396277,1869,Debt collection,3.236199961975217,valide,,Mortgage,dummy
+2400859,2116,Debt collection,3.958999994210899,valide,,Bank account or service,dummy
+2403918,89,Debt collection,2.039399987552315,valide,,Debt collection,dummy
+2407173,608,Debt collection,2.602199965622276,valide,,Credit reporting,dummy
+2414025,670,Debt collection,2.674999996088445,valide,,Mortgage,dummy
+2414432,611,Debt collection,2.5442999904043972,valide,,Student loan,dummy
+2414831,943,Debt collection,2.522900002077222,valide,,Debt collection,dummy
+2418124,1770,Debt collection,3.0712999869138002,valide,,Mortgage,dummy
+2418311,457,Debt collection,2.2744000307284296,valide,,Credit reporting,dummy
+2421120,730,Debt collection,2.2629000013694167,valide,,Credit reporting,dummy
+2421866,903,Debt collection,2.1855999948456883,valide,,Mortgage,dummy
+2421964,3464,Debt collection,4.4655000092461705,valide,,Credit card,dummy
+2422640,419,Debt collection,1.8423000001348555,valide,,Credit reporting,dummy
+2423690,1052,Debt collection,2.923999971244484,valide,,Student loan,dummy
+2425123,55,Debt collection,3.8415000308305025,valide,,Debt collection,dummy
+2426316,1437,Debt collection,8.641900029033422,valide,,Student loan,dummy
+2429719,948,Debt collection,2.8230000170879066,valide,,Debt collection,dummy
+2432276,1031,Debt collection,2.638900012243539,valide,,Credit card,dummy
+2437158,510,Debt collection,2.4508999777026474,valide,,Credit reporting,dummy
+2437616,1280,Debt collection,2.6459000073373318,valide,,Credit card,dummy
+2437617,121,Debt collection,2.7602000045590103,valide,,Credit reporting,dummy
+2439172,183,Debt collection,2.3803000221960247,valide,,Credit card,dummy
+2441536,628,Debt collection,2.2624999983236194,valide,,Student loan,dummy
+2443518,1405,Debt collection,2.674099989235401,valide,,Mortgage,dummy
+2443773,57,Debt collection,1.658799999859184,valide,,Credit reporting,dummy
+2467124,666,Debt collection,2.5840000016614795,valide,,Debt collection,dummy
+2471016,1095,Debt collection,2.697200048714876,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2472024,1141,Debt collection,2.5333999656140804,valide,,Mortgage,dummy
+2473558,2456,Debt collection,2.9519000090658665,valide,,Mortgage,dummy
+2474031,193,Debt collection,1.732399978209287,valide,,Debt collection,dummy
+2475109,5532,Debt collection,7.578200020361692,valide,,Checking or savings account,dummy
+2475646,698,Debt collection,3.32319998415187,valide,,Vehicle loan or lease,dummy
+2476841,280,Debt collection,1.8849000334739685,valide,,Debt collection,dummy
+2477305,102,Debt collection,1.7594999517314136,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2477702,2214,Debt collection,2.9135000077076256,valide,,Debt collection,dummy
+2481351,413,Debt collection,1.783000014256686,valide,,Credit card or prepaid card,dummy
+2481361,109,Debt collection,1.5650999848730862,valide,,Debt collection,dummy
+2482007,1636,Debt collection,2.5385000044479966,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2482187,1828,Debt collection,7.216500001959503,valide,,Mortgage,dummy
+2482470,2403,Debt collection,5.271599977277219,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2485426,1169,Debt collection,2.3941000108607113,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2486322,1100,Debt collection,2.8382999589666724,valide,,Mortgage,dummy
+2488150,477,Debt collection,2.279300009831786,valide,,Debt collection,dummy
+2488403,563,Debt collection,3.960799949709326,valide,,Debt collection,dummy
+2491311,2920,Debt collection,4.579100001137704,valide,,"Money transfer, virtual currency, or money service",dummy
+2491660,2112,Debt collection,3.4958000178448856,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2493766,448,Debt collection,2.319499966688454,valide,,Checking or savings account,dummy
+2495933,530,Debt collection,2.347600006032735,valide,,Checking or savings account,dummy
+2495979,848,Debt collection,2.7317999629303813,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2496037,1298,Debt collection,2.9633999802172184,valide,,Student loan,dummy
+2496743,829,Debt collection,2.295200014486909,valide,,Student loan,dummy
+2497201,2072,Debt collection,3.193899989128113,valide,,Credit card or prepaid card,dummy
+2498096,846,Debt collection,2.2817000281065702,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2500078,193,Debt collection,1.65789999300614,valide,,Student loan,dummy
+2502179,964,Debt collection,2.4473000084981322,valide,,Debt collection,dummy
+2505130,805,Debt collection,2.521399990655482,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2540713,1145,Debt collection,2.4009000044316053,valide,,Debt collection,dummy
+2541786,3897,Debt collection,3.5321000032126904,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2542255,621,Debt collection,2.144999976735562,valide,,Debt collection,dummy
+2545082,269,Debt collection,1.8132999539375305,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2548231,940,Debt collection,2.46700004208833,valide,,Checking or savings account,dummy
+2548862,262,Debt collection,1.969899982213974,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2552305,1492,Debt collection,2.167800033930689,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2553244,625,Debt collection,2.2779999999329448,valide,,Mortgage,dummy
+2554856,657,Debt collection,2.3612999939359725,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2555800,716,Debt collection,2.252299978863448,valide,,Vehicle loan or lease,dummy
+2556295,398,Debt collection,2.1326999994926155,valide,,Debt collection,dummy
+2557125,310,Debt collection,1.6624999698251486,valide,,Debt collection,dummy
+2557186,706,Debt collection,1.6550999716855586,valide,,Student loan,dummy
+2557722,274,Debt collection,1.864299993030727,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2558216,1555,Debt collection,3.368499979842454,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2559294,2636,Debt collection,3.4529000404290855,valide,,"Money transfer, virtual currency, or money service",dummy
+2559461,307,Debt collection,2.0434000180102885,valide,,Checking or savings account,dummy
+2560126,1481,Debt collection,2.821400004904717,valide,,Checking or savings account,dummy
+2561721,245,Debt collection,1.8112999969162047,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2562457,3783,Debt collection,4.66109998524189,valide,,Credit card or prepaid card,dummy
+2562973,1257,Debt collection,2.6596999960020185,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2563657,692,Debt collection,2.3167000035755336,valide,,Mortgage,dummy
+2565371,233,Debt collection,2.458399976603687,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2568244,506,Debt collection,2.279500011354685,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2568271,570,Debt collection,2.1704999962821603,valide,,Debt collection,dummy
+2568801,578,Debt collection,2.0932999905198812,valide,,Debt collection,dummy
+2569353,675,Debt collection,2.7424999861977994,valide,,Debt collection,dummy
+2570423,941,Debt collection,2.478600014001131,valide,,Checking or savings account,dummy
+2570461,921,Debt collection,4.923100001178682,valide,,Credit card or prepaid card,dummy
+2573841,838,Debt collection,2.6060999953188,valide,,Mortgage,dummy
+2578353,1476,Debt collection,3.272400004789233,valide,,Student loan,dummy
+2578494,323,Debt collection,2.387500018812716,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2579359,651,Debt collection,2.6314000133424997,valide,,Debt collection,dummy
+2581352,226,Debt collection,1.8662000074982643,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2581783,1167,Debt collection,2.7011000202037394,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2581888,1042,Debt collection,3.1570999999530613,valide,,Mortgage,dummy
+2582102,1440,Debt collection,2.884000015910715,valide,,Mortgage,dummy
+2582958,611,Debt collection,2.692700014449656,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2583104,1083,Debt collection,2.883400011342019,valide,,Vehicle loan or lease,dummy
+2583326,1449,Debt collection,2.475100045558065,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2584237,301,Debt collection,1.7570999916642904,valide,,Credit card or prepaid card,dummy
+2585713,1258,Debt collection,2.2830000380054116,valide,,Debt collection,dummy
+2586367,194,Debt collection,1.7819000058807433,valide,,Vehicle loan or lease,dummy
+2588210,1646,Debt collection,3.4833999816328287,valide,,Mortgage,dummy
+2590348,415,Debt collection,2.3946999572217464,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2592363,1083,Debt collection,2.1471999934874475,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2592984,361,Debt collection,2.4524000473320484,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2593387,368,Debt collection,2.0819000201299787,valide,,Debt collection,dummy
+2595805,523,Debt collection,2.179899951443076,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2597033,409,Debt collection,1.852200017310679,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2601298,2648,Debt collection,3.0627999803982675,valide,,Credit card or prepaid card,dummy
+2602100,646,Debt collection,2.6701000169850886,valide,,Debt collection,dummy
+2603972,503,Debt collection,3.488800022751093,valide,,Vehicle loan or lease,dummy
+2607690,6102,Debt collection,7.09260004805401,valide,,Mortgage,dummy
+2612384,1004,Debt collection,2.009199990425259,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2624462,888,Debt collection,1.6660999972373247,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2626379,1524,Debt collection,2.6579000405035913,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2630778,1275,Debt collection,2.3125000298023224,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2630785,521,Debt collection,2.23129999358207,valide,,Credit card or prepaid card,dummy
+2630938,1989,Debt collection,3.2529999734833837,valide,,Mortgage,dummy
+2633594,815,Debt collection,1.9981999648734927,valide,,Mortgage,dummy
+2634256,237,Debt collection,1.9112000009045005,valide,,Debt collection,dummy
+2644476,1117,Debt collection,2.617900026962161,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2645579,764,Debt collection,2.878999977838248,valide,,Credit card or prepaid card,dummy
+2645833,2160,Debt collection,2.7796999784186482,valide,,Mortgage,dummy
+2646286,1201,Debt collection,2.6153000071644783,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2647998,3330,Debt collection,4.147299972828478,valide,,Student loan,dummy
+2649339,1621,Debt collection,3.028000006452203,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2651641,1190,Debt collection,2.8264999855309725,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2652075,1343,Debt collection,3.5909999860450625,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2652081,480,Debt collection,2.3597999825142324,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2652231,1092,Debt collection,2.812499995343387,valide,,Mortgage,dummy
+2652432,3413,Debt collection,4.552099970169365,valide,,Mortgage,dummy
+2653011,471,Debt collection,1.8331000464968383,valide,,Checking or savings account,dummy
+2653078,1017,Debt collection,2.7197999879717827,valide,,Student loan,dummy
+2653756,420,Debt collection,2.134300011675805,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2653961,2141,Debt collection,3.0397999798879027,valide,,"Money transfer, virtual currency, or money service",dummy
+2655184,1781,Debt collection,2.977800031658262,valide,,Student loan,dummy
+2656161,2858,Debt collection,4.1674000094644725,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2659202,1190,Debt collection,3.3655999577604234,valide,,Student loan,dummy
+2660304,199,Debt collection,1.8352000042796135,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2662600,1763,Debt collection,3.2669000211171806,valide,,Debt collection,dummy
+2662767,513,Debt collection,2.1968999644741416,valide,,Debt collection,dummy
+2662920,451,Debt collection,2.0593999652191997,valide,,Student loan,dummy
+2663370,361,Debt collection,1.8455999670550227,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2663412,252,Debt collection,1.8387000309303403,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2663451,458,Debt collection,1.8223000224679708,valide,,Credit card or prepaid card,dummy
+2665094,380,Debt collection,2.7416000375524163,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2667433,208,Debt collection,2.3431999725289643,valide,,Credit card or prepaid card,dummy
+2667530,391,Debt collection,2.2674999781884253,valide,,Credit card or prepaid card,dummy
+2667585,150,Debt collection,2.0252999966032803,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2668307,84,Debt collection,1.635099994018674,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2668846,214,Debt collection,2.3908999864943326,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2670344,1082,Debt collection,2.4400000111199915,valide,,Mortgage,dummy
+2670579,721,Debt collection,2.7449000044725835,valide,,Debt collection,dummy
+2671830,3197,Debt collection,3.675399988424033,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2673189,2171,Debt collection,2.855700033251196,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2673233,474,Debt collection,2.1180000039748847,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2673518,1149,Debt collection,2.2897000308148563,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2674237,1280,Debt collection,2.3179000127129257,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2675075,306,Debt collection,2.2655000211670995,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2675276,727,Debt collection,2.2917999885976315,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2675605,1183,Debt collection,2.0101999980397522,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2675948,1762,Debt collection,2.908900030888617,valide,,Credit card or prepaid card,dummy
+2677902,800,Debt collection,2.427100029308349,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2679529,1053,Debt collection,3.0503999441862106,valide,,Vehicle loan or lease,dummy
+2683674,901,Debt collection,2.4902999866753817,valide,,Checking or savings account,dummy
+2686242,3455,Debt collection,5.145300005096942,valide,,Mortgage,dummy
+2686614,750,Debt collection,2.649800037033856,valide,,Credit card or prepaid card,dummy
+2688025,169,Debt collection,2.09199998062104,valide,,Vehicle loan or lease,dummy
+2688540,65,Debt collection,1.7645999905653298,valide,,Debt collection,dummy
+2689846,2420,Debt collection,2.838200016412884,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2689876,1206,Debt collection,2.3858000058680773,valide,,Student loan,dummy
+2690933,475,Debt collection,2.8117000474594533,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2691158,1359,Debt collection,3.460099978838116,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2692204,611,Debt collection,2.1923999884165823,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2694904,1205,Debt collection,3.297200019005686,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2695949,1039,Debt collection,2.9426999972201884,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2697061,2526,Debt collection,4.401100042741746,valide,,Mortgage,dummy
+2697234,1269,Debt collection,2.9528000159189105,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2697990,4050,Debt collection,4.59600001340732,valide,,Student loan,dummy
+2698393,457,Debt collection,2.3358999751508236,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2698952,312,Debt collection,2.692400012165308,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2701299,1000,Debt collection,2.6499999803490937,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2701693,461,Debt collection,3.258800017647445,valide,,Debt collection,dummy
+2702423,1510,Debt collection,4.011399985756725,valide,,Vehicle loan or lease,dummy
+2703830,155,Debt collection,2.854500024113804,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2704592,988,Debt collection,5.307800020091236,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2704651,440,Debt collection,2.776100009214133,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2705962,726,Debt collection,2.8926999657414854,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2707227,2195,Debt collection,3.626900026574731,valide,,Credit card or prepaid card,dummy
+2708951,502,Debt collection,3.541700018104166,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2711079,506,Debt collection,2.336899982765317,valide,,Debt collection,dummy
+2711116,490,Debt collection,2.300499996636063,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2712799,1644,Debt collection,3.623100055847317,valide,,Debt collection,dummy
+2714173,3167,Debt collection,3.946000011637807,valide,,Student loan,dummy
+2714407,1867,Debt collection,3.6409999593161047,valide,,Credit card or prepaid card,dummy
+2714430,957,Debt collection,2.612799988128245,valide,,Debt collection,dummy
+2715103,499,Debt collection,2.413199981674552,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2716045,1531,Debt collection,3.1239999807439744,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2717042,302,Debt collection,2.221599977929145,valide,,Vehicle loan or lease,dummy
+2718085,1407,Debt collection,2.6132999919354916,valide,,Credit card or prepaid card,dummy
+2718239,354,Debt collection,1.7743000062182546,valide,,Credit card or prepaid card,dummy
+2719446,2497,Debt collection,2.833199978340417,valide,,Mortgage,dummy
+2720263,1493,Debt collection,2.315100049600005,valide,,Debt collection,dummy
+2722422,26,Debt collection,1.8284000107087195,valide,,Credit card or prepaid card,dummy
+2723921,1276,Debt collection,3.2136000227183104,valide,,Debt collection,dummy
+2724942,1083,Debt collection,2.7348000439815223,valide,,Credit card or prepaid card,dummy
+2725456,2730,Debt collection,3.5537999938242137,valide,,Student loan,dummy
+2726147,803,Debt collection,2.507800003513694,valide,,Debt collection,dummy
+2726585,305,Debt collection,1.9100999925285578,valide,,"Payday loan, title loan, or personal loan",dummy
+2727161,116,Debt collection,1.6570999869145453,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2729599,737,Debt collection,2.6612000074237585,valide,,Credit card or prepaid card,dummy
+2730181,2044,Debt collection,4.630699986591935,valide,,Checking or savings account,dummy
+2731426,168,Debt collection,2.182000025641173,valide,,Debt collection,dummy
+2731739,208,Debt collection,2.1983999758958817,valide,,Debt collection,dummy
+2732569,667,Debt collection,1.7615999677218497,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2732891,299,Debt collection,1.8272000015713274,valide,,Student loan,dummy
+2735155,226,Debt collection,1.8675000173971057,valide,,"Payday loan, title loan, or personal loan",dummy
+2735918,831,Debt collection,3.633100015576929,valide,,"Payday loan, title loan, or personal loan",dummy
+2735941,721,Debt collection,2.947100030723959,valide,,Student loan,dummy
+2737508,837,Debt collection,2.761900017503649,valide,,Checking or savings account,dummy
+2737653,562,Debt collection,2.494000014849007,valide,,Credit card or prepaid card,dummy
+2739997,679,Debt collection,2.3719999589957297,valide,,Debt collection,dummy
+2742766,687,Debt collection,2.1452000364661217,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2743397,501,Debt collection,2.305899979546666,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2744160,455,Debt collection,2.4882000288926065,valide,,Debt collection,dummy
+2744233,1972,Debt collection,3.51129996124655,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2744416,63,Debt collection,1.623300020582974,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2744820,458,Debt collection,1.9083000370301306,valide,,Credit card or prepaid card,dummy
+2745283,1395,Debt collection,2.5038999738171697,valide,,Mortgage,dummy
+2745432,557,Debt collection,1.6326999757438898,valide,,Debt collection,dummy
+2745593,195,Debt collection,2.2930000559426844,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2745723,243,Debt collection,2.4819999816827476,valide,,Debt collection,dummy
+2748957,1663,Debt collection,2.870200027246028,valide,,Credit card or prepaid card,dummy
+2749784,3734,Debt collection,3.4988000406883657,valide,,Debt collection,dummy
+2750251,1586,Debt collection,2.351699979044497,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2750676,1633,Debt collection,2.446900005452335,valide,,Credit card or prepaid card,dummy
+2753750,1558,Debt collection,3.491799987386912,valide,,Credit card or prepaid card,dummy
+2755155,1530,Debt collection,2.7649999829009175,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2755849,1544,Debt collection,3.4346000174991786,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2756390,948,Debt collection,3.107599972281605,valide,,Credit card or prepaid card,dummy
+2760420,260,Debt collection,2.265000017359853,valide,,Student loan,dummy
+2761075,2584,Debt collection,3.3660000190138817,valide,,Mortgage,dummy
+2763190,332,Debt collection,2.756799978669733,valide,,Credit card or prepaid card,dummy
+2763602,531,Debt collection,2.748300030361861,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2764310,1414,Debt collection,2.5818999856710434,valide,,"Payday loan, title loan, or personal loan",dummy
+2766014,853,Debt collection,2.2676000371575356,valide,,Vehicle loan or lease,dummy
+2767438,418,Debt collection,1.776200020685792,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2768135,475,Debt collection,1.8678000196814537,valide,,Checking or savings account,dummy
+2772161,2079,Debt collection,3.2854999881237745,valide,,Student loan,dummy
+2772323,754,Debt collection,2.6516999932937324,valide,,Debt collection,dummy
+2772396,432,Debt collection,2.189000020734966,valide,,Debt collection,dummy
+2773639,527,Debt collection,2.1871000062674284,valide,,"Money transfer, virtual currency, or money service",dummy
+2773901,401,Debt collection,1.666500000283122,valide,,Debt collection,dummy
+2774522,671,Debt collection,1.7043999978341162,valide,,Credit card or prepaid card,dummy
+2774910,3719,Debt collection,4.00319998152554,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2775309,616,Debt collection,2.329799986910075,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2776395,484,Debt collection,1.7507000011391938,valide,,Debt collection,dummy
+2779023,1802,Debt collection,2.5473000132478774,valide,,Mortgage,dummy
+2779781,417,Debt collection,1.5579999890178442,valide,,Debt collection,dummy
+2780449,458,Debt collection,1.8396999803371727,valide,,Debt collection,dummy
+2781559,371,Debt collection,2.5756999966688454,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2784888,2028,Debt collection,3.012700006365776,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2789674,2020,Debt collection,3.470199997536838,valide,,Credit card or prepaid card,dummy
+2789857,219,Debt collection,2.6319000171497464,valide,,Debt collection,dummy
+2789905,172,Debt collection,2.513799990992993,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2790556,1064,Debt collection,3.4189000143669546,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2791756,732,Debt collection,3.2595000229775906,valide,,"Money transfer, virtual currency, or money service",dummy
+2794152,1094,Debt collection,3.2902000239118934,valide,,Credit card or prepaid card,dummy
+2795077,1220,Debt collection,3.391200036276132,valide,,Debt collection,dummy
+2796119,1468,Debt collection,3.1169999856501818,valide,,Credit card or prepaid card,dummy
+2796328,232,Debt collection,2.2278999676927924,valide,,"Money transfer, virtual currency, or money service",dummy
+2798053,1125,Debt collection,3.398600034415722,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2798458,171,Debt collection,2.037299971561879,valide,,"Money transfer, virtual currency, or money service",dummy
+2799626,789,Debt collection,2.666599990334362,valide,,Mortgage,dummy
+2799998,2539,Debt collection,3.1755000236444175,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2800953,1130,Debt collection,2.7114999829791486,valide,,Mortgage,dummy
+2802978,1904,Debt collection,3.391199978068471,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2803494,2280,Debt collection,2.9477000352926552,valide,,Credit card or prepaid card,dummy
+2806661,851,Debt collection,1.9088999833911657,valide,,Student loan,dummy
+2806692,556,Debt collection,1.7802999936975539,valide,,Credit card or prepaid card,dummy
+2806726,596,Debt collection,2.4433000362478197,valide,,Debt collection,dummy
+2807484,2867,Debt collection,3.027800004929304,valide,,Mortgage,dummy
+2808377,235,Debt collection,3.173500008415431,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2808386,993,Debt collection,2.9115999932400882,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2810465,1959,Debt collection,3.3995999838225543,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2811040,644,Debt collection,2.696300041861832,valide,,Vehicle loan or lease,dummy
+2811182,479,Debt collection,2.6027000276371837,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2811379,975,Debt collection,2.756599977146834,valide,,Mortgage,dummy
+2812449,1956,Debt collection,2.7609000098891556,valide,,Checking or savings account,dummy
+2813031,367,Debt collection,1.6733999946154654,valide,,Mortgage,dummy
+2814066,473,Debt collection,1.6718999831937253,valide,,Credit card or prepaid card,dummy
+2814401,517,Debt collection,1.6659999964758754,valide,,Debt collection,dummy
+2824133,232,Debt collection,1.4962000423111022,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2826204,237,Debt collection,1.5051000518724322,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2826481,59,Debt collection,1.3516000472009182,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2828453,5873,Debt collection,4.500699986238033,valide,,Mortgage,dummy
+2828941,2975,Debt collection,4.9576000310480595,valide,,Mortgage,dummy
+2829792,1425,Debt collection,2.758100046776235,valide,,Mortgage,dummy
+2831427,1111,Debt collection,2.376299991738051,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2831431,607,Debt collection,2.664600033313036,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2832804,520,Debt collection,2.5256999651901424,valide,,"Money transfer, virtual currency, or money service",dummy
+2836574,243,Debt collection,2.521399990655482,valide,,Debt collection,dummy
+2838902,207,Debt collection,2.904099994339049,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2840016,6757,Debt collection,7.429699995554984,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2842242,1760,Debt collection,3.507099987473339,valide,,Student loan,dummy
+2843709,840,Debt collection,3.0048000044189394,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2843982,1291,Debt collection,3.6927000037394464,valide,,Debt collection,dummy
+2844085,2285,Debt collection,4.067799949552864,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2845388,322,Debt collection,2.7729999856092036,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2846721,623,Debt collection,3.307600039988756,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2846871,766,Debt collection,2.870200027246028,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2847776,118,Debt collection,1.927900011651218,valide,,Debt collection,dummy
+2848563,1125,Debt collection,2.716100018005818,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2849009,288,Debt collection,2.036100020632148,valide,,Debt collection,dummy
+2849018,311,Debt collection,1.9287000177428126,valide,,Credit card or prepaid card,dummy
+2849126,844,Debt collection,2.9470999725162983,valide,,Debt collection,dummy
+2850417,610,Debt collection,2.383299986831844,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2850498,3650,Debt collection,4.831300000660121,valide,,Credit card or prepaid card,dummy
+2852293,256,Debt collection,1.8146999645978212,valide,,Mortgage,dummy
+2853528,290,Debt collection,1.68299995129928,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2853664,1259,Debt collection,2.1652000141330063,valide,,Debt collection,dummy
+2853978,419,Debt collection,2.022600034251809,valide,,Debt collection,dummy
+2856844,622,Debt collection,2.777000016067177,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2856899,1444,Debt collection,2.6527000009082258,valide,,Mortgage,dummy
+2856970,816,Debt collection,1.969899982213974,valide,,Mortgage,dummy
+2859741,1576,Debt collection,2.2019000025466084,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2859909,745,Debt collection,1.8563999910838902,valide,,Debt collection,dummy
+2860013,1758,Debt collection,2.598299994133413,valide,,"Money transfer, virtual currency, or money service",dummy
+2860170,548,Debt collection,2.2957000182941556,valide,,Checking or savings account,dummy
+2861021,1400,Debt collection,2.952100010588765,valide,,Credit card or prepaid card,dummy
+2861748,568,Debt collection,2.4135999847203493,valide,,Checking or savings account,dummy
+2862506,1170,Debt collection,3.8036000332795084,valide,,"Money transfer, virtual currency, or money service",dummy
+2863149,439,Debt collection,3.696699975989759,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2863227,2429,Debt collection,4.08179999794811,valide,,Debt collection,dummy
+2863741,1735,Debt collection,3.5268000210635364,valide,,Vehicle loan or lease,dummy
+2865310,1101,Debt collection,2.9170000343583524,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2865403,2682,Debt collection,4.4012999860569835,valide,,Credit card or prepaid card,dummy
+2865533,1478,Debt collection,3.606499987654388,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2865657,5125,Debt collection,5.098699999507517,valide,,Credit card or prepaid card,dummy
+2866292,1046,Debt collection,2.245199983008206,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2867480,711,Debt collection,2.596799982711673,valide,,"Money transfer, virtual currency, or money service",dummy
+2868274,353,Debt collection,2.5228000013157725,valide,,Student loan,dummy
+2869413,745,Debt collection,2.487500023562461,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2869830,434,Debt collection,2.6154000079259276,valide,,Checking or savings account,dummy
+2874007,573,Debt collection,2.85349995829165,valide,,Credit card or prepaid card,dummy
+2874917,542,Debt collection,2.2473999997600913,valide,,Student loan,dummy
+2875576,42,Debt collection,1.825600047595799,valide,,"Money transfer, virtual currency, or money service",dummy
+2875913,1895,Debt collection,3.4315999946556985,valide,,Mortgage,dummy
+2875965,1303,Debt collection,2.8450999525375664,valide,,Student loan,dummy
+2876026,765,Debt collection,2.7475000242702663,valide,,Debt collection,dummy
+2877663,751,Debt collection,2.635000040754676,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2878910,1566,Debt collection,2.789999998640269,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2880044,1428,Debt collection,3.1302000279538333,valide,,Debt collection,dummy
+2882366,1489,Debt collection,3.2338000019080937,valide,,Debt collection,dummy
+2884517,1389,Debt collection,3.0480000423267484,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2885367,266,Debt collection,2.1016999962739646,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2888285,191,Debt collection,2.519700035918504,valide,,Debt collection,dummy
+2890282,248,Debt collection,1.8682999652810395,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2890559,2139,Debt collection,3.5547000006772578,valide,,Credit card or prepaid card,dummy
+2890995,565,Debt collection,2.370000001974404,valide,,Credit card or prepaid card,dummy
+2891749,1598,Debt collection,3.134500002488494,valide,,"Payday loan, title loan, or personal loan",dummy
+2892201,306,Debt collection,3.6854000063613057,valide,,Debt collection,dummy
+2892544,1347,Debt collection,3.5760000464506447,valide,,Mortgage,dummy
+2893271,1739,Debt collection,2.796500048134476,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2893509,201,Debt collection,2.7963000466115773,valide,,Debt collection,dummy
+2894843,160,Debt collection,2.3629999486729503,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2901748,747,Debt collection,2.7230000123381615,valide,,Checking or savings account,dummy
+2905222,2321,Debt collection,3.8067999994382262,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2906288,2045,Debt collection,4.154800029937178,valide,,Debt collection,dummy
+2906355,1683,Debt collection,4.078400030266494,valide,,Mortgage,dummy
+2908837,639,Debt collection,2.6981999981217086,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2910141,767,Debt collection,2.7313000173307955,valide,,Debt collection,dummy
+2910295,1223,Debt collection,3.6159000010229647,valide,,Vehicle loan or lease,dummy
+2913103,1093,Debt collection,2.2538999910466373,valide,,Credit card or prepaid card,dummy
+2913473,157,Debt collection,1.2223999947309494,valide,,Debt collection,dummy
+2915802,3268,Debt collection,2.7900999994017184,valide,,Credit card or prepaid card,dummy
+2916296,676,Debt collection,2.2678999812342227,valide,,Vehicle loan or lease,dummy
+2917257,623,Debt collection,1.63870002143085,valide,,Debt collection,dummy
+2918054,6944,Debt collection,4.43299999460578,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2919868,1953,Debt collection,3.25960002373904,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2920765,3532,Debt collection,4.047999973408878,valide,,Debt collection,dummy
+2920972,1021,Debt collection,2.473500033374876,valide,,Debt collection,dummy
+2925738,673,Debt collection,2.019900013692677,valide,,Debt collection,dummy
+2927406,737,Debt collection,2.1555000566877425,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2929358,338,Debt collection,1.936799963004887,valide,,Debt collection,dummy
+2931279,272,Debt collection,2.4950000224635005,valide,,"Money transfer, virtual currency, or money service",dummy
+2931940,801,Debt collection,2.4009000044316053,valide,,Checking or savings account,dummy
+2933328,466,Debt collection,1.6567000420764089,valide,,Debt collection,dummy
+2933577,1677,Debt collection,2.6550000184215605,valide,,Mortgage,dummy
+2933693,328,Debt collection,1.561800017952919,valide,,Debt collection,dummy
+2934120,177,Debt collection,1.1757999891415238,valide,,Student loan,dummy
+2934902,838,Debt collection,1.4527000021189451,valide,,Checking or savings account,dummy
+2935319,670,Debt collection,1.3370999949984252,valide,,Mortgage,dummy
+2936987,4573,Debt collection,4.416299983859062,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2938190,289,Debt collection,1.706400013063103,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2938823,1286,Debt collection,1.9444999634288251,valide,,Debt collection,dummy
+2942579,1337,Debt collection,2.116899995598942,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2944370,1570,Debt collection,2.8701999690383673,valide,,Mortgage,dummy
+2945722,573,Debt collection,1.715600024908781,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2947037,337,Debt collection,1.6189999878406525,valide,,Debt collection,dummy
+2947055,485,Debt collection,1.4509999891743064,valide,,Debt collection,dummy
+2949141,1211,Debt collection,2.9989000177010894,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2950223,1055,Debt collection,2.597699989564717,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2950779,506,Debt collection,2.736099995672703,valide,,Mortgage,dummy
+2951326,727,Debt collection,2.676100004464388,valide,,Debt collection,dummy
+2951769,881,Debt collection,2.7738999924622476,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2951953,1206,Debt collection,2.8150000143796206,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2959288,764,Debt collection,2.880499989259988,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2959354,5677,Debt collection,5.932900006882846,valide,,Checking or savings account,dummy
+2961313,705,Debt collection,1.9048000103794038,valide,,Debt collection,dummy
+2962490,251,Debt collection,1.9570000004023314,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2963679,261,Debt collection,1.818199991248548,valide,,Debt collection,dummy
+2965141,2064,Debt collection,3.94099997356534,valide,,Checking or savings account,dummy
+2965501,97,Debt collection,2.2903999779373407,valide,,Mortgage,dummy
+2965745,648,Debt collection,2.8211999451741576,valide,,Student loan,dummy
+2965820,1047,Debt collection,2.9406999819912016,valide,,Debt collection,dummy
+2966950,841,Debt collection,2.807800017762929,valide,,Debt collection,dummy
+2967387,1130,Debt collection,3.4209999721497297,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2969169,511,Debt collection,2.805600001011044,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2970075,461,Debt collection,2.7538000140339136,valide,,Credit card or prepaid card,dummy
+2970445,1201,Debt collection,3.014800022356212,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2970971,614,Debt collection,1.9082000362686813,valide,,Debt collection,dummy
+2975533,641,Debt collection,2.345499990042299,valide,,Debt collection,dummy
+2977116,744,Debt collection,2.0669000223279,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2980155,306,Debt collection,1.9274000078439713,valide,,Checking or savings account,dummy
+2980894,1178,Debt collection,3.961400012485683,valide,,Mortgage,dummy
+2980922,517,Debt collection,2.9172999784350395,valide,,Debt collection,dummy
+2981228,4920,Debt collection,5.937899986747652,valide,,Mortgage,dummy
+2981747,450,Debt collection,2.700299955904484,valide,,Debt collection,dummy
+2982227,825,Debt collection,2.64620000962168,valide,,Debt collection,dummy
+2982752,2245,Debt collection,3.32319998415187,valide,,Debt collection,dummy
+2984334,453,Debt collection,2.411700028460473,valide,,Credit card or prepaid card,dummy
+2984471,329,Debt collection,2.1587999654002488,valide,,Checking or savings account,dummy
+2984878,1216,Debt collection,2.196400018874556,valide,,Credit card or prepaid card,dummy
+2985086,2322,Debt collection,2.617199963424355,valide,,Debt collection,dummy
+2988918,519,Debt collection,1.82529998710379,valide,,Debt collection,dummy
+2989074,180,Debt collection,1.915499975439161,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2989152,757,Debt collection,2.242599963210523,valide,,Credit card or prepaid card,dummy
+2990321,838,Debt collection,2.2641000105068088,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2991914,975,Debt collection,2.9815000016242266,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2992049,700,Debt collection,2.162099990528077,valide,,"Money transfer, virtual currency, or money service",dummy
+2995214,2030,Debt collection,2.7977999998256564,valide,,Checking or savings account,dummy
+2995327,1322,Debt collection,2.251699974294752,valide,,Debt collection,dummy
+2995645,549,Debt collection,2.1963000181131065,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2995901,928,Debt collection,2.6596999960020185,valide,,Debt collection,dummy
+2995903,94,Debt collection,1.5784999704919755,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2997960,468,Debt collection,1.7192999948747456,valide,,Checking or savings account,dummy
+2998589,353,Debt collection,1.7098000389523804,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+2998764,1039,Debt collection,2.2210999741218984,valide,,Debt collection,dummy
+2999333,5159,Debt collection,4.438099975232035,valide,,Debt collection,dummy
+2999560,1813,Debt collection,2.557900035753846,valide,,Debt collection,dummy
+3000520,345,Debt collection,1.7227999633178115,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3001349,267,Debt collection,1.5147000085562468,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3001489,2676,Debt collection,3.022699966095388,valide,,Mortgage,dummy
+3001960,237,Debt collection,1.6017999732866883,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3004444,241,Debt collection,1.4866000274196267,valide,,Debt collection,dummy
+3005013,2229,Debt collection,2.706300001591444,valide,,Checking or savings account,dummy
+3005627,1624,Debt collection,2.291700046043843,valide,,Credit card or prepaid card,dummy
+3006551,760,Debt collection,1.8868999904952943,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3007094,684,Debt collection,1.7205000040121377,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3007982,2419,Debt collection,2.820699999574572,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3008649,227,Debt collection,2.017799997702241,valide,,Debt collection,dummy
+3010101,3243,Debt collection,3.3724000095389783,valide,,Checking or savings account,dummy
+3010467,1188,Debt collection,1.936199958436191,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3013473,62,Debt collection,1.555900031235069,valide,,Student loan,dummy
+3013798,746,Debt collection,1.7941000405699015,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3013984,612,Debt collection,1.6497000469826162,valide,,Debt collection,dummy
+3015672,152,Debt collection,1.1890000314451754,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3022242,245,Debt collection,1.246800005901605,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3022695,2338,Debt collection,2.531800011638552,valide,,Mortgage,dummy
+3022812,800,Debt collection,2.6291999965906143,valide,,Checking or savings account,dummy
+3022874,856,Debt collection,2.4178000167012215,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3023307,2963,Debt collection,4.166700004134327,valide,,Credit card or prepaid card,dummy
+3023544,3273,Debt collection,3.5383999929763377,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3024716,410,Debt collection,2.664599975105375,valide,,Mortgage,dummy
+3026809,1853,Debt collection,3.5871999571099877,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3026889,1606,Debt collection,3.583800047636032,valide,,Debt collection,dummy
+3029598,1959,Debt collection,3.8778000161983073,valide,,Checking or savings account,dummy
+3031067,244,Debt collection,2.846699964720756,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3031780,426,Debt collection,2.360600046813488,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3036926,1075,Debt collection,2.641499973833561,valide,,Checking or savings account,dummy
+3037158,463,Debt collection,2.063599997200072,valide,,Student loan,dummy
+3039163,890,Debt collection,2.1994999842718244,valide,,Checking or savings account,dummy
+3039456,842,Debt collection,2.4629999534226954,valide,,"Money transfer, virtual currency, or money service",dummy
+3039483,2517,Debt collection,4.525199998170137,valide,,Mortgage,dummy
+3039677,387,Debt collection,2.206799981649965,valide,,"Payday loan, title loan, or personal loan",dummy
+3041720,979,Debt collection,2.177799993660301,valide,,Debt collection,dummy
+3042079,425,Debt collection,1.603799988515675,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3043304,893,Debt collection,2.7757000061683357,valide,,Credit card or prepaid card,dummy
+3043421,723,Debt collection,2.2613999899476767,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3043501,2091,Debt collection,4.072999989148229,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3043810,319,Debt collection,2.852700010407716,valide,,Debt collection,dummy
+3043841,849,Debt collection,2.5018000160343945,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3045436,684,Debt collection,2.7224000077694654,valide,,Debt collection,dummy
+3045831,423,Debt collection,2.3885000264272094,valide,,Credit card or prepaid card,dummy
+3047418,1136,Debt collection,2.931900031398982,valide,,Credit card or prepaid card,dummy
+3047890,1771,Debt collection,3.8032999727874994,valide,,Student loan,dummy
+3053078,1493,Debt collection,3.6324000102467835,valide,,Vehicle loan or lease,dummy
+3053691,2278,Debt collection,3.9437999948859215,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3054161,1383,Debt collection,3.4916999866254628,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3054473,1183,Debt collection,2.9701999737881124,valide,,Debt collection,dummy
+3054679,289,Debt collection,2.128399966750294,valide,,Student loan,dummy
+3055868,1562,Debt collection,3.7356000393629074,valide,,Debt collection,dummy
+3057906,1247,Debt collection,3.454199992120266,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3058054,136,Debt collection,2.536299987696111,valide,,Credit card or prepaid card,dummy
+3059236,3918,Debt collection,4.637099977117032,valide,,Mortgage,dummy
+3059722,103,Debt collection,2.2129000280983746,valide,,"Payday loan, title loan, or personal loan",dummy
+3061435,966,Debt collection,2.8152000159025192,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3062187,138,Debt collection,1.5943999751470983,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3062332,972,Debt collection,1.9331999938003719,valide,,Mortgage,dummy
+3062500,1934,Debt collection,2.3721999605186284,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3062884,349,Debt collection,1.9324999884702265,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3063721,625,Debt collection,1.9325000466778874,valide,,"Payday loan, title loan, or personal loan",dummy
+3065271,1024,Debt collection,1.8865999882109463,valide,,Debt collection,dummy
+3065561,1467,Debt collection,2.221299975644797,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3066648,297,Debt collection,1.7514000064693391,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3066838,230,Debt collection,1.6015000292100012,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3068002,545,Debt collection,2.0046000136062503,valide,,"Payday loan, title loan, or personal loan",dummy
+3070408,539,Debt collection,1.8031999934464693,valide,,Debt collection,dummy
+3073046,5952,Debt collection,4.186499980278313,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3074506,2843,Debt collection,3.1184000545181334,valide,,Checking or savings account,dummy
+3076377,673,Debt collection,1.7653999966569245,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3076926,652,Debt collection,2.1807000157423317,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3079683,1064,Debt collection,2.4926000041887164,valide,,Debt collection,dummy
+3081670,846,Debt collection,2.903300046455115,valide,,Credit card or prepaid card,dummy
+3081813,5891,Debt collection,6.5326999756507576,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3082208,621,Debt collection,2.5602999958209693,valide,,Debt collection,dummy
+3082355,659,Debt collection,4.261099966242909,valide,,Debt collection,dummy
+3084137,1022,Debt collection,4.181600001174957,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3084154,660,Debt collection,2.717800030950457,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3085016,252,Debt collection,1.9725000020116568,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3085979,1934,Debt collection,2.910299983341247,valide,,Checking or savings account,dummy
+3086601,1413,Debt collection,2.747700025793165,valide,,Checking or savings account,dummy
+3089069,1195,Debt collection,2.487100020516664,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3093780,139,Debt collection,3.1959000043570995,valide,,Debt collection,dummy
+3094334,542,Debt collection,2.141400007531047,valide,,Checking or savings account,dummy
+3095146,1749,Debt collection,3.673400031402707,valide,,Debt collection,dummy
+3097669,593,Debt collection,2.617900026962161,valide,,Debt collection,dummy
+3098559,1138,Debt collection,3.1823999597691,valide,,Debt collection,dummy
+3098574,1509,Debt collection,3.299300034996122,valide,,Debt collection,dummy
+3099029,774,Debt collection,2.722500008530915,valide,,Student loan,dummy
+3100826,280,Debt collection,1.923199975863099,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3101164,603,Debt collection,2.6052999892272055,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3103082,1576,Debt collection,3.155499987769872,valide,,Credit card or prepaid card,dummy
+3105500,5549,Debt collection,6.338799954392016,valide,,Mortgage,dummy
+3105774,294,Debt collection,2.543399983551353,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3106478,540,Debt collection,2.963899984024465,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3106752,693,Debt collection,2.472700027283281,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3107512,1264,Debt collection,2.4545000051148236,valide,,Credit card or prepaid card,dummy
+3108587,1348,Debt collection,3.2047999557107687,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3111473,625,Debt collection,2.472599968314171,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3112411,650,Debt collection,2.426499966531992,valide,,Student loan,dummy
+3113061,361,Debt collection,1.8495999975129962,valide,,Debt collection,dummy
+3116153,473,Debt collection,1.7989000189118087,valide,,"Payday loan, title loan, or personal loan",dummy
+3116837,620,Debt collection,1.8052999512292445,valide,,Credit card or prepaid card,dummy
+3117155,1397,Debt collection,2.3797000176273286,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3117933,3394,Debt collection,3.8725999766029418,valide,,Mortgage,dummy
+3120960,1237,Debt collection,3.1113000004552305,valide,,Mortgage,dummy
+3121453,685,Debt collection,1.9876000005751848,valide,,Debt collection,dummy
+3121807,1147,Debt collection,2.0703000482171774,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3121879,400,Debt collection,1.7336999881081283,valide,,Debt collection,dummy
+3123121,132,Debt collection,1.5369000029750168,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3125861,573,Debt collection,2.0046000136062503,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3128186,493,Debt collection,2.4751999881118536,valide,,Debt collection,dummy
+3129060,472,Debt collection,3.535000025294721,valide,,Debt collection,dummy
+3133615,1178,Debt collection,3.099400026258081,valide,,Mortgage,dummy
+3133909,800,Debt collection,2.1998999873176217,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3135218,1357,Debt collection,2.580900036264211,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3136784,1309,Debt collection,2.434799971524626,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3138487,595,Debt collection,2.445099991746247,valide,,"Payday loan, title loan, or personal loan",dummy
+3138593,990,Debt collection,2.9238000279292464,valide,,"Payday loan, title loan, or personal loan",dummy
+3139093,1248,Debt collection,2.2880000178702176,valide,,Student loan,dummy
+3139508,709,Debt collection,1.7296999576501548,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3139633,289,Debt collection,1.6590000013820827,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3140013,553,Debt collection,1.6963999951258302,valide,,Debt collection,dummy
+3141937,543,Debt collection,1.7060000100173056,valide,,Student loan,dummy
+3142011,1286,Debt collection,3.0581000028178096,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3144860,133,Debt collection,2.1608000388368964,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3145374,1306,Debt collection,2.5737000396475196,valide,,Debt collection,dummy
+3146111,516,Debt collection,1.7768999678082764,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3146903,1910,Debt collection,2.765399985946715,valide,,Debt collection,dummy
+3147293,322,Debt collection,1.8111999961547554,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3149319,105,Debt collection,1.6033000429160893,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3151172,982,Debt collection,2.2548999986611307,valide,,Student loan,dummy
+3153390,739,Debt collection,2.3447999847121537,valide,,Vehicle loan or lease,dummy
+3156201,1472,Debt collection,2.8039999888278544,valide,,"Credit reporting, credit repair services, or other personal consumer reports",dummy
+3159921,810,Debt collection,2.1029000054113567,valide,,Debt collection,dummy
+3169400,440,Debt collection,1.8105999915860593,valide,,Debt collection,dummy
+3169543,949,Debt collection,1.9665000145323575,valide,,Mortgage,dummy

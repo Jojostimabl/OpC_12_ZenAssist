@@ -1,0 +1,6 @@
+task,llm_low_h,llm_high_h,ml_low_h,ml_high_h
+Client fournisseur / API Python et chargement du pipeline,3,5,4,6
+Validation et erreurs LLM / export du modèle et CI de release,3,5,4,8
+"Interface React, chargement et confirmation humaine",2,4,2,4
+"Tests, déploiement du pilote et vérification produit",4,6,6,10
+"Suivi, documentation et transmission à l'équipe",2,4,4,6

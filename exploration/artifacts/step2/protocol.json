@@ -1,0 +1,72 @@
+{
+  "prepared_at_utc": "2026-10-28T14:33:18.676550+00:00",
+  "python": "3.13.5",
+  "models": [
+    "deepseek/deepseek-v4-flash-0731",
+    "openai/gpt-6-luna",
+    "qwen/qwen3.8-flash",
+    "openai/gpt-6.1-terra"
+  ],
+  "development_examples": 20,
+  "test_examples": 1000,
+  "prompts": [
+    "labels_only",
+    "definitions",
+    "few_shot"
+  ],
+  "max_output_tokens": 256,
+  "budget_usd": 2.0,
+  "max_concurrent_requests": 3,
+  "sdk_retries": 0,
+  "run_models": [
+    "openai/gpt-6.1-terra"
+  ],
+  "requests_per_model_in_flight": 1,
+  "full_text": true,
+  "reasoning": "disabled_when_supported",
+  "temperature": "0_only_when_supported",
+  "input_token_estimation": "UTF8_bytes/4 to UTF8_bytes/3, plus protocol margin",
+  "cost_estimate_low_usd": 1.5499969999999998,
+  "cost_estimate_high_usd": 4.6782426,
+  "source_manifest_sha256": "0391e543abb320d9190fcb5f14b9453a8bd146c19757e9fbcab6a93ae9bfbb10",
+  "partitions_sha256": "0b1b7cc3412cf14ba7e27540aa6eaa9dbe841cfe3f760f1682532261ce0c3381",
+  "common_ids_sha256": "f186779d01788e517facf5ae3ba0e12505d19bbff0b69a0551c6fc33b58a9d40",
+  "labels_without_test_support": [
+    "Virtual currency"
+  ],
+  "extension": {
+    "added_model": "openai/gpt-6.1-terra",
+    "prepared_at_utc": "2026-10-28T14:31:59.650838+00:00",
+    "baseline_models": [
+      "openai/gpt-6-luna",
+      "qwen/qwen3.8-flash",
+      "deepseek/deepseek-v4-flash-0731"
+    ],
+    "baseline_summary": {
+      "development_calls": 180,
+      "test_calls": 3000,
+      "ledger_calls": 3180,
+      "known_cost_usd": 0.26188814951999995,
+      "unknown_cost_calls": 0,
+      "not_evaluated_labels": [
+        "Virtual currency"
+      ],
+      "llm_evaluation_code_sha256": "f72483b15c41d53f4ef9eed46aa3614a147e96f702aab55aa71c3444757c6ac4"
+    },
+    "backup": "artifacts/history/pre_terra_20261028T143159Z.zip",
+    "frozen_sha256": {
+      "artifacts/step2/prompts.json": "e4acf921837afe42a594f64d107736215ea52e41f6b2186b7c85b577e025f82c",
+      "artifacts/step2/development_ids.csv": "2385953d151c46403da111b69ed0a32b95e0f822e78370f23a18e463afe8ed31",
+      "artifacts/step2/test_common_ids.csv": "60e3bb7c48bfa279fa29594ebc7d39dc4ef4169bec74a6cf1a140e4b59a933c1",
+      "artifacts/step2/demonstrations_ids.csv": "830a73d787e2d577e9f77ece29d5b374d85c3f7309f4e8b7c065574e431bdab0",
+      "artifacts/step2/selection_deepseek_deepseek-v4-flash-0731.json": "b6a2db5ba95971e6383592d112bcfadc3eb4464025b5499c46d1a79bdee8ce88",
+      "artifacts/step2/selection_openai_gpt-6-luna.json": "c01d2838067a04ae9636f3277af6c16362304fb59841398bd4859523035b8f93",
+      "artifacts/step2/selection_qwen_qwen3.8-flash.json": "f5482fa582121032c5da7789ce2f4409cbbaf68b28c115ff444fa4f86d16d81d",
+      "artifacts/step3/models/logistic_regression_pipeline.joblib": "6e116aa07c0f156f0f21639fb6fd9e965c1f0a8730be18fdb53ab148ca8a08c1"
+    },
+    "additional_planned_calls": 1060,
+    "historical_measurement_date": "2026-10-19",
+    "added_measurement_date": "2026-10-28",
+    "latency_caution": "Terra measured later, one request in flight. Historical provider/network conditions differ."
+  }
+}

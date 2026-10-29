@@ -1,0 +1,1001 @@
+complaint_id,n_chars,prediction,response_ms,status,erreur_type,expected,model
+1294526,185,"Credit reporting, credit repair services, or other personal consumer reports",12.840699986554682,valide,,Credit reporting,complement_nb
+1295955,3866,Mortgage,10.29839995317161,valide,,Debt collection,complement_nb
+1299118,493,Bank account or service,8.528999984264374,valide,,Bank account or service,complement_nb
+1300254,3313,Mortgage,8.842499984893948,valide,,Credit reporting,complement_nb
+1301091,1371,Mortgage,9.717300010379404,valide,,Mortgage,complement_nb
+1305244,2021,Bank account or service,10.013899998739362,valide,,Bank account or service,complement_nb
+1305760,3561,Mortgage,11.576099961530417,valide,,Credit reporting,complement_nb
+1306144,193,"Credit reporting, credit repair services, or other personal consumer reports",7.2119999676942825,valide,,Credit reporting,complement_nb
+1306485,1181,Debt collection,8.178099989891052,valide,,Debt collection,complement_nb
+1311380,1102,Mortgage,9.326900006271899,valide,,Mortgage,complement_nb
+1312699,611,Debt collection,8.547200006432831,valide,,Debt collection,complement_nb
+1317993,783,Student loan,9.384300035890192,valide,,Student loan,complement_nb
+1324365,163,"Credit reporting, credit repair services, or other personal consumer reports",8.570400008466095,valide,,Credit reporting,complement_nb
+1324786,3240,Mortgage,9.346700040623546,valide,,Mortgage,complement_nb
+1325160,530,Debt collection,8.626900031231344,valide,,Debt collection,complement_nb
+1326349,624,"Credit reporting, credit repair services, or other personal consumer reports",8.634700032416731,valide,,Credit reporting,complement_nb
+1330532,852,"Credit reporting, credit repair services, or other personal consumer reports",9.690299979411066,valide,,Credit reporting,complement_nb
+1332096,100,Debt collection,8.7875000317581,valide,,Debt collection,complement_nb
+1340021,282,"Credit reporting, credit repair services, or other personal consumer reports",8.89270001789555,valide,,Credit reporting,complement_nb
+1341039,2355,Credit card,10.484999977052212,valide,,Credit card,complement_nb
+1342658,2959,"Money transfer, virtual currency, or money service",9.693800006061792,valide,,Bank account or service,complement_nb
+1348981,2227,Credit card or prepaid card,9.925999969709665,valide,,Bank account or service,complement_nb
+1351305,1743,Mortgage,10.459200013428926,valide,,Mortgage,complement_nb
+1352105,95,Checking or savings account,8.398499980103225,valide,,Bank account or service,complement_nb
+1354146,218,Mortgage,9.367500024382025,valide,,Mortgage,complement_nb
+1354595,1033,Mortgage,9.726899967063218,valide,,Mortgage,complement_nb
+1358045,1288,Student loan,9.830800001509488,valide,,Student loan,complement_nb
+1365219,492,Mortgage,8.861500013154,valide,,Debt collection,complement_nb
+1366121,107,Debt collection,9.137700020801276,valide,,Debt collection,complement_nb
+1370420,413,Debt collection,9.444700030144304,valide,,Payday loan,complement_nb
+1373946,260,Debt collection,9.155199979431927,valide,,Debt collection,complement_nb
+1376467,2782,Student loan,9.895799972582608,valide,,Debt collection,complement_nb
+1377276,264,Bank account or service,8.88209999538958,valide,,Bank account or service,complement_nb
+1385936,240,"Credit reporting, credit repair services, or other personal consumer reports",8.639499952550977,valide,,Debt collection,complement_nb
+1387553,261,Debt collection,9.944899997208267,valide,,Debt collection,complement_nb
+1388647,2435,Debt collection,10.376700025517493,valide,,Debt collection,complement_nb
+1388769,1390,Mortgage,9.522700041998178,valide,,Bank account or service,complement_nb
+1391707,821,"Credit reporting, credit repair services, or other personal consumer reports",9.95619996683672,valide,,Credit reporting,complement_nb
+1393363,599,Debt collection,9.047499974258244,valide,,Debt collection,complement_nb
+1395625,358,Consumer Loan,8.879499975591898,valide,,Consumer Loan,complement_nb
+1396662,396,Debt collection,8.93089995952323,valide,,Credit reporting,complement_nb
+1398012,660,Credit card or prepaid card,9.647600003518164,valide,,Credit card,complement_nb
+1398598,3058,Bank account or service,11.529700015671551,valide,,Bank account or service,complement_nb
+1399684,93,Mortgage,8.218100003432482,valide,,Debt collection,complement_nb
+1402856,1245,Mortgage,11.028700042515993,valide,,Mortgage,complement_nb
+1403337,226,Mortgage,10.489199950825423,valide,,Mortgage,complement_nb
+1405625,3401,Mortgage,12.791900022421032,valide,,Mortgage,complement_nb
+1406082,334,"Credit reporting, credit repair services, or other personal consumer reports",11.760000023059547,valide,,Bank account or service,complement_nb
+1406132,742,Mortgage,10.63350000185892,valide,,Mortgage,complement_nb
+1408400,616,Mortgage,11.422700015828013,valide,,Mortgage,complement_nb
+1409635,567,Mortgage,9.424000047147274,valide,,Mortgage,complement_nb
+1410529,231,Student loan,13.905100000556558,valide,,Student loan,complement_nb
+1413781,122,Debt collection,9.73710004473105,valide,,Debt collection,complement_nb
+1414892,136,Debt collection,10.199800017289817,valide,,Debt collection,complement_nb
+1417092,451,Debt collection,10.387799993623048,valide,,Debt collection,complement_nb
+1419013,1854,Credit card or prepaid card,10.426699998788536,valide,,Credit card,complement_nb
+1419093,406,Mortgage,9.036500006914139,valide,,Mortgage,complement_nb
+1421086,479,Debt collection,9.715699998196214,valide,,Consumer Loan,complement_nb
+1430456,520,"Credit reporting, credit repair services, or other personal consumer reports",10.67510002758354,valide,,Credit card,complement_nb
+1439510,774,Debt collection,10.509399988222867,valide,,Debt collection,complement_nb
+1451726,67,Debt collection,10.29860001290217,valide,,Debt collection,complement_nb
+1453932,374,Credit card or prepaid card,12.254999950528145,valide,,Credit card,complement_nb
+1454726,1484,Credit card,13.08999996399507,valide,,Money transfers,complement_nb
+1463485,29,Bank account or service,9.349999949336052,valide,,Prepaid card,complement_nb
+1463647,354,"Credit reporting, credit repair services, or other personal consumer reports",10.295999993104488,valide,,Credit reporting,complement_nb
+1465881,2382,"Credit reporting, credit repair services, or other personal consumer reports",11.06330001493916,valide,,Credit reporting,complement_nb
+1466449,39,"Credit reporting, credit repair services, or other personal consumer reports",10.257399990223348,valide,,Consumer Loan,complement_nb
+1467149,258,Debt collection,10.760199977084994,valide,,Debt collection,complement_nb
+1467684,2149,Mortgage,13.39219999499619,valide,,Mortgage,complement_nb
+1472555,112,Debt collection,10.847500001545995,valide,,Debt collection,complement_nb
+1476983,251,Debt collection,10.81120001617819,valide,,Debt collection,complement_nb
+1479065,1550,"Credit reporting, credit repair services, or other personal consumer reports",11.287500034086406,valide,,Credit reporting,complement_nb
+1480271,1846,Student loan,11.909299995750189,valide,,Student loan,complement_nb
+1480682,2303,Bank account or service,14.007000019773841,valide,,Money transfers,complement_nb
+1481932,424,"Credit reporting, credit repair services, or other personal consumer reports",11.264300032053143,valide,,Credit reporting,complement_nb
+1484860,2411,Credit card or prepaid card,13.256900012493134,valide,,Credit card,complement_nb
+1486944,408,Debt collection,11.648999992758036,valide,,Debt collection,complement_nb
+1489753,3440,Bank account or service,12.431400013156235,valide,,Consumer Loan,complement_nb
+1493279,492,Mortgage,10.887200012803078,valide,,Mortgage,complement_nb
+1496184,332,Debt collection,10.54889999795705,valide,,Debt collection,complement_nb
+1497481,989,Debt collection,9.642800025176257,valide,,Debt collection,complement_nb
+1498069,1263,Mortgage,11.904100014362484,valide,,Credit card,complement_nb
+1498077,175,"Credit reporting, credit repair services, or other personal consumer reports",12.06179999280721,valide,,Credit reporting,complement_nb
+1500811,73,Debt collection,10.975200042594224,valide,,Credit reporting,complement_nb
+1500841,3726,Mortgage,15.215000021271408,valide,,Mortgage,complement_nb
+1504421,526,Checking or savings account,12.488800042774528,valide,,Money transfers,complement_nb
+1505529,241,"Credit reporting, credit repair services, or other personal consumer reports",11.364099977072328,valide,,Credit card,complement_nb
+1506072,1373,Bank account or service,13.475600047968328,valide,,Bank account or service,complement_nb
+1510242,503,Debt collection,13.219400017987937,valide,,Credit reporting,complement_nb
+1512685,722,Mortgage,13.580799975898117,valide,,Mortgage,complement_nb
+1522914,966,Mortgage,16.94810000481084,valide,,Mortgage,complement_nb
+1525616,1962,Debt collection,19.694700022228062,valide,,Payday loan,complement_nb
+1526661,794,Mortgage,16.093799960799515,valide,,Mortgage,complement_nb
+1527182,3880,Mortgage,16.987099952530116,valide,,Mortgage,complement_nb
+1530236,322,Bank account or service,14.713399985339493,valide,,Bank account or service,complement_nb
+1531919,822,"Credit reporting, credit repair services, or other personal consumer reports",15.670500055421144,valide,,Credit reporting,complement_nb
+1534670,1491,Mortgage,16.502499987836927,valide,,Mortgage,complement_nb
+1539051,876,Mortgage,16.132200020365417,valide,,Mortgage,complement_nb
+1540487,779,Mortgage,13.876000011805445,valide,,Mortgage,complement_nb
+1544181,1070,Debt collection,14.13149997824803,valide,,Debt collection,complement_nb
+1545114,171,Student loan,13.255099998787045,valide,,Debt collection,complement_nb
+1548476,385,Credit card,13.319699966814369,valide,,Credit card,complement_nb
+1553635,1115,Credit card,15.023700019810349,valide,,Credit card,complement_nb
+1553925,533,Debt collection,15.688000014051795,valide,,Debt collection,complement_nb
+1555469,147,Debt collection,20.10239998344332,valide,,Debt collection,complement_nb
+1556590,85,"Credit reporting, credit repair services, or other personal consumer reports",15.267699956893921,valide,,Credit card,complement_nb
+1562391,932,Bank account or service,13.634699978865683,valide,,Mortgage,complement_nb
+1562417,283,Mortgage,14.312500017695129,valide,,Mortgage,complement_nb
+1562429,614,Checking or savings account,15.967999992426485,valide,,Bank account or service,complement_nb
+1564110,215,Mortgage,14.596100023481995,valide,,Mortgage,complement_nb
+1569909,364,Debt collection,14.667299983557314,valide,,Credit card,complement_nb
+1571887,783,Consumer Loan,15.840800013393164,valide,,Consumer Loan,complement_nb
+1574511,439,Mortgage,18.056800006888807,valide,,Mortgage,complement_nb
+1577166,663,Credit card or prepaid card,19.237799977418035,valide,,Credit card,complement_nb
+1577395,1828,"Credit reporting, credit repair services, or other personal consumer reports",17.706400016322732,valide,,Debt collection,complement_nb
+1577770,377,Debt collection,14.276499976404011,valide,,Credit reporting,complement_nb
+1579486,2500,Mortgage,16.394699981901795,valide,,Mortgage,complement_nb
+1582754,1196,Bank account or service,14.720899984240532,valide,,Bank account or service,complement_nb
+1583644,445,Bank account or service,22.655999986454844,valide,,Bank account or service,complement_nb
+1585296,46,"Credit reporting, credit repair services, or other personal consumer reports",16.880300012417138,valide,,Credit reporting,complement_nb
+1589541,1324,Debt collection,27.643300010822713,valide,,Debt collection,complement_nb
+1590016,1638,Mortgage,22.27600000333041,valide,,Consumer Loan,complement_nb
+1591556,495,"Credit reporting, credit repair services, or other personal consumer reports",21.879200008697808,valide,,Credit card,complement_nb
+1591715,838,Mortgage,22.578899981454015,valide,,Mortgage,complement_nb
+1591812,339,Debt collection,22.211899980902672,valide,,Debt collection,complement_nb
+1595732,3663,Student loan,21.213200001511723,valide,,Student loan,complement_nb
+1595934,311,"Credit reporting, credit repair services, or other personal consumer reports",19.46959999622777,valide,,Credit reporting,complement_nb
+1596153,260,Debt collection,20.497399964369833,valide,,Debt collection,complement_nb
+1602628,3895,Bank account or service,27.70630002487451,valide,,Debt collection,complement_nb
+1610620,2888,Mortgage,22.126800031401217,valide,,Mortgage,complement_nb
+1612314,191,Debt collection,20.483399974182248,valide,,Debt collection,complement_nb
+1612481,387,Mortgage,22.045499994419515,valide,,Mortgage,complement_nb
+1612526,494,"Credit reporting, credit repair services, or other personal consumer reports",22.42420002585277,valide,,Credit reporting,complement_nb
+1613784,588,Mortgage,22.88930001668632,valide,,Mortgage,complement_nb
+1617615,1120,Debt collection,24.675399996340275,valide,,Credit card,complement_nb
+1621710,205,Mortgage,21.833700011484325,valide,,Credit card,complement_nb
+1623555,222,Prepaid card,18.603899981826544,valide,,Prepaid card,complement_nb
+1626509,188,Mortgage,16.31819998146966,valide,,Mortgage,complement_nb
+1627546,38,"Credit reporting, credit repair services, or other personal consumer reports",15.647399995941669,valide,,Credit reporting,complement_nb
+1630749,704,Credit card or prepaid card,18.096899962984025,valide,,Prepaid card,complement_nb
+1631843,633,Credit card or prepaid card,20.624500000849366,valide,,Credit reporting,complement_nb
+1639436,1883,Student loan,18.002700002398342,valide,,Consumer Loan,complement_nb
+1642152,208,Debt collection,16.51119999587536,valide,,Debt collection,complement_nb
+1650506,2177,Mortgage,17.83419999992475,valide,,Mortgage,complement_nb
+1650517,758,Mortgage,18.780399987008423,valide,,Bank account or service,complement_nb
+1656185,1187,Credit card or prepaid card,21.23600000049919,valide,,Credit card,complement_nb
+1657205,1554,Mortgage,18.86990002822131,valide,,Mortgage,complement_nb
+1661068,1148,Debt collection,21.24009997351095,valide,,Debt collection,complement_nb
+1666799,2001,Bank account or service,19.82839999254793,valide,,Bank account or service,complement_nb
+1667046,238,Debt collection,19.267499970737845,valide,,Debt collection,complement_nb
+1669900,3067,Mortgage,20.08460002252832,valide,,Bank account or service,complement_nb
+1672544,1982,Checking or savings account,19.827399984933436,valide,,Prepaid card,complement_nb
+1676493,1370,Consumer Loan,23.091799987014383,valide,,Consumer Loan,complement_nb
+1678093,708,Debt collection,22.512600000482053,valide,,Debt collection,complement_nb
+1678961,1027,Bank account or service,21.10829995945096,valide,,Credit reporting,complement_nb
+1682784,493,Debt collection,22.467199945822358,valide,,Debt collection,complement_nb
+1683914,2854,Mortgage,23.097300028894097,valide,,Mortgage,complement_nb
+1685611,1262,Mortgage,18.12879997305572,valide,,Mortgage,complement_nb
+1689828,566,Mortgage,20.80739999655634,valide,,Debt collection,complement_nb
+1691135,468,Credit reporting,16.369899967685342,valide,,Credit reporting,complement_nb
+1693336,1232,Debt collection,20.568100037053227,valide,,Credit card,complement_nb
+1695344,176,Credit card,20.944999996572733,valide,,Credit card,complement_nb
+1695935,3166,Mortgage,21.92180004203692,valide,,Mortgage,complement_nb
+1697246,3036,Debt collection,23.63880001939833,valide,,Debt collection,complement_nb
+1714281,1772,Mortgage,23.397899989504367,valide,,Mortgage,complement_nb
+1718160,1770,Mortgage,19.574499980080873,valide,,Mortgage,complement_nb
+1727705,1133,Credit card or prepaid card,20.96609998261556,valide,,Credit card,complement_nb
+1728610,81,Bank account or service,16.973699966911227,valide,,Bank account or service,complement_nb
+1728988,324,"Credit reporting, credit repair services, or other personal consumer reports",15.314799966290593,valide,,Consumer Loan,complement_nb
+1747517,719,Student loan,18.657100037671626,valide,,Student loan,complement_nb
+1748681,412,Credit card,19.32040002429858,valide,,Credit card,complement_nb
+1755248,492,Student loan,24.82590003637597,valide,,Debt collection,complement_nb
+1756767,1198,"Credit reporting, credit repair services, or other personal consumer reports",22.461599961388856,valide,,Credit card,complement_nb
+1761555,217,Debt collection,23.988000000827014,valide,,Consumer Loan,complement_nb
+1765487,3034,Bank account or service,24.951300001703203,valide,,Bank account or service,complement_nb
+1767401,640,"Credit reporting, credit repair services, or other personal consumer reports",19.720399985089898,valide,,Credit reporting,complement_nb
+1767703,396,Credit card or prepaid card,19.39570001559332,valide,,Credit card,complement_nb
+1771215,495,"Credit reporting, credit repair services, or other personal consumer reports",20.87450004182756,valide,,Credit reporting,complement_nb
+1781394,1275,"Credit reporting, credit repair services, or other personal consumer reports",21.861999994143844,valide,,Credit reporting,complement_nb
+1785360,1774,Mortgage,23.233400017488748,valide,,Mortgage,complement_nb
+1789023,2742,Mortgage,21.04889997281134,valide,,Mortgage,complement_nb
+1789243,2993,Mortgage,23.13499996671453,valide,,Mortgage,complement_nb
+1789521,533,Debt collection,19.773900043219328,valide,,Debt collection,complement_nb
+1792984,3921,Checking or savings account,22.021899989340454,valide,,Bank account or service,complement_nb
+1794681,1947,Debt collection,18.689499993342906,valide,,Debt collection,complement_nb
+1797501,813,"Credit reporting, credit repair services, or other personal consumer reports",19.52019997406751,valide,,Credit reporting,complement_nb
+1798074,1028,Mortgage,19.67409998178482,valide,,Mortgage,complement_nb
+1804128,3165,Mortgage,17.85040000686422,valide,,Mortgage,complement_nb
+1805774,1520,Bank account or service,18.071400001645088,valide,,Bank account or service,complement_nb
+1805969,3462,Mortgage,22.46270002797246,valide,,Mortgage,complement_nb
+1807034,503,Mortgage,21.422000019811094,valide,,Mortgage,complement_nb
+1810336,209,Debt collection,17.816999985370785,valide,,Debt collection,complement_nb
+1813804,667,"Credit reporting, credit repair services, or other personal consumer reports",18.184799992013723,valide,,Credit reporting,complement_nb
+1816655,489,Mortgage,17.238800006452948,valide,,Mortgage,complement_nb
+1817335,1775,Mortgage,17.96859997557476,valide,,Payday loan,complement_nb
+1818113,165,Debt collection,20.781499973963946,valide,,Debt collection,complement_nb
+1818562,893,"Credit reporting, credit repair services, or other personal consumer reports",18.69320002151653,valide,,Credit reporting,complement_nb
+1822437,572,Credit card or prepaid card,16.843499965034425,valide,,Credit card,complement_nb
+1827894,360,Bank account or service,17.04419997986406,valide,,Bank account or service,complement_nb
+1829409,538,"Credit reporting, credit repair services, or other personal consumer reports",19.71160003449768,valide,,Credit reporting,complement_nb
+1829993,462,Credit card,18.749999988358468,valide,,Credit card,complement_nb
+1830451,2364,Mortgage,20.193599979393184,valide,,Mortgage,complement_nb
+1838360,237,"Credit reporting, credit repair services, or other personal consumer reports",19.00759997079149,valide,,Credit reporting,complement_nb
+1840371,767,Debt collection,19.89659998798743,valide,,Debt collection,complement_nb
+1845498,2730,Mortgage,20.72329999646172,valide,,Mortgage,complement_nb
+1847040,730,"Credit reporting, credit repair services, or other personal consumer reports",21.546099975239486,valide,,Credit card,complement_nb
+1847136,413,Mortgage,19.117399991955608,valide,,Mortgage,complement_nb
+1850303,387,Debt collection,19.831900019198656,valide,,Debt collection,complement_nb
+1852441,2324,Debt collection,19.96159995906055,valide,,Debt collection,complement_nb
+1861470,214,Debt collection,20.53680003155023,valide,,Debt collection,complement_nb
+1861704,430,Mortgage,21.49050001753494,valide,,Consumer Loan,complement_nb
+1863185,220,Debt collection,18.22389999870211,valide,,Debt collection,complement_nb
+1864193,718,"Credit reporting, credit repair services, or other personal consumer reports",19.99260002048686,valide,,Credit reporting,complement_nb
+1872112,423,"Credit reporting, credit repair services, or other personal consumer reports",19.549100019503385,valide,,Credit reporting,complement_nb
+1872438,1012,Debt collection,16.102700028568506,valide,,Debt collection,complement_nb
+1879728,1156,Bank account or service,16.463899984955788,valide,,Bank account or service,complement_nb
+1881943,684,Checking or savings account,15.157899993937463,valide,,Bank account or service,complement_nb
+1882563,245,Checking or savings account,18.370800011325628,valide,,Payday loan,complement_nb
+1894320,619,Mortgage,17.68580003408715,valide,,Mortgage,complement_nb
+1895598,455,"Credit reporting, credit repair services, or other personal consumer reports",19.32459999807179,valide,,Credit reporting,complement_nb
+1898488,375,Bank account or service,17.98369997413829,valide,,Bank account or service,complement_nb
+1903040,2280,Debt collection,21.350499999243766,valide,,Debt collection,complement_nb
+1905909,1700,Debt collection,20.14410000992939,valide,,Debt collection,complement_nb
+1906791,1795,Mortgage,20.934200030751526,valide,,Mortgage,complement_nb
+1907542,1338,Mortgage,19.319900020491332,valide,,Consumer Loan,complement_nb
+1909546,1303,Student loan,19.532500009518117,valide,,Student loan,complement_nb
+1914925,1082,Mortgage,20.037900016177446,valide,,Mortgage,complement_nb
+1916677,618,Debt collection,16.030300001148134,valide,,Debt collection,complement_nb
+1921619,2503,"Credit reporting, credit repair services, or other personal consumer reports",19.07249999931082,valide,,Credit reporting,complement_nb
+1921886,245,Mortgage,16.201799968257546,valide,,Mortgage,complement_nb
+1922034,75,Debt collection,15.831800003070384,valide,,Debt collection,complement_nb
+1922878,1030,Mortgage,15.904299973044544,valide,,Mortgage,complement_nb
+1924859,373,Debt collection,15.704299963545054,valide,,Debt collection,complement_nb
+1925828,94,Debt collection,18.655500025488436,valide,,Debt collection,complement_nb
+1926461,443,Debt collection,16.22809999389574,valide,,Debt collection,complement_nb
+1931713,102,Student loan,11.280900042038411,valide,,Payday loan,complement_nb
+1935407,468,"Credit reporting, credit repair services, or other personal consumer reports",15.473100007511675,valide,,Credit reporting,complement_nb
+1939528,136,Credit card,20.69510001456365,valide,,Credit card,complement_nb
+1940808,777,Credit card or prepaid card,25.365700013935566,valide,,Credit card,complement_nb
+1943017,310,Consumer Loan,19.335399963892996,valide,,Consumer Loan,complement_nb
+1945269,369,"Credit reporting, credit repair services, or other personal consumer reports",18.54509999975562,valide,,Credit reporting,complement_nb
+1952282,91,Mortgage,19.568099989555776,valide,,Student loan,complement_nb
+1952870,877,Debt collection,16.384200018364936,valide,,Debt collection,complement_nb
+1953368,139,"Credit reporting, credit repair services, or other personal consumer reports",17.784499970730394,valide,,Credit reporting,complement_nb
+1954713,1453,Credit card or prepaid card,22.06260000821203,valide,,Credit card,complement_nb
+1958081,259,Debt collection,17.68300001276657,valide,,Debt collection,complement_nb
+1958621,519,Debt collection,18.347400007769465,valide,,Debt collection,complement_nb
+1960313,2506,Mortgage,17.934200004674494,valide,,Mortgage,complement_nb
+1960480,618,Mortgage,18.249900022055954,valide,,Mortgage,complement_nb
+1962525,2124,Bank account or service,22.696400003042072,valide,,Bank account or service,complement_nb
+1963694,3188,Debt collection,18.492600007448345,valide,,Debt collection,complement_nb
+1965904,3908,Mortgage,20.05180000560358,valide,,Mortgage,complement_nb
+1972910,1588,"Credit reporting, credit repair services, or other personal consumer reports",19.37799999723211,valide,,Credit reporting,complement_nb
+1975193,1460,Mortgage,21.278299973346293,valide,,Mortgage,complement_nb
+1989727,545,Mortgage,19.442200020421296,valide,,Consumer Loan,complement_nb
+1998809,887,Mortgage,14.311400009319186,valide,,Mortgage,complement_nb
+2001197,1161,"Credit reporting, credit repair services, or other personal consumer reports",15.113400004338473,valide,,Credit reporting,complement_nb
+2001686,757,Debt collection,16.505400009918958,valide,,Debt collection,complement_nb
+2005312,3413,"Credit reporting, credit repair services, or other personal consumer reports",19.93950002361089,valide,,Credit reporting,complement_nb
+2006333,1091,Debt collection,18.086399999447167,valide,,Debt collection,complement_nb
+2010062,448,Debt collection,16.346100019291043,valide,,Debt collection,complement_nb
+2016532,1370,Debt collection,16.633399995043874,valide,,Bank account or service,complement_nb
+2021185,271,Debt collection,20.488800015300512,valide,,Debt collection,complement_nb
+2024231,594,Mortgage,17.23979995585978,valide,,Mortgage,complement_nb
+2032252,936,"Credit reporting, credit repair services, or other personal consumer reports",13.173599960282445,valide,,Credit reporting,complement_nb
+2035733,889,Student loan,18.82960001239553,valide,,Student loan,complement_nb
+2036231,2168,Checking or savings account,20.780599967110902,valide,,Bank account or service,complement_nb
+2044167,711,"Credit reporting, credit repair services, or other personal consumer reports",17.83269998850301,valide,,Credit reporting,complement_nb
+2054709,674,Credit card or prepaid card,16.65310002863407,valide,,Credit card,complement_nb
+2056578,460,Debt collection,14.400800049770623,valide,,Debt collection,complement_nb
+2057191,3417,Bank account or service,15.75840002624318,valide,,Bank account or service,complement_nb
+2062920,444,Bank account or service,14.168199966661632,valide,,Credit card,complement_nb
+2062989,3863,Mortgage,16.35990000795573,valide,,Mortgage,complement_nb
+2064578,28,Debt collection,11.90009998390451,valide,,Debt collection,complement_nb
+2066350,1412,Debt collection,15.797599975485355,valide,,Debt collection,complement_nb
+2070911,3876,Vehicle loan or lease,20.975799998268485,valide,,Consumer Loan,complement_nb
+2072650,620,"Credit reporting, credit repair services, or other personal consumer reports",16.065499978139997,valide,,Credit reporting,complement_nb
+2079062,2052,Mortgage,16.784399980679154,valide,,Mortgage,complement_nb
+2079387,827,"Credit reporting, credit repair services, or other personal consumer reports",14.312899962533265,valide,,Credit reporting,complement_nb
+2080511,1820,Mortgage,18.67269998183474,valide,,Mortgage,complement_nb
+2081382,2608,Student loan,21.685299987439066,valide,,Student loan,complement_nb
+2082248,1126,"Credit reporting, credit repair services, or other personal consumer reports",19.119500007946044,valide,,Consumer Loan,complement_nb
+2084809,62,Credit card,17.034699965734035,valide,,Credit card,complement_nb
+2086787,1181,Mortgage,17.14489998994395,valide,,Mortgage,complement_nb
+2087976,214,"Credit reporting, credit repair services, or other personal consumer reports",17.69180002156645,valide,,Credit reporting,complement_nb
+2090600,236,Debt collection,16.08450000640005,valide,,Debt collection,complement_nb
+2090855,748,"Credit reporting, credit repair services, or other personal consumer reports",16.579499992076308,valide,,Credit reporting,complement_nb
+2090995,3809,Bank account or service,18.55249999789521,valide,,Bank account or service,complement_nb
+2092755,179,"Credit reporting, credit repair services, or other personal consumer reports",19.079299992881715,valide,,Credit reporting,complement_nb
+2098019,377,"Credit reporting, credit repair services, or other personal consumer reports",16.927699965890497,valide,,Credit reporting,complement_nb
+2104006,1265,Debt collection,16.376900020986795,valide,,Debt collection,complement_nb
+2106274,417,Consumer Loan,15.286799985915422,valide,,Consumer Loan,complement_nb
+2107040,1249,Credit card or prepaid card,14.776500000152737,valide,,Bank account or service,complement_nb
+2109799,105,Debt collection,16.669999982696027,valide,,Debt collection,complement_nb
+2112008,857,"Credit reporting, credit repair services, or other personal consumer reports",12.17579998774454,valide,,Credit reporting,complement_nb
+2112727,1086,Mortgage,12.211900029797107,valide,,Mortgage,complement_nb
+2118380,1871,Debt collection,12.475900002755225,valide,,Debt collection,complement_nb
+2124747,1248,Student loan,19.181400013621897,valide,,Student loan,complement_nb
+2130153,796,Mortgage,20.00310004223138,valide,,Bank account or service,complement_nb
+2130425,715,"Credit reporting, credit repair services, or other personal consumer reports",14.406000031158328,valide,,Mortgage,complement_nb
+2134545,1002,Mortgage,16.885399993043393,valide,,Credit reporting,complement_nb
+2139120,298,Bank account or service,20.934100029990077,valide,,Bank account or service,complement_nb
+2146174,436,Credit card or prepaid card,19.474899978376925,valide,,Consumer Loan,complement_nb
+2147086,1240,"Credit reporting, credit repair services, or other personal consumer reports",17.23719999426976,valide,,Credit reporting,complement_nb
+2147110,302,"Credit reporting, credit repair services, or other personal consumer reports",17.61029998306185,valide,,Credit reporting,complement_nb
+2147247,462,"Credit reporting, credit repair services, or other personal consumer reports",15.86500002304092,valide,,Credit card,complement_nb
+2149492,1003,Debt collection,18.12319998862222,valide,,Debt collection,complement_nb
+2150556,1679,Mortgage,20.297400013078004,valide,,Mortgage,complement_nb
+2152410,2486,"Credit reporting, credit repair services, or other personal consumer reports",18.309100007172674,valide,,Credit reporting,complement_nb
+2153679,241,"Credit reporting, credit repair services, or other personal consumer reports",14.500699995551258,valide,,Credit reporting,complement_nb
+2154464,392,Checking or savings account,16.715000034309924,valide,,Money transfers,complement_nb
+2157683,376,Mortgage,20.775799988768995,valide,,Consumer Loan,complement_nb
+2164779,435,Debt collection,19.897199992556125,valide,,Credit reporting,complement_nb
+2165449,1148,Credit card or prepaid card,18.750699993688613,valide,,Credit card,complement_nb
+2166258,1092,Checking or savings account,17.230700002983212,valide,,Bank account or service,complement_nb
+2166419,149,Bank account or service,17.90239999536425,valide,,Debt collection,complement_nb
+2166588,2197,"Credit reporting, credit repair services, or other personal consumer reports",23.98140000877902,valide,,Debt collection,complement_nb
+2170703,722,Credit card or prepaid card,21.232500032056123,valide,,Bank account or service,complement_nb
+2174159,83,Bank account or service,17.27119996212423,valide,,Bank account or service,complement_nb
+2178377,396,Debt collection,17.07870000973344,valide,,Credit card,complement_nb
+2178503,747,"Credit reporting, credit repair services, or other personal consumer reports",16.73179998761043,valide,,Credit reporting,complement_nb
+2182443,158,Debt collection,17.29029999114573,valide,,Debt collection,complement_nb
+2182602,604,Mortgage,19.44599999114871,valide,,Mortgage,complement_nb
+2183179,445,Student loan,16.969799995422363,valide,,Student loan,complement_nb
+2183362,2110,Bank account or service,21.591799973975867,valide,,Other financial service,complement_nb
+2186887,2506,Mortgage,20.150099997408688,valide,,Mortgage,complement_nb
+2187244,3823,Checking or savings account,19.248600001446903,valide,,Bank account or service,complement_nb
+2189806,1980,Credit card or prepaid card,14.36420000391081,valide,,Credit card,complement_nb
+2198923,858,Mortgage,13.30920000327751,valide,,Student loan,complement_nb
+2199354,364,Student loan,15.465700009372085,valide,,Consumer Loan,complement_nb
+2202119,80,Debt collection,14.119300001766533,valide,,Credit reporting,complement_nb
+2205135,648,Debt collection,14.479200006462634,valide,,Debt collection,complement_nb
+2206136,268,Debt collection,13.859400001820177,valide,,Debt collection,complement_nb
+2206764,506,Debt collection,13.03959998767823,valide,,Debt collection,complement_nb
+2207285,749,Credit card,12.340100016444921,valide,,Credit card,complement_nb
+2211067,1656,Mortgage,13.441300019621849,valide,,Mortgage,complement_nb
+2213977,850,Debt collection,12.553699954878539,valide,,Debt collection,complement_nb
+2216323,1274,Debt collection,13.42029997613281,valide,,Credit reporting,complement_nb
+2216809,1453,Debt collection,14.053099963348359,valide,,Student loan,complement_nb
+2217643,435,Debt collection,12.92690000263974,valide,,Credit card,complement_nb
+2218239,1627,"Credit reporting, credit repair services, or other personal consumer reports",13.35510000353679,valide,,Credit reporting,complement_nb
+2224202,937,Mortgage,13.812499993946403,valide,,Credit card,complement_nb
+2224495,420,Mortgage,15.291999967303127,valide,,Mortgage,complement_nb
+2224736,613,"Credit reporting, credit repair services, or other personal consumer reports",15.506000025197864,valide,,Credit reporting,complement_nb
+2228641,947,Mortgage,15.40420000674203,valide,,Mortgage,complement_nb
+2229734,381,Debt collection,15.235700004268438,valide,,Debt collection,complement_nb
+2230675,1331,Mortgage,14.709799957927316,valide,,Mortgage,complement_nb
+2234364,346,Debt collection,13.839999970514327,valide,,Debt collection,complement_nb
+2234404,306,Credit reporting,12.71959999576211,valide,,Credit card,complement_nb
+2237779,938,Debt collection,13.536499987822026,valide,,Debt collection,complement_nb
+2242482,2157,Credit card or prepaid card,14.231199980713427,valide,,Consumer Loan,complement_nb
+2248041,942,Mortgage,13.503499969374388,valide,,Mortgage,complement_nb
+2250987,940,Debt collection,13.15660000545904,valide,,Debt collection,complement_nb
+2252503,495,"Credit reporting, credit repair services, or other personal consumer reports",12.377900013234466,valide,,Credit reporting,complement_nb
+2254723,169,Debt collection,11.120600043796003,valide,,Debt collection,complement_nb
+2259828,691,Credit card or prepaid card,13.162600051146,valide,,Credit card,complement_nb
+2263785,3349,Mortgage,14.902899973094463,valide,,Mortgage,complement_nb
+2264253,253,Mortgage,12.30609999038279,valide,,Mortgage,complement_nb
+2265512,653,"Credit reporting, credit repair services, or other personal consumer reports",11.96239999262616,valide,,Credit reporting,complement_nb
+2266628,468,Mortgage,12.544600002001971,valide,,Mortgage,complement_nb
+2267090,189,Student loan,13.321399979759008,valide,,Consumer Loan,complement_nb
+2271310,326,"Credit reporting, credit repair services, or other personal consumer reports",12.70009996369481,valide,,Credit reporting,complement_nb
+2272411,1052,Consumer Loan,14.864700031466782,valide,,Consumer Loan,complement_nb
+2278441,280,Credit card,14.907400007359684,valide,,Credit card,complement_nb
+2278845,221,Checking or savings account,13.479999965056777,valide,,Bank account or service,complement_nb
+2281195,417,Debt collection,13.067600026261061,valide,,Debt collection,complement_nb
+2283163,313,Student loan,13.488199969287962,valide,,Debt collection,complement_nb
+2287638,622,"Credit reporting, credit repair services, or other personal consumer reports",13.398599985521287,valide,,Debt collection,complement_nb
+2288368,205,"Credit reporting, credit repair services, or other personal consumer reports",14.324699994176626,valide,,Debt collection,complement_nb
+2289817,1019,Credit card,14.374900027178228,valide,,Credit card,complement_nb
+2291775,363,"Credit reporting, credit repair services, or other personal consumer reports",14.589100028388202,valide,,Credit reporting,complement_nb
+2292545,401,Mortgage,15.771400008816272,valide,,Mortgage,complement_nb
+2292833,767,"Credit reporting, credit repair services, or other personal consumer reports",13.763399969320744,valide,,Credit reporting,complement_nb
+2293270,414,Student loan,14.277100039180368,valide,,Student loan,complement_nb
+2295638,119,"Credit reporting, credit repair services, or other personal consumer reports",14.993700024206191,valide,,Credit reporting,complement_nb
+2295779,1211,Student loan,15.532499994151294,valide,,Student loan,complement_nb
+2297823,416,Student loan,14.543999976012856,valide,,Student loan,complement_nb
+2299363,1564,Student loan,14.980799984186888,valide,,Student loan,complement_nb
+2299662,151,Student loan,12.46630004607141,valide,,Student loan,complement_nb
+2299768,922,Student loan,13.94189998973161,valide,,Student loan,complement_nb
+2299827,2329,Credit card or prepaid card,15.144600009080023,valide,,Credit card,complement_nb
+2300004,427,Mortgage,14.962400018703192,valide,,Mortgage,complement_nb
+2301260,984,Mortgage,15.592999989166856,valide,,Consumer Loan,complement_nb
+2303606,1766,Student loan,14.720699982717633,valide,,Student loan,complement_nb
+2305781,1692,Debt collection,14.147499983664602,valide,,Debt collection,complement_nb
+2306799,625,Checking or savings account,15.174699947237968,valide,,Bank account or service,complement_nb
+2308900,394,Mortgage,14.384699985384941,valide,,Mortgage,complement_nb
+2310149,751,Credit card,12.926700001116842,valide,,Credit card,complement_nb
+2310693,3333,Mortgage,20.024400029797107,valide,,Consumer Loan,complement_nb
+2312769,886,Debt collection,13.001699990127236,valide,,Debt collection,complement_nb
+2316723,464,"Credit reporting, credit repair services, or other personal consumer reports",16.228299995418638,valide,,Debt collection,complement_nb
+2318771,1597,Debt collection,15.16569999512285,valide,,Debt collection,complement_nb
+2325138,110,Debt collection,14.32430004933849,valide,,Credit reporting,complement_nb
+2326973,299,Student loan,16.606900026090443,valide,,Debt collection,complement_nb
+2334419,1438,Mortgage,20.97960002720356,valide,,Debt collection,complement_nb
+2341932,487,Debt collection,18.212600029073656,valide,,Debt collection,complement_nb
+2351336,691,Mortgage,18.273400026373565,valide,,Consumer Loan,complement_nb
+2351625,1353,Mortgage,17.113300040364265,valide,,Mortgage,complement_nb
+2352338,658,Debt collection,16.252200002782047,valide,,Debt collection,complement_nb
+2352579,795,Student loan,16.731299983803183,valide,,Student loan,complement_nb
+2360538,1079,Mortgage,18.826100043952465,valide,,Bank account or service,complement_nb
+2364111,439,Debt collection,16.070600016973913,valide,,Debt collection,complement_nb
+2366088,272,"Credit reporting, credit repair services, or other personal consumer reports",17.82090001506731,valide,,Credit reporting,complement_nb
+2366225,653,Debt collection,16.475200012791902,valide,,Credit reporting,complement_nb
+2368562,269,Debt collection,19.636099983472377,valide,,Debt collection,complement_nb
+2370263,2235,Credit card or prepaid card,18.713299999944866,valide,,Credit card,complement_nb
+2370880,53,Debt collection,17.633699986618012,valide,,Debt collection,complement_nb
+2377503,250,"Credit reporting, credit repair services, or other personal consumer reports",16.24409999931231,valide,,Credit reporting,complement_nb
+2383599,535,"Credit reporting, credit repair services, or other personal consumer reports",19.185899989679456,valide,,Credit reporting,complement_nb
+2386136,506,Debt collection,17.88719999603927,valide,,Debt collection,complement_nb
+2390215,838,Credit card or prepaid card,17.628800007514656,valide,,Credit card,complement_nb
+2390513,892,Mortgage,19.06079996842891,valide,,Mortgage,complement_nb
+2392509,111,Mortgage,15.7183000119403,valide,,Mortgage,complement_nb
+2396277,1869,Mortgage,17.015299992635846,valide,,Mortgage,complement_nb
+2400859,2116,Bank account or service,15.495400002691895,valide,,Bank account or service,complement_nb
+2403918,89,Debt collection,14.228900021407753,valide,,Debt collection,complement_nb
+2407173,608,"Credit reporting, credit repair services, or other personal consumer reports",14.537799987010658,valide,,Credit reporting,complement_nb
+2414025,670,Mortgage,13.644400052726269,valide,,Mortgage,complement_nb
+2414432,611,Student loan,14.270299987401813,valide,,Student loan,complement_nb
+2414831,943,Debt collection,15.971100016031414,valide,,Debt collection,complement_nb
+2418124,1770,Mortgage,13.165200012736022,valide,,Mortgage,complement_nb
+2418311,457,"Credit reporting, credit repair services, or other personal consumer reports",13.548800023272634,valide,,Credit reporting,complement_nb
+2421120,730,"Credit reporting, credit repair services, or other personal consumer reports",13.635599985718727,valide,,Credit reporting,complement_nb
+2421866,903,Mortgage,13.356099952943623,valide,,Mortgage,complement_nb
+2421964,3464,Credit card or prepaid card,15.369600034318864,valide,,Credit card,complement_nb
+2422640,419,"Credit reporting, credit repair services, or other personal consumer reports",12.974800018128008,valide,,Credit reporting,complement_nb
+2423690,1052,Student loan,14.397000020835549,valide,,Student loan,complement_nb
+2425123,55,Debt collection,12.600600020959973,valide,,Debt collection,complement_nb
+2426316,1437,Student loan,13.898200006224215,valide,,Student loan,complement_nb
+2429719,948,Debt collection,13.196200015954673,valide,,Debt collection,complement_nb
+2432276,1031,Credit card or prepaid card,11.88400003593415,valide,,Credit card,complement_nb
+2437158,510,"Credit reporting, credit repair services, or other personal consumer reports",11.769300035666674,valide,,Credit reporting,complement_nb
+2437616,1280,Credit card or prepaid card,12.368800002150238,valide,,Credit card,complement_nb
+2437617,121,"Credit reporting, credit repair services, or other personal consumer reports",11.818899947684258,valide,,Credit reporting,complement_nb
+2439172,183,"Credit reporting, credit repair services, or other personal consumer reports",11.5728999953717,valide,,Credit card,complement_nb
+2441536,628,Student loan,11.819500010460615,valide,,Student loan,complement_nb
+2443518,1405,Mortgage,11.928799969609827,valide,,Mortgage,complement_nb
+2443773,57,"Credit reporting, credit repair services, or other personal consumer reports",10.162899969145656,valide,,Credit reporting,complement_nb
+2467124,666,"Credit reporting, credit repair services, or other personal consumer reports",10.161199956201017,valide,,Debt collection,complement_nb
+2471016,1095,"Credit reporting, credit repair services, or other personal consumer reports",9.770500008016825,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2472024,1141,Mortgage,10.56959998095408,valide,,Mortgage,complement_nb
+2473558,2456,Mortgage,12.114299985114485,valide,,Mortgage,complement_nb
+2474031,193,Bank account or service,11.673200002405792,valide,,Debt collection,complement_nb
+2475109,5532,Checking or savings account,15.525399998296052,valide,,Checking or savings account,complement_nb
+2475646,698,Mortgage,13.03370000096038,valide,,Vehicle loan or lease,complement_nb
+2476841,280,Debt collection,12.478499964345247,valide,,Debt collection,complement_nb
+2477305,102,"Credit reporting, credit repair services, or other personal consumer reports",13.029100024141371,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2477702,2214,Debt collection,11.8023999966681,valide,,Debt collection,complement_nb
+2481351,413,Credit card or prepaid card,11.81130000622943,valide,,Credit card or prepaid card,complement_nb
+2481361,109,Debt collection,12.77730002766475,valide,,Debt collection,complement_nb
+2482007,1636,Credit card,13.628899992909282,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2482187,1828,Mortgage,12.391900003422052,valide,,Mortgage,complement_nb
+2482470,2403,"Credit reporting, credit repair services, or other personal consumer reports",14.20709997182712,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2485426,1169,"Credit reporting, credit repair services, or other personal consumer reports",12.486400024499744,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2486322,1100,Mortgage,13.459799985866994,valide,,Mortgage,complement_nb
+2488150,477,Debt collection,13.80120002431795,valide,,Debt collection,complement_nb
+2488403,563,Debt collection,13.687499973457307,valide,,Debt collection,complement_nb
+2491311,2920,Credit card or prepaid card,11.790799966547638,valide,,"Money transfer, virtual currency, or money service",complement_nb
+2491660,2112,Debt collection,10.174399998504668,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2493766,448,Checking or savings account,7.515100005548447,valide,,Checking or savings account,complement_nb
+2495933,530,Checking or savings account,11.503999994602054,valide,,Checking or savings account,complement_nb
+2495979,848,"Credit reporting, credit repair services, or other personal consumer reports",11.921700031962246,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2496037,1298,Debt collection,11.234299978241324,valide,,Student loan,complement_nb
+2496743,829,Student loan,11.210799973923713,valide,,Student loan,complement_nb
+2497201,2072,Mortgage,12.526599981356412,valide,,Credit card or prepaid card,complement_nb
+2498096,846,Credit card or prepaid card,11.973300017416477,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2500078,193,Debt collection,11.659700016025454,valide,,Student loan,complement_nb
+2502179,964,Debt collection,10.96690003760159,valide,,Debt collection,complement_nb
+2505130,805,"Credit reporting, credit repair services, or other personal consumer reports",12.392899952828884,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2540713,1145,Debt collection,13.31049995496869,valide,,Debt collection,complement_nb
+2541786,3897,"Credit reporting, credit repair services, or other personal consumer reports",14.607899996917695,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2542255,621,Debt collection,14.494300005026162,valide,,Debt collection,complement_nb
+2545082,269,"Credit reporting, credit repair services, or other personal consumer reports",13.467599987052381,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2548231,940,Credit card or prepaid card,15.171399980317801,valide,,Checking or savings account,complement_nb
+2548862,262,Student loan,14.57459997618571,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2552305,1492,"Credit reporting, credit repair services, or other personal consumer reports",16.09150000149384,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2553244,625,Mortgage,16.97180001065135,valide,,Mortgage,complement_nb
+2554856,657,Mortgage,17.867199960164726,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2555800,716,Consumer Loan,17.31399999698624,valide,,Vehicle loan or lease,complement_nb
+2556295,398,Debt collection,17.34229997964576,valide,,Debt collection,complement_nb
+2557125,310,Debt collection,17.18090003123507,valide,,Debt collection,complement_nb
+2557186,706,Student loan,16.180999984499067,valide,,Student loan,complement_nb
+2557722,274,"Credit reporting, credit repair services, or other personal consumer reports",14.536899980157614,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2558216,1555,"Credit reporting, credit repair services, or other personal consumer reports",19.13640002021566,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2559294,2636,"Money transfer, virtual currency, or money service",19.33659997303039,valide,,"Money transfer, virtual currency, or money service",complement_nb
+2559461,307,Bank account or service,19.9807999888435,valide,,Checking or savings account,complement_nb
+2560126,1481,Debt collection,22.10280002327636,valide,,Checking or savings account,complement_nb
+2561721,245,"Credit reporting, credit repair services, or other personal consumer reports",20.197800011374056,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2562457,3783,Mortgage,21.9659999711439,valide,,Credit card or prepaid card,complement_nb
+2562973,1257,"Credit reporting, credit repair services, or other personal consumer reports",17.074900039006025,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2563657,692,Mortgage,16.11389999743551,valide,,Mortgage,complement_nb
+2565371,233,"Credit reporting, credit repair services, or other personal consumer reports",16.002200020011514,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2568244,506,"Credit reporting, credit repair services, or other personal consumer reports",15.811200020834804,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2568271,570,Debt collection,16.39679999789223,valide,,Debt collection,complement_nb
+2568801,578,Debt collection,16.201000020373613,valide,,Debt collection,complement_nb
+2569353,675,Debt collection,16.48570003453642,valide,,Debt collection,complement_nb
+2570423,941,Checking or savings account,16.582499956712127,valide,,Checking or savings account,complement_nb
+2570461,921,Bank account or service,18.702900037169456,valide,,Credit card or prepaid card,complement_nb
+2573841,838,Mortgage,17.34830002533272,valide,,Mortgage,complement_nb
+2578353,1476,Student loan,20.30229999218136,valide,,Student loan,complement_nb
+2578494,323,"Credit reporting, credit repair services, or other personal consumer reports",22.951200022362173,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2579359,651,Debt collection,16.35709998663515,valide,,Debt collection,complement_nb
+2581352,226,"Credit reporting, credit repair services, or other personal consumer reports",17.46250002179295,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2581783,1167,"Credit reporting, credit repair services, or other personal consumer reports",15.950500033795834,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2581888,1042,Mortgage,17.435199988540262,valide,,Mortgage,complement_nb
+2582102,1440,Mortgage,17.440599971450865,valide,,Mortgage,complement_nb
+2582958,611,"Credit reporting, credit repair services, or other personal consumer reports",16.92449999973178,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2583104,1083,"Credit reporting, credit repair services, or other personal consumer reports",22.89359999122098,valide,,Vehicle loan or lease,complement_nb
+2583326,1449,"Credit reporting, credit repair services, or other personal consumer reports",15.848199953325093,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2584237,301,Credit card or prepaid card,16.07680000597611,valide,,Credit card or prepaid card,complement_nb
+2585713,1258,Debt collection,16.880500013940036,valide,,Debt collection,complement_nb
+2586367,194,Debt collection,16.379399981815368,valide,,Vehicle loan or lease,complement_nb
+2588210,1646,Mortgage,15.852199983783066,valide,,Mortgage,complement_nb
+2590348,415,Debt collection,15.665700018871576,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2592363,1083,Debt collection,18.036000023130327,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2592984,361,"Credit reporting, credit repair services, or other personal consumer reports",14.86650004517287,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2593387,368,Debt collection,14.966799993999302,valide,,Debt collection,complement_nb
+2595805,523,Debt collection,17.542600049637258,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2597033,409,"Credit reporting, credit repair services, or other personal consumer reports",15.877300000283867,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2601298,2648,Credit card or prepaid card,17.65029999660328,valide,,Credit card or prepaid card,complement_nb
+2602100,646,Debt collection,16.152300057001412,valide,,Debt collection,complement_nb
+2603972,503,"Credit reporting, credit repair services, or other personal consumer reports",17.321099992841482,valide,,Vehicle loan or lease,complement_nb
+2607690,6102,Mortgage,19.472500018309802,valide,,Mortgage,complement_nb
+2612384,1004,"Credit reporting, credit repair services, or other personal consumer reports",15.539299987722188,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2624462,888,"Credit reporting, credit repair services, or other personal consumer reports",15.48119995277375,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2626379,1524,"Credit reporting, credit repair services, or other personal consumer reports",17.03819999238476,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2630778,1275,"Credit reporting, credit repair services, or other personal consumer reports",16.807699983473867,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2630785,521,Credit card or prepaid card,16.773799958173186,valide,,Credit card or prepaid card,complement_nb
+2630938,1989,Mortgage,18.092299986165017,valide,,Mortgage,complement_nb
+2633594,815,Mortgage,15.94489999115467,valide,,Mortgage,complement_nb
+2634256,237,Debt collection,15.741000010166317,valide,,Debt collection,complement_nb
+2644476,1117,Debt collection,16.48570003453642,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2645579,764,Credit card or prepaid card,17.974299960769713,valide,,Credit card or prepaid card,complement_nb
+2645833,2160,Mortgage,43.394099979195744,valide,,Mortgage,complement_nb
+2646286,1201,"Credit reporting, credit repair services, or other personal consumer reports",51.170999999158084,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2647998,3330,Student loan,22.973300016019493,valide,,Student loan,complement_nb
+2649339,1621,Student loan,27.00220001861453,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2651641,1190,Mortgage,24.964399985037744,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2652075,1343,"Credit reporting, credit repair services, or other personal consumer reports",19.07849998679012,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2652081,480,Mortgage,17.27079995907843,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2652231,1092,Mortgage,15.877199999522418,valide,,Mortgage,complement_nb
+2652432,3413,Mortgage,17.363699967972934,valide,,Mortgage,complement_nb
+2653011,471,Bank account or service,15.964700025506318,valide,,Checking or savings account,complement_nb
+2653078,1017,Student loan,15.358700009528548,valide,,Student loan,complement_nb
+2653756,420,"Credit reporting, credit repair services, or other personal consumer reports",15.012599993497133,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2653961,2141,Mortgage,17.393000016454607,valide,,"Money transfer, virtual currency, or money service",complement_nb
+2655184,1781,Student loan,20.080999995116144,valide,,Student loan,complement_nb
+2656161,2858,Debt collection,29.837700014468282,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2659202,1190,Student loan,28.270100010558963,valide,,Student loan,complement_nb
+2660304,199,"Credit reporting, credit repair services, or other personal consumer reports",18.44139996683225,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2662600,1763,Vehicle loan or lease,21.264899987727404,valide,,Debt collection,complement_nb
+2662767,513,Debt collection,23.11290003126487,valide,,Debt collection,complement_nb
+2662920,451,Student loan,16.758899961132556,valide,,Student loan,complement_nb
+2663370,361,"Credit reporting, credit repair services, or other personal consumer reports",18.63110001431778,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2663412,252,"Credit reporting, credit repair services, or other personal consumer reports",18.86980002745986,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2663451,458,Credit card,26.942399970721453,valide,,Credit card or prepaid card,complement_nb
+2665094,380,"Credit reporting, credit repair services, or other personal consumer reports",20.96009999513626,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2667433,208,Credit card or prepaid card,25.327200011815876,valide,,Credit card or prepaid card,complement_nb
+2667530,391,Credit card,29.104100016411394,valide,,Credit card or prepaid card,complement_nb
+2667585,150,"Credit reporting, credit repair services, or other personal consumer reports",19.82069999212399,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2668307,84,"Credit reporting, credit repair services, or other personal consumer reports",21.423800033517182,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2668846,214,"Credit reporting, credit repair services, or other personal consumer reports",23.288299969863147,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2670344,1082,Mortgage,23.35480001056567,valide,,Mortgage,complement_nb
+2670579,721,Debt collection,17.425999976694584,valide,,Debt collection,complement_nb
+2671830,3197,"Credit reporting, credit repair services, or other personal consumer reports",21.242799994070083,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2673189,2171,"Credit reporting, credit repair services, or other personal consumer reports",21.624399989377707,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2673233,474,"Credit reporting, credit repair services, or other personal consumer reports",20.60589997563511,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2673518,1149,"Credit reporting, credit repair services, or other personal consumer reports",15.270000032614917,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2674237,1280,"Credit reporting, credit repair services, or other personal consumer reports",21.047100017312914,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2675075,306,"Credit reporting, credit repair services, or other personal consumer reports",24.5353999780491,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2675276,727,"Credit reporting, credit repair services, or other personal consumer reports",23.67460000095889,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2675605,1183,"Credit reporting, credit repair services, or other personal consumer reports",19.541900022886693,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2675948,1762,Credit card or prepaid card,23.411500034853816,valide,,Credit card or prepaid card,complement_nb
+2677902,800,Debt collection,22.032399952877313,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2679529,1053,Consumer Loan,22.36649999395013,valide,,Vehicle loan or lease,complement_nb
+2683674,901,Checking or savings account,21.431900036986917,valide,,Checking or savings account,complement_nb
+2686242,3455,Mortgage,20.113500009756535,valide,,Mortgage,complement_nb
+2686614,750,Debt collection,21.1544000194408,valide,,Credit card or prepaid card,complement_nb
+2688025,169,Debt collection,21.013999998103827,valide,,Vehicle loan or lease,complement_nb
+2688540,65,Debt collection,20.63270000508055,valide,,Debt collection,complement_nb
+2689846,2420,"Credit reporting, credit repair services, or other personal consumer reports",20.928300044033676,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2689876,1206,Debt collection,23.352599993813783,valide,,Student loan,complement_nb
+2690933,475,"Credit reporting, credit repair services, or other personal consumer reports",20.329600025434047,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2691158,1359,"Credit reporting, credit repair services, or other personal consumer reports",17.378299962729216,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2692204,611,"Credit reporting, credit repair services, or other personal consumer reports",17.792200029361993,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2694904,1205,"Credit reporting, credit repair services, or other personal consumer reports",17.870699986815453,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2695949,1039,Debt collection,21.44320000661537,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2697061,2526,Mortgage,23.342000029515475,valide,,Mortgage,complement_nb
+2697234,1269,"Credit reporting, credit repair services, or other personal consumer reports",20.542899961583316,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2697990,4050,Student loan,21.795300010126084,valide,,Student loan,complement_nb
+2698393,457,"Credit reporting, credit repair services, or other personal consumer reports",20.71130002150312,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2698952,312,"Credit reporting, credit repair services, or other personal consumer reports",17.583300010301173,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2701299,1000,"Credit reporting, credit repair services, or other personal consumer reports",17.582900007255375,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2701693,461,"Credit reporting, credit repair services, or other personal consumer reports",21.007100003771484,valide,,Debt collection,complement_nb
+2702423,1510,Consumer Loan,19.872200035024434,valide,,Vehicle loan or lease,complement_nb
+2703830,155,"Credit reporting, credit repair services, or other personal consumer reports",11.600500030908734,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2704592,988,"Credit reporting, credit repair services, or other personal consumer reports",20.593099994584918,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2704651,440,"Credit reporting, credit repair services, or other personal consumer reports",19.20470001641661,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2705962,726,"Credit reporting, credit repair services, or other personal consumer reports",18.249800021294504,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2707227,2195,Debt collection,20.773799973540008,valide,,Credit card or prepaid card,complement_nb
+2708951,502,"Credit reporting, credit repair services, or other personal consumer reports",19.587499962653965,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2711079,506,Debt collection,19.543199974577874,valide,,Debt collection,complement_nb
+2711116,490,"Credit reporting, credit repair services, or other personal consumer reports",19.75839998340234,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2712799,1644,Credit card or prepaid card,18.107199983205646,valide,,Debt collection,complement_nb
+2714173,3167,Mortgage,19.60040000267327,valide,,Student loan,complement_nb
+2714407,1867,Credit card or prepaid card,19.009699986781925,valide,,Credit card or prepaid card,complement_nb
+2714430,957,Debt collection,19.227799959480762,valide,,Debt collection,complement_nb
+2715103,499,"Credit reporting, credit repair services, or other personal consumer reports",22.051399981137365,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2716045,1531,Debt collection,24.572799971792847,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2717042,302,Mortgage,20.12020000256598,valide,,Vehicle loan or lease,complement_nb
+2718085,1407,Mortgage,18.10220000334084,valide,,Credit card or prepaid card,complement_nb
+2718239,354,Credit card or prepaid card,17.063100007362664,valide,,Credit card or prepaid card,complement_nb
+2719446,2497,Mortgage,21.190200001001358,valide,,Mortgage,complement_nb
+2720263,1493,Mortgage,17.697100003715605,valide,,Debt collection,complement_nb
+2722422,26,"Credit reporting, credit repair services, or other personal consumer reports",17.137099988758564,valide,,Credit card or prepaid card,complement_nb
+2723921,1276,Debt collection,17.206799995619804,valide,,Debt collection,complement_nb
+2724942,1083,Credit card,18.93190003465861,valide,,Credit card or prepaid card,complement_nb
+2725456,2730,Student loan,24.462200002744794,valide,,Student loan,complement_nb
+2726147,803,Debt collection,24.459000036586076,valide,,Debt collection,complement_nb
+2726585,305,Credit card or prepaid card,21.85219997772947,valide,,"Payday loan, title loan, or personal loan",complement_nb
+2727161,116,Debt collection,20.78710001660511,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2729599,737,Credit card,18.859900010284036,valide,,Credit card or prepaid card,complement_nb
+2730181,2044,"Credit reporting, credit repair services, or other personal consumer reports",24.266099964734167,valide,,Checking or savings account,complement_nb
+2731426,168,Debt collection,23.223299998790026,valide,,Debt collection,complement_nb
+2731739,208,Debt collection,21.002300025429577,valide,,Debt collection,complement_nb
+2732569,667,Debt collection,17.919099947903305,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2732891,299,Student loan,20.206599961966276,valide,,Student loan,complement_nb
+2735155,226,Debt collection,19.65480000944808,valide,,"Payday loan, title loan, or personal loan",complement_nb
+2735918,831,Debt collection,22.633599990513176,valide,,"Payday loan, title loan, or personal loan",complement_nb
+2735941,721,Student loan,19.8757000034675,valide,,Student loan,complement_nb
+2737508,837,Checking or savings account,18.944599956739694,valide,,Checking or savings account,complement_nb
+2737653,562,Credit card or prepaid card,18.65059998817742,valide,,Credit card or prepaid card,complement_nb
+2739997,679,Student loan,20.04040003521368,valide,,Debt collection,complement_nb
+2742766,687,"Credit reporting, credit repair services, or other personal consumer reports",21.875499980524182,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2743397,501,Credit reporting,22.61380001436919,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2744160,455,Debt collection,22.256199968978763,valide,,Debt collection,complement_nb
+2744233,1972,"Credit reporting, credit repair services, or other personal consumer reports",19.428799976594746,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2744416,63,"Credit reporting, credit repair services, or other personal consumer reports",16.39120001345873,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2744820,458,Credit card or prepaid card,22.918300004675984,valide,,Credit card or prepaid card,complement_nb
+2745283,1395,Mortgage,21.897600032389164,valide,,Mortgage,complement_nb
+2745432,557,Debt collection,21.71719999751076,valide,,Debt collection,complement_nb
+2745593,195,Mortgage,22.80949999112636,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2745723,243,Debt collection,20.925100019667298,valide,,Debt collection,complement_nb
+2748957,1663,Credit card or prepaid card,21.654800046235323,valide,,Credit card or prepaid card,complement_nb
+2749784,3734,Debt collection,21.85960003407672,valide,,Debt collection,complement_nb
+2750251,1586,"Credit reporting, credit repair services, or other personal consumer reports",23.9706999855116,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2750676,1633,Credit card or prepaid card,19.700600008945912,valide,,Credit card or prepaid card,complement_nb
+2753750,1558,Credit card or prepaid card,17.878300044685602,valide,,Credit card or prepaid card,complement_nb
+2755155,1530,Debt collection,20.559599972330034,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2755849,1544,Mortgage,20.371100050397217,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2756390,948,Credit card or prepaid card,22.798200021497905,valide,,Credit card or prepaid card,complement_nb
+2760420,260,Student loan,22.612900007516146,valide,,Student loan,complement_nb
+2761075,2584,Mortgage,21.49820001795888,valide,,Mortgage,complement_nb
+2763190,332,Credit card or prepaid card,20.488700014539063,valide,,Credit card or prepaid card,complement_nb
+2763602,531,"Credit reporting, credit repair services, or other personal consumer reports",23.521299997810274,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2764310,1414,Debt collection,21.817100001499057,valide,,"Payday loan, title loan, or personal loan",complement_nb
+2766014,853,Vehicle loan or lease,21.436800016090274,valide,,Vehicle loan or lease,complement_nb
+2767438,418,"Credit reporting, credit repair services, or other personal consumer reports",19.902100029867142,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2768135,475,"Credit reporting, credit repair services, or other personal consumer reports",18.75420002033934,valide,,Checking or savings account,complement_nb
+2772161,2079,Student loan,31.58929996425286,valide,,Student loan,complement_nb
+2772323,754,Debt collection,18.298299983143806,valide,,Debt collection,complement_nb
+2772396,432,Debt collection,21.351100003812462,valide,,Debt collection,complement_nb
+2773639,527,"Credit reporting, credit repair services, or other personal consumer reports",20.403600006829947,valide,,"Money transfer, virtual currency, or money service",complement_nb
+2773901,401,Debt collection,20.69680002750829,valide,,Debt collection,complement_nb
+2774522,671,Credit card or prepaid card,21.781399962492287,valide,,Credit card or prepaid card,complement_nb
+2774910,3719,"Credit reporting, credit repair services, or other personal consumer reports",25.996499985922128,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2775309,616,"Credit reporting, credit repair services, or other personal consumer reports",21.727999963331968,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2776395,484,"Credit reporting, credit repair services, or other personal consumer reports",22.03760005068034,valide,,Debt collection,complement_nb
+2779023,1802,Mortgage,26.34440001565963,valide,,Mortgage,complement_nb
+2779781,417,Debt collection,19.32610000949353,valide,,Debt collection,complement_nb
+2780449,458,Debt collection,24.617200018838048,valide,,Debt collection,complement_nb
+2781559,371,"Credit reporting, credit repair services, or other personal consumer reports",22.87869999418035,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2784888,2028,"Credit reporting, credit repair services, or other personal consumer reports",24.158700020052493,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2789674,2020,Credit card or prepaid card,21.447099978104234,valide,,Credit card or prepaid card,complement_nb
+2789857,219,Debt collection,22.741699998732656,valide,,Debt collection,complement_nb
+2789905,172,"Credit reporting, credit repair services, or other personal consumer reports",21.114000002853572,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2790556,1064,"Credit reporting, credit repair services, or other personal consumer reports",19.15740000549704,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2791756,732,"Money transfer, virtual currency, or money service",22.201200015842915,valide,,"Money transfer, virtual currency, or money service",complement_nb
+2794152,1094,Student loan,19.363500003237277,valide,,Credit card or prepaid card,complement_nb
+2795077,1220,Debt collection,24.562699953094125,valide,,Debt collection,complement_nb
+2796119,1468,Credit card or prepaid card,22.6937000406906,valide,,Credit card or prepaid card,complement_nb
+2796328,232,"Money transfer, virtual currency, or money service",19.72290000412613,valide,,"Money transfer, virtual currency, or money service",complement_nb
+2798053,1125,"Credit reporting, credit repair services, or other personal consumer reports",20.69619996473193,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2798458,171,"Money transfer, virtual currency, or money service",20.331500039901584,valide,,"Money transfer, virtual currency, or money service",complement_nb
+2799626,789,Mortgage,23.472099972423166,valide,,Mortgage,complement_nb
+2799998,2539,Debt collection,23.22569995885715,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2800953,1130,Mortgage,21.65959996636957,valide,,Mortgage,complement_nb
+2802978,1904,"Credit reporting, credit repair services, or other personal consumer reports",28.570399968884885,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2803494,2280,Credit card or prepaid card,19.013000011909753,valide,,Credit card or prepaid card,complement_nb
+2806661,851,Student loan,19.60749999852851,valide,,Student loan,complement_nb
+2806692,556,Credit card or prepaid card,18.440500018186867,valide,,Credit card or prepaid card,complement_nb
+2806726,596,Debt collection,20.73220000602305,valide,,Debt collection,complement_nb
+2807484,2867,Mortgage,22.94579998124391,valide,,Mortgage,complement_nb
+2808377,235,Vehicle loan or lease,16.828600026201457,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2808386,993,"Credit reporting, credit repair services, or other personal consumer reports",15.737099980469793,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2810465,1959,Mortgage,17.631599970627576,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2811040,644,Debt collection,18.413799989502877,valide,,Vehicle loan or lease,complement_nb
+2811182,479,"Credit reporting, credit repair services, or other personal consumer reports",19.851700053550303,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2811379,975,Mortgage,21.448499988764524,valide,,Mortgage,complement_nb
+2812449,1956,Checking or savings account,17.489899997599423,valide,,Checking or savings account,complement_nb
+2813031,367,Mortgage,21.452799963299185,valide,,Mortgage,complement_nb
+2814066,473,Checking or savings account,18.42839998425916,valide,,Credit card or prepaid card,complement_nb
+2814401,517,Debt collection,18.688200041651726,valide,,Debt collection,complement_nb
+2824133,232,Student loan,17.135800037067384,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2826204,237,"Credit reporting, credit repair services, or other personal consumer reports",17.713400011416525,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2826481,59,"Credit reporting, credit repair services, or other personal consumer reports",18.475899996701628,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2828453,5873,Mortgage,21.888099960051477,valide,,Mortgage,complement_nb
+2828941,2975,Mortgage,18.845300015527755,valide,,Mortgage,complement_nb
+2829792,1425,Mortgage,17.058599973097444,valide,,Mortgage,complement_nb
+2831427,1111,Debt collection,16.021000046748668,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2831431,607,"Credit reporting, credit repair services, or other personal consumer reports",17.431600019335747,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2832804,520,"Money transfer, virtual currency, or money service",18.84879998397082,valide,,"Money transfer, virtual currency, or money service",complement_nb
+2836574,243,Debt collection,26.301099976990372,valide,,Debt collection,complement_nb
+2838902,207,Debt collection,16.9288000324741,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2840016,6757,Student loan,19.209899997804314,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2842242,1760,Student loan,15.999199997168034,valide,,Student loan,complement_nb
+2843709,840,"Credit reporting, credit repair services, or other personal consumer reports",16.52130001457408,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2843982,1291,Debt collection,20.842399972025305,valide,,Debt collection,complement_nb
+2844085,2285,"Credit reporting, credit repair services, or other personal consumer reports",22.181699983775616,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2845388,322,"Credit reporting, credit repair services, or other personal consumer reports",17.455800028983504,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2846721,623,"Credit reporting, credit repair services, or other personal consumer reports",18.143200024496764,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2846871,766,"Credit reporting, credit repair services, or other personal consumer reports",17.895299999509007,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2847776,118,Debt collection,17.70629995735362,valide,,Debt collection,complement_nb
+2848563,1125,"Credit reporting, credit repair services, or other personal consumer reports",16.474799951538444,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2849009,288,Debt collection,15.973299974575639,valide,,Debt collection,complement_nb
+2849018,311,Debt collection,16.356399981305003,valide,,Credit card or prepaid card,complement_nb
+2849126,844,Debt collection,18.123999994713813,valide,,Debt collection,complement_nb
+2850417,610,"Credit reporting, credit repair services, or other personal consumer reports",18.209900008514524,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2850498,3650,Credit card or prepaid card,20.963999966625124,valide,,Credit card or prepaid card,complement_nb
+2852293,256,Mortgage,17.08449999568984,valide,,Mortgage,complement_nb
+2853528,290,"Credit reporting, credit repair services, or other personal consumer reports",20.239699981175363,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2853664,1259,Debt collection,19.616899953689426,valide,,Debt collection,complement_nb
+2853978,419,Debt collection,20.113100006710738,valide,,Debt collection,complement_nb
+2856844,622,"Credit reporting, credit repair services, or other personal consumer reports",18.34060001419857,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2856899,1444,"Credit reporting, credit repair services, or other personal consumer reports",18.212599970865995,valide,,Mortgage,complement_nb
+2856970,816,Mortgage,20.228800014592707,valide,,Mortgage,complement_nb
+2859741,1576,"Credit reporting, credit repair services, or other personal consumer reports",16.126199974678457,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2859909,745,Debt collection,17.716099973767996,valide,,Debt collection,complement_nb
+2860013,1758,Credit card or prepaid card,17.65330001944676,valide,,"Money transfer, virtual currency, or money service",complement_nb
+2860170,548,Credit card or prepaid card,20.204000000376254,valide,,Checking or savings account,complement_nb
+2861021,1400,Credit card or prepaid card,22.75280002504587,valide,,Credit card or prepaid card,complement_nb
+2861748,568,Checking or savings account,18.51110003190115,valide,,Checking or savings account,complement_nb
+2862506,1170,Checking or savings account,17.52320001833141,valide,,"Money transfer, virtual currency, or money service",complement_nb
+2863149,439,"Credit reporting, credit repair services, or other personal consumer reports",18.303100019693375,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2863227,2429,Debt collection,23.50150002166629,valide,,Debt collection,complement_nb
+2863741,1735,Vehicle loan or lease,24.084199976641685,valide,,Vehicle loan or lease,complement_nb
+2865310,1101,"Credit reporting, credit repair services, or other personal consumer reports",19.057500001508743,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2865403,2682,Credit card,19.872400036547333,valide,,Credit card or prepaid card,complement_nb
+2865533,1478,"Credit reporting, credit repair services, or other personal consumer reports",18.201200000476092,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2865657,5125,Mortgage,21.19300002232194,valide,,Credit card or prepaid card,complement_nb
+2866292,1046,"Credit reporting, credit repair services, or other personal consumer reports",22.150299977511168,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2867480,711,"Money transfer, virtual currency, or money service",19.369899993762374,valide,,"Money transfer, virtual currency, or money service",complement_nb
+2868274,353,Debt collection,18.664700037334114,valide,,Student loan,complement_nb
+2869413,745,"Credit reporting, credit repair services, or other personal consumer reports",16.11080003203824,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2869830,434,Bank account or service,17.800400033593178,valide,,Checking or savings account,complement_nb
+2874007,573,Credit card or prepaid card,16.41910005128011,valide,,Credit card or prepaid card,complement_nb
+2874917,542,Student loan,17.920600017532706,valide,,Student loan,complement_nb
+2875576,42,Checking or savings account,18.69759999681264,valide,,"Money transfer, virtual currency, or money service",complement_nb
+2875913,1895,Mortgage,18.873299995902926,valide,,Mortgage,complement_nb
+2875965,1303,Mortgage,19.49370000511408,valide,,Student loan,complement_nb
+2876026,765,Debt collection,18.329299986362457,valide,,Debt collection,complement_nb
+2877663,751,"Credit reporting, credit repair services, or other personal consumer reports",15.14199998928234,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2878910,1566,Credit card or prepaid card,14.900800015311688,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2880044,1428,Debt collection,19.645499996840954,valide,,Debt collection,complement_nb
+2882366,1489,Debt collection,16.90650003729388,valide,,Debt collection,complement_nb
+2884517,1389,"Credit reporting, credit repair services, or other personal consumer reports",18.34830001462251,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2885367,266,"Credit reporting, credit repair services, or other personal consumer reports",19.376799988094717,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2888285,191,Debt collection,22.98140001948923,valide,,Debt collection,complement_nb
+2890282,248,"Credit reporting, credit repair services, or other personal consumer reports",16.925100004300475,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2890559,2139,Credit card or prepaid card,19.67280003009364,valide,,Credit card or prepaid card,complement_nb
+2890995,565,"Credit reporting, credit repair services, or other personal consumer reports",21.761399984825402,valide,,Credit card or prepaid card,complement_nb
+2891749,1598,Student loan,28.089999977964908,valide,,"Payday loan, title loan, or personal loan",complement_nb
+2892201,306,Debt collection,22.02269999543205,valide,,Debt collection,complement_nb
+2892544,1347,Mortgage,24.78439995320514,valide,,Mortgage,complement_nb
+2893271,1739,Debt collection,24.35319998767227,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2893509,201,Debt collection,18.909999984316528,valide,,Debt collection,complement_nb
+2894843,160,"Credit reporting, credit repair services, or other personal consumer reports",15.56570001412183,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2901748,747,Credit card or prepaid card,20.288400002755225,valide,,Checking or savings account,complement_nb
+2905222,2321,"Credit reporting, credit repair services, or other personal consumer reports",20.730999996885657,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2906288,2045,Debt collection,21.396199997980148,valide,,Debt collection,complement_nb
+2906355,1683,Mortgage,20.81219997489825,valide,,Mortgage,complement_nb
+2908837,639,"Credit reporting, credit repair services, or other personal consumer reports",18.004100013058633,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2910141,767,Debt collection,22.829400026239455,valide,,Debt collection,complement_nb
+2910295,1223,Mortgage,21.70549996662885,valide,,Vehicle loan or lease,complement_nb
+2913103,1093,Credit card or prepaid card,23.291699995752424,valide,,Credit card or prepaid card,complement_nb
+2913473,157,Bank account or service,21.40470000449568,valide,,Debt collection,complement_nb
+2915802,3268,Credit card or prepaid card,25.125799991656095,valide,,Credit card or prepaid card,complement_nb
+2916296,676,Consumer Loan,24.618100025691092,valide,,Vehicle loan or lease,complement_nb
+2917257,623,"Credit reporting, credit repair services, or other personal consumer reports",19.15290002943948,valide,,Debt collection,complement_nb
+2918054,6944,Debt collection,22.793400043155998,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2919868,1953,"Credit reporting, credit repair services, or other personal consumer reports",20.300499978475273,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2920765,3532,Student loan,21.420400007627904,valide,,Debt collection,complement_nb
+2920972,1021,Mortgage,22.857200005091727,valide,,Debt collection,complement_nb
+2925738,673,Debt collection,22.86869997624308,valide,,Debt collection,complement_nb
+2927406,737,"Credit reporting, credit repair services, or other personal consumer reports",24.283099977765232,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2929358,338,"Credit reporting, credit repair services, or other personal consumer reports",18.02229997701943,valide,,Debt collection,complement_nb
+2931279,272,"Money transfer, virtual currency, or money service",20.302699995227158,valide,,"Money transfer, virtual currency, or money service",complement_nb
+2931940,801,Bank account or service,16.516700037755072,valide,,Checking or savings account,complement_nb
+2933328,466,Debt collection,23.2626999495551,valide,,Debt collection,complement_nb
+2933577,1677,Mortgage,21.111500042025,valide,,Mortgage,complement_nb
+2933693,328,Debt collection,19.049399998039007,valide,,Debt collection,complement_nb
+2934120,177,Debt collection,19.649600028060377,valide,,Student loan,complement_nb
+2934902,838,Bank account or service,19.563900015782565,valide,,Checking or savings account,complement_nb
+2935319,670,Mortgage,25.817500019911677,valide,,Mortgage,complement_nb
+2936987,4573,"Credit reporting, credit repair services, or other personal consumer reports",24.592300003860146,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2938190,289,"Credit reporting, credit repair services, or other personal consumer reports",17.00160000473261,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2938823,1286,Debt collection,22.08490000339225,valide,,Debt collection,complement_nb
+2942579,1337,"Credit reporting, credit repair services, or other personal consumer reports",21.36030001565814,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2944370,1570,Mortgage,20.959699992090464,valide,,Mortgage,complement_nb
+2945722,573,Vehicle loan or lease,19.277999992482364,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2947037,337,Debt collection,15.650400018785149,valide,,Debt collection,complement_nb
+2947055,485,Debt collection,22.198499995283782,valide,,Debt collection,complement_nb
+2949141,1211,"Credit reporting, credit repair services, or other personal consumer reports",19.16139997774735,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2950223,1055,"Credit reporting, credit repair services, or other personal consumer reports",28.26289995573461,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2950779,506,Mortgage,20.676200045272708,valide,,Mortgage,complement_nb
+2951326,727,"Credit reporting, credit repair services, or other personal consumer reports",22.979200002737343,valide,,Debt collection,complement_nb
+2951769,881,"Credit reporting, credit repair services, or other personal consumer reports",27.794299996457994,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2951953,1206,Student loan,39.430800010450184,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2959288,764,"Credit reporting, credit repair services, or other personal consumer reports",43.73429995030165,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2959354,5677,Bank account or service,35.439300001598895,valide,,Checking or savings account,complement_nb
+2961313,705,Debt collection,23.958400008268654,valide,,Debt collection,complement_nb
+2962490,251,"Credit reporting, credit repair services, or other personal consumer reports",29.63060000911355,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2963679,261,Debt collection,25.84950003074482,valide,,Debt collection,complement_nb
+2965141,2064,Bank account or service,32.94619999360293,valide,,Checking or savings account,complement_nb
+2965501,97,Mortgage,31.465500011108816,valide,,Mortgage,complement_nb
+2965745,648,Mortgage,38.44350000144914,valide,,Student loan,complement_nb
+2965820,1047,Debt collection,36.522400041576475,valide,,Debt collection,complement_nb
+2966950,841,Debt collection,25.598400039598346,valide,,Debt collection,complement_nb
+2967387,1130,"Credit reporting, credit repair services, or other personal consumer reports",20.454499986954033,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2969169,511,"Credit reporting, credit repair services, or other personal consumer reports",18.288600025698543,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2970075,461,Credit card or prepaid card,16.606699966359884,valide,,Credit card or prepaid card,complement_nb
+2970445,1201,Mortgage,25.76230000704527,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2970971,614,Debt collection,20.65640001092106,valide,,Debt collection,complement_nb
+2975533,641,Debt collection,12.95060000848025,valide,,Debt collection,complement_nb
+2977116,744,"Credit reporting, credit repair services, or other personal consumer reports",14.141500054392964,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2980155,306,Bank account or service,15.168300014920533,valide,,Checking or savings account,complement_nb
+2980894,1178,Mortgage,18.00290000392124,valide,,Mortgage,complement_nb
+2980922,517,"Credit reporting, credit repair services, or other personal consumer reports",19.238999986555427,valide,,Debt collection,complement_nb
+2981228,4920,Mortgage,22.17820001533255,valide,,Mortgage,complement_nb
+2981747,450,Debt collection,17.082300037145615,valide,,Debt collection,complement_nb
+2982227,825,Debt collection,24.615599948447198,valide,,Debt collection,complement_nb
+2982752,2245,"Credit reporting, credit repair services, or other personal consumer reports",48.57029998674989,valide,,Debt collection,complement_nb
+2984334,453,"Credit reporting, credit repair services, or other personal consumer reports",26.069500017911196,valide,,Credit card or prepaid card,complement_nb
+2984471,329,Bank account or service,26.01119998143986,valide,,Checking or savings account,complement_nb
+2984878,1216,Credit card or prepaid card,28.635499998927116,valide,,Credit card or prepaid card,complement_nb
+2985086,2322,Debt collection,36.91899997647852,valide,,Debt collection,complement_nb
+2988918,519,Debt collection,26.00360003998503,valide,,Debt collection,complement_nb
+2989074,180,"Credit reporting, credit repair services, or other personal consumer reports",19.79140000184998,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2989152,757,Credit card or prepaid card,14.130899973679334,valide,,Credit card or prepaid card,complement_nb
+2990321,838,"Credit reporting, credit repair services, or other personal consumer reports",16.45940000889823,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2991914,975,Debt collection,17.001900007016957,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2992049,700,Credit card or prepaid card,14.670300006400794,valide,,"Money transfer, virtual currency, or money service",complement_nb
+2995214,2030,Checking or savings account,15.100800024811178,valide,,Checking or savings account,complement_nb
+2995327,1322,Debt collection,16.486099979374558,valide,,Debt collection,complement_nb
+2995645,549,Credit card or prepaid card,14.345500036142766,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2995901,928,Debt collection,16.306100005749613,valide,,Debt collection,complement_nb
+2995903,94,"Credit reporting, credit repair services, or other personal consumer reports",13.930700020864606,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2997960,468,"Credit reporting, credit repair services, or other personal consumer reports",13.776700012385845,valide,,Checking or savings account,complement_nb
+2998589,353,"Credit reporting, credit repair services, or other personal consumer reports",16.65889995638281,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+2998764,1039,Debt collection,15.776499989442527,valide,,Debt collection,complement_nb
+2999333,5159,Debt collection,19.974700000602752,valide,,Debt collection,complement_nb
+2999560,1813,Debt collection,16.3643000414595,valide,,Debt collection,complement_nb
+3000520,345,"Credit reporting, credit repair services, or other personal consumer reports",17.018400016240776,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3001349,267,Debt collection,17.61919999262318,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3001489,2676,Mortgage,22.430999961216003,valide,,Mortgage,complement_nb
+3001960,237,"Credit reporting, credit repair services, or other personal consumer reports",14.507299987599254,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3004444,241,Debt collection,16.40750002115965,valide,,Debt collection,complement_nb
+3005013,2229,Debt collection,15.549600007943809,valide,,Checking or savings account,complement_nb
+3005627,1624,Credit card or prepaid card,16.249799984507263,valide,,Credit card or prepaid card,complement_nb
+3006551,760,"Credit reporting, credit repair services, or other personal consumer reports",14.660599990747869,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3007094,684,"Credit reporting, credit repair services, or other personal consumer reports",21.94130001589656,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3007982,2419,"Credit reporting, credit repair services, or other personal consumer reports",22.0477000111714,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3008649,227,Debt collection,15.188699995633215,valide,,Debt collection,complement_nb
+3010101,3243,Bank account or service,18.153099983464926,valide,,Checking or savings account,complement_nb
+3010467,1188,"Credit reporting, credit repair services, or other personal consumer reports",23.03739998023957,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3013473,62,Student loan,31.81600000243634,valide,,Student loan,complement_nb
+3013798,746,"Credit reporting, credit repair services, or other personal consumer reports",29.7611000132747,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3013984,612,Debt collection,18.972899997606874,valide,,Debt collection,complement_nb
+3015672,152,Mortgage,17.564799985848367,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3022242,245,"Credit reporting, credit repair services, or other personal consumer reports",16.32599998265505,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3022695,2338,Mortgage,34.90169998258352,valide,,Mortgage,complement_nb
+3022812,800,Credit card or prepaid card,26.51749999495223,valide,,Checking or savings account,complement_nb
+3022874,856,"Credit reporting, credit repair services, or other personal consumer reports",29.30759999435395,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3023307,2963,Credit card or prepaid card,18.962399975862354,valide,,Credit card or prepaid card,complement_nb
+3023544,3273,"Credit reporting, credit repair services, or other personal consumer reports",84.2185000074096,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3024716,410,Mortgage,38.50850003072992,valide,,Mortgage,complement_nb
+3026809,1853,"Credit reporting, credit repair services, or other personal consumer reports",30.288599955383688,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3026889,1606,Debt collection,20.981700043193996,valide,,Debt collection,complement_nb
+3029598,1959,Checking or savings account,26.405600016005337,valide,,Checking or savings account,complement_nb
+3031067,244,"Credit reporting, credit repair services, or other personal consumer reports",18.13340000808239,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3031780,426,"Credit reporting, credit repair services, or other personal consumer reports",15.484999981708825,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3036926,1075,Checking or savings account,14.546799997333437,valide,,Checking or savings account,complement_nb
+3037158,463,Credit card or prepaid card,14.127500005997717,valide,,Student loan,complement_nb
+3039163,890,Credit card or prepaid card,16.72409998718649,valide,,Checking or savings account,complement_nb
+3039456,842,Checking or savings account,14.972800039686263,valide,,"Money transfer, virtual currency, or money service",complement_nb
+3039483,2517,Mortgage,15.320800011977553,valide,,Mortgage,complement_nb
+3039677,387,Mortgage,14.706899994052947,valide,,"Payday loan, title loan, or personal loan",complement_nb
+3041720,979,Debt collection,15.381100005470216,valide,,Debt collection,complement_nb
+3042079,425,"Credit reporting, credit repair services, or other personal consumer reports",14.49309999588877,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3043304,893,Mortgage,14.143700012937188,valide,,Credit card or prepaid card,complement_nb
+3043421,723,"Credit reporting, credit repair services, or other personal consumer reports",15.683000034186989,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3043501,2091,"Credit reporting, credit repair services, or other personal consumer reports",15.923900005873293,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3043810,319,Debt collection,16.04720001341775,valide,,Debt collection,complement_nb
+3043841,849,"Credit reporting, credit repair services, or other personal consumer reports",14.321599970571697,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3045436,684,Debt collection,15.532199991866946,valide,,Debt collection,complement_nb
+3045831,423,Credit card or prepaid card,12.669000017922372,valide,,Credit card or prepaid card,complement_nb
+3047418,1136,Bank account or service,13.449300022330135,valide,,Credit card or prepaid card,complement_nb
+3047890,1771,Student loan,14.891200000420213,valide,,Student loan,complement_nb
+3053078,1493,Consumer Loan,14.257000002544373,valide,,Vehicle loan or lease,complement_nb
+3053691,2278,"Credit reporting, credit repair services, or other personal consumer reports",14.471200003754348,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3054161,1383,"Credit reporting, credit repair services, or other personal consumer reports",13.825800037011504,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3054473,1183,Debt collection,12.773499998729676,valide,,Debt collection,complement_nb
+3054679,289,Debt collection,10.790299973450601,valide,,Student loan,complement_nb
+3055868,1562,Debt collection,12.818499992135912,valide,,Debt collection,complement_nb
+3057906,1247,"Credit reporting, credit repair services, or other personal consumer reports",13.966200000140816,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3058054,136,Bank account or service,12.857099995017052,valide,,Credit card or prepaid card,complement_nb
+3059236,3918,Mortgage,13.982800010126084,valide,,Mortgage,complement_nb
+3059722,103,Student loan,11.389899998903275,valide,,"Payday loan, title loan, or personal loan",complement_nb
+3061435,966,"Credit reporting, credit repair services, or other personal consumer reports",12.724199972581118,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3062187,138,"Credit reporting, credit repair services, or other personal consumer reports",12.57289998466149,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3062332,972,Mortgage,11.713899963069707,valide,,Mortgage,complement_nb
+3062500,1934,"Credit reporting, credit repair services, or other personal consumer reports",12.71799998357892,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3062884,349,Mortgage,11.831900046672672,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3063721,625,Student loan,12.940099986735731,valide,,"Payday loan, title loan, or personal loan",complement_nb
+3065271,1024,Debt collection,12.321699992753565,valide,,Debt collection,complement_nb
+3065561,1467,"Credit reporting, credit repair services, or other personal consumer reports",13.523900008294731,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3066648,297,"Credit reporting, credit repair services, or other personal consumer reports",12.985699984710664,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3066838,230,"Credit reporting, credit repair services, or other personal consumer reports",11.7032999987714,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3068002,545,Mortgage,12.167599983513355,valide,,"Payday loan, title loan, or personal loan",complement_nb
+3070408,539,Debt collection,11.90179999684915,valide,,Debt collection,complement_nb
+3073046,5952,Consumer Loan,14.720399980433285,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3074506,2843,Bank account or service,13.001999992411584,valide,,Checking or savings account,complement_nb
+3076377,673,"Credit reporting, credit repair services, or other personal consumer reports",12.183899991214275,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3076926,652,"Credit reporting, credit repair services, or other personal consumer reports",10.241699987091124,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3079683,1064,Debt collection,12.820200005080551,valide,,Debt collection,complement_nb
+3081670,846,Credit card or prepaid card,14.008300029672682,valide,,Credit card or prepaid card,complement_nb
+3081813,5891,"Credit reporting, credit repair services, or other personal consumer reports",15.790099976584315,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3082208,621,Debt collection,13.9004000229761,valide,,Debt collection,complement_nb
+3082355,659,Debt collection,12.760400015395135,valide,,Debt collection,complement_nb
+3084137,1022,"Credit reporting, credit repair services, or other personal consumer reports",12.695399986114353,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3084154,660,Debt collection,12.399300001561642,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3085016,252,"Credit reporting, credit repair services, or other personal consumer reports",20.879899966530502,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3085979,1934,Checking or savings account,18.500200007110834,valide,,Checking or savings account,complement_nb
+3086601,1413,Checking or savings account,26.621099968906492,valide,,Checking or savings account,complement_nb
+3089069,1195,Consumer Loan,14.625800016801804,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3093780,139,"Credit reporting, credit repair services, or other personal consumer reports",13.991500018164515,valide,,Debt collection,complement_nb
+3094334,542,Bank account or service,15.94499999191612,valide,,Checking or savings account,complement_nb
+3095146,1749,Debt collection,20.85489995079115,valide,,Debt collection,complement_nb
+3097669,593,"Credit reporting, credit repair services, or other personal consumer reports",15.167199948336929,valide,,Debt collection,complement_nb
+3098559,1138,Mortgage,22.82979997107759,valide,,Debt collection,complement_nb
+3098574,1509,Debt collection,21.50380000239238,valide,,Debt collection,complement_nb
+3099029,774,Student loan,17.032000003382564,valide,,Student loan,complement_nb
+3100826,280,Credit card,38.20499998982996,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3101164,603,"Credit reporting, credit repair services, or other personal consumer reports",23.892000026535243,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3103082,1576,Credit card or prepaid card,26.795600017067045,valide,,Credit card or prepaid card,complement_nb
+3105500,5549,Mortgage,40.53329996531829,valide,,Mortgage,complement_nb
+3105774,294,"Credit reporting, credit repair services, or other personal consumer reports",26.862099999561906,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3106478,540,"Credit reporting, credit repair services, or other personal consumer reports",19.359300029464066,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3106752,693,"Credit reporting, credit repair services, or other personal consumer reports",34.917799988761544,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3107512,1264,Debt collection,16.222700010985136,valide,,Credit card or prepaid card,complement_nb
+3108587,1348,"Credit reporting, credit repair services, or other personal consumer reports",17.373999988194555,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3111473,625,"Credit reporting, credit repair services, or other personal consumer reports",16.871300002094358,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3112411,650,Student loan,15.208199969492853,valide,,Student loan,complement_nb
+3113061,361,Debt collection,17.154700006358325,valide,,Debt collection,complement_nb
+3116153,473,Student loan,20.515299984253943,valide,,"Payday loan, title loan, or personal loan",complement_nb
+3116837,620,Credit card or prepaid card,15.422400028910488,valide,,Credit card or prepaid card,complement_nb
+3117155,1397,Mortgage,22.371299972292036,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3117933,3394,Mortgage,35.367999982554466,valide,,Mortgage,complement_nb
+3120960,1237,Mortgage,15.692100045271218,valide,,Mortgage,complement_nb
+3121453,685,"Credit reporting, credit repair services, or other personal consumer reports",16.30799996200949,valide,,Debt collection,complement_nb
+3121807,1147,"Credit reporting, credit repair services, or other personal consumer reports",18.735599995125085,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3121879,400,Bank account or service,15.739599999506027,valide,,Debt collection,complement_nb
+3123121,132,"Credit reporting, credit repair services, or other personal consumer reports",18.82670004852116,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3125861,573,Student loan,18.248400010634214,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3128186,493,Debt collection,22.349100036080927,valide,,Debt collection,complement_nb
+3129060,472,Debt collection,16.43989997683093,valide,,Debt collection,complement_nb
+3133615,1178,Mortgage,17.93479995103553,valide,,Mortgage,complement_nb
+3133909,800,"Credit reporting, credit repair services, or other personal consumer reports",22.450399992521852,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3135218,1357,"Credit reporting, credit repair services, or other personal consumer reports",19.020200008526444,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3136784,1309,"Credit reporting, credit repair services, or other personal consumer reports",16.085000010207295,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3138487,595,Mortgage,16.692499979399145,valide,,"Payday loan, title loan, or personal loan",complement_nb
+3138593,990,"Credit reporting, credit repair services, or other personal consumer reports",18.747300026006997,valide,,"Payday loan, title loan, or personal loan",complement_nb
+3139093,1248,Student loan,19.25469998968765,valide,,Student loan,complement_nb
+3139508,709,Student loan,17.892499978188425,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3139633,289,"Credit reporting, credit repair services, or other personal consumer reports",14.904599986039102,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3140013,553,Debt collection,15.14199998928234,valide,,Debt collection,complement_nb
+3141937,543,Student loan,17.281999986153096,valide,,Student loan,complement_nb
+3142011,1286,Credit card or prepaid card,30.806599999777973,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3144860,133,"Credit reporting, credit repair services, or other personal consumer reports",16.02340000681579,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3145374,1306,Mortgage,20.839400007389486,valide,,Debt collection,complement_nb
+3146111,516,"Credit reporting, credit repair services, or other personal consumer reports",14.597699977457523,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3146903,1910,Debt collection,20.25960001628846,valide,,Debt collection,complement_nb
+3147293,322,"Credit reporting, credit repair services, or other personal consumer reports",15.753499988932163,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3149319,105,"Credit reporting, credit repair services, or other personal consumer reports",19.30850005010143,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3151172,982,Student loan,20.615500048734248,valide,,Student loan,complement_nb
+3153390,739,Consumer Loan,18.281100026797503,valide,,Vehicle loan or lease,complement_nb
+3156201,1472,"Credit reporting, credit repair services, or other personal consumer reports",21.981899975799024,valide,,"Credit reporting, credit repair services, or other personal consumer reports",complement_nb
+3159921,810,"Credit reporting, credit repair services, or other personal consumer reports",18.73459998751059,valide,,Debt collection,complement_nb
+3169400,440,Debt collection,38.1632000207901,valide,,Debt collection,complement_nb
+3169543,949,Mortgage,21.260700013954192,valide,,Mortgage,complement_nb

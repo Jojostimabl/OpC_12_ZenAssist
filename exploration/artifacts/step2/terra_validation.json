@@ -1,0 +1,12 @@
+{
+  "model": "openai/gpt-6.1-terra",
+  "historical_rows_unchanged": 3180,
+  "additional_calls": 1060,
+  "same_1000_test_ids": true,
+  "frozen_prompts_and_ml_preserved": true,
+  "new_model_errors": 0,
+  "total_reserved_or_known_usd": 1.19307164952,
+  "comparison_rows": 8,
+  "executed_notebook_cells": 30,
+  "notebook_errors": 0
+}

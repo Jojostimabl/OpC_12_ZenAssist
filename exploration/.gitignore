@@ -1,0 +1,14 @@
+dataset.csv
+.venv/
+.uv-cache/
+.env
+**/__pycache__/
+.ipython/
+.jupyter/
+.matplotlib/
+**/.ipynb_checkpoints/
+artifacts/step1/complaints.sqlite*
+artifacts/step1/partitions.csv.gz
+artifacts/step2/requests.sqlite*
+artifacts/step3/models/
+artifacts/step3/tfidf.joblib

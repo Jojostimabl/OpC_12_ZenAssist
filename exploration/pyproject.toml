@@ -1,0 +1,14 @@
+[project]
+name = "zenassist-complaints"
+version = "0.1.0"
+description = "Analyse et comparaison de modèles pour l'orientation de réclamations"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=6.29",
+    "jupyterlab>=4.4",
+    "matplotlib>=3.10",
+    "numpy>=2.2",
+    "openai>=2.0",
+    "pandas>=2.2",
+    "scikit-learn>=1.6",
+]

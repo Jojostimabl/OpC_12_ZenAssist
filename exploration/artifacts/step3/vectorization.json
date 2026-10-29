@@ -1,0 +1,10 @@
+{
+  "fit_transform_train_s": 183.26096619997406,
+  "shape": [
+    254731,
+    100000
+  ],
+  "nonzero": 56188737,
+  "csr_bytes": 450528824,
+  "vocabulary_size": 100000
+}

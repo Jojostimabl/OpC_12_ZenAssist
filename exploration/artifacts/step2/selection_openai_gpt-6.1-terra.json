@@ -1,0 +1,61 @@
+{
+  "model": "openai/gpt-6.1-terra",
+  "prompt": "definitions",
+  "selection": "development_only",
+  "scores": [
+    {
+      "prompt": "labels_only",
+      "n": 20,
+      "coverage": 1.0,
+      "accuracy": 0.55,
+      "f1_macro_present": 0.48148148148148145,
+      "f1_weighted": 0.4666666666666666,
+      "median_ms": 1501.4109999756329,
+      "p95_ms": 2321.471239998937,
+      "mean_ms": 1592.090259998804,
+      "median_valid_ms": 1501.4109999756329,
+      "p95_valid_ms": 2321.471239998937,
+      "cost_known_usd": 0.012478000000000001,
+      "unknown_cost_calls": 0,
+      "prompt_tokens": 10396,
+      "completion_tokens": 362,
+      "absent_labels": ""
+    },
+    {
+      "prompt": "definitions",
+      "n": 20,
+      "coverage": 1.0,
+      "accuracy": 0.6,
+      "f1_macro_present": 0.537037037037037,
+      "f1_weighted": 0.5166666666666666,
+      "median_ms": 1281.5712000010535,
+      "p95_ms": 1502.0876850292555,
+      "mean_ms": 1292.444075003732,
+      "median_valid_ms": 1281.5712000010535,
+      "p95_valid_ms": 1502.0876850292555,
+      "cost_known_usd": 0.01770725,
+      "unknown_cost_calls": 0,
+      "prompt_tokens": 15336,
+      "completion_tokens": 351,
+      "absent_labels": ""
+    },
+    {
+      "prompt": "few_shot",
+      "n": 20,
+      "coverage": 1.0,
+      "accuracy": 0.55,
+      "f1_macro_present": 0.48148148148148145,
+      "f1_weighted": 0.4666666666666666,
+      "median_ms": 1386.120499984827,
+      "p95_ms": 2260.5723450484224,
+      "mean_ms": 1512.5668150023557,
+      "median_valid_ms": 1386.120499984827,
+      "p95_valid_ms": 2260.5723450484224,
+      "cost_known_usd": 0.030219000000000003,
+      "unknown_cost_calls": 0,
+      "prompt_tokens": 23836,
+      "completion_tokens": 338,
+      "absent_labels": ""
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+ml_selected_on_validation,llm,accuracy_difference,ic95_low,ic95_high
+logistic_regression,openai/gpt-6-luna,0.175,0.139,0.209
+logistic_regression,deepseek/deepseek-v4-flash-0731,0.143,0.107,0.178
+logistic_regression,qwen/qwen3.8-flash,0.181,0.146,0.214
+logistic_regression,openai/gpt-6.1-terra,0.02,-0.011,0.052

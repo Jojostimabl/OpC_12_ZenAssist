@@ -1,0 +1,1001 @@
+source_record,complaint_id,label,received,text_key,n_chars,partition
+44409,3169543,Mortgage,2019-03-05,12b3eaaa2470df6ab9419604e496cbf79ced53d4a90489a4508e326b4d3a35a6,949,test
+44688,3169400,Debt collection,2019-03-05,e2ddb7867b59319d1f2611ec63cb1621a9f0b6a8c5a51604bded28e0197f47da,440,test
+51969,3159921,Debt collection,2019-02-22,2f94fe9a32e82f91297b26b41e9c2f1f4216dae601877ae7faff12998b8b4518,810,test
+54427,3156201,"Credit reporting, credit repair services, or other personal consumer reports",2019-02-19,6b60f8fe5ee5a82c1a9eeea207f4e6d925e09c4db1a6c48fe9c82a40a24b3d84,1472,test
+56414,3153390,Vehicle loan or lease,2019-02-15,c10fc8c3329b53542f09e55c2e29dae391c4a6fde5e0caff8b232d7d12051f11,739,test
+57786,3151172,Student loan,2019-02-13,201b1999131181cba5ea4a738656faa79f84d15d6a07a5c8acb1e3a3adc42be5,982,test
+60262,3149319,"Credit reporting, credit repair services, or other personal consumer reports",2019-02-11,9d5b7619556fa01affa6278821065bb078dc53fac877efa52a68c406dd9545c8,105,test
+60956,3147293,"Credit reporting, credit repair services, or other personal consumer reports",2019-02-09,d922a54d48d0398c015b46c74ce247fbd028fa121f57ba38554c9cff4fe229a8,322,test
+61546,3146903,Debt collection,2019-02-08,53d3ba190d239ae518999d2785d1f0845cec4b089762157ed20847cbed5c9d4c,1910,test
+62302,3145374,Debt collection,2019-02-07,68204878a982395019ac3b4e330703c381ca783c4bade5746b685dfbac7ec9fc,1306,test
+62510,3146111,"Credit reporting, credit repair services, or other personal consumer reports",2019-02-07,a1cbf3a892b821a787f160308b6121a9700033bfb4908b4da572e17c8e78c3f4,516,test
+63138,3144860,"Credit reporting, credit repair services, or other personal consumer reports",2019-02-06,40d9664e52060d79a6831be269836f0c9e811c5cb1391378c8b64895f62c70ac,133,test
+64826,3142011,"Credit reporting, credit repair services, or other personal consumer reports",2019-02-04,5d2387dc4b9c5a4add5ae81ff60a3c4d570bc700b2a26f7455bf5561494e8b67,1286,test
+64955,3141937,Student loan,2019-02-04,3c7a3f61ad3c0c6f0e2201b7c170435a4cf1abb528f5c143e9026493761b7c96,543,test
+66193,3139508,"Credit reporting, credit repair services, or other personal consumer reports",2019-02-01,f89062a1b89c38ad630b01a25979ff8dc11934e74aecd3d96a8cb2311bd7ff79,709,test
+66351,3140013,Debt collection,2019-02-01,bfc38e9d707453821a6db3dec3a2594b2d3c75452c52a9be53eef1374b3ebebf,553,test
+66480,3139633,"Credit reporting, credit repair services, or other personal consumer reports",2019-02-01,da9ab4f8c78346dea3682b03a063d774d1394a107439063e537b9d252eca095f,289,test
+66984,3139093,Student loan,2019-01-31,f527b737c2d2dce2a0bf5b72cd382884a2b93bd85c45ac17429a80c5d267ef4f,1248,test
+67233,3138593,"Payday loan, title loan, or personal loan",2019-01-31,f71e815a03e6b49fb1d61abbde997b38736c071227626d5b3d30911467bc6536,990,test
+67488,3138487,"Payday loan, title loan, or personal loan",2019-01-31,546a7d337d2acecde801e6fa2a0308a948fd11fb0d04f3f7276ed50b81c5c4ae,595,test
+69077,3136784,"Credit reporting, credit repair services, or other personal consumer reports",2019-01-29,52a8bb2394d1cecc03d2fd87c686b2f0c3cfd713fb8d3b77134a705bc4474b64,1309,test
+69996,3135218,"Credit reporting, credit repair services, or other personal consumer reports",2019-01-28,7d4102686729e9ca35debd67d6836a8e717b85244264948809c236b2c80ba07e,1357,test
+70847,3133909,"Credit reporting, credit repair services, or other personal consumer reports",2019-01-26,b61b667d5535b0411cf2df07188e2e100ad408ce3ab6306cc823229af6955917,800,test
+71283,3133615,Mortgage,2019-01-25,6e5499f14d5569c9cc7046b08ac33189048cc2827f145966ed84c2373b306af0,1178,test
+74730,3129060,Debt collection,2019-01-19,ae4d2cb632fa51e247e73d0a254ebb756c6c07f9abfcd714fb7f56165241e2fb,472,test
+74903,3128186,Debt collection,2019-01-18,65493bec0f4268092380de01e8618a8062331cf2fae1859026fc77895d0f07b7,493,test
+76992,3125861,"Credit reporting, credit repair services, or other personal consumer reports",2019-01-15,a3c126f2402ccc335af3be56234efa467858894e04f6e3549153ed10a8852197,573,test
+79032,3123121,"Credit reporting, credit repair services, or other personal consumer reports",2019-01-12,52ea0570cda98ca0e23273d4e2c13e2ef926f81e907a304b0b3fbe20c5d8947a,132,test
+80023,3121807,"Credit reporting, credit repair services, or other personal consumer reports",2019-01-10,3903961a46f98f754de39bea29ce901ab638534a1f19bfe0d6980802d68ab1b3,1147,test
+80297,3121453,Debt collection,2019-01-10,57ff26cd017b3e2eebb100737e387440bcc69f217c108f85473c28f51fdbbb9f,685,test
+80358,3121879,Debt collection,2019-01-10,d53c5d7987706fbcff9e5ba94a039c0f10caff0a9a6177d4be1c05ba128cd96a,400,test
+81167,3120960,Mortgage,2019-01-09,174fbf8dffb9f18fbc8d160124473b2ef26acc37e2435b886a2cce4b2c33a694,1237,test
+82935,3117933,Mortgage,2019-01-06,0ceaa837bb90c1a8687816029938156327a867af8233f715e864815734bd11e7,3394,test
+83181,3117155,"Credit reporting, credit repair services, or other personal consumer reports",2019-01-05,9136308780e6c9928e2ee4b747ea759de6035a7031aa4dd867bae4564968abb2,1397,test
+83747,3116153,"Payday loan, title loan, or personal loan",2019-01-04,a9870be49d7c2b242564b1fd1e05cd844a0e62ffc7f5f2548696fd043e869f46,473,test
+83961,3116837,Credit card or prepaid card,2019-01-04,256181b07eca5df71c1e7b675c5c8dfc8a97ea6a53ef1ae6021738dc3770db4a,620,test
+86582,3113061,Debt collection,2018-12-30,5764f6dcbe0b36ac11557f3b885cf72cd0af0545bb331cca7961a5b77c1865aa,361,test
+86958,3112411,Student loan,2018-12-29,310bdb815d19043f5529fe5cacb542054348662e29d233e085e9805e54edc481,650,test
+87238,3111473,"Credit reporting, credit repair services, or other personal consumer reports",2018-12-28,908a5d3e1d4be68587ef9e6084aa632851b676cfd36e39834513dbf6995686f3,625,test
+89700,3108587,"Credit reporting, credit repair services, or other personal consumer reports",2018-12-24,958ff358c482e0eb54be658a0feea9fa3fac5c3b42a148950c4e1d9112c1843c,1348,test
+90655,3107512,Credit card or prepaid card,2018-12-21,7ee356e64782912c2dafddf869bd25ab30ecca0c1a0d081cc14100f6cdb82ed4,1264,test
+90878,3106752,"Credit reporting, credit repair services, or other personal consumer reports",2018-12-21,0b86859eaee72e9f6ab50d8ff050ee8b26c83e32cadeb82ee5bd3286b79ed4fb,693,test
+91508,3106478,"Credit reporting, credit repair services, or other personal consumer reports",2018-12-20,49e756d3ce44ac927a96eb60a30ece66f5eebaac3d7854f2889408dd7555cc91,540,test
+91929,3105774,"Credit reporting, credit repair services, or other personal consumer reports",2018-12-20,8848d00bcfbe7be47198e85944cf3d60bd989553ee607fc981bd43747aadc793,294,test
+92669,3105500,Mortgage,2018-12-19,eea540d746eeaf9057e260372ec2e8db75c051e77d69c8fefafb6a425d08c9f3,5549,test
+93156,3103082,Credit card or prepaid card,2018-12-18,7381455acf151b486a4db0352f20616611687d1c289a265a31686ba1c59084b6,1576,test
+94977,3101164,"Credit reporting, credit repair services, or other personal consumer reports",2018-12-15,fd9e5edf6d1f055f50d3177b669907072e59c4e06e9402f42e2d2f20745e93fe,603,test
+95629,3100826,"Credit reporting, credit repair services, or other personal consumer reports",2018-12-14,1ad7b4f802861f5c5ab268e14e24977622a20faafeb532a16b83fea9fbe382d2,280,test
+96450,3099029,Student loan,2018-12-13,cf4008a509e5839426d72d861547c8bb85eb5d3427bb4eca8efe547687f81074,774,test
+96907,3098574,Debt collection,2018-12-12,66e8a30c85c47891546c22bee8da1b1cd2a6a9653fa39cb59ca50b5e1b2f7e0b,1509,test
+97516,3098559,Debt collection,2018-12-12,2d694d17d2a776bb113e4ec852712f9706a9a64b565ab7e9f1a064c65eb42e9f,1138,test
+98949,3097669,Debt collection,2018-12-10,1ee27ff380587cbb16a007e789a56bb521af1cb788069d7aad8b638f36023c7e,593,test
+99666,3095146,Debt collection,2018-12-08,80c63b94a495850adb86f496cb45df93d78022e163e68c8ade8cd440aae30f6b,1749,test
+100287,3094334,Checking or savings account,2018-12-07,8da52261f04d7bcb47eb67961d3b4c7c4da8ecd22012b3e4625feae725b3fb2e,542,test
+100292,3093780,Debt collection,2018-12-07,cc1d8d17d0df8e50bff56fdd66dcff4ef8ef17f5bb9366586d717cf1c7e8c9ab,139,test
+103962,3089069,"Credit reporting, credit repair services, or other personal consumer reports",2018-12-02,69af2d534a098f81abcb44f4dbe272213670d07d747505f08d74ea51e636221d,1195,test
+105537,3086601,Checking or savings account,2018-11-29,265a8157432f4c52c83c3bf27a7113163afbec7178c0ad0742769c1e8cf27214,1413,test
+106318,3085016,"Credit reporting, credit repair services, or other personal consumer reports",2018-11-28,f83327ff196bcc0b6279b24c9f91a1c53244960dc7e98c5dd2bd464d16111255,252,test
+106325,3085979,Checking or savings account,2018-11-28,7414c222f87db13a900f74c8d96822c462ad5ad04898d9dedef5f38b2ea9858f,1934,test
+107414,3084154,"Credit reporting, credit repair services, or other personal consumer reports",2018-11-27,0805263df3113e38eb5e86c54d026372f36fb2d6becb34175f637b59e6b13ca8,660,test
+107485,3084137,"Credit reporting, credit repair services, or other personal consumer reports",2018-11-27,7ad9b75462f4da0bf22647c28a179eb00e85bb0b38cce2520d276d0818365c8c,1022,test
+108666,3082355,Debt collection,2018-11-25,a3c3cd095a706b491050d6ab10d54243c1013c2668c05f444253a564abbe052b,659,test
+108925,3082208,Debt collection,2018-11-25,d96d4f6d0df37c383fc3e56fe345c754672cffe516fdc6fe80600cdea7287436,621,test
+108935,3081813,"Credit reporting, credit repair services, or other personal consumer reports",2018-11-24,a578cbece514b2b530fed7ce0bd4d36e8d77bcd60222cc5678197b6777a3fe9c,5891,test
+109640,3081670,Credit card or prepaid card,2018-11-23,9e8b1557287317957a8bada3ae8d5cfe629e650b7304eace5a577bbaaaabdfbb,846,test
+110729,3079683,Debt collection,2018-11-20,fad33a0048a2ee0dd894578086b1434ced8ea90c178e62ab246b998cecd67949,1064,test
+113146,3076377,"Credit reporting, credit repair services, or other personal consumer reports",2018-11-16,526e355985fc3926c8b97bb5a10ac6a2aef21be002cda18ae87cc10643eb4e07,673,test
+113279,3076926,"Credit reporting, credit repair services, or other personal consumer reports",2018-11-16,f7bc1d717aa0b3f298596a1ba64c710e4917244ac70f097b48c3ca0bdf8911b1,652,test
+115232,3074506,Checking or savings account,2018-11-14,4a74c0830c1b160a50ef944daedb4e65a25a89b1c86fa3c3c109a6eb679aa194,2843,test
+115309,3073046,"Credit reporting, credit repair services, or other personal consumer reports",2018-11-13,5a20c7f255011bb0914e330930738752298b6c092b08f9aefd07921c5eef0f3c,5952,test
+117488,3070408,Debt collection,2018-11-09,898589cd8df3bc6e12bde2338adce7e98a63859f4da717f208b6505ae501826f,539,test
+119373,3068002,"Payday loan, title loan, or personal loan",2018-11-07,a934b5bc274a4a20f7c4d14e62ecc0b4bb3ecc6012b133bd7fff6375e03edcf2,545,test
+120060,3066648,"Credit reporting, credit repair services, or other personal consumer reports",2018-11-06,e104d067e4bd79ca6ca0c33bfc0b02778e61358ac2502bc24747f05965b3d4f3,297,test
+120353,3066838,"Credit reporting, credit repair services, or other personal consumer reports",2018-11-06,05cf7d5a42f79d2ab445319f897d6c1711017ffa27c176bcc8bfdc5287236fe6,230,test
+120532,3065561,"Credit reporting, credit repair services, or other personal consumer reports",2018-11-05,b74fa650a5530fb9f747f2607f48b2b49a4b01ee170609f1bd34ce7d062a2be4,1467,test
+121010,3065271,Debt collection,2018-11-05,df408a750c5c35d8ff2627a233a77eb23e43cc28b47442de6485997f6c9835f6,1024,test
+122073,3063721,"Payday loan, title loan, or personal loan",2018-11-02,1aeb7e97ce478caef796c6e46833cdffc31f7e35168a94d89f935e4f33be3749,625,test
+123292,3062500,"Credit reporting, credit repair services, or other personal consumer reports",2018-11-01,6b98495a0686f389736f9152538fc6589660515df5e9fed56a0b2def0605f1bb,1934,test
+123373,3062884,"Credit reporting, credit repair services, or other personal consumer reports",2018-11-01,b87c9caa89ee8d39107db555fc1d43aeafdb33eea44ddaa29d9a56b49f7cb628,349,test
+123639,3062187,"Credit reporting, credit repair services, or other personal consumer reports",2018-10-31,0ca63b6f208c1633cfaeafc51c6baf46b29d11c3ddea3156b78f3e04040fd07e,138,test
+124202,3062332,Mortgage,2018-10-31,fd3a6ca6bd0a63e0a1e26d70a198477259a7093f76af1f3df19bb20072dfeb96,972,test
+124258,3061435,"Credit reporting, credit repair services, or other personal consumer reports",2018-10-31,e5e493c889a8191d4d5f9e4bf237a10f77c46f3808700dea8b6e07a5351ca66a,966,test
+125292,3059722,"Payday loan, title loan, or personal loan",2018-10-29,bf27336931009250217e4ea29de566c747953dfab7842eea4311b2525603535f,103,test
+125723,3059236,Mortgage,2018-10-29,a5869c5e9aff1d543f794bc7914da4a4ef8959a9c64077bbfcb2cbd522a6a6e0,3918,test
+126664,3058054,Credit card or prepaid card,2018-10-27,1472c5dc43b34695f56fec1cb61669dfe7fdf9ee76cdc9cf470307b2f73d7a10,136,test
+127234,3057906,"Credit reporting, credit repair services, or other personal consumer reports",2018-10-26,53966976201035b96b6f96da295a6ecfad888a570a4efd0a0269a29f48aab8c0,1247,test
+128372,3055868,Debt collection,2018-10-24,d5b9fbb8e11e6a627c21af3fa5b32e1011a8579093a91de223ea71af25f46aa8,1562,test
+129138,3053691,"Credit reporting, credit repair services, or other personal consumer reports",2018-10-24,1af5e3ed154b0fb8b092ef86bb15b9a0a2387ed6c88efab513fdb8796841a6b1,2278,test
+129396,3054473,Debt collection,2018-10-23,80ad45ec97649b0ff90e6b685b3867e8d660ea020ae025693d3a6796f6acdadb,1183,test
+129611,3054161,"Credit reporting, credit repair services, or other personal consumer reports",2018-10-23,25e29f889797cce7180eeecf72c41aadf7e50a639a58481bfe68d566f3c4a2fd,1383,test
+129767,3054679,Student loan,2018-10-23,e81f9bd58d9b2653cadca745bb0bfb5e5cc867120aa6a62c5ba82866154bf01a,289,test
+130784,3053078,Vehicle loan or lease,2018-10-22,69816619a0f068d7986958050f8792e0648a8da29ddf6bf350e91dbf9cb6b739,1493,test
+134394,3047418,Credit card or prepaid card,2018-10-16,def7e928daf262bc9c7e76c231edf581e5abac40d7801de4fb255e3347078fd8,1136,test
+135177,3047890,Student loan,2018-10-16,0ed54cbdc0e820d3ec2e21d92f6c1c050bd272b8e80a639a5b0cd46c8f7f17e9,1771,test
+135539,3045831,Credit card or prepaid card,2018-10-15,f57de8aaba582829f859e6ced5bf8e6394e0628359576807e07702e24589bff4,423,test
+136377,3045436,Debt collection,2018-10-13,0bd8b557bfc5ca242cee156f40d5788259f70b964b1886e849f0019dd3f6e3d3,684,test
+137561,3043421,"Credit reporting, credit repair services, or other personal consumer reports",2018-10-11,cc96f07992cb8b74644d5264abfcc986c1f63fe0b11591c1da0005f2d8708fe9,723,test
+137577,3043501,"Credit reporting, credit repair services, or other personal consumer reports",2018-10-11,2fb9812121576058df23dff23c92ea734046eff0d040ad1574b790e8a83cfe76,2091,test
+137694,3043304,Credit card or prepaid card,2018-10-11,1202d4b682586bd45f6d9eebe556debe7c533aae4facc64472270c470da05918,893,test
+137915,3043810,Debt collection,2018-10-11,ad0ff1364394bfd5ac7fc8c40981ca337c352abbbf1612557a16c3d43444bbdc,319,test
+138204,3043841,"Credit reporting, credit repair services, or other personal consumer reports",2018-10-11,7e683df929c190f13088de40447bc9ed550e3b8a4d81ed6f2d4dec5c36ffc15f,849,test
+138847,3042079,"Credit reporting, credit repair services, or other personal consumer reports",2018-10-10,a41aad9df96d535118ac7d3069a9fbe51af2c914ea9e71a92604846f71357874,425,test
+139213,3041720,Debt collection,2018-10-10,ecb3d3a8855aa585972983d5dcf2aa91e46746b0db06721a6fa285f1abe00d24,979,test
+140147,3039677,"Payday loan, title loan, or personal loan",2018-10-08,36102794adb5c4c8b1bb11e87df3a286368b46763a0f4afbe2ae6987545211b2,387,test
+140659,3039483,Mortgage,2018-10-07,822fac54428e1642bfd669afc6d2a5a488518ef3191b553f536fe8f06e72e3b2,2517,test
+140708,3039456,"Money transfer, virtual currency, or money service",2018-10-07,acf9c8a882ddee72f1785fd071741db92e063414dbfc55c6417e2db2c27b3c74,842,test
+141141,3039163,Checking or savings account,2018-10-06,74948204dbe0a7c396d571946723ddcce2a0582600f31dfe580bc7b9a4c1490a,890,test
+142194,3037158,Student loan,2018-10-04,fc593f6265c2acab82883376e84de9bed28a44733a6c17babcf45741238d7fe0,463,test
+143129,3036926,Checking or savings account,2018-10-03,6b190aaecb5db57ea1f8d693d458485ca652dd43028c011c2836b929e957fc9f,1075,test
+146403,3031780,"Credit reporting, credit repair services, or other personal consumer reports",2018-09-28,6e99bf54f7765154a4797871ddc0ebd286e8b82f4bbd0fe7dc9fa10feb024da7,426,test
+147437,3031067,"Credit reporting, credit repair services, or other personal consumer reports",2018-09-27,9d8f4355199a2d7291f08feb5590cff7409acf414766771dafc536eb2b02a935,244,test
+147526,3029598,Checking or savings account,2018-09-26,b36d2442a2ade893e8b64ce9b95b6cedaa52350d882774db46f9ce6b34a3bf9f,1959,test
+150136,3026809,"Credit reporting, credit repair services, or other personal consumer reports",2018-09-23,f4aa8a12fb52ff6141eeaa45fe4d3e5e6432c39a2fc1f3ba990cee3a7b9813ca,1853,test
+150258,3026889,Debt collection,2018-09-23,ee5b670e2afba5ac5706eb40c84d4e10b95de40f9078e20fae0ebd8f952d5f93,1606,test
+151491,3024716,Mortgage,2018-09-20,64a6511ddc4cb5a586ced271da25a92cbc75953a326d19188fb6231ad17b288b,410,test
+152603,3023307,Credit card or prepaid card,2018-09-19,a664622c0182f4abb16a551fa53676b1dd595302ef05f25452ef97368bdc90e7,2963,test
+153119,3023544,"Credit reporting, credit repair services, or other personal consumer reports",2018-09-19,462d756617559899e1eae1024ff2610bcc7e092f8b0f22a63611a6b85f2349b7,3273,test
+153294,3022874,"Credit reporting, credit repair services, or other personal consumer reports",2018-09-18,f8d61f9f2c9ac8b1046e869ade6608f8356bebdba9f134b81551fe7f7403a488,856,test
+153376,3022242,"Credit reporting, credit repair services, or other personal consumer reports",2018-09-18,8ae09b8062c43e34c7f0c12d7c6d36378646a45c6c0b0561cfb7ab99322ce239,245,test
+153521,3022812,Checking or savings account,2018-09-18,c9872cca8dfe5a0524dbd2a6dd40252d4267d3ba80841107b012e5b3f7bdeacc,800,test
+153925,3022695,Mortgage,2018-09-18,88323a49b858d3ca8162562b6d5f8a1144309be11725d7a4510954e8afe32a92,2338,test
+158511,3015672,"Credit reporting, credit repair services, or other personal consumer reports",2018-09-11,c1ea591a5fcd53a5e0fdfe78395e659ab2512c25fde12b0333f92d419e4d1b05,152,test
+159647,3013984,Debt collection,2018-09-09,27ccf27c974bac119cf98a3499f894d63e0b8aa011184fed8d06776b63f04e70,612,test
+160172,3013798,"Credit reporting, credit repair services, or other personal consumer reports",2018-09-08,511092a00d578245f9fc01a6e3792c403c286002387c5b7d7bb2f5321d6417ad,746,test
+160428,3013473,Student loan,2018-09-07,75ce38a18149632b06cdbd39023024230d39159aa7d7f8d3777f3f5f4414ee76,62,test
+163299,3010101,Checking or savings account,2018-09-04,56b75921ce87e6c6f4ae00911c32c14330771316f7e7aee72a1621c4bd89cf03,3243,test
+163419,3010467,"Credit reporting, credit repair services, or other personal consumer reports",2018-09-04,06075f16765447c42ce764c29049ff139e56d2e647c475d2d526716706e2f789,1188,test
+163921,3007094,"Credit reporting, credit repair services, or other personal consumer reports",2018-09-03,b3367940bf68559ef224afa3996b6996cbb63227ec02ab96a899c61f4a3abf8e,684,test
+164236,3008649,Debt collection,2018-09-01,1e6446a5e3c3e6d319208bb64d1476e908be72ab86c40422c41e181585373e43,227,test
+164362,3007982,"Credit reporting, credit repair services, or other personal consumer reports",2018-09-01,98d9af186960a55eb614cbff32c78ea881b203bf47f3d345ea2c3d99e714ea2a,2419,test
+165728,3006551,"Credit reporting, credit repair services, or other personal consumer reports",2018-08-30,f18d887e33c40f788c17af682ff74ef7e010c2753c05f22152fb31caa315e080,760,test
+166459,3005013,Checking or savings account,2018-08-29,48f8d1ea7d79a6b14c41ca072e9748dab9d795aaae721354c2d94d4020c83b6f,2229,test
+166735,3005627,Credit card or prepaid card,2018-08-29,412fdfb090e305625ddfa80447bf2fa533868f9e62d10caeddbdb263e4eb4ab1,1624,test
+167341,3004444,Debt collection,2018-08-28,218afb92497f24e250f70805d64ace3c7ceeb3cd0720ee207ef9fec8db470577,241,test
+168598,3001960,"Credit reporting, credit repair services, or other personal consumer reports",2018-08-26,d3e77705cc080f19e0e1a3f3ab0881d70e6538f288bfd2448b990ef974e899f1,237,test
+169253,3001489,Mortgage,2018-08-24,92b04cfd13a5cb633a325d352b9932bb56f7a82785ed82d31c319afd7d2f6dd9,2676,test
+169764,3001349,"Credit reporting, credit repair services, or other personal consumer reports",2018-08-24,dd4465be10e6ad24a90b2f056f7f591aefc4cbca53399c749222757147612403,267,test
+170226,3000520,"Credit reporting, credit repair services, or other personal consumer reports",2018-08-23,db65b2fb8f10837f43e1f536dfe6de8b9bed40adada63374bd000212a8bd200e,345,test
+170705,2998589,"Credit reporting, credit repair services, or other personal consumer reports",2018-08-22,7d9f5d22940f2423e2305d0a3f6ea6eea8be98fe54ae8c456d409fc1372b2d22,353,test
+170952,2999333,Debt collection,2018-08-22,5013af429bc7a2d733cf342a5ff41d5256be3e1af58b07b551440b4e36a827a8,5159,test
+170997,2999560,Debt collection,2018-08-22,e5221f6fd26999442c48ec50bb148dc61f3d12faeeb945d35a7ba5aa0b1869d8,1813,test
+171176,2998764,Debt collection,2018-08-22,45af25f94e4ff50cd3fa34cc90eee881ca6192185e3402a51c51e542b02aedc7,1039,test
+171684,2997960,Checking or savings account,2018-08-21,d6886e02caee729d0013709d41ba1ae75417caf2a73c1676b4d7155b9664990a,468,test
+172639,2995901,Debt collection,2018-08-20,e01db10be186854f515eedec2ca666d434e20d6139eedca6430345621972849d,928,test
+172718,2995903,"Credit reporting, credit repair services, or other personal consumer reports",2018-08-20,ffb0edb68709caa39fed08c088314fdcf4532f3c56a3331b0fb5b2dd3e9c9396,94,test
+173316,2995645,"Credit reporting, credit repair services, or other personal consumer reports",2018-08-19,e7a1ec4f369e9227767e49f3273f99d21dcfa763eed06f7730ac8b44d749d217,549,test
+173697,2995327,Debt collection,2018-08-18,2f6f37fc0f69fce91d00774637591e7f60223b607ba7537e04149e61d8bf30f7,1322,test
+173836,2995214,Checking or savings account,2018-08-18,c8c916d4d5428f4e994544c5def68e4674971f930c0430048c17b0ae03d57cfe,2030,test
+175754,2991914,"Credit reporting, credit repair services, or other personal consumer reports",2018-08-15,4b5c2ab44ab36df247be44bb0882157059963f295e6e20eb46640bae86b57270,975,test
+175838,2992049,"Money transfer, virtual currency, or money service",2018-08-15,1e9a96038631ab4e58f9c48647771365001b979145049a20b64307d54925d6c7,700,test
+177465,2990321,"Credit reporting, credit repair services, or other personal consumer reports",2018-08-13,a919f3d259a0f1600fd510cd9404a33741e358a5c078ec7058fec3e464ac9265,838,test
+178316,2989152,Credit card or prepaid card,2018-08-12,56a933ef69a0c4f590600fc0ac6859fef269302e9ccde1e985d8c7a0e3404adc,757,test
+178515,2989074,"Credit reporting, credit repair services, or other personal consumer reports",2018-08-11,b2df982a0c4de7d2333b95b08b9f0752bc539943b19db91f34fbd3afb4ce55ed,180,test
+178643,2988918,Debt collection,2018-08-11,9ca8751c3c5d76ece9e56e147738027fc8f2659a979345a99f02ab3932afd043,519,test
+181156,2984334,Credit card or prepaid card,2018-08-07,a0062f7a564266299704af0f5df023ebafc530d9c70fa16825a0eb12493e1d60,453,test
+181503,2984878,Credit card or prepaid card,2018-08-07,0c7adc2b1f76d83aa4bde61236a7742e7692b3858b4e5d067ff26ffb94031a6c,1216,test
+181913,2984471,Checking or savings account,2018-08-07,0599de9288084c31f9acde0990ace05077c19b772b8a06209b25f71f9a53e8c2,329,test
+182009,2985086,Debt collection,2018-08-07,73c241675a90098ca11c9139b386013bbdd8e1056bbcc731b2b6af3bc7e82451,2322,test
+182941,2982227,Debt collection,2018-08-05,1d4d4a0b4a8cdf1be4c5a4e64ee271ef014e2046acd5873cffc14bd9ee79a183,825,test
+183529,2981747,Debt collection,2018-08-04,f92695c38df4bbcdbfb039b18a45d6d595526d5a800e3c911586b72c1980818d,450,test
+183575,2982752,Debt collection,2018-08-04,c5fb036b4970b2e47ae09a138b5526c57819bf176806b8cc026f2eaf1b92e5ba,2245,test
+184487,2980155,Checking or savings account,2018-08-02,1100afe2654d1928e0f3fde7ec54d22c997db7f36703b63b5c01b6ea6b240d53,306,test
+184650,2981228,Mortgage,2018-08-02,4fb189753353d6152763e802b0cfdd465c1e28c746ec59c0d580f3d51d61ea7a,4920,test
+184700,2980894,Mortgage,2018-08-02,6774ea9e0fb211f674930e8fa5c457218e68cccbe3f77c3cd4ebcb290e88ec96,1178,test
+185061,2980922,Debt collection,2018-08-02,41e45166dd383739552833be8c5c38eedf8ded9f6fbf58848b2886c75ed341d2,517,test
+187770,2977116,"Credit reporting, credit repair services, or other personal consumer reports",2018-07-30,a07db2e1226b977fc46004d82a9a479b9e9a52e1d56c47de8f26b71bb1ee717a,744,test
+188696,2975533,Debt collection,2018-07-27,a3f23feb1a4a7c38fccf61b7a96e1acf67c9d93fe85c76462d73bb9abd75b591,641,test
+191506,2970445,"Credit reporting, credit repair services, or other personal consumer reports",2018-07-24,574477108e688ce3aebfdfd363e130adff466b5d8b7ee3ce498fb5af83996a49,1201,test
+192093,2970971,Debt collection,2018-07-23,60efceafd4e6a8d0416053757ce0fd7d384cf1a41d4b51b1b16db4d1eaf27052,614,test
+192505,2970075,Credit card or prepaid card,2018-07-23,3b233a1b1e42a9319aa9b23ec6e4774e2cdb87a439e21f3c20232a7faba0dea7,461,test
+193116,2969169,"Credit reporting, credit repair services, or other personal consumer reports",2018-07-21,3de1e47fa46e24836226b15d69497b92d152f3d624224fcae03648c5969c63a3,511,test
+194397,2966950,Debt collection,2018-07-19,f22c37b242dfbb668713ac30959472a7a8a1f204855e2ab9fee6e3bd52bfa2df,841,test
+194719,2967387,"Credit reporting, credit repair services, or other personal consumer reports",2018-07-19,f9337749ff4e696ca8090687b62d882b9a5c62420e3ae31bc5519b476a1d2bc2,1130,test
+195301,2965820,Debt collection,2018-07-18,a70022a75f94f749e7580fc224ba1aa48332be207cd1028600c610941c0a6134,1047,test
+196029,2965501,Mortgage,2018-07-17,282b87e89934a129f7587a7883f3e299f4b66b0490e4113b3b38ae39efb5184c,97,test
+196200,2965141,Checking or savings account,2018-07-17,217bf21ea85929780e88f51b0a6b3ae689c786db11352f13865bf45df2bae0b4,2064,test
+196414,2965745,Student loan,2018-07-17,63d1511fa6615e07622deeea222581170ccb18dfb9aa10a38283982714936208,648,test
+196929,2963679,Debt collection,2018-07-16,1c4a70c17f29496f5594ef1f99728b825ea339dca19912be1eb145c881cf112e,261,test
+198681,2962490,"Credit reporting, credit repair services, or other personal consumer reports",2018-07-13,470db1605a9ada7d995d76a2ce51959682c098f60a3958e646fd0f9cf84f5644,251,test
+199176,2961313,Debt collection,2018-07-12,072bcd4f624eef5a0b2cc6676988fa9a3a712970dba150eca4c52babbcfda62b,705,test
+200876,2959288,"Credit reporting, credit repair services, or other personal consumer reports",2018-07-10,d5f2d28e213e4a8a4691385b2a84f8a8f88c613fd56d09df071a81bf0ec8556a,764,test
+201128,2959354,Checking or savings account,2018-07-10,35e9c23eeb87f94cc26e6969f2e79137caa3b582488bcf289ef0ab8a448efbfb,5677,test
+205587,2951953,"Credit reporting, credit repair services, or other personal consumer reports",2018-07-03,e92a19c208b8ef6081071a4de107841431632b180a6e7ff5907ee34a0ffb4a71,1206,test
+206178,2951326,Debt collection,2018-07-02,42c95dd6cc009625b36c92232791201f690e0e1326afc3edf7b81df985405d44,727,test
+206482,2950779,Mortgage,2018-07-02,48428ab9e84e8fe8925de1454d82363497de4c3942c8bb82969a1d92e1d9f11f,506,test
+206620,2951769,"Credit reporting, credit repair services, or other personal consumer reports",2018-07-02,d3e8e269c55e43a575a70e21302e00b8a105f7d5555a2ac2c90fcc3cea1ac5e6,881,test
+207175,2950223,"Credit reporting, credit repair services, or other personal consumer reports",2018-06-30,06375230eec414f62166da9754ef3da3a2bf2bdcbe1474409d548f37ffff6500,1055,test
+208400,2949141,"Credit reporting, credit repair services, or other personal consumer reports",2018-06-28,a03138c8422a9d07a4f99794103cb781c4bc50e7623185406e22a090af1c46ce,1211,test
+210198,2947055,Debt collection,2018-06-26,c237684213a06d04788ffb17d00390b62e40c73a4ce587ff1b2b616740039e00,485,test
+210503,2947037,Debt collection,2018-06-26,b976679eb5a065954686371076d04c48653f3467ff91a38e98ba1d1e7c26c01d,337,test
+210814,2945722,"Credit reporting, credit repair services, or other personal consumer reports",2018-06-25,e20655d9aef77680fcb750fc531dafa707320d7342408edf46e6ebe0b9545f9b,573,test
+211797,2944370,Mortgage,2018-06-24,036d877c5afa3fcc366955707cd91330c28587bc247d0a80f0a70a191ae8be4b,1570,test
+213093,2942579,"Credit reporting, credit repair services, or other personal consumer reports",2018-06-21,044af9c1b69a24533341016d58261252a3c46abbcfed50a2b63b30c7c33a5839,1337,test
+216098,2938823,Debt collection,2018-06-18,e32448c20f2f6e15234d1b71b7cba8efcbfbd49bdc0c4e9ba9acfd91fb43c4b6,1286,test
+216553,2938190,"Credit reporting, credit repair services, or other personal consumer reports",2018-06-16,4e3a455afd69c6cdfa37ea8c60f577e80f554d9a91ce962c6dba43503c433335,289,test
+216762,2936987,"Credit reporting, credit repair services, or other personal consumer reports",2018-06-15,c19406a49c31d922311d958ed783d27c40cc8bb673ee8211e4b36e4e92e228a0,4573,test
+218296,2935319,Mortgage,2018-06-13,5ffb971561aab6fa3ab35c1c9e5c0e5fe612e7df8351f60f933484a5bb58568f,670,test
+218644,2934902,Checking or savings account,2018-06-13,f8605669647b2a91f1ad717eff6a3a33c15c388e2f937525e8d65bd1ca1afc0c,838,test
+219255,2933693,Debt collection,2018-06-12,1b7b0735bc3df72f9b7b21ce0443954a3fd25b024db1d45131f4679f576329b6,328,test
+219473,2933328,Debt collection,2018-06-12,dbdddb044dd3a95617c7ff2b313fd91aea0388484e5de0381a42618dc9166dd9,466,test
+219568,2933577,Mortgage,2018-06-12,b129a26bc5c4746486f793124b5d530a4c0d718165720273aec7919dbc5b3f6f,1677,test
+219965,2934120,Student loan,2018-06-12,b41a8781090ca2fd6a8a92386a64773337030df8a415a5d631624d254bb57580,177,test
+221089,2931940,Checking or savings account,2018-06-10,7630e812533debb3950e168e3261d1f3ab5b1e51231f805deba007b1edeb1ed9,801,test
+221181,2931279,"Money transfer, virtual currency, or money service",2018-06-09,ee24aae7bf36c5c289d6173b19dfb4f809bae3ab040fc896aa2ed6df932ee112,272,test
+222386,2929358,Debt collection,2018-06-07,8ecf80f7d97ebcd5486e063d87f944ac2608a71e078cbb4c47b4c05791450d02,338,test
+224547,2927406,"Credit reporting, credit repair services, or other personal consumer reports",2018-06-05,4f03538b79021b73508b6e0eab4c297545d6d93218bfdead2d4a6c92eb3a64c6,737,test
+225704,2925738,Debt collection,2018-06-04,66490bfa2b8a736a378345cfa765f874ce04ba1dc62d28f32b176beef746961a,673,test
+229013,2920765,Debt collection,2018-05-30,4ed86a4720f791e48b07fe44c2460661efe35a667f7ab6e6598d9a7cdf9ee9e6,3532,test
+229534,2919868,"Credit reporting, credit repair services, or other personal consumer reports",2018-05-29,5544d4394cff200a9799de0aa314cf100560bb388445e55b308f9b647e34e84e,1953,test
+229735,2920972,Debt collection,2018-05-29,675c757ef238cdce00750d89418c409574a6e46017a0ab5a433fbc9dccf21fe9,1021,test
+230778,2918054,"Credit reporting, credit repair services, or other personal consumer reports",2018-05-25,971f288596846318d4b2d5c32294cbb0ae6161d7627ff08f6ef9d58f8b9bd92d,6944,test
+231742,2916296,Vehicle loan or lease,2018-05-24,8e6b20a34b21d0ef2f74f99edaa6cc66daf85522aaf3a8b6ff1630e383be8370,676,test
+231953,2917257,Debt collection,2018-05-24,cd7db180bc92edf584a9c00de71b79aa986ef2af1a4cd7eb7283694c90b84eeb,623,test
+232362,2915802,Credit card or prepaid card,2018-05-23,cb621a2ba26777379497e9a3094cd1e85ec43829944139344cf951d9e7fde5a6,3268,test
+233836,2913473,Debt collection,2018-05-22,1f4c2c52cdd3e66269668f1026e355d9280f519487060feaa6ea567884c5c60b,157,test
+234498,2913103,Credit card or prepaid card,2018-05-21,8ac39810ef7858b342673ddda59a4ede9b7334e29cbf6221b96410ee46490038,1093,test
+236972,2910141,Debt collection,2018-05-17,0a4aec4d756b3de20bccfc561be9e355ae90df94204024f8f729015e38a3fa38,767,test
+237061,2910295,Vehicle loan or lease,2018-05-17,c56f727ffaf49ec0cf76e862d5f854a918b143f8da86e6ce2488f999c69c0283,1223,test
+237162,2908837,"Credit reporting, credit repair services, or other personal consumer reports",2018-05-16,852da7112854ed0ee410af51fe93224312b97cf6efc079ba102d491149a07ec7,639,test
+239212,2906355,Mortgage,2018-05-15,d771d78b64981942e009aca119bbd75ef31fe15355c99fda3a9aa649f0374bbe,1683,test
+239702,2905222,"Credit reporting, credit repair services, or other personal consumer reports",2018-05-14,9debd4905b6abd342dd70471833eed51c2b75263391a57c23a8237c60d2d0eab,2321,test
+239982,2906288,Debt collection,2018-05-14,c8f054c3d5857ea442986299b555725413a0ed16917f30f6345a46800bff4e43,2045,test
+243208,2901748,Checking or savings account,2018-05-09,204a134151d773c886a8c4813cde2a51617b1050385822c1dd8c81b1983c14ab,747,test
+247813,2894843,"Credit reporting, credit repair services, or other personal consumer reports",2018-05-02,e7d5a554e4f06f407f456c214d911c8f1eee0ef009b766926a8b540b1d551035,160,test
+248816,2893509,Debt collection,2018-05-01,cd1c22a8df3306094dc9a5d66cb251a35a3eee7ba686de8e82a2976abd02fe49,201,test
+248825,2893271,"Credit reporting, credit repair services, or other personal consumer reports",2018-05-01,911d6f15a2ba93adff6919de91a19a21c73e35395825fe286a3e160cd8b10a77,1739,test
+249181,2892544,Mortgage,2018-05-01,0291e64f551cde5e9405ae008a848163a3ee0dd3a05f1841d539480412884e8b,1347,test
+249424,2892201,Debt collection,2018-05-01,2666c22aa49182f3010b77f556e8c43fb8fda6eda0b5d1b6646ecbaa825f308c,306,test
+249645,2891749,"Payday loan, title loan, or personal loan",2018-04-30,4d3a7faaa5a29414d4194361dea5cceb28dfd1f076b68d95f49c2d23f363b1a4,1598,test
+249881,2890995,Credit card or prepaid card,2018-04-30,cf0fe6fac65fc253f71d50438df130d1b20667394ea9089285611b044ed9aef5,565,test
+250912,2890559,Credit card or prepaid card,2018-04-28,2f6f694c172bbf4092d5975836302695f49e63064c8118d8c678cd7c0feb2266,2139,test
+250931,2890282,"Credit reporting, credit repair services, or other personal consumer reports",2018-04-28,808d48eae836f5f2ca699bfe2dfc2824d94ed2ce6e08273dbe92c895dfbb98fd,248,test
+252169,2888285,Debt collection,2018-04-26,d0c8bb53629f7292322b7debc7c67b257ef7af849b901ee9fc593e7b93a5b9ae,191,test
+254044,2884517,"Credit reporting, credit repair services, or other personal consumer reports",2018-04-24,48992260b361a84a96cbad602762cbb0edb674dd916bd9d3687d7fb974a9249e,1389,test
+254475,2885367,"Credit reporting, credit repair services, or other personal consumer reports",2018-04-24,7ebf9fd287e1b6f320b2f6390339dff92a64727990b229d8b784a07478c01f85,266,test
+257450,2882366,Debt collection,2018-04-20,b622c1e8ecb8c8090176c0117361f8c5aed4d4802576051533cd43fec2f406b6,1489,test
+258476,2880044,Debt collection,2018-04-19,11448eeb623e736d92298aa0d5ded1dbdcbc7d9387a851fc5eb9e52d87846610,1428,test
+258932,2878910,"Credit reporting, credit repair services, or other personal consumer reports",2018-04-18,42d3afad030c453220d8ad225ca8c6a30b2a7ccb7616492b35608eb5fb0bc889,1566,test
+260070,2877663,"Credit reporting, credit repair services, or other personal consumer reports",2018-04-17,dc794367c14fba5d7c7572cbe7ef90357b098b1c4fea64633f7deaaad21e96db,751,test
+261634,2876026,Debt collection,2018-04-15,b016ec0ff42d9af6bcc7b89e66b52ce3eb1527a7c3ca9f62a54372463446a4cc,765,test
+261690,2875913,Mortgage,2018-04-15,efa1da5eae4a05f722cff6e87a633fccd6fbd8a1d94d3d2934bd7c23dd12fc90,1895,test
+261735,2875576,"Money transfer, virtual currency, or money service",2018-04-15,7b33dfbbeefdd91af64fa25af70cf88f64ef56957ceeb2db65dce1f103ae070d,42,test
+261893,2875965,Student loan,2018-04-15,5abfffb4c197e30f8a34097aa789eb995cc757df222bb2550db2def325a90856,1303,test
+262539,2874007,Credit card or prepaid card,2018-04-13,6540b90291ae9c4fda83fddbb296e51cc8761f4e32772a956b47ab1f22a0a639,573,test
+262832,2874917,Student loan,2018-04-13,43da4283f1adce891019f0559f0e3f948ea9cd3a6778a2753a281de8c45d0510,542,test
+265941,2869830,Checking or savings account,2018-04-10,67331cb7a58c711d93435922ba5fffa3575973995e35dcbbfe4449f94ab2629f,434,test
+266436,2869413,"Credit reporting, credit repair services, or other personal consumer reports",2018-04-09,be22c90e6afa56a59d751f850762c7860a191275d643387c7ceaf1b84adbde07,745,test
+267477,2868274,Student loan,2018-04-08,d469bcac16b5e8ebf8f8583aa54a52b599cd4b9e67d130d0660c49a33dcd5459,353,test
+268009,2867480,"Money transfer, virtual currency, or money service",2018-04-07,df35279ffb8e08dc5d7a289b518ec3dd38bc74b2f6b4ad413cdcfec84801fde0,711,test
+269584,2866292,"Credit reporting, credit repair services, or other personal consumer reports",2018-04-05,98f62ea9b03b604cb2e91c7990e1961f3cdc54545b802729e48e7aac6849ad40,1046,test
+269629,2865657,Credit card or prepaid card,2018-04-05,1799f84a2cce3f2e514d41a3f79fe15afa5ef163b7cc7addb6f3169597e91714,5125,test
+270066,2865533,"Credit reporting, credit repair services, or other personal consumer reports",2018-04-05,68ac98feb9a73645bbebb71fadaef8926fdce5582356de6d0e3b749aca1593fb,1478,test
+270372,2865310,"Credit reporting, credit repair services, or other personal consumer reports",2018-04-05,e5d87d670a557a54ba2184594fd4ac7a53cdfc61f585d2d963a96f19c97a2591,1101,test
+270439,2865403,Credit card or prepaid card,2018-04-05,c304abee081d9f9d8c6b9cbe7fb160876183777d8f3da9190bd190eb6b9e304c,2682,test
+271398,2863741,Vehicle loan or lease,2018-04-04,5136babcfa88db32ab005b286c15ddfda69530b275f19b9827da9428eb139e89,1735,test
+271763,2863149,"Credit reporting, credit repair services, or other personal consumer reports",2018-04-03,a194abe1892f3c3f0d8c84a7aec985a53d127e1c58558f20d8874e30ecb9e7d3,439,test
+271798,2862506,"Money transfer, virtual currency, or money service",2018-04-03,7348bbae23b2710fda1ce3c8725ddeccd4c4ae91e69ff362a194d71d259cf169,1170,test
+272358,2863227,Debt collection,2018-04-03,856dec4308d3bdd736b573fee96d1401705d51a617630c9fb4804c02df8ddb65,2429,test
+273193,2861748,Checking or savings account,2018-04-02,40436db42692e233bed6eff57c9867e0b7c12d7a4439eac6e03516c02abbbedb,568,test
+273893,2861021,Credit card or prepaid card,2018-04-01,626f640e4c1335c8708070e813ebee6aded6174b48f2dba2e2f849373f1e772a,1400,test
+274499,2860170,Checking or savings account,2018-03-30,734e4f7523bc0fbaf3691e640cfae3b8eca5fd3b11e4c1960302060351e42868,548,test
+274724,2859909,Debt collection,2018-03-30,c1caa291eb26dad5eddcd6100895f70b73b982d9287c5f4e1961123fe771a2a9,745,test
+274851,2860013,"Money transfer, virtual currency, or money service",2018-03-30,50e70e0b91211d5ceb1f24df72ec20ffdbb1778dede3f070f25cb86b34f2da1a,1758,test
+274981,2859741,"Credit reporting, credit repair services, or other personal consumer reports",2018-03-30,c6c8a0a5f69cdd81c8c63282aaafdc6ca8650474e555878c9f02842963af0025,1576,test
+276150,2856970,Mortgage,2018-03-28,a7f21ca44f26da4adf62e22b2d27b5cd1e463a34370c1cf6071693c644de3555,816,test
+276541,2856844,"Credit reporting, credit repair services, or other personal consumer reports",2018-03-28,8e2fabb8d4dabc6a18a5e9aa0a52d1fa4c7d28c8bf19bdda5558c4328006970a,622,test
+277441,2856899,Mortgage,2018-03-27,e0d01008ceea43470fbd9d18eb1282af8ac79d06a3bc044b016f80ba58d05081,1444,test
+278577,2853978,Debt collection,2018-03-26,f72645be21f765e0e7aec9007cced2cc0f2369b096c4dfa156970194be38b09c,419,test
+279054,2853664,Debt collection,2018-03-25,7acbe7291b0bfc09f5b8740b69ae26e078319866cdd1097d04cf48fd386093cd,1259,test
+279216,2853528,"Credit reporting, credit repair services, or other personal consumer reports",2018-03-25,3f628f7d30e15e58c8fc288062c9409fb7ac2fd6d4d6b7a7c8b60815563c2d86,290,test
+281184,2852293,Mortgage,2018-03-22,a14793aec2ca990f6e694b945f00ea2fccd0e8a56a785ac23ed4d93871f88286,256,test
+281703,2850498,Credit card or prepaid card,2018-03-21,050ab8e23134f549cdd4dde6b16cf3c4b0f193040215a28270e791ebd6d57f0e,3650,test
+281755,2850417,"Credit reporting, credit repair services, or other personal consumer reports",2018-03-21,302ee13d061404b82c5aa5ab975fe6d2aa3d02ae7948427d81f51c599083214b,610,test
+281823,2849018,Credit card or prepaid card,2018-03-21,79b02011c1a8783ed4e79d89848b494a3c682b6d08a6a84ff491f7c94db57f95,311,test
+282098,2849126,Debt collection,2018-03-21,d12d83fe7e4b6e70dfa41809be2aee1cadf06ec0e65a42d62da5596b6c01d942,844,test
+282160,2849009,Debt collection,2018-03-21,d533ff3edbd18edddf290863ab2def5e2fa3722646b34aed753d300be10f7374,288,test
+283085,2848563,"Credit reporting, credit repair services, or other personal consumer reports",2018-03-20,10f19164123dd4f60b229008e37bd99f537a2f3389a48568c48eb79deb65c6c8,1125,test
+284110,2847776,Debt collection,2018-03-19,e1a489527a958e69e9f7784de959f1289aa6962315ed035523ca66fe70a1ad3c,118,test
+284206,2846871,"Credit reporting, credit repair services, or other personal consumer reports",2018-03-19,70f0b9f815ca796f22b9d3da8195c3cfba6d5ee28a1626e1506b5f9567834196,766,test
+284591,2846721,"Credit reporting, credit repair services, or other personal consumer reports",2018-03-18,f2ce7a10334a00ef8266f9cac5e19a9cf24c51740efafc6d5d2e4530706bbe45,623,test
+285472,2845388,"Credit reporting, credit repair services, or other personal consumer reports",2018-03-16,ae989cb71fc86fec11b7b2df0a0fdac53a24a2d68f17c3cd5a7b187faa7fa295,322,test
+286186,2844085,"Credit reporting, credit repair services, or other personal consumer reports",2018-03-15,31c037a714347fc4eb1ea9701df686165e26bca44fd3c4f0c4230c35eb9f0966,2285,test
+286351,2843709,"Credit reporting, credit repair services, or other personal consumer reports",2018-03-15,0525d079fb72df1f43ca439fc469f7a6bedd9bb45d9867a5a9def00708cefe12,840,test
+286791,2843982,Debt collection,2018-03-15,cca7f04b1a020d90619ad640bbd53f49a381fecaa2a4028e89dec150213768aa,1291,test
+288029,2842242,Student loan,2018-03-13,a73902c0991f433373dd71e095133b0fc084fe221ccdaa5c91bd922b0091637c,1760,test
+289080,2840016,"Credit reporting, credit repair services, or other personal consumer reports",2018-03-12,7cb4165a7f8b041e15eaabe5e1ff39d9d4198991f30150da28109fba4dc70670,6757,test
+290520,2838902,"Credit reporting, credit repair services, or other personal consumer reports",2018-03-09,cb450d2d9d38ec0bfcc63ab4cc19565d72ba1b8dd4328498ff410421eea78237,207,test
+292334,2836574,Debt collection,2018-03-07,da1a64aed89367d5d6f0dd64f53ec9ef56fec2cfa43d282047d803e025cc5b47,243,test
+295500,2832804,"Money transfer, virtual currency, or money service",2018-03-03,2e6b950b1523c3404c39ffb47b4f556e3532470f03091848d2c95bc76ce79b06,520,test
+296592,2831427,"Credit reporting, credit repair services, or other personal consumer reports",2018-03-02,10583779ecc658d2726c91dca15c845cabf4650ce2b99b6bf573ad384533eb89,1111,test
+296657,2831431,"Credit reporting, credit repair services, or other personal consumer reports",2018-03-02,87365d0f4218fcf0ac40accc161abe4d7196de91b79103bd463d756ae55b8289,607,test
+297018,2829792,Mortgage,2018-03-01,fb2e77023ed78007b91516ca08807baa6e5ad728b529ae00f510ac42c41d1e1b,1425,test
+298004,2828453,Mortgage,2018-02-28,27bcbb021aa80016973dd745897764448cf5fc40cbbcfd58e21141960fd42762,5873,test
+298440,2828941,Mortgage,2018-02-28,fca369b5371384523a86359694596720124796470a33d110a2f2b3d7dec47775,2975,test
+299784,2826204,"Credit reporting, credit repair services, or other personal consumer reports",2018-02-26,479f625957e1d0cdb1b8ab3ab1510a9e5ea4914493f6892aac7c2af269fa304e,237,test
+299851,2826481,"Credit reporting, credit repair services, or other personal consumer reports",2018-02-26,4c99c997ba7e31d99470eb3b276fc5fc37dd7c38d6b6de126c0d19af591b217b,59,test
+301509,2824133,"Credit reporting, credit repair services, or other personal consumer reports",2018-02-23,b8f5c81c4267c05b6cca460d54978846c35594245ec2460b8f1c1b4206328eeb,232,test
+308628,2814401,Debt collection,2018-02-14,cd1680ebe855c4659224dff00f4f077a1e03f8fc0f9d6d40569171c5a8bef144,517,test
+309041,2814066,Credit card or prepaid card,2018-02-14,63cc5583e4e27d924538c5f7c63a4b1c6da1f4e1b0cca6920b6168a42d1e10d0,473,test
+309886,2813031,Mortgage,2018-02-13,2d9632a19488ddd85dcc27fcba4ecd38b3689220b81381376de8008c948029db,367,test
+309987,2812449,Checking or savings account,2018-02-13,e6a0989500a2588d1da32386811589375de5b6e8ac45ae9b6b075a38997a1fd6,1956,test
+310364,2810465,"Credit reporting, credit repair services, or other personal consumer reports",2018-02-12,266b0851f5d6d28afc36d48cfe235d27fda79a85843d1347e87780f1e0633ee7,1959,test
+311662,2811182,"Credit reporting, credit repair services, or other personal consumer reports",2018-02-11,3165df5f389eb47e84e3fd397bb6c6f24b4b1272df65a2daaa9199bc3b6e72ad,479,test
+312314,2811379,Mortgage,2018-02-10,a1665e8036c0d77adf5f8beafdc9f16b22f0734acfef4c83c26954891756dffe,975,test
+312324,2811040,Vehicle loan or lease,2018-02-09,7847a796930e37be964ed7d37dcbb0f0c9f2234241ece7cb6ee408c17a3da796,644,test
+313597,2808386,"Credit reporting, credit repair services, or other personal consumer reports",2018-02-08,d1489bb1b10ccc638c5f1361f1a7a658c2b2d13f3fbc9903932504708bfe5a6a,993,test
+313899,2808377,"Credit reporting, credit repair services, or other personal consumer reports",2018-02-08,d62e680ab0675f1622375d8d35dacfb67920af5d52964ea69f663642dd38a57f,235,test
+314251,2807484,Mortgage,2018-02-07,eed82f38daf04dc5f81757854e85ee11d6d51e188ad2467c8879256e737533a3,2867,test
+314930,2806661,Student loan,2018-02-07,0ccf02d31980074c3675567b6cd60dd71a5c8fe3617a7f1a31a9c52a25c55570,851,test
+315027,2806726,Debt collection,2018-02-07,ee9c63f6cc03c7bbd536db386a0366822223d4045dda1981fdddcdd48c0f6248,596,test
+315036,2806692,Credit card or prepaid card,2018-02-07,836a03df43138ad1063b9574e14885c723f09e5206f3cb531d324ca43dc4e878,556,test
+317323,2803494,Credit card or prepaid card,2018-02-04,36e056d6dd09f90e597bfa18256e64c614264d1d26655e71187299b9b31bdb60,2280,test
+317763,2802978,"Credit reporting, credit repair services, or other personal consumer reports",2018-02-03,1f0c3d577d43151e4b467c2fb640275d371212c888836576e1466b46de949c12,1904,test
+319149,2800953,Mortgage,2018-02-01,378b97a1ce68b27563480bef7ec385d99c1c1808fcc12ed7e27c17cc5272dbc6,1130,test
+319434,2799998,"Credit reporting, credit repair services, or other personal consumer reports",2018-02-01,76748e2730b831e2b59c20d04cd69b2639d8b79aaf00acbbff617e3ca3d6f683,2539,test
+319720,2799626,Mortgage,2018-01-31,829bde533b0140b669397fe128566c49f3c30c72cf6b172b93929e83c59d9961,789,test
+320977,2798053,"Credit reporting, credit repair services, or other personal consumer reports",2018-01-30,1b397f2d72c4c3ab3ee8517cfbf3632430fe8c2bc122cefc4ca0f995aa026a6f,1125,test
+321248,2798458,"Money transfer, virtual currency, or money service",2018-01-30,2dc0d3eb1525dddbe78380cd1b95f5a7e66b0d7c8e01736a8de1971baea82385,171,test
+322680,2796328,"Money transfer, virtual currency, or money service",2018-01-28,6af7f2d6b10db7d9ef693e42b043527b2867ec38ce30cf48db96939b2a63f966,232,test
+322839,2796119,Credit card or prepaid card,2018-01-28,68724b6efd602a081e1920a33a6c32a81e30e23b448fa5e14966eefbf703df0e,1468,test
+323633,2795077,Debt collection,2018-01-26,ba2441cf9d24e49b4ab00e1e8d74d5d7f5757132b088c2c4aa30ca1cbb13fb46,1220,test
+325142,2794152,Credit card or prepaid card,2018-01-25,5a9478a61fe2bb96d53b09182fa93039e337a9e4873973321f5efd2651d2a4cc,1094,test
+325519,2791756,"Money transfer, virtual currency, or money service",2018-01-24,169018640b0de49d4d6861f0cbc19065327250c8320d5b5774fde31a7d481b38,732,test
+326555,2790556,"Credit reporting, credit repair services, or other personal consumer reports",2018-01-23,fe8432bfcd8e88f4a917e41cadf8b9740c021ec0426e716b7c908c7296850ef9,1064,test
+326985,2789905,"Credit reporting, credit repair services, or other personal consumer reports",2018-01-22,00b976ddbc20ebdb997d7ebfc65556fd7542728a18629d60cc119770f54734a4,172,test
+327542,2789857,Debt collection,2018-01-22,461817950342d6502a86b88bb4d3d386ef724fd6503e8607e8aeedd1c0ff6f51,219,test
+327631,2789674,Credit card or prepaid card,2018-01-22,6672c31f7e8c012add3d2da17fa3d4db93a8af32f239410ef2eef345c998ae6c,2020,test
+330910,2784888,"Credit reporting, credit repair services, or other personal consumer reports",2018-01-17,6668de47d889dc870ef0884a59cbc3a775983dadb16525a2f30b359ce6942866,2028,test
+332806,2781559,"Credit reporting, credit repair services, or other personal consumer reports",2018-01-15,0ef52f60745d36d34187336779b002b8c8b48ccbf4249a31a47c9dc71ceead35,371,test
+333893,2779781,Debt collection,2018-01-13,da9b95b800c51df9de569e88ce63296d9da3008db3a1a36220d0b5836acd5a25,417,test
+334238,2780449,Debt collection,2018-01-12,52754ae802b4745a05f68c78dcd7bd304284c54e59c39c5beb90055e58ef50ec,458,test
+334424,2779023,Mortgage,2018-01-12,b7788734c61140abd7623841aa35be39f829d5b8771ae203e93b1ff737ecb529,1802,test
+336944,2775309,"Credit reporting, credit repair services, or other personal consumer reports",2018-01-09,5da75c000616e03a1133334ea766f8e9834e5b7f97fa1a6ed5528295a374e5e7,616,test
+337297,2776395,Debt collection,2018-01-09,9df5fc33f32caa37ba763d03dbdb50a14e95e10278f572026591fd36eede4949,484,test
+338044,2774910,"Credit reporting, credit repair services, or other personal consumer reports",2018-01-08,fe5d2bbad84db145731f4899d3a309e18153478d0e10af5eb1492209075356c4,3719,test
+338848,2774522,Credit card or prepaid card,2018-01-07,4cde4e66072b10a402bc49419cb27096dbb126ea7c9820bccfb5a1f27d753a72,671,test
+339263,2773901,Debt collection,2018-01-06,3f220547aa7d30c6c814343694a1e155fd9eddaaad242a80aca7799bab6ca5ec,401,test
+339518,2773639,"Money transfer, virtual currency, or money service",2018-01-06,a2637242ad2ac7356f41eb22e5543a4ff14c0d553dcbf6d9dde69a8208f528a7,527,test
+339748,2772161,Student loan,2018-01-05,b157b31f2d83982814e8771949f4be5bc1b4e2838f4495304a97aad9a7d48774,2079,test
+340237,2772323,Debt collection,2018-01-05,b17b48ec8bf459a09f1bb1da503f73dddb9b06427e3a58e162517208745163b8,754,test
+341145,2772396,Debt collection,2018-01-04,fa6ed02adc5ec2c6654faaccaa7a8f8892983bd43c920ff66355fb9269bca3dc,432,test
+343310,2768135,Checking or savings account,2017-12-31,9021b1d9534e437e9a1e76edc20d41d8af0b66f13a06ed5de939d35d99b56d12,475,test
+344497,2767438,"Credit reporting, credit repair services, or other personal consumer reports",2017-12-29,dcad0d032c51ad98361c8d54918c0be1dd855220add82f2c4fdca9c541a7c157,418,test
+345353,2766014,Vehicle loan or lease,2017-12-28,86545606a5dd7cac62e607b8adf2a4e2bee272191ffc35e7fe7c572501cc91e0,853,test
+346499,2764310,"Payday loan, title loan, or personal loan",2017-12-26,dd684424dcefbc7389ca8cdd0d07311a62f12d78855f5c407fc57c52278b5a77,1414,test
+347087,2763602,"Credit reporting, credit repair services, or other personal consumer reports",2017-12-24,71461cf224954aa1f930fe6b85bd9dec11afca0181b4a0400b2a47a207d2d857,531,test
+347366,2763190,Credit card or prepaid card,2017-12-23,db48bd0dcfba9b64c62a13a7503c23eca85277ee463c6e120819d75ec5a178dc,332,test
+348948,2761075,Mortgage,2017-12-20,5bf349ce0f6d88fd44c91608fd2b8f73a93e4aa3e1b98bea976ac0a923b29ccb,2584,test
+349401,2760420,Student loan,2017-12-20,dc7fc4d6dda7421f803f1fcaf9955388dbb4ac9541c8fd62336bbb2d9c7a7df2,260,test
+352590,2756390,Credit card or prepaid card,2017-12-15,baa4f9f4e7acafcc7a5c32dfb4416bb40591072a595a9b74de4d24f055991acf,948,test
+353281,2755155,"Credit reporting, credit repair services, or other personal consumer reports",2017-12-14,15e1466859b939eae45d71e80941db35b1a2816739f710d1b9a4dd602d057af9,1530,test
+353482,2755849,"Credit reporting, credit repair services, or other personal consumer reports",2017-12-14,8c13669b9422545d2a38a6cad4fb4fe41213802f15e4540c02db06b152fffee0,1544,test
+354878,2753750,Credit card or prepaid card,2017-12-12,28877c878d69110322e951987cb3f492758cbcb6c9c73358aaf9cabc341c428d,1558,test
+356565,2750676,Credit card or prepaid card,2017-12-09,fdcb573d7e64b64f79a8df2ba65227afb1d72502c5de52c3e764e420263e5c18,1633,test
+357135,2750251,"Credit reporting, credit repair services, or other personal consumer reports",2017-12-08,f49de8deac5b9d605862d80c1c00353ebd0fbfde3b8304f9571244708272336c,1586,test
+357548,2749784,Debt collection,2017-12-08,7defe83d1f8b74ddcd9ac4ea790b62ead7a47d66db9e1829156f2dc5571b94a1,3734,test
+357637,2748957,Credit card or prepaid card,2017-12-08,6278b92c71af396f5cbde3f4c61aa20b114eb06e1d9c0a56b3694554d449695e,1663,test
+359503,2745593,"Credit reporting, credit repair services, or other personal consumer reports",2017-12-05,04e3bcef19d1d6f92121b882d3572aade84cf213a8fa419aa06469066cc0c566,195,test
+360872,2745723,Debt collection,2017-12-04,d641c82334e33ab32580908df88bab9b3ecd75e6079d049c2c54beb171badb60,243,test
+360936,2744233,"Credit reporting, credit repair services, or other personal consumer reports",2017-12-03,92551827b0579a24d7d59968a887000357b01249bd70c24870f693606a257f2b,1972,test
+360950,2744160,Debt collection,2017-12-03,96eca0ce808ab86e689b7e35903e7db666fcfebcff564f26a015fecd8fc9067c,455,test
+360982,2744820,Credit card or prepaid card,2017-12-03,fd906072d12fffdf021d63d3add358c0c821b96b869f542c5eb76025f3595ade,458,test
+361524,2745283,Mortgage,2017-12-02,d2fba638b32d43a6993682868f17d55fec1ea311e3f5f4a3ca24473549287d30,1395,test
+361933,2745432,Debt collection,2017-12-01,6b9040b0fc90a9027ba887b020a6032a2bb211a5f229e51a37e117e77d50eb6a,557,test
+361934,2743397,"Credit reporting, credit repair services, or other personal consumer reports",2017-12-01,ea3b3808bdcf91dbde79fed38026f98b85b1aa1e826c7db131a9303730608277,501,test
+362066,2742766,"Credit reporting, credit repair services, or other personal consumer reports",2017-12-01,39355a96fe23cfb11b1401612e6f9b6da83f38b77a9bc0179a74125671bf9eb2,687,test
+362263,2744416,"Credit reporting, credit repair services, or other personal consumer reports",2017-12-01,19a4737f254f91cd59b7622ae85da286616e1220c48aea5f291f729b84102f29,63,test
+364965,2739997,Debt collection,2017-11-28,f3c409f9520a6ce35c5ecb7745f9ddff1e6bdfc1654d8060b396b299f36c5c93,679,test
+365889,2737508,Checking or savings account,2017-11-26,42df3612f01f3cb6719883e73ab558c1843c43ef2c16f9f0e91acb82cf3ff84b,837,test
+366249,2737653,Credit card or prepaid card,2017-11-25,25f01e2eeb77eba36d0354fa5fd8783b8ed0cb8f61838eeb27295edf568e12f9,562,test
+367062,2735941,Student loan,2017-11-22,8f21e6120fded9931d142d076407951059f25208a40700ce8143218a85197e4a,721,test
+367305,2735918,"Payday loan, title loan, or personal loan",2017-11-22,2a1eb8d9cb3113bc1f610766e1b9e4fef0d279c780dcf19a7ee3eb6911b3475c,831,test
+367685,2735155,"Payday loan, title loan, or personal loan",2017-11-21,2df312b1e93b3a9a936299cda3536dfe2b65f549d6f85a12f60afb7af1cddf23,226,test
+369542,2732569,"Credit reporting, credit repair services, or other personal consumer reports",2017-11-18,318e1cd1ab52c6807851f2a1b038e01f7df6afc5e1d23b7e4cc40e6b4d6b5081,667,test
+370170,2731739,Debt collection,2017-11-17,37d35cb4d0a94352d229c3a7e1fd758fad46a70a7c7eaf46990604da5b0b1d59,208,test
+370253,2732891,Student loan,2017-11-17,5bfc4a101790b5442a3317e9e1e67ebabb7bc7001ea2f0f4607ea63fc9e5dc99,299,test
+370902,2731426,Debt collection,2017-11-16,e8430de573d653fcfb949410e9f567dec14ead7c5e6d2bf18fde764ff38ae5d6,168,test
+371633,2730181,Checking or savings account,2017-11-15,3e0675c42e109fbdb054d1d13ca5d7ab52e3c88bfae5dfaf568cd606da8be4b6,2044,test
+371785,2729599,Credit card or prepaid card,2017-11-15,b4044f4a73a142727fb701a39bfbe901d05ee7c6312042431e65de1c8b07f8bf,737,test
+373971,2727161,"Credit reporting, credit repair services, or other personal consumer reports",2017-11-12,1adc88c1322ea6f2072c38efdc50c13737a5b407dca0f4e2dd71eef6cd901e2d,116,test
+374354,2726585,"Payday loan, title loan, or personal loan",2017-11-11,e0235af1b8214ded009880dc8b182f50d4e871f116191d61b16f45a6a2689d54,305,test
+374841,2726147,Debt collection,2017-11-10,da7683b60e3b77be69548bb24041495e9c7acb5bf2c2b32dd7c0ce9597e67802,803,test
+374922,2724942,Credit card or prepaid card,2017-11-10,34781943617614fc134e3f664283cd70039a80813621cadadf6d8889bbdf4883,1083,test
+375452,2723921,Debt collection,2017-11-09,bb59b64bfd0dc10d31d480929f5f8396453226c7b5849d4a17dacf34f11d3719,1276,test
+375875,2725456,Student loan,2017-11-09,7db8319f39bee21d74ba91597698a5350245eeee62277feed0438bfc1cd949d6,2730,test
+377099,2722422,Credit card or prepaid card,2017-11-07,9c9d320b90ab0c931bc0dfb42734678142ce3e1a791829c54537d4e8b98e877b,26,test
+379592,2720263,Debt collection,2017-11-03,29c64e2bf4b75d25cbd91539cb2f6551aa7b14be99c3af881c37307f22bcc66b,1493,test
+379974,2719446,Mortgage,2017-11-02,4259e76534777e8d4af743cc1d0c546bdcc93c383c8bc25a70ba26301956caf3,2497,test
+380846,2718239,Credit card or prepaid card,2017-11-01,b4b49b00837a6fab6579bd9197da6d5d8b39b4887911ee7739aab2912f5d8003,354,test
+380992,2718085,Credit card or prepaid card,2017-11-01,483081cc5361d6b38ad4dc46f3017649f2fe79e950f7749ee568c8d1240bc06d,1407,test
+381281,2717042,Vehicle loan or lease,2017-10-31,770e6d355d1014145b3c46dfaaa5700f110c9584995cbcf69f3a52be04c4a5f5,302,test
+382106,2716045,"Credit reporting, credit repair services, or other personal consumer reports",2017-10-30,3b0e1534a3dc384d6e5010ad7ccc1871d20343d9a7920a6d3c8baca5a22b096f,1531,test
+382902,2715103,"Credit reporting, credit repair services, or other personal consumer reports",2017-10-29,a4042d4edd198827cf70760b5d0c510b7880f779d9c676a6237448ead5db1ea9,499,test
+383180,2714173,Student loan,2017-10-28,86cf0b35b7a74956a612efb0ef3d1c62661b7a163ffc613df7a9211919a25318,3167,test
+383592,2714407,Credit card or prepaid card,2017-10-27,4c7e19b831d63c5c296f800e208410ec0958bbc3a103a7b1b05634d30d19a8b1,1867,test
+383912,2714430,Debt collection,2017-10-27,c5b741c0289d85799cf4d496380300c7d1d4dab61b50e91e7db0ded231980d50,957,test
+384700,2712799,Debt collection,2017-10-26,09a0be1013442e5930409751d5d19a03d3df24a82a9cb96a4938b5ffc597d291,1644,test
+385808,2711079,Debt collection,2017-10-24,e09fee56b59fedbd7f69ac6d83cd68598be49b5ffd4389115e9c14006ab7347b,506,test
+385934,2711116,"Credit reporting, credit repair services, or other personal consumer reports",2017-10-24,c87b80b8a466613fafcedf804b5ab6b6618404188ea6680a2e077941f34406a7,490,test
+387748,2708951,"Credit reporting, credit repair services, or other personal consumer reports",2017-10-22,2d0c440783a7226bc9de6e603bdef3cc47b4dd1b2eaab4683e0e73e4836d892b,502,test
+388209,2707227,Credit card or prepaid card,2017-10-20,717a617292c4b2804d7d5f6837b97ea5bf6baf32b46886e60b37690e87a81c95,2195,test
+389821,2705962,"Credit reporting, credit repair services, or other personal consumer reports",2017-10-18,98e1a0f5de707d4595fba5a656803bcffaf5a25e3d38000f8f8ee731f0f827b8,726,test
+390143,2704651,"Credit reporting, credit repair services, or other personal consumer reports",2017-10-18,aa1e68c8b72c0a4f20ff57853c538600d42f705191a6c62e19f85926f5506eff,440,test
+390754,2703830,"Credit reporting, credit repair services, or other personal consumer reports",2017-10-17,13bb57d3f6b4da85e8015c833ff7f22ed066ae916e93fea0232560af1d5b2821,155,test
+391055,2704592,"Credit reporting, credit repair services, or other personal consumer reports",2017-10-17,5a4ef935d9ec3b84d284e2ba566eb2d4c80c1e85a87c595d95eea8891111e265,988,test
+392443,2702423,Vehicle loan or lease,2017-10-15,e8e56c7af8db548c7cd73aa656529eae6cca71f78ca970f40c07735a5ab9e9d9,1510,test
+392848,2701693,Debt collection,2017-10-13,c187988b1900d15ad6dd6e59205df19ff69e8d65026a5a8a8016c8cf1813699d,461,test
+392996,2701299,"Credit reporting, credit repair services, or other personal consumer reports",2017-10-13,7608bb3863aa304274e3892bdc4707ad889705cea138772d04efa14dbabdff4a,1000,test
+394621,2698952,"Credit reporting, credit repair services, or other personal consumer reports",2017-10-11,86310a50b6cb18ca5a323f59dcb784bc09270692d052cda8773d09815c5838ab,312,test
+394739,2698393,"Credit reporting, credit repair services, or other personal consumer reports",2017-10-11,4a12b728952b6e1cdc1ac747bd1b9e96e428d87cce5fd34f5ab212e46edef3e7,457,test
+395425,2697990,Student loan,2017-10-10,88a8522888419ed2b423b2f4f685abeca62c72e84bed97661807607a6bac828a,4050,test
+396266,2697234,"Credit reporting, credit repair services, or other personal consumer reports",2017-10-09,fbd480cee1ec24e1fd81bb798b02294f4a23913e8286dc9b75809b959ee82481,1269,test
+396358,2697061,Mortgage,2017-10-09,87ad1ae16bbe9b6b96c84d01ad077621b06ebf1eb68d73b6d74d0860eb698c43,2526,test
+396996,2695949,"Credit reporting, credit repair services, or other personal consumer reports",2017-10-07,8305d6d12c799c14970ad320c8627001775bc90f0964a6205c9c7715705d479f,1039,test
+397661,2694904,"Credit reporting, credit repair services, or other personal consumer reports",2017-10-06,cbcd7f76978da2eb783c09caf33f95993cab9db80b20834ff8f0477e47a7e924,1205,test
+399999,2690933,"Credit reporting, credit repair services, or other personal consumer reports",2017-10-03,a55984c0f447cf3c4f06bedc83f9f968451f5df3e3672ce25e7fdf8ef9d31b54,475,test
+400470,2692204,"Credit reporting, credit repair services, or other personal consumer reports",2017-10-03,83d0c8bbee572b3a77abe6c5a775e99de2d7767662b13a9ef81723099d839704,611,test
+400523,2691158,"Credit reporting, credit repair services, or other personal consumer reports",2017-10-03,bdaf09fce8532199c63ec50f8f90df0052c6034ca282a599f1ac9ffe56b8b30d,1359,test
+400718,2689846,"Credit reporting, credit repair services, or other personal consumer reports",2017-10-02,2c361ebb01527257f62b2c863279f5cbcf39bd73e5dc1db86c0712afc1a93513,2420,test
+401644,2689876,Student loan,2017-10-01,36a5707fb97bf9063b731d640387063fef75b85f6a6f1d3eb02185d83141ccb0,1206,test
+402632,2688540,Debt collection,2017-09-29,8dbb978127cfbb35313542e00f146179997e79239d11de7bcb914688b626bc6b,65,test
+402741,2688025,Vehicle loan or lease,2017-09-29,95d9e179914b9c2a0b2e4e1f314b6c746693c10763c7ed297910cd31df69ec58,169,test
+403543,2686242,Mortgage,2017-09-28,3dc999b4f22b90eac1c6b1222b17f18a90e629d0279171bc41260063ac500701,3455,test
+404205,2686614,Credit card or prepaid card,2017-09-27,9bed5e681ba1a0b205f8bb476ef206afde82c30b2fb961ac6e61baed5d624d65,750,test
+405885,2683674,Checking or savings account,2017-09-25,b6ed21492f3512398e16569f7b643a84ad7310fc8ab4e021cce69f15b6fd44e0,901,test
+409501,2679529,Vehicle loan or lease,2017-09-20,3f28b36cb55aebee799d10a4af2bad1abd510b193aa5b25cdb9b83584fdd15b5,1053,test
+410017,2677902,"Credit reporting, credit repair services, or other personal consumer reports",2017-09-19,0f7b3f5b0bd7e07d2a01741490abdcb04fee4e84127128091424a661e58a0139,800,test
+412334,2675948,Credit card or prepaid card,2017-09-16,dc24c1f0ccbad1c446fa873238ba68309e82e578d3c954437d1e6b9e53791582,1762,test
+412536,2675075,"Credit reporting, credit repair services, or other personal consumer reports",2017-09-15,fa17a3466b9abfe30f41e269735749e104394f5caaa73630a6c13248f3a34481,306,test
+413010,2675605,"Credit reporting, credit repair services, or other personal consumer reports",2017-09-15,b673b8821c9a77815a089641b7b8db1e19fb544edcf21fecbad361adf92490dc,1183,test
+413173,2674237,"Credit reporting, credit repair services, or other personal consumer reports",2017-09-15,ae5915d230c43e3d5ab970fd383e18d4ed152828c00890cec410166a3d5a0ce2,1280,test
+413234,2675276,"Credit reporting, credit repair services, or other personal consumer reports",2017-09-15,f0de084be43762f56e49162ce537c137243e8be9566f5947437ddebf1f2d7f5c,727,test
+413724,2673189,"Credit reporting, credit repair services, or other personal consumer reports",2017-09-14,3097eeb0f90361fb14f32233a512085880f3aaed54c1355f5986b06ed67266f7,2171,test
+413987,2673233,"Credit reporting, credit repair services, or other personal consumer reports",2017-09-14,c842b5192176c8c89dbded6b3a0948ff84f8871f7c5927a11596b03c5ad14414,474,test
+413995,2673518,"Credit reporting, credit repair services, or other personal consumer reports",2017-09-14,c7a920bc90d28af68b50fc8a710fe7207af52cc7be02a5d3ae8f90f3d890ffe1,1149,test
+415347,2671830,"Credit reporting, credit repair services, or other personal consumer reports",2017-09-13,f67b4569c8a3c52b72be4c0579ca77c8550d7b81694b631d70f34c7d9f24aa6d,3197,test
+416411,2670344,Mortgage,2017-09-12,2731395bb46c5d76846a5a56c19a46c57e77aca68daf887268397f473debbfbc,1082,test
+416818,2670579,Debt collection,2017-09-12,fe2ddf721070d30ad51f7c7e67b4e4a3c40bd5a0f8fdb44fa5e3fa110b95a3ef,721,test
+418279,2663451,Credit card or prepaid card,2017-09-11,0fa6bdeca067d13d8479746ca2c0fc9a40bf68045ed94597200ad08ea8d33cb6,458,test
+418408,2667530,Credit card or prepaid card,2017-09-11,f9bdedf7021dbf11c4ecc5d94c23adc2f413ecba89914686613118ed8eff893c,391,test
+418978,2662600,Debt collection,2017-09-10,e7971532c5828b5eb276304dc7d54a5b935f2f210029c5ea0295ba6958f4840b,1763,test
+420122,2668307,"Credit reporting, credit repair services, or other personal consumer reports",2017-09-09,444156793b1655c9b2894c755aa6a8c97aa0c908124062542182e7b8301a03da,84,test
+421187,2668846,"Credit reporting, credit repair services, or other personal consumer reports",2017-09-09,dc984882afaec45252649db7f7832a16e2b02493801f2b3cf3f9bc1f7b1abbec,214,test
+421289,2660304,"Credit reporting, credit repair services, or other personal consumer reports",2017-09-09,05b9f7139952355170a6e0d68af731534dd6e9c8228ba57d3ee80971ebeef9aa,199,test
+421484,2665094,"Credit reporting, credit repair services, or other personal consumer reports",2017-09-09,b8c752ef6226d7e2232f9b4c37e1ff04d8e42562c9b4ace8f991e515ed19ac9d,380,test
+423049,2667585,"Credit reporting, credit repair services, or other personal consumer reports",2017-09-08,80b8959f58bb2e3de5203c1737ab52f415eb11477c7197f4e7c765ddaa938997,150,test
+423191,2662767,Debt collection,2017-09-08,13081a63293cc42614300baf4b6e72b8cd7f1822b4dc4549b570cabe9c5f8b67,513,test
+423690,2663412,"Credit reporting, credit repair services, or other personal consumer reports",2017-09-08,a9f4fceb9bb4767b775e68c7721bd950ae4477047caa6b59d904f0f61f5d1281,252,test
+423728,2663370,"Credit reporting, credit repair services, or other personal consumer reports",2017-09-08,811484909f30fff479cac5c85030450411eef9bd326a029553646e740c9d88db,361,test
+424028,2662920,Student loan,2017-09-08,139683c8144696bf4a0655b13e18e6829d915e30a25771a860790af85b47dfde,451,test
+425221,2667433,Credit card or prepaid card,2017-09-08,58741b19e2c0a2321f4b542fe9ab32be40715b9f3eb2aa36e1c202368911481d,208,test
+426610,2659202,Student loan,2017-09-06,84932841047e47209a6fd107f17ff137c5987eaec3c6247554649e59cb201c04,1190,test
+429204,2655184,Student loan,2017-08-31,950932858212807a02b898490bd41d47ff2a0ee697fdb77b2846a6f4a34b6515,1781,test
+429443,2656161,"Credit reporting, credit repair services, or other personal consumer reports",2017-08-31,974bd4b8227103159db375437af13de0ccbc2b115935ec8be9fae7dd989582a6,2858,test
+429963,2653961,"Money transfer, virtual currency, or money service",2017-08-30,a39894a18f5cabae85ea17b03fb644a14b3cc5f1fd9c06035588cc65be24731a,2141,test
+430730,2653756,"Credit reporting, credit repair services, or other personal consumer reports",2017-08-29,831b8ce096c07a5ac0052e476e886f255f2824cc2e84a674e16b50d75395a6f9,420,test
+430748,2653011,Checking or savings account,2017-08-29,eb3214ece0991cb7582887a94e16c367b9d7e1ea62e40cf40297ce2cdb31f524,471,test
+431272,2653078,Student loan,2017-08-29,903e7549f2eea18f614036745ad0e6db0756389f95c8fe9ad752690645715377,1017,test
+431891,2652075,"Credit reporting, credit repair services, or other personal consumer reports",2017-08-28,e53ffc5314aad4ba8add5c9bdf7c029e1682372ad9b26eb67d7fb51f472d0f32,1343,test
+432032,2652231,Mortgage,2017-08-28,c5b49d29abe6c1524d2c14880a107261a6ac1effd854ed28d5e7ec960cb224cc,1092,test
+432060,2652432,Mortgage,2017-08-28,0ac02a8801027739dc2c8939728d41f2dc723d68cb03a6b14918fb0dc4476d14,3413,test
+432126,2652081,"Credit reporting, credit repair services, or other personal consumer reports",2017-08-28,e85da3a0fbbddfd476a0623f86c0dd85c5166916a1b59357388e0c78e4d3c5d8,480,test
+432456,2651641,"Credit reporting, credit repair services, or other personal consumer reports",2017-08-27,7b9f91265a8367cb88bb7dd1e313ad1b2afa65933c8c86ab8bb78e4f38da87fb,1190,test
+433645,2649339,"Credit reporting, credit repair services, or other personal consumer reports",2017-08-24,1bfd2176f14b08f02d10456be93487a1f4999c6ecf9d9e5999a0847bb34d35da,1621,test
+434271,2645579,Credit card or prepaid card,2017-08-23,8c00412e2c8a79b9c10f90234c23fa961a7c893738da428fe42181724f7a4306,764,test
+435063,2647998,Student loan,2017-08-22,a7a089da4d6ccd659fa2424b04f85b0e0dba00c08495cb58d9603a0829de3326,3330,test
+435655,2644476,"Credit reporting, credit repair services, or other personal consumer reports",2017-08-22,8944242efcbd5536fd31bb654c26fd35c06f4d4ee3a62e3144c594a098953053,1117,test
+435716,2645833,Mortgage,2017-08-22,d93fffcfd382160769ae3929d93071666fe51473a9a4d8b31b9f54293b43f7df,2160,test
+436603,2646286,"Credit reporting, credit repair services, or other personal consumer reports",2017-08-21,7a64ab64d3ef53a22c90feb2abaad477054d3469e7966d021e4061c0680117f0,1201,test
+436981,2612384,"Credit reporting, credit repair services, or other personal consumer reports",2017-08-19,2c19994e6c33650c9ca8c6f7f279a4010140f1e90d01e6a855bb9ab6937dde8f,1004,test
+437028,2624462,"Credit reporting, credit repair services, or other personal consumer reports",2017-08-19,60e691384065ebd86502577870c369350fcb89de412d0c80ee17e038c3a5d8f8,888,test
+438195,2607690,Mortgage,2017-08-17,a7076cac40c7f7dfd8177563fbf7585db55c40e450eb9d5a023e3eb3875419a8,6102,test
+438447,2634256,Debt collection,2017-08-17,55c87fc66bae5323c57f008b56a0071a0ed88144bc6d52acf6946f59e5dfba5b,237,test
+438710,2633594,Mortgage,2017-08-17,dc258c6676dd071ea63dedfaf3796f6986d5f64b64755ddf6efca21b48ae5dba,815,test
+439178,2630778,"Credit reporting, credit repair services, or other personal consumer reports",2017-08-16,bf7d52f43cd5418f16530d5c09226e5a7ae06ebf4d2e25ad60553a251a2d02b8,1275,test
+439479,2630785,Credit card or prepaid card,2017-08-16,9d81e0808bf3e947fec600a2aeb90f5476a7a8f4b9592d7478bcf77f0d11b65a,521,test
+439769,2630938,Mortgage,2017-08-15,835abc87ff1d60940e66bd04a6f502d5f99d05b012c0951da107afd875ccd93a,1989,test
+441025,2603972,Vehicle loan or lease,2017-08-14,170f1e34da2402569167dbc83187b4a86b4e966c88a900f77ebe037ee1e02277,503,test
+442277,2602100,Debt collection,2017-08-11,6514993ab45d95ddc87b971d53eba420499141764e4b4d715b802a217944c8eb,646,test
+443529,2601298,Credit card or prepaid card,2017-08-10,7172b9ca48424db114d01dea424b4ff86a1dfe0da8e5dabecb641cc939338e06,2648,test
+443681,2626379,"Credit reporting, credit repair services, or other personal consumer reports",2017-08-10,d6cc2764014ef201c8be1f2e421d202a1452ebd1337cd1e672402a1489e1756e,1524,test
+445432,2597033,"Credit reporting, credit repair services, or other personal consumer reports",2017-08-08,08eb903e8d1423ea5cf1e4416bbbacc8dfccbc920458ce82fe9c3fe7dd69936f,409,test
+447244,2595805,"Credit reporting, credit repair services, or other personal consumer reports",2017-08-04,a9e262ac7e15eaca2f048a96e0d2097b68b1b4760a5f67f4d95041d6c393fad5,523,test
+448671,2592363,"Credit reporting, credit repair services, or other personal consumer reports",2017-08-02,438e955447c0057cc77d0d9b1dc5cb4fcfa41a74a3d6fa03107684cd63677552,1083,test
+448687,2593387,Debt collection,2017-08-02,e2f40ec733c8fe009218f0d3df62c67f1542218bf4b8fc5e41225aae1e047f96,368,test
+449187,2592984,"Credit reporting, credit repair services, or other personal consumer reports",2017-08-02,4bdb8a4dab1363e7c2b3653f38058c729d4bbf715b1465c1b78843d4935e60f1,361,test
+450791,2590348,"Credit reporting, credit repair services, or other personal consumer reports",2017-07-31,02d8847d4f9615391038d3187e5afb95b2100ffd90872d97cb46c8b6b43f7056,415,test
+451841,2588210,Mortgage,2017-07-29,dfc13aa41ec32dfecba35864f208c374d3af1b185815ca79bef5b3b82261236f,1646,test
+453807,2585713,Debt collection,2017-07-26,7bf8bf46ff586a9659f80129232ca96fee60863c0b1ae5987588989e0914d9a0,1258,test
+454366,2586367,Vehicle loan or lease,2017-07-26,b466f4ae39962bf6d9830122cb9dcbc669036cdcc38ffbe6865bb73b8be5462a,194,test
+454707,2584237,Credit card or prepaid card,2017-07-25,6a9066c652664ee736447f29532e03897a6a6bf339de209b93ee13c1b0116ea1,301,test
+455786,2582958,"Credit reporting, credit repair services, or other personal consumer reports",2017-07-24,8e9dba5545ce6cb5e1c5092f78d206092967391c2e910ed9d40e50878de38ee6,611,test
+455922,2583104,Vehicle loan or lease,2017-07-24,2e2c4e7178f48aa861136ac2155457179e4fa7f5bb0e2b6a773ac1982bf2830b,1083,test
+456075,2583326,"Credit reporting, credit repair services, or other personal consumer reports",2017-07-24,67b4beeb6c0b6ab81038e3955463d96a934e50b4d4bff95e1115a26005699010,1449,test
+456806,2582102,Mortgage,2017-07-22,72930f01197ef80c8e56642bddb61300afe845ff28e06b8373844936727a5beb,1440,test
+457256,2581888,Mortgage,2017-07-21,332a666ad1b187007bc6bd71490f2af81e9bdbcc30ba600117ba85b67c71eb3c,1042,test
+457326,2581783,"Credit reporting, credit repair services, or other personal consumer reports",2017-07-21,f31caadef3311a8d779c29b02ecedc3bd7057ba19c7c77862c128f54f1323663,1167,test
+457384,2581352,"Credit reporting, credit repair services, or other personal consumer reports",2017-07-21,84afcabcb93f0b5b331540b9a50e2a4605afa2b0f6f47e9a46c52e39eb89bd55,226,test
+458568,2578353,Student loan,2017-07-20,ae0603d56059ced232607848d375de69ade635d96e3bf285d88fe1f708f7dbc7,1476,test
+459582,2579359,Debt collection,2017-07-18,c87288594eb78ceab5fe7f0c6f5f4a5349e527d498f57d60275ca25de82b8049,651,test
+459706,2578494,"Credit reporting, credit repair services, or other personal consumer reports",2017-07-18,ec58ae95ec6b400d71118a109fb15fdb263c3b49f79a9a2e54f34ae5ca8bb289,323,test
+463808,2573841,Mortgage,2017-07-13,f4a965a31e10b67706408ff22f7b58784b35e28fa51df8dfa050826036ed32a0,838,test
+465487,2570423,Checking or savings account,2017-07-11,eaea49f4cd8b5d9d3af54ae876d7eb4eb4f0801210bec1eec57b8cc8d87e5314,941,test
+466164,2570461,Credit card or prepaid card,2017-07-10,d1969c4da4abbe6fe85edf187326430df9eaf3e80b9d607bd9e6dd647bdbf1e3,921,test
+466183,2569353,Debt collection,2017-07-10,77ef8574b46360b2f887d65a5174955067728dd98506116997d3c23fe250064b,675,test
+466955,2568801,Debt collection,2017-07-08,63af5f9fe72c31e4660a766388529f85989d54a853920e6d077f83a52aec4f1b,578,test
+467178,2568271,Debt collection,2017-07-07,cba77187c4c131b6c187f56011bf8157f1eaa9e923c558ad4054c3598571266e,570,test
+467565,2568244,"Credit reporting, credit repair services, or other personal consumer reports",2017-07-07,f9e7e5f9baf60ef3747b46b835c8018c096775e97c3620e41ae1b706185cacfe,506,test
+469181,2565371,"Credit reporting, credit repair services, or other personal consumer reports",2017-07-05,ccde5f4f46c598677c2959750a145239083c30791af637e55777d2876732af33,233,test
+470816,2563657,Mortgage,2017-07-01,3b3e3da63da93a8b8d8f7385419b87bb323cb5c713d3e0654a443a9399d459b7,692,test
+470855,2562973,"Credit reporting, credit repair services, or other personal consumer reports",2017-07-01,6b803f071792a2a72df313f8e0eeb64a2a3e4ee7058cb01ff5da9a0318e388b4,1257,test
+471696,2562457,Credit card or prepaid card,2017-06-29,59cca6fbb7329e97f90c4fcdbbe4f4b8383b8078b4291b0c7152b991e4c4bbd3,3783,test
+472177,2561721,"Credit reporting, credit repair services, or other personal consumer reports",2017-06-29,41844d9fc7dd360f8a17310809aa24d692129c77f04d18419ddaa0aca74ba77b,245,test
+473253,2559461,Checking or savings account,2017-06-27,310e19414c40434c8f626b6476290b4409fd65f99dfcd909181bb1aea38905b2,307,test
+473415,2560126,Checking or savings account,2017-06-27,f8b2168aadca853c739ce3f5347d387693baa0819e741c6acdc7efda1ab127bb,1481,test
+474146,2559294,"Money transfer, virtual currency, or money service",2017-06-26,2dec29bfd3f850eee049b1c2c01c91193a4f2e9406efc3f38a10dcdc836a4088,2636,test
+474818,2558216,"Credit reporting, credit repair services, or other personal consumer reports",2017-06-25,a800408afbcf80b7006c90de243fe8cd328432124fe21fd87997c0c8ebd4321e,1555,test
+475465,2557722,"Credit reporting, credit repair services, or other personal consumer reports",2017-06-23,8945d420ccdab5b1396d17d5ae2f71aa69c6e5a02ef3db62b8207d2c01a72160,274,test
+475701,2557186,Student loan,2017-06-23,f5bac16663da30a2fbff8cdbefe99288fe653d82e1329604e461c54b098cfeaa,706,test
+475742,2557125,Debt collection,2017-06-23,b570094e079fc03afec23d7656a2cdc974d65fee736f1423eb899b6235b84ba0,310,test
+476139,2556295,Debt collection,2017-06-22,fac6a143f90745e67f835c4ec9878006e7463236c57f7cfb1b1c1f94f0661ff2,398,test
+476773,2554856,"Credit reporting, credit repair services, or other personal consumer reports",2017-06-21,2f40060e68a33e337b74d4343e13404c1b18f29da0c82d00fa618660689d6b43,657,test
+477334,2555800,Vehicle loan or lease,2017-06-21,ed562e2a96f811ab510eb8d6b61912ee1f01cc75302c948fe229cc67b4a6d0db,716,test
+479478,2548862,"Credit reporting, credit repair services, or other personal consumer reports",2017-06-17,51eedae83f96db554504702ce162af70908fa64c63c7198c2daf1c4a217de523,262,test
+483711,2545082,"Credit reporting, credit repair services, or other personal consumer reports",2017-06-10,1d497fe0fdc01c55b5ae3889fd660da92459e173b10134a4b94a3d4224bb5b58,269,test
+484026,2541786,"Credit reporting, credit repair services, or other personal consumer reports",2017-06-09,b7bbbdeaa4254870593e5a98f6702868e37e728503461f94119934fb17a3a908,3897,test
+484514,2542255,Debt collection,2017-06-09,acec228489692ef3b415d09b40b50763f479bc6c3b555d2bd44701b3df37f81d,621,test
+485116,2553244,Mortgage,2017-06-08,caea3435b75c85d96439de0562f18382eda523a5d20c54d81291f399620081fc,625,test
+485180,2505130,"Credit reporting, credit repair services, or other personal consumer reports",2017-06-08,d3bf385895b9d86241b92a68011734b6250e392af5a774c0b9b2a7bdd9b5c0bd,805,test
+486417,2540713,Debt collection,2017-06-06,cdd88ac1d5f075b07d6a1e69d47dfcc7d031e9fc5e5baa3803622d9c1166b42b,1145,test
+486572,2552305,"Credit reporting, credit repair services, or other personal consumer reports",2017-06-06,2d8dbaa1521a7aa89b88d0f3e755786e3deec8e8f7b1f3cbfc3da5378e781e65,1492,test
+487048,2548231,Checking or savings account,2017-06-05,c6778c00facb56e698a9392b96a539167c9a208eb8f2d2a48e0d28d844f9a61a,940,test
+487381,2502179,Debt collection,2017-06-05,aad360cb84cf0880957680076b8f3ab14d48f8fe69c16bc00f0fd94b763b5576,964,test
+488548,2500078,Student loan,2017-06-02,f96f8411b0750376f567c7484b50b6b84f3d7b4c691275be332ca3bd21a5b3b6,193,test
+490123,2498096,"Credit reporting, credit repair services, or other personal consumer reports",2017-05-31,649abdbbaa9152f19a82210fdabbd895eceb914126886be31f6430d80db047fc,846,test
+490518,2496743,Student loan,2017-05-30,bb93a3309cdc9fc89a3e56b31fef0ec57272103a9ae505771ef0789e3a35bf05,829,test
+490843,2497201,Credit card or prepaid card,2017-05-30,e131ebca08d699d02788b1b39a470bb198a9a7f4c85a4d05888ad62bcec0e522,2072,test
+491312,2495933,Checking or savings account,2017-05-28,a244e389091614607463f5825ad6fc4c78e573be7718b3b58b494e21f94d1cf9,530,test
+491340,2496037,Student loan,2017-05-28,4fb470bc09501af9e0780d5721e8c89fd95e253833c013233eac023cc60ad764,1298,test
+491417,2495979,"Credit reporting, credit repair services, or other personal consumer reports",2017-05-28,cee037f0bc6892b4f87c2886119d48d3a0161f4d521ede4114db9a2bd6c9e7c3,848,test
+492624,2493766,Checking or savings account,2017-05-25,4bb097334c585e0c7d3801c9e821369374d83270973c304f256807a3a0086c53,448,test
+494225,2491660,"Credit reporting, credit repair services, or other personal consumer reports",2017-05-23,1f77ea9ea43845c20a1e7eaac85e9a487382a152f0a34cf4a878a50a5b67e5ee,2112,test
+494496,2491311,"Money transfer, virtual currency, or money service",2017-05-23,5e74e594763149d483d938b01f98cc8907647e11815f1142353eaa2f865a2a71,2920,test
+497018,2488403,Debt collection,2017-05-18,e992de5d14df0dcaac1adcbeaef26c5ac4c0351f903f3b881de6f963200c180e,563,test
+497022,2488150,Debt collection,2017-05-18,4d674a323f5920fb67ba9814bbdd507aabacff0939abcb3784b3d732021c790b,477,test
+497175,2486322,Mortgage,2017-05-18,ad62bd4d17d74f775f526c86d0c58e9f56520e4257dbb2ac4f4a9aad1f12edf1,1100,test
+498976,2485426,"Credit reporting, credit repair services, or other personal consumer reports",2017-05-16,8c605a2c4b5fa6553e0299d9c83d5a2400b7be8a590087da44f9a741014dbfa0,1169,test
+501034,2482470,"Credit reporting, credit repair services, or other personal consumer reports",2017-05-11,10d6979059e50e83c337da3cfab9507a0eb92755a95d3f478851dfa5253606a3,2403,test
+501133,2482007,"Credit reporting, credit repair services, or other personal consumer reports",2017-05-11,9bf542737e18df92612da8ddce43c1c56ebd010818438726d1e8c8fe61b56bee,1636,test
+501532,2482187,Mortgage,2017-05-11,5cf0345295f36c3a4eed6751e9354a10a9fff46da9e490e27ff2c72a0fed1332,1828,test
+501941,2481351,Credit card or prepaid card,2017-05-10,d33cf34b4769d27e81abfebbd8eba38f1842e2e5098bf8f0c940dbafc4a8e8fb,413,test
+501944,2481361,Debt collection,2017-05-10,d525468943976430f2930e6327d70d2e2b3697dfde65e6a4c60c01d1736ada31,109,test
+504339,2477702,Debt collection,2017-05-06,e3bfbdf4e03fe4583235d36ae87bbf6a7bb000132ed9528e108425b4c8081f81,2214,test
+504598,2477305,"Credit reporting, credit repair services, or other personal consumer reports",2017-05-06,6ff43e02005c775996684de03ca0373d780f2e0790e0b9970fb073c929b28cd5,102,test
+504655,2475646,Vehicle loan or lease,2017-05-05,83b6a7adf7381587affd61f128efcebb65477f59fdb8afcc246ade50dfaa8e11,698,test
+505238,2476841,Debt collection,2017-05-05,7410022dc50640b315181a9e06f630dd21cef5a6116cb65645174f852d82b967,280,test
+505930,2475109,Checking or savings account,2017-05-04,ad58e7bcb4f852c15c185cf72331f21621ae07a587eaa50a0c91d356a4093fa0,5532,test
+506357,2473558,Mortgage,2017-05-03,3a82891af4aadfcad23a7b20b34e2b042f5ab5c80a5e0295fda8be5e6a1d9fbf,2456,test
+506655,2474031,Debt collection,2017-05-03,23d3cbc564c6a8ba2052bf8a3e28a0548353be90540a4f913a4dbc9a4751df72,193,test
+508787,2472024,Mortgage,2017-05-01,bdc52781a2fc8d3ac6ff997425db040dda440931a2e19ea5ab16ee48775fb257,1141,test
+508829,2471016,"Credit reporting, credit repair services, or other personal consumer reports",2017-04-30,a93a13694ab0081def568bde5b30ed58640f97e0d68c2383cedb62cd2fc125b4,1095,test
+511801,2467124,Debt collection,2017-04-26,1a60275c53b7e5d2f1eb20c71515154f7438c6a20d7aa5d78bd543009aac3a73,666,test
+516027,2443518,Mortgage,2017-04-19,7314498298129ecd6bd2ad1850b3ada2569f179161e7d12ea977f33a60d15455,1405,test
+516040,2443773,Credit reporting,2017-04-19,1ba3e3cdf2f1dbb57205762dfdd9186cb51185c9e36a8e48d8fb6fc15df9c273,57,test
+516238,2441536,Student loan,2017-04-19,a4ee2af917b307c032b4125ff9165910cbd5f31a5baaa2af884577b4d4330d88,628,test
+517432,2437616,Credit card,2017-04-17,ff8e00c4e587e3c6aea992a0a692a790e01b0def17cebf6e715a67c9f4426325,1280,test
+517745,2437617,Credit reporting,2017-04-17,c5496f65ca0170db6379e2d843f4b59e7163b530c15ad3f2794ecbc0b9f47a13,121,test
+517793,2439172,Credit card,2017-04-17,305752c9af17df2036c4ca0620e475277821ab6c232eb82cc3acb111381d02c6,183,test
+517878,2437158,Credit reporting,2017-04-16,026215918455a37fab6f07538bd99affd343ba73dad7873141352848edd45323,510,test
+519992,2432276,Credit card,2017-04-12,096a0c8e6ed75473ccb960cbbd7367bf17c5d03a3d63df836c75ba3ac5d845f3,1031,test
+520556,2429719,Debt collection,2017-04-12,3e3314fd8df1e3bcdc434f27fcf08df01d62dde2d7eed49fd92c17debc5004ba,948,test
+522728,2426316,Student loan,2017-04-08,73b466fbe0b836316dd09dc2b4b40027c2caef2ffa109ea7d857c31e4c31794a,1437,test
+523374,2425123,Debt collection,2017-04-07,0aadc9385ba1972388a161c0e06fb49af6c2f342b824a88eddfa3c48811fdc96,55,test
+523890,2422640,Credit reporting,2017-04-06,38f6d4f044d12b07c6fce0a957a0b3cda0085c55415d94445c9d1d4ca635373c,419,test
+524095,2423690,Student loan,2017-04-06,9acbdf92493a205a2727fab9977c9fa11fa5862bbfefdf5742643e9fdf7ee979,1052,test
+524156,2421964,Credit card,2017-04-06,7ad5677af7ecc120b2cc4ddd988acd99b5fe54227e8a7283f3bf9c674f23c257,3464,test
+524551,2421866,Mortgage,2017-04-05,e87597c732fc467c361a2669108f180fcca9d98f7568f1a038ad3efb66b82632,903,test
+525064,2421120,Credit reporting,2017-04-05,070ced8aecdf2636b3402580e770a8b86e77133d056db355f8a0079564832618,730,test
+525395,2418124,Mortgage,2017-04-04,b4561f3bf13c7399b9d584fd641723882cba65da4518ddb518e3a8d2d8031166,1770,test
+525598,2418311,Credit reporting,2017-04-04,89fefed002a1357e03e9c4a247981465c8089cdb8448acd5f0f40f075675dfb3,457,test
+527060,2414025,Mortgage,2017-04-01,3eeeb38227b39687e27031f6fa1921fadc0afde5dd9bb125cb0f7111003c680d,670,test
+527234,2414831,Debt collection,2017-04-01,0eb1d13510d05661aa2e72b95fcfbdd013cd587b7d8ec91f528d998310ef78d4,943,test
+528050,2414432,Student loan,2017-03-31,7630beb0a0f6582ed2847991314fbb4ba02ef8555a8314a6cda552168ce2260b,611,test
+530439,2407173,Credit reporting,2017-03-28,2074ae495880f491a64b3b57cf7d6788c10e5a0efd92452e4eb1c1eaed3b6f22,608,test
+531324,2403918,Debt collection,2017-03-26,eb4a399b792ce6a561cb7bb529a62318c94b3f02526a4956fec18611f6736180,89,test
+532524,2400859,Bank account or service,2017-03-23,4bd59c2ac365c8bdfc645fb1afed2fd7ef77271f1dbf9622c38318cc5fd729fc,2116,test
+534529,2396277,Mortgage,2017-03-21,de8c568f9b13b7c03b7b5e5802f66a75c50301c8c0f8abf10e772e3f17ed05e6,1869,test
+536593,2390215,Credit card,2017-03-17,08b1838a2107f7ca2623b1a1b9457b9272caa10c76af6a0bebdb6141e9e314cb,838,test
+536812,2392509,Mortgage,2017-03-17,0630d2e3495aa3cb1198b77ce195c4bce39bb88aa97412cd916bd4fba7bedfc7,111,test
+536880,2390513,Mortgage,2017-03-16,9cfae6e81e23c461cfaf8c369765a4f9ca9dd54a7f9d3bf7cc7ccbb1c7d3f675,892,test
+537706,2386136,Debt collection,2017-03-15,f5f5aa3e88948441a2e65fb378471f41ca7395b538f2ad319f18635979551209,506,test
+539605,2383599,Credit reporting,2017-03-13,97f4b14b404cdfc31febd01df984c253d5df6bb884df2dc7508f7482b5dadb8e,535,test
+542178,2377503,Credit reporting,2017-03-08,f58049c592b9db3a511677b6b2bdc68e7d72dd95c1f9fc3b13965124b7d0382f,250,test
+545048,2370263,Credit card,2017-03-03,512aea7cf1067e0b4cb874387e01e766ceebb7924444bb09a216ab2f8f02b788,2235,test
+545298,2370880,Debt collection,2017-03-03,e80589d7a55011a4902947161fdf927d70e9099955b5c5bc75b973d751c14eb0,53,test
+546163,2368562,Debt collection,2017-03-02,bc9bb02af4b8b7d0c01166feabab8d059cfe8b7aa78f572575a2cb03a9c87a2d,269,test
+546335,2366088,Credit reporting,2017-03-01,4fa4c9ecd48fa9eda30531fb1af68fa16b3f8e5001c27bcd82436b9fbdd1d4c6,272,test
+546672,2366225,Credit reporting,2017-03-01,86d9abc9144c6c745884cc6caca5fa31d5e66254e6fad6992c1740f079834d42,653,test
+547914,2364111,Debt collection,2017-02-28,cf91bbb0260989a8da4cc028f5e2f6a291b824db721c7d9f3abfc3b6b865aff7,439,test
+549795,2360538,Bank account or service,2017-02-24,5b03db458037479c90b6a6b0a2885f2531167191eeab479177a6896342b25ebc,1079,test
+551593,2352579,Student loan,2017-02-21,7d5d4641b01cc388159e207425a75f5b406ff391f88391e9b78409d14ae9065d,795,test
+551676,2351336,Consumer Loan,2017-02-21,a8306b1fe8fd86d2189367d8b2f25099ecccd5e8aa20e92953564725be986dec,691,test
+552397,2351625,Mortgage,2017-02-20,1301eb4742e8d1d7f27764f5e57b045828551eb22c3fc66c15933591fd493c78,1353,test
+552801,2352338,Debt collection,2017-02-19,a3cfbefa3cba1abb0f77da4c80108b86e79a573076b9a5a940338fb06c520b57,658,test
+556325,2341932,Debt collection,2017-02-13,a420cb46d8cc17663ef67d5ec7b1986b7212eb43f299e22a93cbe2db3f15c13e,487,test
+560101,2334419,Debt collection,2017-02-08,770d48df0ddf72fabf7e788d68225bb16edfa3151c8d420748d41e93facaf637,1438,test
+563458,2326973,Debt collection,2017-02-03,2825fd9c8adae3a7ae7bfcfd15b878febf8962137c9195308bf238883f10f218,299,test
+564009,2325138,Credit reporting,2017-02-02,4f180a06954afbd5e8ae35699b1681ab48a01f3cb55c074b81613f8cdc70fd64,110,test
+566621,2318771,Debt collection,2017-01-30,49aef5646e7a25abe0b8205a99c500c7b56e62480b3b862e4e450cac51ec59fc,1597,test
+566899,2316723,Debt collection,2017-01-29,8fb200177c9b0862076a794feb53d1787c6373e5022e27cf5f9692b7851742b4,464,test
+567379,2312769,Debt collection,2017-01-27,b9cf910d4306c5feb0ba58cfd2f382062e0fa9c7b6d4c73b32d2a6d112b8fe9c,886,test
+568850,2310693,Consumer Loan,2017-01-26,5a7f8a9163294b2df260031ab254871a6f16377f3461a0e165f9ff8f90356469,3333,test
+569470,2310149,Credit card,2017-01-25,474d685820cfbc0a652602ccebc605ed057fae7d851a43530d4e5c1aff6f727c,751,test
+570741,2306799,Bank account or service,2017-01-24,94cd59a6b748ac7212fee305329bb52785b0af3d6f074c59588268f4901c149d,625,test
+570842,2308900,Mortgage,2017-01-24,b7cfde086891c8bdd824af1118f01f0b0c0c467101b92932fc47ba2953bf2ac8,394,test
+571135,2305781,Debt collection,2017-01-24,521b24bfde280bfa939581d2abe9c59decd6bcd9275b771e1104cdd70f0e1bbe,1692,test
+572228,2303606,Student loan,2017-01-22,73534ad1cae5ade414021af89c52fcdc33dea6a261ef1e11078b67d3d0c75663,1766,test
+573154,2299363,Student loan,2017-01-20,f0a4093439f0a5852bac583e0225c21de51e9f20134e3e38b9efb634ef05810d,1564,test
+573301,2299827,Credit card,2017-01-20,269dc60c79a09f73f6f03ded6580aea7418758e5db068a06eceedde79580eea3,2329,test
+573575,2299662,Student loan,2017-01-20,03e77babc279f8c9dee12eb0d46953d56e869eddf9b72c844616b9e2111bfeb7,151,test
+573786,2299768,Student loan,2017-01-20,a7f7445ec4c82483922d6dda60ee94192b7aecf7ce84698cda68a486088548fa,922,test
+574085,2300004,Mortgage,2017-01-20,ed2601d8015a5c509478bc7e463620b27788d13ac66b4526e58ea08fafb4a955,427,test
+574675,2301260,Consumer Loan,2017-01-20,5bbfd8e15d0bb0951484f5b7a4fbbd8073e86e39e5babc51379c64077979b77c,984,test
+574974,2295779,Student loan,2017-01-19,85b23762750862c63b21c2fb6f9b297a7e012b0a3379deba03c55c396af0b3a2,1211,test
+575270,2297823,Student loan,2017-01-19,cc7d0a80c838de24e278879089f49f5d6597a3ddf8e289bda992b3f5f148e59a,416,test
+576537,2293270,Student loan,2017-01-19,84670975b5cd8a4981cc269144b7d95b3e8c2875a70cecad904f39aedf9be7b5,414,test
+577440,2295638,Credit reporting,2017-01-18,856a3d087fe9349c665389cda7e52f31586001d92e661e09ec40886740ecde3f,119,test
+577788,2291775,Credit reporting,2017-01-17,aa8d4fd18fb866f87f9329a641a2b934c1f2d330894849c3a99d844e6f891393,363,test
+577970,2292545,Mortgage,2017-01-17,360312fc300d0d070241cf6edd96a124f13bf58ef0ec38bdd81cbf67f35d4892,401,test
+578118,2292833,Credit reporting,2017-01-17,eb72321fd63668c9e736a6c7bbbae77387e9436caacdb47b005339b2e6fbae1d,767,test
+578891,2289817,Credit card,2017-01-15,7cb42f8c030e88aaf19467558b2650e55c9ff654347879530d8f04ae38a90751,1019,test
+579546,2288368,Debt collection,2017-01-13,567274fc15bc5f6c0e9e582e9314199d46490dd38f16bfe0b7df93c4c7717833,205,test
+580264,2287638,Debt collection,2017-01-12,06aa81ad5ddc47e37c7bca97971d040926ad09b5d76eec476ff16f1837ba32ac,622,test
+580814,2283163,Debt collection,2017-01-11,cdf37fba97ba41c541f2898ba6b4e44c558c068b40b25d508c70b9d6bcda08e1,313,test
+581609,2281195,Debt collection,2017-01-10,b805d1646409ae0a0b84f60e0eba869dbd6dade1e64383ca84af3c2dd85e5248,417,test
+582873,2278441,Credit card,2017-01-07,a8e86884911f1a337c5c114c69b54ee618e8d819ec6c340d2ac72dd374076b78,280,test
+583410,2278845,Bank account or service,2017-01-06,c8ec37f119521d19a13344d949f67cb420d913a8c1237f9f57cd0124ecdef222,221,test
+585549,2272411,Consumer Loan,2017-01-03,1f09b798a1b0519941f98918e92fd62db04a696cfd073e240e2c22c2c35a6268,1052,test
+586087,2271310,Credit reporting,2017-01-02,65456b00dd8e0ba61043416a648e20843ba915ebba85829b27e5b16acf6022e4,326,test
+587314,2267090,Consumer Loan,2016-12-29,d6fa46d9ce030f103bf757330eb687b2f9dc519c4e9350ee0f85c56fb07dfe07,189,test
+587489,2266628,Mortgage,2016-12-28,1aa6f7f7c1716d9a614aeec733bf05eb029aa684808c68be6334ebe28e8f5464,468,test
+588470,2264253,Mortgage,2016-12-27,ef18e9269ecada78636b475add08ed000d09345ca917f46257265681e2b12130,253,test
+588629,2265512,Credit reporting,2016-12-27,93581e1cddac16b4e6f8eeb8bb8c76e2de8b11adace013e0b196ea808403bbc3,653,test
+588859,2263785,Mortgage,2016-12-26,23fd44c8fbbc823a0f097b96a6fcea3f36b8acb2542ee813fa64c7e79051efb0,3349,test
+590323,2259828,Credit card,2016-12-21,587755ab5777be3570e79c9084cb3a8804de7b92b1e935241ddfe2bd4b7b6d0e,691,test
+592307,2254723,Debt collection,2016-12-18,fa2b95299ddc691fb10ae5815114191d52e3f3376f59eb5e4ad42e84ec5c406c,169,test
+592891,2252503,Credit reporting,2016-12-16,853e78d267f9ffae178100c206028fa953bef3398f2b6631a5eb2f725e7e036b,495,test
+593860,2250987,Debt collection,2016-12-15,6e2d77f4e25eaf4c33651b07449fea0b29984b78a7df4825d25068c986e4c3a4,940,test
+594755,2248041,Mortgage,2016-12-13,353ffa5fb11e46ca9a2fe63c0ac34d466a9aad8c9830c3e908c679ac3feb182a,942,test
+596529,2242482,Consumer Loan,2016-12-09,97175f13f1026c8cf91d059ea40ec2a1954f0ad1e4e3e71f713d5f0de6197716,2157,test
+598449,2237779,Debt collection,2016-12-06,da9dcb9582b40ba3f474cb2b9fc148fa4236d733698a336e4d048931b312d98b,938,test
+600009,2234364,Debt collection,2016-12-04,078a9dedbefbf616ff305803c5d9f132f26b563090159cbb81f2fbbd55090f11,346,test
+600157,2234404,Credit card,2016-12-03,86b15af46c3c58b27744ab978f7882733f20f43a6b191bcc6778fa006d3459fb,306,test
+601164,2229734,Debt collection,2016-12-01,66aedfe3a4eba4ba099833d90b0208529bfea5061910b58d09e72f3df41b2e9f,381,test
+601249,2228641,Mortgage,2016-12-01,18a765e386dc2f64db261e85619be9c3e1e8b745b5496a69e3868b2215328f76,947,test
+601437,2230675,Mortgage,2016-12-01,f8b5b4f86da5c4c84516f8124f0347f1d614abb12747cf75dbde3a872808f1f5,1331,test
+603166,2224736,Credit reporting,2016-11-28,d09b24c1eb81d67c3ab7c92691f12bf0c354210fb35bb683e49998383761c9f7,613,test
+603284,2224495,Mortgage,2016-11-28,a3a41efabeec1bd7e3e0f12d1ceb60c9c1d81e022a9d289557d91f40a5caa1f8,420,test
+603657,2224202,Credit card,2016-11-27,8200fd21390ac9579537b5341b11effbe213673eb948cda52eb7643bd1ecc5c3,937,test
+605770,2218239,Credit reporting,2016-11-21,e42d7e734aa3a52b02eaa74d46dee1923b3b126154b288f0a74ccdeff06db9b1,1627,test
+605884,2217643,Credit card,2016-11-21,2a4ceeb46961abe34ea1fae9d2fb133452694ba7437a1fafa97e045a723158f6,435,test
+606313,2216323,Credit reporting,2016-11-20,263b8eb1f7827901a1101136c1d29ad4b45fb6b3c71dff818772b04af5245bc1,1274,test
+606403,2216809,Student loan,2016-11-20,237ccb9d4255a539078aa0c93bb5d53d432994faeb28c9b876bd7cb3dba5da5c,1453,test
+607383,2213977,Debt collection,2016-11-17,f8f07e781aaf8660641b2b98d225fa511d8f367ed4f2cea9e0fa7c841fb6b7e4,850,test
+608727,2211067,Mortgage,2016-11-15,26ab4cfecd4c6a5e9db31af4e5f8a7bc37d92fca5a348e405c6d4e20b5d07c03,1656,test
+609426,2207285,Credit card,2016-11-14,56df71ced39c41de6ab40c6b2dd7ac95b652345ca82cb2ae59de40746f84f74e,749,test
+609790,2206764,Debt collection,2016-11-14,0d0e90b24c3ee0c56648603d3cbbe7d7e3e1070115fef1cdc7f99c27e0473f3d,506,test
+610083,2206136,Debt collection,2016-11-13,708379035bc6700faf9a99f92daacbdf140b11802b63ed167de1407fa5462792,268,test
+610774,2205135,Debt collection,2016-11-11,1fd87ac57a2010a9bcb6a0b15ab25e12bb76c410e13ea99d6ec7301b0da0e98e,648,test
+611662,2202119,Credit reporting,2016-11-09,953297883d696849ed90e4d6d38a139e200978f42ce240e8fb11b0ad71c573eb,80,test
+612964,2199354,Consumer Loan,2016-11-07,6b17c56d5561f448d9e1eda90dbc91ca8bb3b025ddf647bbc618a50a2e087b80,364,test
+612982,2198923,Student loan,2016-11-07,fad6a0e5d957ec0cbbdac59bf624371cb87c55e16fea4d0b56fca241f74cc84b,858,test
+616599,2189806,Credit card,2016-11-01,775123975c3606634162c3593d1cf43318be7c1eb96a2e3a89a07a9a9ad659af,1980,test
+616922,2187244,Bank account or service,2016-10-31,7aafef76701d27687fb36fe86a5ccdff8518c155dfb1432555c92633219a4483,3823,test
+617316,2186887,Mortgage,2016-10-31,5d3e894b61373996a3f2607833bd1c849dea6684a354db5ef96beefb62319877,2506,test
+618023,2182602,Mortgage,2016-10-28,c1617fa7637fef0809c9713fe2c8cea34f4d09a550ef68621465af7f6dcf19fa,604,test
+618095,2183362,Other financial service,2016-10-28,5b456da5229dcfee30d3da5d679e7b38ac9e7683d0d26ed0cf1c0abdbcf20e58,2110,test
+618611,2183179,Student loan,2016-10-28,355930e48fb62bd87091e30f6fccaec6dc8bd0d10a03a114bae7ae63388e860b,445,test
+618904,2182443,Debt collection,2016-10-27,02712ae4ed9d0c34ef814ba16053e4adec57781bc59bffd3263cd8fc3bbc1d59,158,test
+619862,2178377,Credit card,2016-10-26,abc84980f06d53e4db391a364b5e6e6a309573a571f6c3ef18c45b228492abf8,396,test
+620808,2178503,Credit reporting,2016-10-25,308a767678f549a0222ccdd4caee339cdfc5d20c35c128301dcc9ddf17364d96,747,test
+621940,2174159,Bank account or service,2016-10-22,a86bf03efccfbb0c473b1a4b75a8ba813a7b531e226331701fdb433a13213aba,83,test
+622220,2170703,Bank account or service,2016-10-21,ba093f298b4335cb385cfb8fa460fe18a8564b6fba71e952fd9c72066c8d71e0,722,test
+624042,2166258,Bank account or service,2016-10-19,3418460cbc53eb76279c7fff6e7aed230609fe21e0501deb490d206168aba67c,1092,test
+624250,2166588,Debt collection,2016-10-18,78671b83e4926b4ce5ee97f7e5598e40e31117209d62324d660c18133dd9be38,2197,test
+624421,2165449,Credit card,2016-10-18,7bd2d440fca80cceb4378449e80e1a0a58097c065e83fab0d44ef9877a7cc2f0,1148,test
+624919,2166419,Debt collection,2016-10-18,d8ba136b3e0fe13d875177cbaf349518a49ea29269134c4b607771db009c8139,149,test
+625493,2164779,Credit reporting,2016-10-17,6823fb4c5f7a397d3cc571a54d8690c84859b4a92775463084512d2d44cd5699,435,test
+628389,2157683,Consumer Loan,2016-10-12,50bc42e96a3d922eb44e566494a10f2fd2a3a4a397670bd7d4f01fcc2741dcf5,376,test
+628922,2153679,Credit reporting,2016-10-11,a1d5663e89491f576c248bfe25e294c06036639f3d626097138f1b8c778cd2c3,241,test
+629012,2154464,Money transfers,2016-10-11,eb47c45ea14723a4323d46768a2bfd7261bfc119ae46ed643712a7ccd5edbe9b,392,test
+630163,2152410,Credit reporting,2016-10-08,7eb4e99a8b445b137b812c7d00552c9d513d7e5460abd751285c611db8845ea8,2486,test
+630353,2149492,Debt collection,2016-10-07,5f6da061d39e21d00ca920d1f3248678e8f56f6417c65167a4904bf6b8856535,1003,test
+630963,2150556,Mortgage,2016-10-06,4c2c6e7d337b189e956c0acdc0e0502ab38c5487068fed9fe65b0f9b942ff468,1679,test
+630972,2147247,Credit card,2016-10-06,f0875a7500937bb10e77329f1eb08524373b47a5f521ffbb1dc7c663f60d5ce7,462,test
+632040,2147110,Credit reporting,2016-10-05,d3ce4ad709444191bd43b649793415ef9c08aea8296b75c8fa6083e0018b4db7,302,test
+632104,2147086,Credit reporting,2016-10-05,ba9ce7292719d3b1b8218fe428608212e732c83a606e053d8307837964673cea,1240,test
+632732,2146174,Consumer Loan,2016-10-04,15be17811008edafe53f8b89ce3fa389d0c546a2768256d8d3d691f603195aaa,436,test
+635731,2139120,Bank account or service,2016-09-29,a7d7b42bfc866c3c4ba708788dad59f32586f77666fedd90f87660fd8023b9ba,298,test
+636243,2134545,Credit reporting,2016-09-28,cf39f5b90f2c02bccfc5b8977480d6d95e33d39b9bf9600e003c4afce7682af1,1002,test
+638853,2130425,Mortgage,2016-09-24,c97519ceacb356b6c599ade71d50570728e06f52e0fb6c2460d6fcfb891cdecf,715,test
+638974,2130153,Bank account or service,2016-09-24,f4afdf5964e1c63133931e25f78cf7436f680e87becf8b93eb30b3ab365435a3,796,test
+641121,2124747,Student loan,2016-09-21,44647e13b737cc8cabcd44b214d6ce923a43330674845096b416d1a9ed3ba1f9,1248,test
+641661,2118380,Debt collection,2016-09-20,0ad680ba02f5881223561851de160331b4b231a17a2b30d579fd70aaa85fcd9e,1871,test
+644985,2109799,Debt collection,2016-09-14,e1d5a93b96db096ad72cecf46692f3213d4b1bb71d4bd5a2afe78a2eb3bb47bf,105,test
+645350,2112008,Credit reporting,2016-09-14,0d8369e55f51d4683ed0b66a4060b6063f45ce263b21088501dc16607656bacf,857,test
+645405,2112727,Mortgage,2016-09-14,2aebe35f48088c79ea186cce7f08f64f987f0e18f5f6a3c75b38887e12fb92b1,1086,test
+646748,2106274,Consumer Loan,2016-09-12,48002d9c2820df8d2f99c141b5c773e83a76e80079ec0e531a2bb4d94c128ced,417,test
+647001,2107040,Bank account or service,2016-09-12,7377ab82de3d8cb01e2e2b3311c705db4447907692b149e9a0956bddf8c25c1d,1249,test
+648051,2104006,Debt collection,2016-09-09,447b53b3c97145a9a7cdf8c8a779648e0e6d4aa48d7fdfb825da84aca1527f4a,1265,test
+650296,2098019,Credit reporting,2016-09-06,5838aae1c2b7c954d55587ba929b64d0b69d4d9fb04bb826dd9909779831508a,377,test
+651686,2092755,Credit reporting,2016-09-01,c2d91487aa86680f80d9237c29e7b7da797c7edc378fbbf3b2fd76af2a648385,179,test
+652266,2090600,Debt collection,2016-08-31,d8d6b7a6d36adb7d532928e81c61ea14340e91f3f6eadaed00b3a240ef002bef,236,test
+652834,2090995,Bank account or service,2016-08-31,daba8ec9ab6159a710d4c47babeffa47b6b71b9152fd4d08cf9d7b8826ed3be6,3809,test
+652937,2090855,Credit reporting,2016-08-31,7eafe4a2da7c4595e0b26b60793ffcb574872e7d3fb624249b0e181459e33e3a,748,test
+653469,2087976,Credit reporting,2016-08-30,353f0e8013be10cf9b787171a80149a1c8598273ee92bf421b89067c3ef40276,214,test
+653557,2086787,Mortgage,2016-08-30,b33f22dbacabc7a6e3a729c1d02f7e4c5a6ab08593f70baa42af6b1aea1fe821,1181,test
+654721,2084809,Credit card,2016-08-27,aa4efb739c7fd1e3f9eb32ea0530ea0cd765467208dac8f7b163d3f0ee17d467,62,test
+655145,2081382,Student loan,2016-08-26,d6d66178469f5e0b1db00932cebcb00c5a44f82543b261557aaffa6a63100e90,2608,test
+655515,2079387,Credit reporting,2016-08-25,47ec67105a7138cd3b85f6c843e8f56525944b81347428d3d6c77470b2461e59,827,test
+655756,2082248,Consumer Loan,2016-08-25,02e0884dee73753787fcbab4bc6998d3453e9d6c900276cd90e107d0b7daa6bd,1126,test
+655958,2079062,Mortgage,2016-08-25,6f6b339a10d16b8419a095fcf090cc64b94e0f26db18c8cef736d6c0e3c83eb4,2052,test
+656538,2080511,Mortgage,2016-08-24,1e99036a6d6fb7de7e0e0f19bedc25d71085f6ebe1a60795b57227532630ef39,1820,test
+659051,2072650,Credit reporting,2016-08-19,2dd7575aaab88e646f39bb116d764f9745bde9a45fd9a09a328f1a4ca3996db2,620,test
+659054,2070911,Consumer Loan,2016-08-19,11dac51f592a7db683db093111f5e52e88bc4cfc83237d3b4a88181379628c16,3876,test
+661057,2066350,Debt collection,2016-08-16,b2d703c9ca31f03bab6842f47d447bd2ede90282359385e09f2400f7186d7919,1412,test
+661591,2064578,Debt collection,2016-08-15,da3dba362f22ebbda7c04b2d7641538cbd0d7dfcef4dc45120f3a5d547db2aa4,28,test
+661786,2062989,Mortgage,2016-08-15,4ffebe940e7450308b6096f55b8fd4d78d58509e78e6b48c95a9e5685f9aa327,3863,test
+662067,2062920,Credit card,2016-08-14,6a5672450d276a5feb1d5119522ee51442881491e052f92325a3f874178bf719,444,test
+664050,2057191,Bank account or service,2016-08-10,ddbad8741591a795b238a5f9fc1a30920f388d1a7db1571466190535333aeed2,3417,test
+664491,2056578,Debt collection,2016-08-10,224254983c3c1ea64a972e50e51f79fdfe3bba7487b806714c2e63e8a6c73c65,460,test
+664634,2054709,Credit card,2016-08-09,21f77ec875259aca510d07cc45244f62dd8b3568d6559cf20f346139e5c68468,674,test
+668145,2044167,Credit reporting,2016-08-03,4d0ab865d3e35c20bced227738258581b95a744e9d166275465f7e60fa76b93b,711,test
+670608,2036231,Bank account or service,2016-07-29,4f0f9116667c9952a7136f931bb751ba37daf0fcae3718a155f2a0ac4bc18aff,2168,test
+670969,2035733,Student loan,2016-07-28,783ff3f397c3fbf11962503cf683209c5acf2524ed93ab67bc3f008de0150517,889,test
+672008,2032252,Credit reporting,2016-07-27,279dd363e5bb1b7f7d04ced3be4f32d4a92f6c50aaee8d2ea0b0f697b9074ba3,936,test
+675287,2024231,Mortgage,2016-07-21,bdfddd1ecb28b804d7be5223a917dbf0c5794abe08eddfcbb7e34b64f4ee8ae1,594,test
+676127,2021185,Debt collection,2016-07-20,d488f0e00f0f4554a77a7f38ab4180a6b8bd528c22a86e125d613d6b4c6008f1,271,test
+677675,2016532,Bank account or service,2016-07-18,392bbe422ed2866f9c9740ce1b40e6baf59cb606ea7c73305bab1b10c361df29,1370,test
+680281,2010062,Debt collection,2016-07-13,74b6195d4f7ca0d49ea2a7ea8f4798f270c6e76315cf312f61a525ca6094ecd5,448,test
+681204,2006333,Debt collection,2016-07-11,99f7a42169dfb136e265b45f8e159b7aa0d8b3df345b7168a9b6c3371b1a1bdc,1091,test
+681297,2005312,Credit reporting,2016-07-11,e2cd9e402ade3f79b0fba6f49b34fbb9ade58d9c2c28cbd98e259b44a933e3fa,3413,test
+683269,2001686,Debt collection,2016-07-07,f964eebdbab6ff1ed2759ca4923d2e79aa57bec48652f45038181fe95acb36c5,757,test
+683525,2001197,Credit reporting,2016-07-06,2829e327cf8dca1b6e2f600423080e70230c99b72368fffcce8f08b61b99a052,1161,test
+684381,1998809,Mortgage,2016-07-05,3a336089d5b5814816636c343e25874c0cbc7ca30226cc51f6b59e1bdedf36c5,887,test
+687894,1989727,Consumer Loan,2016-06-28,81ab93ecfd9e81d6988e282ad4b90db8fa59a875d2e647f46c844c402e9b8e6b,545,test
+691724,1975193,Mortgage,2016-06-20,10e1f58e80c62216dc769f0114b0f74c66dd91c65c4cc86d27f29a527589e392,1460,test
+693424,1972910,Credit reporting,2016-06-16,6f5b9799a15c40858ac972912b3d97973b49bdbd35b16bedc06df11f6b14ae67,1588,test
+695048,1965904,Mortgage,2016-06-14,7bb0731b1bdd7a0a54abf0a79cff48038ccd11e049a48a4d92319d70e0a3d270,3908,test
+696506,1963694,Debt collection,2016-06-10,d2c680e5769d45d6f6c2854c116f36b8552dc59ee11194abdd85b8aa96045eb3,3188,test
+697081,1962525,Bank account or service,2016-06-09,616d081252f6ffb6ceb9b0a67b1d88d2dbb5468b57c4b4d58b507f9a7995691c,2124,test
+697853,1960313,Mortgage,2016-06-08,ba566b82616c37e0b5761c7575f65ac315b2f37dedea514f37d037e1a298d28a,2506,test
+698244,1960480,Mortgage,2016-06-08,67135085419e2a49680dbcec3b52367bad0138e64d42c885196e62e81c95035e,618,test
+698300,1958081,Debt collection,2016-06-07,9f9057ecb0e2f583759d40f50456d30f57ae1867654ed79ecb6acef001582201,259,test
+698314,1958621,Debt collection,2016-06-07,6875eca509c6c103e3e8aa0d0bd349244f4d190006dfdead66cf76383ba841bc,519,test
+699872,1954713,Credit card,2016-06-04,ee1da68341bf1551478d57fc26618e0e43cd16ff041ebc4547c5533c890c2a21,1453,test
+700512,1953368,Credit reporting,2016-06-03,cbaaebced925c6fa95098c3aae5a2a6a7916184330ea0ff05d9d9a620902e805,139,test
+700644,1952870,Debt collection,2016-06-03,934db7e5bf8b5d7afe0a639739e067bb1568b11f32f4b7c5b114d38717e616b5,877,test
+700936,1952282,Student loan,2016-06-02,273305fdea468a40a1e3dc80a4522bf8a6d16de64c9abda3c126f87814a242d8,91,test
+703230,1945269,Credit reporting,2016-05-27,95ba37a9b8e70f381a045117c88338c359db1ed06a82b8d1e4347366c47cf700,369,test
+704300,1943017,Consumer Loan,2016-05-26,483e1e62e9b4a88c39ea526de64edec7fdb78dea815ef1f7936c17e927b86c71,310,test
+704733,1940808,Credit card,2016-05-25,b1d6c175055fdc84f8bb06d017a8815497b89bc1b0ee01695e2afb585d99b5fe,777,test
+704926,1939528,Credit card,2016-05-25,bbeae7901be904e728f6ec081240b0717c4fe6cd03ed12b852ffac3ab06b3da4,136,test
+706967,1935407,Credit reporting,2016-05-20,74d3c1efbace2336b1ee305f19207aa45da5c1285e94e2ce5e45ab375b6d37e1,468,test
+708355,1931713,Payday loan,2016-05-18,a37edb618bfaaea2a0e3f3c0d0947689560957a7afc500c3ed0e31a5c51d806b,102,test
+709542,1926461,Debt collection,2016-05-16,fe81452a9dec846d5f40141edda627319c40e7a11f3a2a4dd21f252813a076db,443,test
+710046,1924859,Debt collection,2016-05-15,b85ab413b7a72eaf6c91fbd92005b88870347981d79029b201b748b7dfdd6c6f,373,test
+710639,1925828,Debt collection,2016-05-13,9435eb7991fcdca972ae5a6262d0dd9c0d07127a92211c645520efb78c3bbbb0,94,test
+711104,1922034,Debt collection,2016-05-12,506cbb19f96ba3f058ce799022ac91cb5e8b190e174318e5eac29755af348db6,75,test
+711111,1922878,Mortgage,2016-05-12,841de1a094fd490ea6aae66d902f4e7001d9e157a66cd078b9dc2d70d45f92a2,1030,test
+711458,1921886,Mortgage,2016-05-12,0bec83752d79abe56f79d3af5ad04d9f2aaea30874f594e71566881952d4be07,245,test
+711806,1921619,Credit reporting,2016-05-11,5477820b60667ed93bcec4b0211441e26e318b5b8dd1454ca4515de3dba38644,2503,test
+713440,1916677,Debt collection,2016-05-09,545d8f7bddb78cd3ab35ca52348d2dc7bf4637f3e8afcf9ab63a5e3a91555fe4,618,test
+713882,1914925,Mortgage,2016-05-07,dfcbef8b5655b5b17759c6d9c9e2c16371eb2de59a30cae6335536f06749abea,1082,test
+715623,1909546,Student loan,2016-05-04,2c6e3cc6941a703685f1b8643acc391991c6bf84e1759411784a5b19846890b8,1303,test
+716301,1907542,Consumer Loan,2016-05-03,d7e8f103f05b9398ed93fa923868d002118d1f1119166e46821559104898738d,1338,test
+716488,1905909,Debt collection,2016-05-03,ddc6d0bf658e4642ecb9c05037fd5acf30d3a77ac611987aa3d5443a7dd055ea,1700,test
+717299,1906791,Mortgage,2016-05-02,b14d81cf1db50f457b9f0981f9c428480d556dddc8559681c7f7c00acd6f6f11,1795,test
+717538,1903040,Debt collection,2016-04-30,9eb67eac6734f148855a2ca317ae17f5def3abf31b876394c84cee1338d85a28,2280,test
+719626,1898488,Bank account or service,2016-04-27,9b29509b4b1b11615f7bd6c846e71e51c915fe8c2c3017d2afe6185d43bf76e9,375,test
+720802,1894320,Mortgage,2016-04-25,14a4757123a76ca12777607e632e1f1bc6fafb4154bcea7e87ffe93fa159dd19,619,test
+720988,1895598,Credit reporting,2016-04-25,990d00566d2ce18772dee7208a3ad7191ab4f6648168008a93960d5f28c0f1e5,455,test
+724978,1882563,Payday loan,2016-04-15,3bcc8dbb53b1a66288f27e0d39cecd1f6db8b48985e66704af56bc8c3d54003b,245,test
+725061,1881943,Bank account or service,2016-04-15,6a4624bccc3d21782b434ca0587a9becd6d0c909b32cfa10a8ee318633975edc,684,test
+726268,1879728,Bank account or service,2016-04-14,4a2eebfba875cd942594fedbfa91f619146d38a59e3971d52ed403621ba79c56,1156,test
+728619,1872438,Debt collection,2016-04-10,0522aaaaccf0ddc718c977b216b93c7afb3515e4543330a85079ebdf8b61e68e,1012,test
+728791,1872112,Credit reporting,2016-04-09,cbb1751a2ec48363d0079e7ff7b68364ca0546b9e9309ade1b8f265cac129889,423,test
+731184,1864193,Credit reporting,2016-04-05,ecef7ba00d0714e63d218ff8b567fcba72b273caa253de7dd3840022cc245f89,718,test
+731656,1863185,Debt collection,2016-04-04,4111045ca54f7c74c991799e89d1429b4ed381c28b556a9a9976deb3ed8b9c79,220,test
+732317,1861704,Consumer Loan,2016-04-02,2b32fffb48a6620bb25deb5743d5b4374fe9a2518edd200e535a3bf0f08bd060,430,test
+732354,1861470,Debt collection,2016-04-02,c92912d85505d695b628e599ed8a1830dadee2370004e628452474ca2d6285f5,214,test
+735191,1852441,Debt collection,2016-03-29,215a8d4202070f466c85dbb019587fd89e461e575a01e1ec2fdde30ade73b615,2324,test
+736202,1850303,Debt collection,2016-03-25,39dd4459cc11c59f21c25654a0a7bce7b11e824ab560b54f23d486d217cb537e,387,test
+737085,1847040,Credit card,2016-03-24,3e889ac4f8e2607b897d6f122d84057c940cb843647b7a761343260249f0c33c,730,test
+737785,1847136,Mortgage,2016-03-23,e50b3e8496e7bf30cbbd5ac22d194b50d676e9bca71470954750a871f9056cbd,413,test
+737950,1845498,Mortgage,2016-03-23,70e55a907863957631c4c2460250a95a5b5df674f8a1928f37c6869512c2246e,2730,test
+739734,1840371,Debt collection,2016-03-19,49775ac1f196e1d31dce2dc1da241cada428f065d7863d9f2a085d6131d23012,767,test
+740638,1838360,Credit reporting,2016-03-17,bc866bd9503c0b367af69e0eeb6ceb95c0f273268a1908242384c2a1de26bbc4,237,test
+742761,1829993,Credit card,2016-03-14,8ee604974a72391edb6109d6d7347b81a610c0310b1547b898e2f9eba8f15bd9,462,test
+743087,1830451,Mortgage,2016-03-14,908b8bdfc53e7ad187d7a3d54b5ee734d4dda3d174b0ba9ea35306cee37e8da4,2364,test
+743370,1829409,Credit reporting,2016-03-12,908d845b289e013f6468fdf002688c604da851c88d5ff5768025ba79edbe4bdb,538,test
+743879,1827894,Bank account or service,2016-03-11,0ffd8400d6d8f25eb1b26da02735e436fb3429ac536b8858579842368db82f93,360,test
+745154,1822437,Credit card,2016-03-09,ab1a6254ceeb83d3df85fdfe5bdb79c27fe85c133d4fbfc9e15cf7fb3cde17d7,572,test
+747151,1817335,Payday loan,2016-03-04,7f5b64fed8c0b390f8d87c4bcbaae25e5c6cfabc8e492026718beec5d67199af,1775,test
+747325,1818562,Credit reporting,2016-03-04,11a4512c360e0174e64de89c940e0cf9c20962441d8b249ca9bb945154f8af17,893,test
+747413,1818113,Debt collection,2016-03-04,c6a8f9550796b48e2933e1b114914addf3d33b874c0fbd38ecc6919b209e8340,165,test
+747538,1816655,Mortgage,2016-03-04,b5b15d82aa7fa040ed3656a40b95a4db33d129756c49edc7e042612c21325930,489,test
+748550,1813804,Credit reporting,2016-03-02,47c2818dc7b00a249272e03b443f7f76bbdb9439e89deb5456dd05fb2d15fe31,667,test
+749709,1810336,Debt collection,2016-03-01,cc1a5fc714f77ab2f3e1edbe45f6b563f908632fbd64d01127e79c825bb7dd47,209,test
+750486,1805969,Mortgage,2016-02-27,bd770c20daa913c2d598c02610d14976b904ea658fe9e851a8d897e2bf50dd3e,3462,test
+750746,1807034,Mortgage,2016-02-26,8e91e0500412578b2658529fcf9b89468558f3365294130282d87d33e085770b,503,test
+750796,1805774,Bank account or service,2016-02-26,815de01d7470d8617dc06e98cf55f57150c441b8239195f416345a714a5ed225,1520,test
+751760,1804128,Mortgage,2016-02-24,11217d5100ed166e4f3efeedd9d7927300ab349d196065251e423e7445169759,3165,test
+753027,1798074,Mortgage,2016-02-23,4a9a61a3b77c4d0db3dbcc3343fc8d3c291d3e5075e8225933749e42bb7afa22,1028,test
+753537,1797501,Credit reporting,2016-02-22,1c760c7cf06c22060594c01fb58d9ea14e02ef4b2ebce847b7e7d7e7f135b760,813,test
+754559,1794681,Debt collection,2016-02-19,95b24ed2b27a2fb38b979c576b5df37573656c25d636ab82d452cbbae525a74b,1947,test
+754898,1792984,Bank account or service,2016-02-18,bd8fdd3b81b30eaa03384c5f4abd1d1c630fa5924932767a0e9abb70c684fc15,3921,test
+755608,1789023,Mortgage,2016-02-17,844fbdc04e48dd60dfdcfd02de396bbfc8016c40eca8cf0c23e7900126be9420,2742,test
+756241,1789521,Debt collection,2016-02-16,6131e498bac857a6e28e4fb1bdbe286ca801d9fd853aaac53e3fba6221bb8349,533,test
+756316,1789243,Mortgage,2016-02-16,36a8c8ff6e37b2753219b08836b95baef4f0dfb4e65c98288fa4684fd5eaf0cb,2993,test
+757777,1785360,Mortgage,2016-02-12,f6cea487aaee462a9fce6620702b189bd6ac1fa8d9b75092e32db08362371ff9,1774,test
+758669,1781394,Credit reporting,2016-02-10,1f64616b381b7cd9695ecd164cc6a12a5caed918b61752342b61ae8d8833bbf0,1275,test
+762437,1771215,Credit reporting,2016-02-03,d2bd3f6b7b5bfeaf92a6f33618f2f42e61c95481be6160d009fd1a4106681a10,495,test
+762972,1767401,Credit reporting,2016-02-02,cee4a66ef45dcee8f9ae6c6430f24702b3751661363c5eb1bca36cd147548a32,640,test
+763818,1767703,Credit card,2016-02-01,5c3ebc009471f60d53cd5437384c74b208a270b6d51705e341443695e9dba584,396,test
+763872,1765487,Bank account or service,2016-01-31,0be50e662d69b17964e9d02745d593c40589e19bc863475fb2b8aa96e567b2a2,3034,test
+765601,1761555,Consumer Loan,2016-01-27,22dc5dedba12f68f3d94d891ce12816f2eb494e8e0c8ccc82751bf05488b2a3b,217,test
+766820,1756767,Credit card,2016-01-25,fec6b5fc89c2054fcac9f0ec893c5bb952f9100b107c040a0afb3b8d1b145b73,1198,test
+767545,1755248,Debt collection,2016-01-23,2b4eebe320da2fae18dac8afc645388652129e5097c98675a55d32d696414e19,492,test
+769817,1747517,Student loan,2016-01-19,812df156f6ec9956b7bc32a2040a55a6ecdb03030311fa877515e436620f487b,719,test
+769824,1748681,Credit card,2016-01-19,47fdb551e621eb6f589bdcfa22d2964c61a9feb134ae3a4221d4777ae082cad7,412,test
+775637,1727705,Credit card,2016-01-06,7df27369f620272e27026d96ddd4f9bfff1065c61cd8d0b149a6fbffabf7c625,1133,test
+775832,1728610,Bank account or service,2016-01-06,4e30a27036d58bc1ebcf4ba58aed04eda3951d189184c9fc6a25cf8ad2ecf930,81,test
+776580,1728988,Consumer Loan,2016-01-05,dbe2d3aeef143b4954714ffccf2f782e3fb3bd9e4457408c26922545d44e7972,324,test
+779564,1718160,Mortgage,2015-12-28,ddaeebefdebb702b494d9363771b7e6eea12783b5d65c0afdc4cec3c9e2598e0,1770,test
+780461,1714281,Mortgage,2015-12-24,838435e16a593a4324c73c1105e8157ec84c22aae39962ec5c4a919869a1e3bd,1772,test
+784219,1697246,Debt collection,2015-12-15,0192b626ccd4096f1bc06dc3b9b0563f681b5e0a348023b22576c050dfdf1769,3036,test
+784496,1695935,Mortgage,2015-12-14,4a326e33842f27a6b41a11bf691d5958a4ed47e465e6f95ea53e640c56e44bbc,3166,test
+784793,1695344,Credit card,2015-12-14,0d6eaadeb55e3062d5551b433085c80cc97717ba426e84d470d625a9a4fdc73d,176,test
+785392,1693336,Credit card,2015-12-11,df1b59c25dbcf77131e516ce359ce0171452b1128d94a66dbf9eb170130129c1,1232,test
+786046,1691135,Credit reporting,2015-12-10,ec8e7528a2459092c8c15dea77565ddb8a20f76d00566f7143e5ca9cf6c3a6e2,468,test
+786719,1689828,Debt collection,2015-12-09,f7de3a6fce0f5b92c4bb425987ad055ce9b3311cea44951260a4a72102fd0174,566,test
+787938,1685611,Mortgage,2015-12-07,170f169612757852d61300baf310e8bdab81b2f30272df1cb53f9c29e7314b08,1262,test
+788552,1682784,Debt collection,2015-12-04,83ae009a84964ab1422128734067ecf09045f50e42c770cb8ec0aa79bf6e6a1c,493,test
+788689,1683914,Mortgage,2015-12-04,5fd2452f25a4ce7ca3b6ad37b0c0a9c7efa21d1551594fd9dc7b47868272c63a,2854,test
+789558,1678961,Credit reporting,2015-12-02,539c53192495ef297c9536946731f92e4015bf7a4949e0c79776b70b8baffb2d,1027,test
+790520,1678093,Debt collection,2015-12-01,489048223eab9ac504d6233d3f01de84236f981584fb61b4b217517dc403bb0d,708,test
+790668,1676493,Consumer Loan,2015-11-30,4d887b4a95944b2c5a33775414eedbc77c4ada497f8638cc775525b6902462c3,1370,test
+791950,1672544,Prepaid card,2015-11-25,95c4d430451c4d169ede787322ba1916a9e70a3cbb5e1d6013e925117ede37d8,1982,test
+792794,1669900,Bank account or service,2015-11-24,310ea1389cfc47616ef31c2565305c30504209e86f9ae348594f082fcab9f210,3067,test
+793901,1667046,Debt collection,2015-11-21,43dadf20927b7437cb33fade1f5b130eb64a1b5fea712bff0e251b6018b70980,238,test
+793933,1666799,Bank account or service,2015-11-21,a3f69e3d3dbef0c33d00f8f34aacb058e0e0b5eadb08a4207038492b67650fa5,2001,test
+795249,1661068,Debt collection,2015-11-18,8d9ad0f9ae13fcf8f3b657097b505475dd948839dbb046263ee7a320195de81d,1148,test
+796407,1657205,Mortgage,2015-11-16,e24c3e01c37439747031e42d4b9081dbbdc3ba0e124d5223558e36e2fce954fb,1554,test
+796525,1656185,Credit card,2015-11-16,b4bd6fda35ee7ac3cf24388d7737fbed8ef1d91aa2a3965fbb0d6e2e8d1fe3b8,1187,test
+798744,1650517,Bank account or service,2015-11-11,ae1da9907e934b99326c51bab9ce28954103770bff4ce2340d16f4e59c3c3fa5,758,test
+798777,1650506,Mortgage,2015-11-11,6844c559e56bbef255cbb8c1671a59e0a749d55f3adafd0b77ef63cd2dd3ca6d,2177,test
+801635,1642152,Debt collection,2015-11-05,1074e4f746d2da5d7d31a73ff6184fc4880d14f8a4d88d2d7466b1cacf43b8aa,208,test
+801939,1639436,Consumer Loan,2015-11-04,01b7d7c8222e97b895028357ec7d0630d6bf1d844b8fb72d0791dab1ff2332e6,1883,test
+804455,1631843,Credit reporting,2015-10-29,b46e026e01ac11289ddc0a2d60226669696cb3f0b5680bce319cd038fe28ec1a,633,test
+804893,1630749,Prepaid card,2015-10-29,a0b63d2ded8be2a098356ad45f0db4ff086e65eab99d3c896905eaa5d1d85737,704,test
+805926,1627546,Credit reporting,2015-10-27,48c7199c3808eb8aca3becb8225da8cf423fc738108e1eaf8be025cdbc10d19c,38,test
+806035,1626509,Mortgage,2015-10-27,d81913dc51f2dfc585c8a92638d6329f7a93dfa421f3b74f299323bb2099fec4,188,test
+806821,1623555,Prepaid card,2015-10-25,d138b3c308b6d052c60260801d77851cfecbc26ffcff15c1a8b47c2ae4d2e217,222,test
+807283,1621710,Credit card,2015-10-23,469198286a4422fa591ec2baf55b23a559eb6875e2b2cf92083de7d0cdc3eeee,205,test
+809051,1617615,Credit card,2015-10-21,bc905b019274eea7a2b94046e465d46c374e26e2476b2a9586e64f42d453cb03,1120,test
+810097,1613784,Mortgage,2015-10-19,15f7845486cf9dfbeb55d1e22bb32805f5b0eb87e64f89593b555e29c3039aa4,588,test
+810486,1612481,Mortgage,2015-10-18,7188bd32f335dea0b3940686a0c06d199ed0daf71b005cf4c18a053fae42beef,387,test
+810541,1612526,Credit reporting,2015-10-18,8700a6a261d27e548a94a8aeccb9275139fdd3e196a0ba475383d1bff89f894b,494,test
+810584,1612314,Debt collection,2015-10-17,11fa13c1a2087bdee06d55b24f8b078a5412c500611ab4d71d32901a97b39ab8,191,test
+810735,1610620,Mortgage,2015-10-16,c86fc5a4d49775040e6bb17a8656ef9d882bafabf6564de90388027d925aa7f0,2888,test
+813708,1602628,Debt collection,2015-10-11,885d906db419a3f224e45e80dfe888286a7691cabd02c295b05359398d2eba34,3895,test
+815980,1595934,Credit reporting,2015-10-06,cc3bbc708513dbb0050f82b5a5e83648f7cc9af0e1181e58f63c0de6a5e989bc,311,test
+816155,1596153,Debt collection,2015-10-06,dcc5bc6171a1e0224c59980f4a160ddaa5aa07d54e0406546b05000ac4d9fbc5,260,test
+816200,1595732,Student loan,2015-10-06,aebd947fbd6b04daef4da9a48d288f5e689b5d445e90a2871a5ab07d179d7e97,3663,test
+817060,1591812,Debt collection,2015-10-04,3abf7dbefc88a2a80ec446541393881ce1e0afb87f4f4e49d0b87a460dd2d7d9,339,test
+817145,1591556,Credit card,2015-10-03,bc6a95b408c8e971eef206d7fad6d988b0f2eaf90b8360ba9643cccb12fdbdaa,495,test
+817246,1591715,Mortgage,2015-10-03,aac3fd5ea08c9bf47cd23c533aab8aeafed56c57d4cd639b175b654bd08391bb,838,test
+817340,1590016,Consumer Loan,2015-10-02,31f6ced65d848a719f32fed948bd45086ef83fb113bf2ca40230f99b21799530,1638,test
+818027,1589541,Debt collection,2015-10-01,d838e6ff90761f2cdf1984d71b0960492819c19c72b0a393e8b2a0917dcec065,1324,test
+819425,1585296,Credit reporting,2015-09-29,f20d14bcc275ffbf97cac74dee7824891840dd5dc8272b15d014631c057eeec5,46,test
+819856,1582754,Bank account or service,2015-09-28,83745d854bfb9b0ce3992b596e83f4ece6280dfc9b78ef1fc74b3f9cd137c852,1196,test
+820029,1583644,Bank account or service,2015-09-28,21220fd835ac9bc00924972d9d028c904303119ac0675b830c322707f220e391,445,test
+821598,1579486,Mortgage,2015-09-24,641bb5c9a85c771a7198bdf0c2ad0ec294c9fb4b6201c407823fc797fae91f59,2500,test
+821790,1577166,Credit card,2015-09-23,f2bc48e1b85cadf7a97b430fc5661f8cb112e6dadd7379bf32eff158e01773b0,663,test
+821847,1577395,Debt collection,2015-09-23,6ec11c99b56b4a5f2124cbbf8942ad850e5914cac0bab39c04ed9f0768f0edcc,1828,test
+822154,1577770,Credit reporting,2015-09-23,bd04f9087f22e98f316506572648240f918a72fccf4fbeee8b56948cf5081ef1,377,test
+822630,1574511,Mortgage,2015-09-22,78a8e37d509a93d009ce2f2271e2da8e5a30fbf16cfa1c3fc8f79c855aed19aa,439,test
+823381,1571887,Consumer Loan,2015-09-21,669a01861a1a3dd17cd79dfc1493efeb67132be9bb0bb2e9e1be7c4276cf626c,783,test
+824345,1569909,Credit card,2015-09-18,e4d1d9a5babddfe40780722a43d53b319746189cc74740555d68899fa944a486,364,test
+826336,1564110,Mortgage,2015-09-14,825d0b072d953d9b146bddb80583b1459c9fdcb64e40d302a010d45c3eebb9ba,215,test
+827091,1562417,Mortgage,2015-09-12,29b11b01eea078be77c40c270e0f8490b004fd60df720f9fbf1f67b3d04d2e91,283,test
+827203,1562429,Bank account or service,2015-09-12,0905b6ba2b2742262f7780f942e676e449d22637f989f21b34485b126f117257,614,test
+827256,1562391,Mortgage,2015-09-12,9dcf3700baade8ab6bf9bbb7f7a9a67306901c86c72454e7ea24abdebdcea99b,932,test
+829225,1556590,Credit card,2015-09-09,4700de7b4a36828b14f7f8490d2b1a71cb90459a5c4f8604e9b2b97cebbb25ed,85,test
+829582,1555469,Debt collection,2015-09-08,e00a5feedc9c15e6102addfc1946a03982bc788f7392495617c8a1e98d7149ab,147,test
+830358,1553635,Credit card,2015-09-05,5c0f4c532532abbcd9f23a754fde7f916c08b7b471d4caaf509dd9c53d2fc993,1115,test
+830362,1553925,Debt collection,2015-09-05,91c92d5d48ca5fabf3a05005b6a7fb51786183662c74a40b5487953a0fba35f3,533,test
+831981,1548476,Credit card,2015-09-02,00ed9ba4ba0bd9a002bc76a498e8df90281efb35e22774d5c6c1cf93ec4d9daa,385,test
+833206,1544181,Debt collection,2015-08-31,bb6ad56226e18eebf6779534dc8f98d73aa31ac2a9e62060af35a2e20b60634f,1070,test
+833234,1545114,Debt collection,2015-08-31,69625186286910858c34610caa429ccce4fa2218947e3115b322cfa5049dffbf,171,test
+834398,1539051,Mortgage,2015-08-27,c09a998dfe28df9d5b5a22a3bd7b1d1a200cf5ba1062c92b88066402163881ae,876,test
+834663,1540487,Mortgage,2015-08-27,1498b5266abd1e642c92bd5c52882a20172dccd5974405fb0f4a4f396b0d21b7,779,test
+836315,1534670,Mortgage,2015-08-25,68bef590ab833c4dabec7de23ee3b900b433d04f00dee0614745c31d2b2862f5,1491,test
+837663,1531919,Credit reporting,2015-08-23,4d12af707939bd2105b00b13e986f00c1a63388ac4526a71947b490c2a9bdf41,822,test
+838371,1530236,Bank account or service,2015-08-21,8ccdc8b5a09d3d496167284dc293b9de59c88806e7fb3fa34ac4dce233377dc3,322,test
+839190,1526661,Mortgage,2015-08-19,47baf44ee2af5722a7cbe53472c7bf671021297db9e84471c9c835c5864dc77d,794,test
+839311,1525616,Payday loan,2015-08-19,7eec0607a151ed069f1bebb21951e5d70afea9e65e6c2b7bd3d611fb25ba3c25,1962,test
+839424,1527182,Mortgage,2015-08-19,9270eb86492168efedd441dff4358b3a6576c2d4f35f36181e0b267057d8b3de,3880,test
+840747,1522914,Mortgage,2015-08-17,326248c09af70a021e438e056b62fc81faa5c5c0ccf7a16375e466e333139214,966,test
+843542,1512685,Mortgage,2015-08-11,b7d4f0c2029b31ad617e252e3ee514771c77c438b885a477d12e7fd77b2456a7,722,test
+844348,1510242,Credit reporting,2015-08-10,444cccac3170c637a50ffdb5a53034aae89ce51567f026450974c14f696ecec6,503,test
+845320,1506072,Bank account or service,2015-08-06,95e1b09b0993ca4088f6775110963afeb4c9eecf3aadbef277e108487ed5ea26,1373,test
+845966,1505529,Credit card,2015-08-06,49720819a6cb8d0cfe186b95b5873a13c40ba7e1a43b23e2579596a37c3e959f,241,test
+846277,1504421,Money transfers,2015-08-05,61983fde97fab4d83aa5b3419d95ef3d742370c8b1a468ae0800813fb775a327,526,test
+846781,1500811,Credit reporting,2015-08-04,4208d9705ef4085ed14363e80dc1a8e17152ab6b36997f869059a6cb546b6142,73,test
+846856,1500841,Mortgage,2015-08-04,5f14da76b1fec686b0b1e028baa87d003a50fe6db6f00fd01c5933a5f1fcaf88,3726,test
+848301,1498077,Credit reporting,2015-08-01,97e81c8d34be826e7faed97545a3b1894e1f8a9263b1b1f6d7a9902efffcc08a,175,test
+848461,1498069,Credit card,2015-08-01,8b94501ab2653a507bb0e1d9657d1cafff9dd087775425809289a1af50fc22ed,1263,test
+848731,1496184,Debt collection,2015-07-31,2ad5c17e8f30399f63cfc606aff032259c0d76d399dba0c55759d565a65625d3,332,test
+849167,1497481,Debt collection,2015-07-30,f828cd9638c260ec595ab0821b52ed3d574359afa0bdc3f059ca914f7a914040,989,test
+850296,1493279,Mortgage,2015-07-29,970933dbda41a01a0e57165fc5de1b5dded5c62df44045ef1345aabdf214785e,492,test
+850918,1489753,Consumer Loan,2015-07-28,4e3e6868153628c59aebf5cbd0c67bd34e886e81c86cd0b7802d5b7eaa094d78,3440,test
+851840,1486944,Debt collection,2015-07-25,bc43d25324e8ff45d8ad9add91596896906133fe46b85c9f6156d2d763dc0d0c,408,test
+852439,1484860,Credit card,2015-07-24,782cbe66182fe38336f74e6f47d873b9f4f47eb6c033b0a74d0df1c303b29b84,2411,test
+853258,1480682,Money transfers,2015-07-22,92584c2a95a8d7b39f2a0def10c0d0ef83d21100ef9feb94c1f900a5877d1f8b,2303,test
+853377,1481932,Credit reporting,2015-07-22,db0fae383429a481917e60c5bdd799443eaddb4950e3fbc54fec1f320f943b84,424,test
+854256,1479065,Credit reporting,2015-07-21,9b7f9c2ccc6a4c24c0b2ea5c866f2090b6631038484d5f516ecede983b3419d9,1550,test
+854499,1480271,Student loan,2015-07-21,a5cef6710561644a6c618a637a5a2d45b52b6666f060c25dff64827bf94ffaaa,1846,test
+855772,1476983,Debt collection,2015-07-17,5db0e076f184e131739dfdd660e241ba606a545bf88c521b3f77448eb33e0c8b,251,test
+856430,1472555,Debt collection,2015-07-16,231a82aa5f21e25e24f1de3087a9f4f45668e2852486ddd961b971393e4d6e85,112,test
+857811,1466449,Consumer Loan,2015-07-14,c9813e85820f82c354f3d2cc3337720fea69c3b67d0cf18de09f7bc679959b75,39,test
+857837,1467684,Mortgage,2015-07-14,4e29c9da86e295818690c195acf94990a72d2bc9994c549c078d7103778b6793,2149,test
+857981,1467149,Debt collection,2015-07-14,2a9ced6d27989740f8eeb617beec505ebd2a6598fa2886c022f66b1577b7b61c,258,test
+858142,1465881,Credit reporting,2015-07-13,ea8de0829b41caf048fdc96cf44b8f780f02ef4eb8ffdc1212b19ad7b23af13d,2382,test
+859021,1463647,Credit reporting,2015-07-11,3ebc16b7c14e6f1fa6f11205bb03eb08ad1b395b7ebed6352bd22a5807373b07,354,test
+859025,1463485,Prepaid card,2015-07-11,6ff76502c93a87f381f91e833778a7584a15bbb433d85bf449bc3ed568a76703,29,test
+861681,1453932,Credit card,2015-07-07,a9f44fee5062f16263a1b5e76f39686dbec0ef91ddf02541839a639f65fba28b,374,test
+861706,1454726,Money transfers,2015-07-07,a5f83d0fa5ef89775517029122c039e5ae2b961abca832ea9613cb0b1fb2d183,1484,test
+862282,1451726,Debt collection,2015-07-06,e59b819893637d0f4a3c8f1cbafad120f667c91d5ef3d2bc96af3100210afba0,67,test
+866224,1439510,Debt collection,2015-06-26,d8f5185a6c194a8e58f9731b621438f837ae0a7fda9fad3d02a365ad158da364,774,test
+869691,1430456,Credit card,2015-06-19,14bdc99e2851a96f675f1875362b2993366ca752b07dfb361e847852234627ff,520,test
+871880,1421086,Consumer Loan,2015-06-15,b95262631c9c82f5fc8878f7a6b50beedfa3cc230a5b674fcb5b0bca86c59783,479,test
+872878,1419093,Mortgage,2015-06-12,6e47ecbd9342f2394c0144df0222770d84e7265dfcdad585a227bc4163dd5c3b,406,test
+872945,1419013,Credit card,2015-06-12,239c852483c11b826da2e7ab7863e6c3bdafa2fba9091dd9d562b416f0a4ae4f,1854,test
+873744,1417092,Debt collection,2015-06-11,ac45ec3fb859240a620277274fad9ce43b85abf2597b6ca76199d55e42b16ddf,451,test
+874281,1414892,Debt collection,2015-06-10,463cd971563f90cf73028e2c7b0646eaa9b9709f2dae3db52e938a8e934aafdf,136,test
+874636,1413781,Debt collection,2015-06-09,0f8eb7da1402d04d6ac25c83f138914698ae0f7443132f06377c15482047d596,122,test
+875614,1410529,Student loan,2015-06-08,1446d72af216398da08ed1f8a24d3735649d439a403f744e6ca33281d71faa96,231,test
+875649,1409635,Mortgage,2015-06-07,920610d7d152146d3e4d2cec073bce41ee3b4eac87654b4750d53ead97f012fc,567,test
+876412,1408400,Mortgage,2015-06-05,eafe9c74fa9f67e88c1eb959aabc66c024791e04b52b1f586ff6acae1ac72adf,616,test
+876599,1405625,Mortgage,2015-06-04,3aabea8901bdeccacef9186fd290baed7e3fe8e07139a03b33bb6a823b277fb7,3401,test
+876761,1406132,Mortgage,2015-06-04,ed7ce3fd3250b877d7c1cc13baf6c1b910cb4c74596bdac6bbeae30766efd79b,742,test
+876915,1406082,Bank account or service,2015-06-04,90b2728f348002a7b8eeac4d5d7f7ebf591b11c0e8b718a796e845d57e1c25f3,334,test
+877696,1403337,Mortgage,2015-06-03,3523190584174bcf9cd36857eef8781b1f2aa0259c9aebcdb2f35c50e939999e,226,test
+877855,1402856,Mortgage,2015-06-02,2ea0ce872d05c565cce0553208fb2fa3e77467613fdcad01cb460246a270d91a,1245,test
+878957,1399684,Debt collection,2015-05-31,ae1ba1fbced86c914f3f4db178f6362cdc29670b38b67a89d4e9043ca2d5e8ce,93,test
+879478,1398598,Bank account or service,2015-05-29,0e8e8dded4a0b5c72c7abcb07d8971257625d6bddd972c033641ff9e498c43c4,3058,test
+879645,1398012,Credit card,2015-05-29,713de2e0fef0a4fd6899ea8aa0d10939d58680dcd48f8ee484a615e1d6696c3d,660,test
+879964,1396662,Credit reporting,2015-05-28,f6d16b5a68db052f7195e6bf519d4587cb5168f79df5d81479606d7f04dd1161,396,test
+880033,1395625,Consumer Loan,2015-05-28,3f82482ee5df411019aaa30641eb94e17a0f0350c64ecf63e8e89ffd88a86745,358,test
+880805,1393363,Debt collection,2015-05-27,65dcbb8e22550c7cbb31a3b6f28bb9cba3a55047e4492a91cebafd5ff0b724b2,599,test
+881428,1391707,Credit reporting,2015-05-26,a6bab27e395d4323757baedd6b97a3d29e48db04116847c8876c789c61f59480,821,test
+882220,1388769,Bank account or service,2015-05-22,398b8f9b37a225f603357b50823891462172e0a0f35e721c890d632b0dfa6cc6,1390,test
+882469,1388647,Debt collection,2015-05-22,1c1b8558b8a1b9d5e146281f2ecf19dccfe4caf01bd3d60a4ec6011cf60892d2,2435,test
+883168,1387553,Debt collection,2015-05-21,1fac03773da0829fc7ae53810b28fe8b28c392531fc38aeaf1678442e3ca29ee,261,test
+883847,1385936,Debt collection,2015-05-20,c9e771bdc5ecedd83be4f6f732b61cfa08778fb49f32e9776327cf545eb904b9,240,test
+885756,1377276,Bank account or service,2015-05-15,558447db1a98aaf2d27d90ad51b3bc54fd447db762af1cea390dd697e18cbd15,264,test
+886147,1376467,Debt collection,2015-05-14,5b04e9a80554a5f6170cd0a91137931f3528c9c3d75c94c6eca597761b44d685,2782,test
+887174,1373946,Debt collection,2015-05-13,5a26ac09991797636784d72246affb7807c3b75411bc33484a945f6e95707dfa,260,test
+888327,1370420,Payday loan,2015-05-11,c965fb5be1a8c7da362ef22bc40ef75ef4aeb15ac7eff5bab2ca4299c9d29db2,413,test
+889391,1366121,Debt collection,2015-05-07,70eec0dac3190d0664fdc64dd7e96446c214a00d09f4b2a9312fa5a1cff167bd,107,test
+889768,1365219,Debt collection,2015-05-07,5dff23c44237ab0ac42b6a96b81084e3b54bb1e2f135e3fb2c98be7aeb775134,492,test
+891725,1358045,Student loan,2015-05-03,e1ede6584655a21f9436add9c7483c33f08d8198c5655f42fe9470b6ca357dd1,1288,test
+892840,1354595,Mortgage,2015-04-30,106f452cbab3305edcbdc7cb9baa6156fe50cd362bf655b193d924ab82c79bb8,1033,test
+893186,1354146,Mortgage,2015-04-30,42c3f39cdb04c229f33950d4d94eaaa80b4356ce41e19b054389eb2fb0e9e922,218,test
+893756,1352105,Bank account or service,2015-04-29,b7eece5935fbff50d00f8d63ee9a3365c49132ed241e7654df363249dae6ea6d,95,test
+894122,1351305,Mortgage,2015-04-28,9edbd1bc90c69831a8280338959e40f5a66c9f7de14fb66f41cd33de9f9b7136,1743,test
+894921,1348981,Bank account or service,2015-04-27,0d9ffdfc91f40d9213d13917ce643acbd7fd1f0d5baf37e994efeba41677b291,2227,test
+896466,1342658,Bank account or service,2015-04-22,81c4de4463bf0ab4e1cf651d024fdae292cd73078618990699c4411187146d22,2959,test
+896835,1341039,Credit card,2015-04-22,5c8de5deeffab123fb811f618f07b21f6b63d553bd49788e52a1a6877486869e,2355,test
+897318,1340021,Credit reporting,2015-04-21,2754edf25f1ac6c1ff965bb49e5efd3de9f1897958200b981e5ddc883b1b8ddd,282,test
+900112,1332096,Debt collection,2015-04-15,ce1ec36fd6f184dd8adbd0b08349e0dbc68d4f4a1aa35286be88a7552b18ab9f,100,test
+900224,1330532,Credit reporting,2015-04-15,e70860087eb8540952a88da4b41274926de26a602b82e343aebec37bd5915c3a,852,test
+901426,1326349,Credit reporting,2015-04-12,c9a7437d50f4729fdacabc131ca8a9d4548617dc37059320562fe19c787819d4,624,test
+901807,1324365,Credit reporting,2015-04-10,65d811ab777610e33be9ab18da4159e795ffac0f2a37a5671a6091112b9b74df,163,test
+901810,1324786,Mortgage,2015-04-10,d951f42f83320e931d0c8e38eb79d9079e6c3d0686736e943cf7d94e5c812d6f,3240,test
+902169,1325160,Debt collection,2015-04-10,156c9cb90dd3a8c3a78a6a3ff4cd762366880c905fac80a89d9b1fce640edbef,530,test
+904161,1317993,Student loan,2015-04-06,42ef5eedf6dfd629934be3da55c044214641f5145dc121c520b056fc7c64d71b,783,test
+905409,1312699,Debt collection,2015-04-02,f8363ac0d92657582e41c7a744f7373a532dbd043049014524543983c449b4c1,611,test
+905920,1311380,Mortgage,2015-04-01,7b60c575c5e4a172f4a5d166b688c1a6e48b3beae87b583978d1f6cb19cc6dc1,1102,test
+907128,1306485,Debt collection,2015-03-30,5e66c52194eab2ed84b08a823c44292d2a976113ca72f811c1ce9a20787339b5,1181,test
+907614,1306144,Credit reporting,2015-03-29,1063c0812292cc5b0d85f4aec6c4efd0e9737b6827e9582ce54eb7d1c4e692d7,193,test
+907769,1305760,Credit reporting,2015-03-28,2e89f1ddb38ff7714b1e9533193c78085a763a1cd03a607dd5c28fa91bf5042a,3561,test
+908034,1305244,Bank account or service,2015-03-27,f88c1c08fe09a5c0d6f9c6ed8ffe7beb6c7887059ae504d61f4ac4b9c4af2f52,2021,test
+909219,1301091,Mortgage,2015-03-25,bd14e807c4e0399ff61430cf866100491e196bbc8a8befc28c852600fec9e8e1,1371,test
+909635,1300254,Credit reporting,2015-03-25,f858e5b28442bdb88734cfce5589854fea087693dc7f13d04e540039237107c6,3313,test
+909774,1299118,Bank account or service,2015-03-24,eb007903674d1bb1dc0a159d33d858aa8105249fcab50a18356a61af76cc292f,493,test
+910411,1295955,Debt collection,2015-03-23,bdfa730924f136ae58209e3f3f094e267e0e05f418682e36ad32439a9635ed2c,3866,test
+911236,1294526,Credit reporting,2015-03-21,3f8bd1d1f2c4bf1ccf31473beac049b1dead8689314685c6f115bce656f2a365,185,test

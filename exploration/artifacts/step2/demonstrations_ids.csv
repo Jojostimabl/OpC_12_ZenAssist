@@ -1,0 +1,5 @@
+source_record,partition,complaint_id,label
+876441,train,1409191,Credit reporting
+604896,train,2222115,Mortgage
+384209,train,2712844,"Credit reporting, credit repair services, or other personal consumer reports"
+248532,train,2893190,Debt collection

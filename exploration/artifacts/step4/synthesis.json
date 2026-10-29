@@ -1,0 +1,29 @@
+{
+  "analysis_date": "2026-10-28",
+  "measurement_date": "2026-10-19",
+  "recommended_model": "logistic_regression",
+  "candidate": "logistic_regression__balanced",
+  "selection_source": "validation",
+  "accuracy_common": 0.726,
+  "f1_macro_common_17": 0.5566299039900245,
+  "p95_ms": 3.3867299993289635,
+  "wrong_common": 274,
+  "automatic_routing_validated": false,
+  "human_confirmation": true,
+  "pipeline_sha256": "6e116aa07c0f156f0f21639fb6fd9e965c1f0a8730be18fdb53ab148ca8a08c1",
+  "assumptions_sha256": "bc46015c9544dfcb72f0d54c871abb20311ac30641bd4482b1769d4898382387",
+  "external_api_calls": 0,
+  "new_training_runs": 0,
+  "best_llm_f1": {
+    "model": "openai/gpt-6.1-terra",
+    "f1_macro_present": 0.4748110185029681
+  },
+  "best_llm_accuracy": {
+    "model": "openai/gpt-6.1-terra",
+    "accuracy": 0.706
+  },
+  "measurement_dates": {
+    "initial_models": "2026-10-19",
+    "openai/gpt-6.1-terra": "2026-10-28"
+  }
+}

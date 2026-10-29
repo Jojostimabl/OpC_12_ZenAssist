@@ -1,0 +1,64 @@
+{
+  "source": "dataset.csv",
+  "bytes": 639037807,
+  "sha256": "80db47ac8e817bfd1f0588f785a847f03d5f3052f244c0e47bdf8f312e7b52bc",
+  "audit": {
+    "lignes_source": 1282355,
+    "sans_texte": 898791,
+    "identifiant_invalide": 0,
+    "sans_etiquette": 0,
+    "sans_contenu_lexical": 4,
+    "candidats_avec_texte": 383560,
+    "textes_contradictoires": 1924,
+    "doublons_coherents": 17734,
+    "lignes_nettoyees": 363902
+  },
+  "issues": {
+    "dates_reception_invalides_non_vides": 0,
+    "dates_envoi_invalides_non_vides": 0,
+    "envoi_avant_reception": 7052,
+    "valeurs_inattendues_Timely response?": 0,
+    "valeurs_inattendues_Consumer disputed?": 0,
+    "identifiants_dupliques": 0
+  },
+  "received_min": "2011-12-01",
+  "received_max": "2019-05-10",
+  "target": "Tag",
+  "input": "Consumer Claim",
+  "label_mapping": "original_labels_no_merging",
+  "normalization": "Unicode NFC, whitespace; casefold for duplicate fingerprint only",
+  "placeholder_markers": [
+    "n/a",
+    "na",
+    "nan",
+    "no narrative",
+    "none",
+    "not provided",
+    "null"
+  ],
+  "split": {
+    "seed": 42,
+    "ratio": [
+      0.7,
+      0.15,
+      0.15
+    ],
+    "counts": {
+      "train": 254731,
+      "test": 54586,
+      "validation": 54585
+    },
+    "common_test_size": 1000,
+    "common_test_absent_labels": [
+      "Virtual currency"
+    ]
+  },
+  "environment": {
+    "python": "3.13.5",
+    "pandas": "3.0.6",
+    "numpy": "2.5.3",
+    "sklearn": "1.9.1"
+  },
+  "prepared_at_utc": "2026-10-19T16:35:20.237813+00:00",
+  "preparation_code_sha256": "fd72d42fac032cbf292a8a3b36c104525e92aa259f5d683a0076ab164c6f0a3a"
+}

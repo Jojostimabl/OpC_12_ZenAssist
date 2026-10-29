@@ -1,0 +1,20 @@
+,Bank account or service,Checking or savings account,Consumer Loan,Credit card,Credit card or prepaid card,Credit reporting,"Credit reporting, credit repair services, or other personal consumer reports",Debt collection,"Money transfer, virtual currency, or money service",Money transfers,Mortgage,Other financial service,Payday loan,"Payday loan, title loan, or personal loan",Prepaid card,Student loan,Vehicle loan or lease,Virtual currency,__NO_PREDICTION__
+Bank account or service,1356,423,29,98,39,16,11,19,45,37,61,8,2,25,49,3,7,0,0
+Checking or savings account,352,1325,4,6,81,4,4,10,79,3,11,3,4,17,12,2,10,0,0
+Consumer Loan,20,2,719,60,9,45,31,87,4,2,30,0,60,133,0,14,197,0,0
+Credit card,109,16,26,1875,450,83,49,110,11,25,6,0,4,14,19,4,7,0,0
+Credit card or prepaid card,70,123,12,618,1961,28,74,69,54,6,9,1,2,38,90,4,22,0,0
+Credit reporting,14,10,48,69,27,3245,683,236,3,1,56,3,3,15,2,32,17,0,0
+"Credit reporting, credit repair services, or other personal consumer reports",33,70,147,162,380,1944,7232,720,16,4,257,1,21,128,2,240,328,0,0
+Debt collection,66,55,223,246,160,432,559,9835,23,9,195,4,204,180,1,269,134,0,0
+"Money transfer, virtual currency, or money service",11,80,0,7,15,0,2,8,604,65,6,5,3,2,8,2,0,0,0
+Money transfers,18,3,0,2,0,0,0,0,54,139,4,0,0,0,4,0,0,0,0
+Mortgage,79,36,81,28,15,56,47,75,19,3,7334,4,21,79,2,12,48,0,0
+Other financial service,8,2,4,1,1,2,0,4,4,2,3,7,0,1,0,4,0,0,0
+Payday loan,2,1,13,2,1,2,1,26,0,2,2,0,162,46,0,0,1,0,0
+"Payday loan, title loan, or personal loan",8,10,48,7,24,3,14,41,12,1,9,0,68,365,1,14,36,0,0
+Prepaid card,6,2,1,8,15,0,0,1,4,5,0,1,0,0,174,0,0,0,0
+Student loan,6,2,22,11,16,17,41,86,5,0,11,11,11,45,0,2965,17,0,0
+Vehicle loan or lease,3,4,189,2,24,8,34,23,2,1,9,0,1,38,1,1,514,0,0
+Virtual currency,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+__NO_PREDICTION__,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

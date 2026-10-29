@@ -1,0 +1,7 @@
+{
+  "selection_partition": "validation",
+  "metric": "f1_macro_present",
+  "best_model": "logistic_regression",
+  "best_candidate": "logistic_regression__balanced",
+  "test_inspected_during_selection": false
+}

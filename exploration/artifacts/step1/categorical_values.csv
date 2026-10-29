@@ -1,0 +1,94 @@
+colonne,valeur,nombre
+Tag,"Credit reporting, credit repair services, or other personal consumer reports",225978
+Tag,Debt collection,244873
+Tag,Credit card or prepaid card,47653
+Tag,Mortgage,278098
+Tag,Checking or savings account,40641
+Tag,Student loan,51685
+Tag,Vehicle loan or lease,11377
+Tag,"Money transfer, virtual currency, or money service",10164
+Tag,"Payday loan, title loan, or personal loan",8659
+Submitted via,Web,945329
+Submitted via,Referral,173640
+Submitted via,Phone,76509
+Submitted via,Postal mail,67522
+Submitted via,Fax,18972
+Submitted via,Email,383
+Timely response?,Yes,1250162
+Timely response?,No,32193
+Consumer disputed?,,513854
+State,FL,126487
+State,CA,176009
+State,TX,107585
+State,NY,86143
+State,GA,67102
+State,IL,49599
+State,,19400
+State,PA,44131
+State,NJ,47799
+State,NC,39580
+State,OH,38437
+State,VA,37471
+State,MI,30286
+State,MD,36545
+State,LA,15340
+State,MO,18084
+State,AZ,27295
+State,SC,19119
+State,TN,21026
+State,MA,22784
+State,WA,24385
+State,NV,16006
+State,CO,20471
+State,AL,14505
+State,CT,14230
+State,IN,14496
+State,MN,13373
+State,UT,7881
+State,WI,13198
+State,OR,12971
+State,KY,8960
+State,OK,8123
+State,MS,7293
+State,DC,6886
+State,AR,6165
+State,PR,3215
+State,NM,5616
+State,DE,6150
+State,KS,6120
+State,IA,4969
+State,NH,4850
+State,HI,3953
+State,ME,3627
+State,RI,3713
+State,ID,3843
+State,WV,3023
+State,AK,1406
+State,NE,3603
+State,MT,1953
+State,ND,1249
+State,SD,1548
+State,WY,1120
+State,VT,1692
+State,AP,353
+State,GU,188
+State,AE,493
+State,AA,25
+State,VI,230
+State,MP,34
+State,MH,31
+State,UNITED STATES MINOR OUTLYING ISLANDS,31
+State,FM,115
+State,AS,27
+Tag,Credit reporting,140432
+Tag,Credit card,89190
+Tag,Bank account or service,86206
+Tag,Consumer Loan,31605
+Tag,Payday loan,5544
+Tag,Money transfers,5354
+Tag,Prepaid card,3819
+Tag,Other financial service,1059
+Consumer disputed?,No,620123
+Consumer disputed?,Yes,148378
+Tag,Virtual currency,18
+State,PW,13

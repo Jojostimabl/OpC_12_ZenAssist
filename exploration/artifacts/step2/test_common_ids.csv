@@ -1,0 +1,1001 @@
+source_record,partition,complaint_id,label
+911236,test,1294526,Credit reporting
+910411,test,1295955,Debt collection
+909774,test,1299118,Bank account or service
+909635,test,1300254,Credit reporting
+909219,test,1301091,Mortgage
+908034,test,1305244,Bank account or service
+907769,test,1305760,Credit reporting
+907614,test,1306144,Credit reporting
+907128,test,1306485,Debt collection
+905920,test,1311380,Mortgage
+905409,test,1312699,Debt collection
+904161,test,1317993,Student loan
+901807,test,1324365,Credit reporting
+901810,test,1324786,Mortgage
+902169,test,1325160,Debt collection
+901426,test,1326349,Credit reporting
+900224,test,1330532,Credit reporting
+900112,test,1332096,Debt collection
+897318,test,1340021,Credit reporting
+896835,test,1341039,Credit card
+896466,test,1342658,Bank account or service
+894921,test,1348981,Bank account or service
+894122,test,1351305,Mortgage
+893756,test,1352105,Bank account or service
+893186,test,1354146,Mortgage
+892840,test,1354595,Mortgage
+891725,test,1358045,Student loan
+889768,test,1365219,Debt collection
+889391,test,1366121,Debt collection
+888327,test,1370420,Payday loan
+887174,test,1373946,Debt collection
+886147,test,1376467,Debt collection
+885756,test,1377276,Bank account or service
+883847,test,1385936,Debt collection
+883168,test,1387553,Debt collection
+882469,test,1388647,Debt collection
+882220,test,1388769,Bank account or service
+881428,test,1391707,Credit reporting
+880805,test,1393363,Debt collection
+880033,test,1395625,Consumer Loan
+879964,test,1396662,Credit reporting
+879645,test,1398012,Credit card
+879478,test,1398598,Bank account or service
+878957,test,1399684,Debt collection
+877855,test,1402856,Mortgage
+877696,test,1403337,Mortgage
+876599,test,1405625,Mortgage
+876915,test,1406082,Bank account or service
+876761,test,1406132,Mortgage
+876412,test,1408400,Mortgage
+875649,test,1409635,Mortgage
+875614,test,1410529,Student loan
+874636,test,1413781,Debt collection
+874281,test,1414892,Debt collection
+873744,test,1417092,Debt collection
+872945,test,1419013,Credit card
+872878,test,1419093,Mortgage
+871880,test,1421086,Consumer Loan
+869691,test,1430456,Credit card
+866224,test,1439510,Debt collection
+862282,test,1451726,Debt collection
+861681,test,1453932,Credit card
+861706,test,1454726,Money transfers
+859025,test,1463485,Prepaid card
+859021,test,1463647,Credit reporting
+858142,test,1465881,Credit reporting
+857811,test,1466449,Consumer Loan
+857981,test,1467149,Debt collection
+857837,test,1467684,Mortgage
+856430,test,1472555,Debt collection
+855772,test,1476983,Debt collection
+854256,test,1479065,Credit reporting
+854499,test,1480271,Student loan
+853258,test,1480682,Money transfers
+853377,test,1481932,Credit reporting
+852439,test,1484860,Credit card
+851840,test,1486944,Debt collection
+850918,test,1489753,Consumer Loan
+850296,test,1493279,Mortgage
+848731,test,1496184,Debt collection
+849167,test,1497481,Debt collection
+848461,test,1498069,Credit card
+848301,test,1498077,Credit reporting
+846781,test,1500811,Credit reporting
+846856,test,1500841,Mortgage
+846277,test,1504421,Money transfers
+845966,test,1505529,Credit card
+845320,test,1506072,Bank account or service
+844348,test,1510242,Credit reporting
+843542,test,1512685,Mortgage
+840747,test,1522914,Mortgage
+839311,test,1525616,Payday loan
+839190,test,1526661,Mortgage
+839424,test,1527182,Mortgage
+838371,test,1530236,Bank account or service
+837663,test,1531919,Credit reporting
+836315,test,1534670,Mortgage
+834398,test,1539051,Mortgage
+834663,test,1540487,Mortgage
+833206,test,1544181,Debt collection
+833234,test,1545114,Debt collection
+831981,test,1548476,Credit card
+830358,test,1553635,Credit card
+830362,test,1553925,Debt collection
+829582,test,1555469,Debt collection
+829225,test,1556590,Credit card
+827256,test,1562391,Mortgage
+827091,test,1562417,Mortgage
+827203,test,1562429,Bank account or service
+826336,test,1564110,Mortgage
+824345,test,1569909,Credit card
+823381,test,1571887,Consumer Loan
+822630,test,1574511,Mortgage
+821790,test,1577166,Credit card
+821847,test,1577395,Debt collection
+822154,test,1577770,Credit reporting
+821598,test,1579486,Mortgage
+819856,test,1582754,Bank account or service
+820029,test,1583644,Bank account or service
+819425,test,1585296,Credit reporting
+818027,test,1589541,Debt collection
+817340,test,1590016,Consumer Loan
+817145,test,1591556,Credit card
+817246,test,1591715,Mortgage
+817060,test,1591812,Debt collection
+816200,test,1595732,Student loan
+815980,test,1595934,Credit reporting
+816155,test,1596153,Debt collection
+813708,test,1602628,Debt collection
+810735,test,1610620,Mortgage
+810584,test,1612314,Debt collection
+810486,test,1612481,Mortgage
+810541,test,1612526,Credit reporting
+810097,test,1613784,Mortgage
+809051,test,1617615,Credit card
+807283,test,1621710,Credit card
+806821,test,1623555,Prepaid card
+806035,test,1626509,Mortgage
+805926,test,1627546,Credit reporting
+804893,test,1630749,Prepaid card
+804455,test,1631843,Credit reporting
+801939,test,1639436,Consumer Loan
+801635,test,1642152,Debt collection
+798777,test,1650506,Mortgage
+798744,test,1650517,Bank account or service
+796525,test,1656185,Credit card
+796407,test,1657205,Mortgage
+795249,test,1661068,Debt collection
+793933,test,1666799,Bank account or service
+793901,test,1667046,Debt collection
+792794,test,1669900,Bank account or service
+791950,test,1672544,Prepaid card
+790668,test,1676493,Consumer Loan
+790520,test,1678093,Debt collection
+789558,test,1678961,Credit reporting
+788552,test,1682784,Debt collection
+788689,test,1683914,Mortgage
+787938,test,1685611,Mortgage
+786719,test,1689828,Debt collection
+786046,test,1691135,Credit reporting
+785392,test,1693336,Credit card
+784793,test,1695344,Credit card
+784496,test,1695935,Mortgage
+784219,test,1697246,Debt collection
+780461,test,1714281,Mortgage
+779564,test,1718160,Mortgage
+775637,test,1727705,Credit card
+775832,test,1728610,Bank account or service
+776580,test,1728988,Consumer Loan
+769817,test,1747517,Student loan
+769824,test,1748681,Credit card
+767545,test,1755248,Debt collection
+766820,test,1756767,Credit card
+765601,test,1761555,Consumer Loan
+763872,test,1765487,Bank account or service
+762972,test,1767401,Credit reporting
+763818,test,1767703,Credit card
+762437,test,1771215,Credit reporting
+758669,test,1781394,Credit reporting
+757777,test,1785360,Mortgage
+755608,test,1789023,Mortgage
+756316,test,1789243,Mortgage
+756241,test,1789521,Debt collection
+754898,test,1792984,Bank account or service
+754559,test,1794681,Debt collection
+753537,test,1797501,Credit reporting
+753027,test,1798074,Mortgage
+751760,test,1804128,Mortgage
+750796,test,1805774,Bank account or service
+750486,test,1805969,Mortgage
+750746,test,1807034,Mortgage
+749709,test,1810336,Debt collection
+748550,test,1813804,Credit reporting
+747538,test,1816655,Mortgage
+747151,test,1817335,Payday loan
+747413,test,1818113,Debt collection
+747325,test,1818562,Credit reporting
+745154,test,1822437,Credit card
+743879,test,1827894,Bank account or service
+743370,test,1829409,Credit reporting
+742761,test,1829993,Credit card
+743087,test,1830451,Mortgage
+740638,test,1838360,Credit reporting
+739734,test,1840371,Debt collection
+737950,test,1845498,Mortgage
+737085,test,1847040,Credit card
+737785,test,1847136,Mortgage
+736202,test,1850303,Debt collection
+735191,test,1852441,Debt collection
+732354,test,1861470,Debt collection
+732317,test,1861704,Consumer Loan
+731656,test,1863185,Debt collection
+731184,test,1864193,Credit reporting
+728791,test,1872112,Credit reporting
+728619,test,1872438,Debt collection
+726268,test,1879728,Bank account or service
+725061,test,1881943,Bank account or service
+724978,test,1882563,Payday loan
+720802,test,1894320,Mortgage
+720988,test,1895598,Credit reporting
+719626,test,1898488,Bank account or service
+717538,test,1903040,Debt collection
+716488,test,1905909,Debt collection
+717299,test,1906791,Mortgage
+716301,test,1907542,Consumer Loan
+715623,test,1909546,Student loan
+713882,test,1914925,Mortgage
+713440,test,1916677,Debt collection
+711806,test,1921619,Credit reporting
+711458,test,1921886,Mortgage
+711104,test,1922034,Debt collection
+711111,test,1922878,Mortgage
+710046,test,1924859,Debt collection
+710639,test,1925828,Debt collection
+709542,test,1926461,Debt collection
+708355,test,1931713,Payday loan
+706967,test,1935407,Credit reporting
+704926,test,1939528,Credit card
+704733,test,1940808,Credit card
+704300,test,1943017,Consumer Loan
+703230,test,1945269,Credit reporting
+700936,test,1952282,Student loan
+700644,test,1952870,Debt collection
+700512,test,1953368,Credit reporting
+699872,test,1954713,Credit card
+698300,test,1958081,Debt collection
+698314,test,1958621,Debt collection
+697853,test,1960313,Mortgage
+698244,test,1960480,Mortgage
+697081,test,1962525,Bank account or service
+696506,test,1963694,Debt collection
+695048,test,1965904,Mortgage
+693424,test,1972910,Credit reporting
+691724,test,1975193,Mortgage
+687894,test,1989727,Consumer Loan
+684381,test,1998809,Mortgage
+683525,test,2001197,Credit reporting
+683269,test,2001686,Debt collection
+681297,test,2005312,Credit reporting
+681204,test,2006333,Debt collection
+680281,test,2010062,Debt collection
+677675,test,2016532,Bank account or service
+676127,test,2021185,Debt collection
+675287,test,2024231,Mortgage
+672008,test,2032252,Credit reporting
+670969,test,2035733,Student loan
+670608,test,2036231,Bank account or service
+668145,test,2044167,Credit reporting
+664634,test,2054709,Credit card
+664491,test,2056578,Debt collection
+664050,test,2057191,Bank account or service
+662067,test,2062920,Credit card
+661786,test,2062989,Mortgage
+661591,test,2064578,Debt collection
+661057,test,2066350,Debt collection
+659054,test,2070911,Consumer Loan
+659051,test,2072650,Credit reporting
+655958,test,2079062,Mortgage
+655515,test,2079387,Credit reporting
+656538,test,2080511,Mortgage
+655145,test,2081382,Student loan
+655756,test,2082248,Consumer Loan
+654721,test,2084809,Credit card
+653557,test,2086787,Mortgage
+653469,test,2087976,Credit reporting
+652266,test,2090600,Debt collection
+652937,test,2090855,Credit reporting
+652834,test,2090995,Bank account or service
+651686,test,2092755,Credit reporting
+650296,test,2098019,Credit reporting
+648051,test,2104006,Debt collection
+646748,test,2106274,Consumer Loan
+647001,test,2107040,Bank account or service
+644985,test,2109799,Debt collection
+645350,test,2112008,Credit reporting
+645405,test,2112727,Mortgage
+641661,test,2118380,Debt collection
+641121,test,2124747,Student loan
+638974,test,2130153,Bank account or service
+638853,test,2130425,Mortgage
+636243,test,2134545,Credit reporting
+635731,test,2139120,Bank account or service
+632732,test,2146174,Consumer Loan
+632104,test,2147086,Credit reporting
+632040,test,2147110,Credit reporting
+630972,test,2147247,Credit card
+630353,test,2149492,Debt collection
+630963,test,2150556,Mortgage
+630163,test,2152410,Credit reporting
+628922,test,2153679,Credit reporting
+629012,test,2154464,Money transfers
+628389,test,2157683,Consumer Loan
+625493,test,2164779,Credit reporting
+624421,test,2165449,Credit card
+624042,test,2166258,Bank account or service
+624919,test,2166419,Debt collection
+624250,test,2166588,Debt collection
+622220,test,2170703,Bank account or service
+621940,test,2174159,Bank account or service
+619862,test,2178377,Credit card
+620808,test,2178503,Credit reporting
+618904,test,2182443,Debt collection
+618023,test,2182602,Mortgage
+618611,test,2183179,Student loan
+618095,test,2183362,Other financial service
+617316,test,2186887,Mortgage
+616922,test,2187244,Bank account or service
+616599,test,2189806,Credit card
+612982,test,2198923,Student loan
+612964,test,2199354,Consumer Loan
+611662,test,2202119,Credit reporting
+610774,test,2205135,Debt collection
+610083,test,2206136,Debt collection
+609790,test,2206764,Debt collection
+609426,test,2207285,Credit card
+608727,test,2211067,Mortgage
+607383,test,2213977,Debt collection
+606313,test,2216323,Credit reporting
+606403,test,2216809,Student loan
+605884,test,2217643,Credit card
+605770,test,2218239,Credit reporting
+603657,test,2224202,Credit card
+603284,test,2224495,Mortgage
+603166,test,2224736,Credit reporting
+601249,test,2228641,Mortgage
+601164,test,2229734,Debt collection
+601437,test,2230675,Mortgage
+600009,test,2234364,Debt collection
+600157,test,2234404,Credit card
+598449,test,2237779,Debt collection
+596529,test,2242482,Consumer Loan
+594755,test,2248041,Mortgage
+593860,test,2250987,Debt collection
+592891,test,2252503,Credit reporting
+592307,test,2254723,Debt collection
+590323,test,2259828,Credit card
+588859,test,2263785,Mortgage
+588470,test,2264253,Mortgage
+588629,test,2265512,Credit reporting
+587489,test,2266628,Mortgage
+587314,test,2267090,Consumer Loan
+586087,test,2271310,Credit reporting
+585549,test,2272411,Consumer Loan
+582873,test,2278441,Credit card
+583410,test,2278845,Bank account or service
+581609,test,2281195,Debt collection
+580814,test,2283163,Debt collection
+580264,test,2287638,Debt collection
+579546,test,2288368,Debt collection
+578891,test,2289817,Credit card
+577788,test,2291775,Credit reporting
+577970,test,2292545,Mortgage
+578118,test,2292833,Credit reporting
+576537,test,2293270,Student loan
+577440,test,2295638,Credit reporting
+574974,test,2295779,Student loan
+575270,test,2297823,Student loan
+573154,test,2299363,Student loan
+573575,test,2299662,Student loan
+573786,test,2299768,Student loan
+573301,test,2299827,Credit card
+574085,test,2300004,Mortgage
+574675,test,2301260,Consumer Loan
+572228,test,2303606,Student loan
+571135,test,2305781,Debt collection
+570741,test,2306799,Bank account or service
+570842,test,2308900,Mortgage
+569470,test,2310149,Credit card
+568850,test,2310693,Consumer Loan
+567379,test,2312769,Debt collection
+566899,test,2316723,Debt collection
+566621,test,2318771,Debt collection
+564009,test,2325138,Credit reporting
+563458,test,2326973,Debt collection
+560101,test,2334419,Debt collection
+556325,test,2341932,Debt collection
+551676,test,2351336,Consumer Loan
+552397,test,2351625,Mortgage
+552801,test,2352338,Debt collection
+551593,test,2352579,Student loan
+549795,test,2360538,Bank account or service
+547914,test,2364111,Debt collection
+546335,test,2366088,Credit reporting
+546672,test,2366225,Credit reporting
+546163,test,2368562,Debt collection
+545048,test,2370263,Credit card
+545298,test,2370880,Debt collection
+542178,test,2377503,Credit reporting
+539605,test,2383599,Credit reporting
+537706,test,2386136,Debt collection
+536593,test,2390215,Credit card
+536880,test,2390513,Mortgage
+536812,test,2392509,Mortgage
+534529,test,2396277,Mortgage
+532524,test,2400859,Bank account or service
+531324,test,2403918,Debt collection
+530439,test,2407173,Credit reporting
+527060,test,2414025,Mortgage
+528050,test,2414432,Student loan
+527234,test,2414831,Debt collection
+525395,test,2418124,Mortgage
+525598,test,2418311,Credit reporting
+525064,test,2421120,Credit reporting
+524551,test,2421866,Mortgage
+524156,test,2421964,Credit card
+523890,test,2422640,Credit reporting
+524095,test,2423690,Student loan
+523374,test,2425123,Debt collection
+522728,test,2426316,Student loan
+520556,test,2429719,Debt collection
+519992,test,2432276,Credit card
+517878,test,2437158,Credit reporting
+517432,test,2437616,Credit card
+517745,test,2437617,Credit reporting
+517793,test,2439172,Credit card
+516238,test,2441536,Student loan
+516027,test,2443518,Mortgage
+516040,test,2443773,Credit reporting
+511801,test,2467124,Debt collection
+508829,test,2471016,"Credit reporting, credit repair services, or other personal consumer reports"
+508787,test,2472024,Mortgage
+506357,test,2473558,Mortgage
+506655,test,2474031,Debt collection
+505930,test,2475109,Checking or savings account
+504655,test,2475646,Vehicle loan or lease
+505238,test,2476841,Debt collection
+504598,test,2477305,"Credit reporting, credit repair services, or other personal consumer reports"
+504339,test,2477702,Debt collection
+501941,test,2481351,Credit card or prepaid card
+501944,test,2481361,Debt collection
+501133,test,2482007,"Credit reporting, credit repair services, or other personal consumer reports"
+501532,test,2482187,Mortgage
+501034,test,2482470,"Credit reporting, credit repair services, or other personal consumer reports"
+498976,test,2485426,"Credit reporting, credit repair services, or other personal consumer reports"
+497175,test,2486322,Mortgage
+497022,test,2488150,Debt collection
+497018,test,2488403,Debt collection
+494496,test,2491311,"Money transfer, virtual currency, or money service"
+494225,test,2491660,"Credit reporting, credit repair services, or other personal consumer reports"
+492624,test,2493766,Checking or savings account
+491312,test,2495933,Checking or savings account
+491417,test,2495979,"Credit reporting, credit repair services, or other personal consumer reports"
+491340,test,2496037,Student loan
+490518,test,2496743,Student loan
+490843,test,2497201,Credit card or prepaid card
+490123,test,2498096,"Credit reporting, credit repair services, or other personal consumer reports"
+488548,test,2500078,Student loan
+487381,test,2502179,Debt collection
+485180,test,2505130,"Credit reporting, credit repair services, or other personal consumer reports"
+486417,test,2540713,Debt collection
+484026,test,2541786,"Credit reporting, credit repair services, or other personal consumer reports"
+484514,test,2542255,Debt collection
+483711,test,2545082,"Credit reporting, credit repair services, or other personal consumer reports"
+487048,test,2548231,Checking or savings account
+479478,test,2548862,"Credit reporting, credit repair services, or other personal consumer reports"
+486572,test,2552305,"Credit reporting, credit repair services, or other personal consumer reports"
+485116,test,2553244,Mortgage
+476773,test,2554856,"Credit reporting, credit repair services, or other personal consumer reports"
+477334,test,2555800,Vehicle loan or lease
+476139,test,2556295,Debt collection
+475742,test,2557125,Debt collection
+475701,test,2557186,Student loan
+475465,test,2557722,"Credit reporting, credit repair services, or other personal consumer reports"
+474818,test,2558216,"Credit reporting, credit repair services, or other personal consumer reports"
+474146,test,2559294,"Money transfer, virtual currency, or money service"
+473253,test,2559461,Checking or savings account
+473415,test,2560126,Checking or savings account
+472177,test,2561721,"Credit reporting, credit repair services, or other personal consumer reports"
+471696,test,2562457,Credit card or prepaid card
+470855,test,2562973,"Credit reporting, credit repair services, or other personal consumer reports"
+470816,test,2563657,Mortgage
+469181,test,2565371,"Credit reporting, credit repair services, or other personal consumer reports"
+467565,test,2568244,"Credit reporting, credit repair services, or other personal consumer reports"
+467178,test,2568271,Debt collection
+466955,test,2568801,Debt collection
+466183,test,2569353,Debt collection
+465487,test,2570423,Checking or savings account
+466164,test,2570461,Credit card or prepaid card
+463808,test,2573841,Mortgage
+458568,test,2578353,Student loan
+459706,test,2578494,"Credit reporting, credit repair services, or other personal consumer reports"
+459582,test,2579359,Debt collection
+457384,test,2581352,"Credit reporting, credit repair services, or other personal consumer reports"
+457326,test,2581783,"Credit reporting, credit repair services, or other personal consumer reports"
+457256,test,2581888,Mortgage
+456806,test,2582102,Mortgage
+455786,test,2582958,"Credit reporting, credit repair services, or other personal consumer reports"
+455922,test,2583104,Vehicle loan or lease
+456075,test,2583326,"Credit reporting, credit repair services, or other personal consumer reports"
+454707,test,2584237,Credit card or prepaid card
+453807,test,2585713,Debt collection
+454366,test,2586367,Vehicle loan or lease
+451841,test,2588210,Mortgage
+450791,test,2590348,"Credit reporting, credit repair services, or other personal consumer reports"
+448671,test,2592363,"Credit reporting, credit repair services, or other personal consumer reports"
+449187,test,2592984,"Credit reporting, credit repair services, or other personal consumer reports"
+448687,test,2593387,Debt collection
+447244,test,2595805,"Credit reporting, credit repair services, or other personal consumer reports"
+445432,test,2597033,"Credit reporting, credit repair services, or other personal consumer reports"
+443529,test,2601298,Credit card or prepaid card
+442277,test,2602100,Debt collection
+441025,test,2603972,Vehicle loan or lease
+438195,test,2607690,Mortgage
+436981,test,2612384,"Credit reporting, credit repair services, or other personal consumer reports"
+437028,test,2624462,"Credit reporting, credit repair services, or other personal consumer reports"
+443681,test,2626379,"Credit reporting, credit repair services, or other personal consumer reports"
+439178,test,2630778,"Credit reporting, credit repair services, or other personal consumer reports"
+439479,test,2630785,Credit card or prepaid card
+439769,test,2630938,Mortgage
+438710,test,2633594,Mortgage
+438447,test,2634256,Debt collection
+435655,test,2644476,"Credit reporting, credit repair services, or other personal consumer reports"
+434271,test,2645579,Credit card or prepaid card
+435716,test,2645833,Mortgage
+436603,test,2646286,"Credit reporting, credit repair services, or other personal consumer reports"
+435063,test,2647998,Student loan
+433645,test,2649339,"Credit reporting, credit repair services, or other personal consumer reports"
+432456,test,2651641,"Credit reporting, credit repair services, or other personal consumer reports"
+431891,test,2652075,"Credit reporting, credit repair services, or other personal consumer reports"
+432126,test,2652081,"Credit reporting, credit repair services, or other personal consumer reports"
+432032,test,2652231,Mortgage
+432060,test,2652432,Mortgage
+430748,test,2653011,Checking or savings account
+431272,test,2653078,Student loan
+430730,test,2653756,"Credit reporting, credit repair services, or other personal consumer reports"
+429963,test,2653961,"Money transfer, virtual currency, or money service"
+429204,test,2655184,Student loan
+429443,test,2656161,"Credit reporting, credit repair services, or other personal consumer reports"
+426610,test,2659202,Student loan
+421289,test,2660304,"Credit reporting, credit repair services, or other personal consumer reports"
+418978,test,2662600,Debt collection
+423191,test,2662767,Debt collection
+424028,test,2662920,Student loan
+423728,test,2663370,"Credit reporting, credit repair services, or other personal consumer reports"
+423690,test,2663412,"Credit reporting, credit repair services, or other personal consumer reports"
+418279,test,2663451,Credit card or prepaid card
+421484,test,2665094,"Credit reporting, credit repair services, or other personal consumer reports"
+425221,test,2667433,Credit card or prepaid card
+418408,test,2667530,Credit card or prepaid card
+423049,test,2667585,"Credit reporting, credit repair services, or other personal consumer reports"
+420122,test,2668307,"Credit reporting, credit repair services, or other personal consumer reports"
+421187,test,2668846,"Credit reporting, credit repair services, or other personal consumer reports"
+416411,test,2670344,Mortgage
+416818,test,2670579,Debt collection
+415347,test,2671830,"Credit reporting, credit repair services, or other personal consumer reports"
+413724,test,2673189,"Credit reporting, credit repair services, or other personal consumer reports"
+413987,test,2673233,"Credit reporting, credit repair services, or other personal consumer reports"
+413995,test,2673518,"Credit reporting, credit repair services, or other personal consumer reports"
+413173,test,2674237,"Credit reporting, credit repair services, or other personal consumer reports"
+412536,test,2675075,"Credit reporting, credit repair services, or other personal consumer reports"
+413234,test,2675276,"Credit reporting, credit repair services, or other personal consumer reports"
+413010,test,2675605,"Credit reporting, credit repair services, or other personal consumer reports"
+412334,test,2675948,Credit card or prepaid card
+410017,test,2677902,"Credit reporting, credit repair services, or other personal consumer reports"
+409501,test,2679529,Vehicle loan or lease
+405885,test,2683674,Checking or savings account
+403543,test,2686242,Mortgage
+404205,test,2686614,Credit card or prepaid card
+402741,test,2688025,Vehicle loan or lease
+402632,test,2688540,Debt collection
+400718,test,2689846,"Credit reporting, credit repair services, or other personal consumer reports"
+401644,test,2689876,Student loan
+399999,test,2690933,"Credit reporting, credit repair services, or other personal consumer reports"
+400523,test,2691158,"Credit reporting, credit repair services, or other personal consumer reports"
+400470,test,2692204,"Credit reporting, credit repair services, or other personal consumer reports"
+397661,test,2694904,"Credit reporting, credit repair services, or other personal consumer reports"
+396996,test,2695949,"Credit reporting, credit repair services, or other personal consumer reports"
+396358,test,2697061,Mortgage
+396266,test,2697234,"Credit reporting, credit repair services, or other personal consumer reports"
+395425,test,2697990,Student loan
+394739,test,2698393,"Credit reporting, credit repair services, or other personal consumer reports"
+394621,test,2698952,"Credit reporting, credit repair services, or other personal consumer reports"
+392996,test,2701299,"Credit reporting, credit repair services, or other personal consumer reports"
+392848,test,2701693,Debt collection
+392443,test,2702423,Vehicle loan or lease
+390754,test,2703830,"Credit reporting, credit repair services, or other personal consumer reports"
+391055,test,2704592,"Credit reporting, credit repair services, or other personal consumer reports"
+390143,test,2704651,"Credit reporting, credit repair services, or other personal consumer reports"
+389821,test,2705962,"Credit reporting, credit repair services, or other personal consumer reports"
+388209,test,2707227,Credit card or prepaid card
+387748,test,2708951,"Credit reporting, credit repair services, or other personal consumer reports"
+385808,test,2711079,Debt collection
+385934,test,2711116,"Credit reporting, credit repair services, or other personal consumer reports"
+384700,test,2712799,Debt collection
+383180,test,2714173,Student loan
+383592,test,2714407,Credit card or prepaid card
+383912,test,2714430,Debt collection
+382902,test,2715103,"Credit reporting, credit repair services, or other personal consumer reports"
+382106,test,2716045,"Credit reporting, credit repair services, or other personal consumer reports"
+381281,test,2717042,Vehicle loan or lease
+380992,test,2718085,Credit card or prepaid card
+380846,test,2718239,Credit card or prepaid card
+379974,test,2719446,Mortgage
+379592,test,2720263,Debt collection
+377099,test,2722422,Credit card or prepaid card
+375452,test,2723921,Debt collection
+374922,test,2724942,Credit card or prepaid card
+375875,test,2725456,Student loan
+374841,test,2726147,Debt collection
+374354,test,2726585,"Payday loan, title loan, or personal loan"
+373971,test,2727161,"Credit reporting, credit repair services, or other personal consumer reports"
+371785,test,2729599,Credit card or prepaid card
+371633,test,2730181,Checking or savings account
+370902,test,2731426,Debt collection
+370170,test,2731739,Debt collection
+369542,test,2732569,"Credit reporting, credit repair services, or other personal consumer reports"
+370253,test,2732891,Student loan
+367685,test,2735155,"Payday loan, title loan, or personal loan"
+367305,test,2735918,"Payday loan, title loan, or personal loan"
+367062,test,2735941,Student loan
+365889,test,2737508,Checking or savings account
+366249,test,2737653,Credit card or prepaid card
+364965,test,2739997,Debt collection
+362066,test,2742766,"Credit reporting, credit repair services, or other personal consumer reports"
+361934,test,2743397,"Credit reporting, credit repair services, or other personal consumer reports"
+360950,test,2744160,Debt collection
+360936,test,2744233,"Credit reporting, credit repair services, or other personal consumer reports"
+362263,test,2744416,"Credit reporting, credit repair services, or other personal consumer reports"
+360982,test,2744820,Credit card or prepaid card
+361524,test,2745283,Mortgage
+361933,test,2745432,Debt collection
+359503,test,2745593,"Credit reporting, credit repair services, or other personal consumer reports"
+360872,test,2745723,Debt collection
+357637,test,2748957,Credit card or prepaid card
+357548,test,2749784,Debt collection
+357135,test,2750251,"Credit reporting, credit repair services, or other personal consumer reports"
+356565,test,2750676,Credit card or prepaid card
+354878,test,2753750,Credit card or prepaid card
+353281,test,2755155,"Credit reporting, credit repair services, or other personal consumer reports"
+353482,test,2755849,"Credit reporting, credit repair services, or other personal consumer reports"
+352590,test,2756390,Credit card or prepaid card
+349401,test,2760420,Student loan
+348948,test,2761075,Mortgage
+347366,test,2763190,Credit card or prepaid card
+347087,test,2763602,"Credit reporting, credit repair services, or other personal consumer reports"
+346499,test,2764310,"Payday loan, title loan, or personal loan"
+345353,test,2766014,Vehicle loan or lease
+344497,test,2767438,"Credit reporting, credit repair services, or other personal consumer reports"
+343310,test,2768135,Checking or savings account
+339748,test,2772161,Student loan
+340237,test,2772323,Debt collection
+341145,test,2772396,Debt collection
+339518,test,2773639,"Money transfer, virtual currency, or money service"
+339263,test,2773901,Debt collection
+338848,test,2774522,Credit card or prepaid card
+338044,test,2774910,"Credit reporting, credit repair services, or other personal consumer reports"
+336944,test,2775309,"Credit reporting, credit repair services, or other personal consumer reports"
+337297,test,2776395,Debt collection
+334424,test,2779023,Mortgage
+333893,test,2779781,Debt collection
+334238,test,2780449,Debt collection
+332806,test,2781559,"Credit reporting, credit repair services, or other personal consumer reports"
+330910,test,2784888,"Credit reporting, credit repair services, or other personal consumer reports"
+327631,test,2789674,Credit card or prepaid card
+327542,test,2789857,Debt collection
+326985,test,2789905,"Credit reporting, credit repair services, or other personal consumer reports"
+326555,test,2790556,"Credit reporting, credit repair services, or other personal consumer reports"
+325519,test,2791756,"Money transfer, virtual currency, or money service"
+325142,test,2794152,Credit card or prepaid card
+323633,test,2795077,Debt collection
+322839,test,2796119,Credit card or prepaid card
+322680,test,2796328,"Money transfer, virtual currency, or money service"
+320977,test,2798053,"Credit reporting, credit repair services, or other personal consumer reports"
+321248,test,2798458,"Money transfer, virtual currency, or money service"
+319720,test,2799626,Mortgage
+319434,test,2799998,"Credit reporting, credit repair services, or other personal consumer reports"
+319149,test,2800953,Mortgage
+317763,test,2802978,"Credit reporting, credit repair services, or other personal consumer reports"
+317323,test,2803494,Credit card or prepaid card
+314930,test,2806661,Student loan
+315036,test,2806692,Credit card or prepaid card
+315027,test,2806726,Debt collection
+314251,test,2807484,Mortgage
+313899,test,2808377,"Credit reporting, credit repair services, or other personal consumer reports"
+313597,test,2808386,"Credit reporting, credit repair services, or other personal consumer reports"
+310364,test,2810465,"Credit reporting, credit repair services, or other personal consumer reports"
+312324,test,2811040,Vehicle loan or lease
+311662,test,2811182,"Credit reporting, credit repair services, or other personal consumer reports"
+312314,test,2811379,Mortgage
+309987,test,2812449,Checking or savings account
+309886,test,2813031,Mortgage
+309041,test,2814066,Credit card or prepaid card
+308628,test,2814401,Debt collection
+301509,test,2824133,"Credit reporting, credit repair services, or other personal consumer reports"
+299784,test,2826204,"Credit reporting, credit repair services, or other personal consumer reports"
+299851,test,2826481,"Credit reporting, credit repair services, or other personal consumer reports"
+298004,test,2828453,Mortgage
+298440,test,2828941,Mortgage
+297018,test,2829792,Mortgage
+296592,test,2831427,"Credit reporting, credit repair services, or other personal consumer reports"
+296657,test,2831431,"Credit reporting, credit repair services, or other personal consumer reports"
+295500,test,2832804,"Money transfer, virtual currency, or money service"
+292334,test,2836574,Debt collection
+290520,test,2838902,"Credit reporting, credit repair services, or other personal consumer reports"
+289080,test,2840016,"Credit reporting, credit repair services, or other personal consumer reports"
+288029,test,2842242,Student loan
+286351,test,2843709,"Credit reporting, credit repair services, or other personal consumer reports"
+286791,test,2843982,Debt collection
+286186,test,2844085,"Credit reporting, credit repair services, or other personal consumer reports"
+285472,test,2845388,"Credit reporting, credit repair services, or other personal consumer reports"
+284591,test,2846721,"Credit reporting, credit repair services, or other personal consumer reports"
+284206,test,2846871,"Credit reporting, credit repair services, or other personal consumer reports"
+284110,test,2847776,Debt collection
+283085,test,2848563,"Credit reporting, credit repair services, or other personal consumer reports"
+282160,test,2849009,Debt collection
+281823,test,2849018,Credit card or prepaid card
+282098,test,2849126,Debt collection
+281755,test,2850417,"Credit reporting, credit repair services, or other personal consumer reports"
+281703,test,2850498,Credit card or prepaid card
+281184,test,2852293,Mortgage
+279216,test,2853528,"Credit reporting, credit repair services, or other personal consumer reports"
+279054,test,2853664,Debt collection
+278577,test,2853978,Debt collection
+276541,test,2856844,"Credit reporting, credit repair services, or other personal consumer reports"
+277441,test,2856899,Mortgage
+276150,test,2856970,Mortgage
+274981,test,2859741,"Credit reporting, credit repair services, or other personal consumer reports"
+274724,test,2859909,Debt collection
+274851,test,2860013,"Money transfer, virtual currency, or money service"
+274499,test,2860170,Checking or savings account
+273893,test,2861021,Credit card or prepaid card
+273193,test,2861748,Checking or savings account
+271798,test,2862506,"Money transfer, virtual currency, or money service"
+271763,test,2863149,"Credit reporting, credit repair services, or other personal consumer reports"
+272358,test,2863227,Debt collection
+271398,test,2863741,Vehicle loan or lease
+270372,test,2865310,"Credit reporting, credit repair services, or other personal consumer reports"
+270439,test,2865403,Credit card or prepaid card
+270066,test,2865533,"Credit reporting, credit repair services, or other personal consumer reports"
+269629,test,2865657,Credit card or prepaid card
+269584,test,2866292,"Credit reporting, credit repair services, or other personal consumer reports"
+268009,test,2867480,"Money transfer, virtual currency, or money service"
+267477,test,2868274,Student loan
+266436,test,2869413,"Credit reporting, credit repair services, or other personal consumer reports"
+265941,test,2869830,Checking or savings account
+262539,test,2874007,Credit card or prepaid card
+262832,test,2874917,Student loan
+261735,test,2875576,"Money transfer, virtual currency, or money service"
+261690,test,2875913,Mortgage
+261893,test,2875965,Student loan
+261634,test,2876026,Debt collection
+260070,test,2877663,"Credit reporting, credit repair services, or other personal consumer reports"
+258932,test,2878910,"Credit reporting, credit repair services, or other personal consumer reports"
+258476,test,2880044,Debt collection
+257450,test,2882366,Debt collection
+254044,test,2884517,"Credit reporting, credit repair services, or other personal consumer reports"
+254475,test,2885367,"Credit reporting, credit repair services, or other personal consumer reports"
+252169,test,2888285,Debt collection
+250931,test,2890282,"Credit reporting, credit repair services, or other personal consumer reports"
+250912,test,2890559,Credit card or prepaid card
+249881,test,2890995,Credit card or prepaid card
+249645,test,2891749,"Payday loan, title loan, or personal loan"
+249424,test,2892201,Debt collection
+249181,test,2892544,Mortgage
+248825,test,2893271,"Credit reporting, credit repair services, or other personal consumer reports"
+248816,test,2893509,Debt collection
+247813,test,2894843,"Credit reporting, credit repair services, or other personal consumer reports"
+243208,test,2901748,Checking or savings account
+239702,test,2905222,"Credit reporting, credit repair services, or other personal consumer reports"
+239982,test,2906288,Debt collection
+239212,test,2906355,Mortgage
+237162,test,2908837,"Credit reporting, credit repair services, or other personal consumer reports"
+236972,test,2910141,Debt collection
+237061,test,2910295,Vehicle loan or lease
+234498,test,2913103,Credit card or prepaid card
+233836,test,2913473,Debt collection
+232362,test,2915802,Credit card or prepaid card
+231742,test,2916296,Vehicle loan or lease
+231953,test,2917257,Debt collection
+230778,test,2918054,"Credit reporting, credit repair services, or other personal consumer reports"
+229534,test,2919868,"Credit reporting, credit repair services, or other personal consumer reports"
+229013,test,2920765,Debt collection
+229735,test,2920972,Debt collection
+225704,test,2925738,Debt collection
+224547,test,2927406,"Credit reporting, credit repair services, or other personal consumer reports"
+222386,test,2929358,Debt collection
+221181,test,2931279,"Money transfer, virtual currency, or money service"
+221089,test,2931940,Checking or savings account
+219473,test,2933328,Debt collection
+219568,test,2933577,Mortgage
+219255,test,2933693,Debt collection
+219965,test,2934120,Student loan
+218644,test,2934902,Checking or savings account
+218296,test,2935319,Mortgage
+216762,test,2936987,"Credit reporting, credit repair services, or other personal consumer reports"
+216553,test,2938190,"Credit reporting, credit repair services, or other personal consumer reports"
+216098,test,2938823,Debt collection
+213093,test,2942579,"Credit reporting, credit repair services, or other personal consumer reports"
+211797,test,2944370,Mortgage
+210814,test,2945722,"Credit reporting, credit repair services, or other personal consumer reports"
+210503,test,2947037,Debt collection
+210198,test,2947055,Debt collection
+208400,test,2949141,"Credit reporting, credit repair services, or other personal consumer reports"
+207175,test,2950223,"Credit reporting, credit repair services, or other personal consumer reports"
+206482,test,2950779,Mortgage
+206178,test,2951326,Debt collection
+206620,test,2951769,"Credit reporting, credit repair services, or other personal consumer reports"
+205587,test,2951953,"Credit reporting, credit repair services, or other personal consumer reports"
+200876,test,2959288,"Credit reporting, credit repair services, or other personal consumer reports"
+201128,test,2959354,Checking or savings account
+199176,test,2961313,Debt collection
+198681,test,2962490,"Credit reporting, credit repair services, or other personal consumer reports"
+196929,test,2963679,Debt collection
+196200,test,2965141,Checking or savings account
+196029,test,2965501,Mortgage
+196414,test,2965745,Student loan
+195301,test,2965820,Debt collection
+194397,test,2966950,Debt collection
+194719,test,2967387,"Credit reporting, credit repair services, or other personal consumer reports"
+193116,test,2969169,"Credit reporting, credit repair services, or other personal consumer reports"
+192505,test,2970075,Credit card or prepaid card
+191506,test,2970445,"Credit reporting, credit repair services, or other personal consumer reports"
+192093,test,2970971,Debt collection
+188696,test,2975533,Debt collection
+187770,test,2977116,"Credit reporting, credit repair services, or other personal consumer reports"
+184487,test,2980155,Checking or savings account
+184700,test,2980894,Mortgage
+185061,test,2980922,Debt collection
+184650,test,2981228,Mortgage
+183529,test,2981747,Debt collection
+182941,test,2982227,Debt collection
+183575,test,2982752,Debt collection
+181156,test,2984334,Credit card or prepaid card
+181913,test,2984471,Checking or savings account
+181503,test,2984878,Credit card or prepaid card
+182009,test,2985086,Debt collection
+178643,test,2988918,Debt collection
+178515,test,2989074,"Credit reporting, credit repair services, or other personal consumer reports"
+178316,test,2989152,Credit card or prepaid card
+177465,test,2990321,"Credit reporting, credit repair services, or other personal consumer reports"
+175754,test,2991914,"Credit reporting, credit repair services, or other personal consumer reports"
+175838,test,2992049,"Money transfer, virtual currency, or money service"
+173836,test,2995214,Checking or savings account
+173697,test,2995327,Debt collection
+173316,test,2995645,"Credit reporting, credit repair services, or other personal consumer reports"
+172639,test,2995901,Debt collection
+172718,test,2995903,"Credit reporting, credit repair services, or other personal consumer reports"
+171684,test,2997960,Checking or savings account
+170705,test,2998589,"Credit reporting, credit repair services, or other personal consumer reports"
+171176,test,2998764,Debt collection
+170952,test,2999333,Debt collection
+170997,test,2999560,Debt collection
+170226,test,3000520,"Credit reporting, credit repair services, or other personal consumer reports"
+169764,test,3001349,"Credit reporting, credit repair services, or other personal consumer reports"
+169253,test,3001489,Mortgage
+168598,test,3001960,"Credit reporting, credit repair services, or other personal consumer reports"
+167341,test,3004444,Debt collection
+166459,test,3005013,Checking or savings account
+166735,test,3005627,Credit card or prepaid card
+165728,test,3006551,"Credit reporting, credit repair services, or other personal consumer reports"
+163921,test,3007094,"Credit reporting, credit repair services, or other personal consumer reports"
+164362,test,3007982,"Credit reporting, credit repair services, or other personal consumer reports"
+164236,test,3008649,Debt collection
+163299,test,3010101,Checking or savings account
+163419,test,3010467,"Credit reporting, credit repair services, or other personal consumer reports"
+160428,test,3013473,Student loan
+160172,test,3013798,"Credit reporting, credit repair services, or other personal consumer reports"
+159647,test,3013984,Debt collection
+158511,test,3015672,"Credit reporting, credit repair services, or other personal consumer reports"
+153376,test,3022242,"Credit reporting, credit repair services, or other personal consumer reports"
+153925,test,3022695,Mortgage
+153521,test,3022812,Checking or savings account
+153294,test,3022874,"Credit reporting, credit repair services, or other personal consumer reports"
+152603,test,3023307,Credit card or prepaid card
+153119,test,3023544,"Credit reporting, credit repair services, or other personal consumer reports"
+151491,test,3024716,Mortgage
+150136,test,3026809,"Credit reporting, credit repair services, or other personal consumer reports"
+150258,test,3026889,Debt collection
+147526,test,3029598,Checking or savings account
+147437,test,3031067,"Credit reporting, credit repair services, or other personal consumer reports"
+146403,test,3031780,"Credit reporting, credit repair services, or other personal consumer reports"
+143129,test,3036926,Checking or savings account
+142194,test,3037158,Student loan
+141141,test,3039163,Checking or savings account
+140708,test,3039456,"Money transfer, virtual currency, or money service"
+140659,test,3039483,Mortgage
+140147,test,3039677,"Payday loan, title loan, or personal loan"
+139213,test,3041720,Debt collection
+138847,test,3042079,"Credit reporting, credit repair services, or other personal consumer reports"
+137694,test,3043304,Credit card or prepaid card
+137561,test,3043421,"Credit reporting, credit repair services, or other personal consumer reports"
+137577,test,3043501,"Credit reporting, credit repair services, or other personal consumer reports"
+137915,test,3043810,Debt collection
+138204,test,3043841,"Credit reporting, credit repair services, or other personal consumer reports"
+136377,test,3045436,Debt collection
+135539,test,3045831,Credit card or prepaid card
+134394,test,3047418,Credit card or prepaid card
+135177,test,3047890,Student loan
+130784,test,3053078,Vehicle loan or lease
+129138,test,3053691,"Credit reporting, credit repair services, or other personal consumer reports"
+129611,test,3054161,"Credit reporting, credit repair services, or other personal consumer reports"
+129396,test,3054473,Debt collection
+129767,test,3054679,Student loan
+128372,test,3055868,Debt collection
+127234,test,3057906,"Credit reporting, credit repair services, or other personal consumer reports"
+126664,test,3058054,Credit card or prepaid card
+125723,test,3059236,Mortgage
+125292,test,3059722,"Payday loan, title loan, or personal loan"
+124258,test,3061435,"Credit reporting, credit repair services, or other personal consumer reports"
+123639,test,3062187,"Credit reporting, credit repair services, or other personal consumer reports"
+124202,test,3062332,Mortgage
+123292,test,3062500,"Credit reporting, credit repair services, or other personal consumer reports"
+123373,test,3062884,"Credit reporting, credit repair services, or other personal consumer reports"
+122073,test,3063721,"Payday loan, title loan, or personal loan"
+121010,test,3065271,Debt collection
+120532,test,3065561,"Credit reporting, credit repair services, or other personal consumer reports"
+120060,test,3066648,"Credit reporting, credit repair services, or other personal consumer reports"
+120353,test,3066838,"Credit reporting, credit repair services, or other personal consumer reports"
+119373,test,3068002,"Payday loan, title loan, or personal loan"
+117488,test,3070408,Debt collection
+115309,test,3073046,"Credit reporting, credit repair services, or other personal consumer reports"
+115232,test,3074506,Checking or savings account
+113146,test,3076377,"Credit reporting, credit repair services, or other personal consumer reports"
+113279,test,3076926,"Credit reporting, credit repair services, or other personal consumer reports"
+110729,test,3079683,Debt collection
+109640,test,3081670,Credit card or prepaid card
+108935,test,3081813,"Credit reporting, credit repair services, or other personal consumer reports"
+108925,test,3082208,Debt collection
+108666,test,3082355,Debt collection
+107485,test,3084137,"Credit reporting, credit repair services, or other personal consumer reports"
+107414,test,3084154,"Credit reporting, credit repair services, or other personal consumer reports"
+106318,test,3085016,"Credit reporting, credit repair services, or other personal consumer reports"
+106325,test,3085979,Checking or savings account
+105537,test,3086601,Checking or savings account
+103962,test,3089069,"Credit reporting, credit repair services, or other personal consumer reports"
+100292,test,3093780,Debt collection
+100287,test,3094334,Checking or savings account
+99666,test,3095146,Debt collection
+98949,test,3097669,Debt collection
+97516,test,3098559,Debt collection
+96907,test,3098574,Debt collection
+96450,test,3099029,Student loan
+95629,test,3100826,"Credit reporting, credit repair services, or other personal consumer reports"
+94977,test,3101164,"Credit reporting, credit repair services, or other personal consumer reports"
+93156,test,3103082,Credit card or prepaid card
+92669,test,3105500,Mortgage
+91929,test,3105774,"Credit reporting, credit repair services, or other personal consumer reports"
+91508,test,3106478,"Credit reporting, credit repair services, or other personal consumer reports"
+90878,test,3106752,"Credit reporting, credit repair services, or other personal consumer reports"
+90655,test,3107512,Credit card or prepaid card
+89700,test,3108587,"Credit reporting, credit repair services, or other personal consumer reports"
+87238,test,3111473,"Credit reporting, credit repair services, or other personal consumer reports"
+86958,test,3112411,Student loan
+86582,test,3113061,Debt collection
+83747,test,3116153,"Payday loan, title loan, or personal loan"
+83961,test,3116837,Credit card or prepaid card
+83181,test,3117155,"Credit reporting, credit repair services, or other personal consumer reports"
+82935,test,3117933,Mortgage
+81167,test,3120960,Mortgage
+80297,test,3121453,Debt collection
+80023,test,3121807,"Credit reporting, credit repair services, or other personal consumer reports"
+80358,test,3121879,Debt collection
+79032,test,3123121,"Credit reporting, credit repair services, or other personal consumer reports"
+76992,test,3125861,"Credit reporting, credit repair services, or other personal consumer reports"
+74903,test,3128186,Debt collection
+74730,test,3129060,Debt collection
+71283,test,3133615,Mortgage
+70847,test,3133909,"Credit reporting, credit repair services, or other personal consumer reports"
+69996,test,3135218,"Credit reporting, credit repair services, or other personal consumer reports"
+69077,test,3136784,"Credit reporting, credit repair services, or other personal consumer reports"
+67488,test,3138487,"Payday loan, title loan, or personal loan"
+67233,test,3138593,"Payday loan, title loan, or personal loan"
+66984,test,3139093,Student loan
+66193,test,3139508,"Credit reporting, credit repair services, or other personal consumer reports"
+66480,test,3139633,"Credit reporting, credit repair services, or other personal consumer reports"
+66351,test,3140013,Debt collection
+64955,test,3141937,Student loan
+64826,test,3142011,"Credit reporting, credit repair services, or other personal consumer reports"
+63138,test,3144860,"Credit reporting, credit repair services, or other personal consumer reports"
+62302,test,3145374,Debt collection
+62510,test,3146111,"Credit reporting, credit repair services, or other personal consumer reports"
+61546,test,3146903,Debt collection
+60956,test,3147293,"Credit reporting, credit repair services, or other personal consumer reports"
+60262,test,3149319,"Credit reporting, credit repair services, or other personal consumer reports"
+57786,test,3151172,Student loan
+56414,test,3153390,Vehicle loan or lease
+54427,test,3156201,"Credit reporting, credit repair services, or other personal consumer reports"
+51969,test,3159921,Debt collection
+44688,test,3169400,Debt collection
+44409,test,3169543,Mortgage

@@ -1,0 +1,1001 @@
+complaint_id,n_chars,prediction,response_ms,status,erreur_type,expected,model
+1294526,185,Credit reporting,13.616500014904886,valide,,Credit reporting,logistic_regression
+1295955,3866,Consumer Loan,3.492100047878921,valide,,Debt collection,logistic_regression
+1299118,493,Bank account or service,1.7293999553658068,valide,,Bank account or service,logistic_regression
+1300254,3313,Consumer Loan,3.194799995981157,valide,,Credit reporting,logistic_regression
+1301091,1371,Mortgage,2.2769999923184514,valide,,Mortgage,logistic_regression
+1305244,2021,Bank account or service,3.0740000074729323,valide,,Bank account or service,logistic_regression
+1305760,3561,Credit reporting,3.342400013934821,valide,,Credit reporting,logistic_regression
+1306144,193,Credit reporting,1.8893000087700784,valide,,Credit reporting,logistic_regression
+1306485,1181,Debt collection,1.990600023418665,valide,,Debt collection,logistic_regression
+1311380,1102,Mortgage,1.9289000192657113,valide,,Mortgage,logistic_regression
+1312699,611,Debt collection,2.212999970652163,valide,,Debt collection,logistic_regression
+1317993,783,Student loan,2.3748999810777605,valide,,Student loan,logistic_regression
+1324365,163,Credit reporting,1.2478000135160983,valide,,Credit reporting,logistic_regression
+1324786,3240,Mortgage,2.8516000020317733,valide,,Mortgage,logistic_regression
+1325160,530,Debt collection,1.6597999492660165,valide,,Debt collection,logistic_regression
+1326349,624,Credit reporting,1.669999968726188,valide,,Credit reporting,logistic_regression
+1330532,852,Credit reporting,1.6199999954551458,valide,,Credit reporting,logistic_regression
+1332096,100,Debt collection,1.339100010227412,valide,,Debt collection,logistic_regression
+1340021,282,Credit reporting,1.593999972101301,valide,,Credit reporting,logistic_regression
+1341039,2355,Credit card,2.902599982917309,valide,,Credit card,logistic_regression
+1342658,2959,"Money transfer, virtual currency, or money service",2.812499995343387,valide,,Bank account or service,logistic_regression
+1348981,2227,Bank account or service,2.378600009251386,valide,,Bank account or service,logistic_regression
+1351305,1743,Mortgage,2.306499984115362,valide,,Mortgage,logistic_regression
+1352105,95,Credit card or prepaid card,1.4090999611653388,valide,,Bank account or service,logistic_regression
+1354146,218,Mortgage,1.4589999918825924,valide,,Mortgage,logistic_regression
+1354595,1033,Mortgage,1.824999984819442,valide,,Mortgage,logistic_regression
+1358045,1288,Student loan,1.9688999745994806,valide,,Student loan,logistic_regression
+1365219,492,Mortgage,1.5227000112645328,valide,,Debt collection,logistic_regression
+1366121,107,Debt collection,1.911899948026985,valide,,Debt collection,logistic_regression
+1370420,413,Payday loan,2.715700014960021,valide,,Payday loan,logistic_regression
+1373946,260,Debt collection,1.3543999521061778,valide,,Debt collection,logistic_regression
+1376467,2782,Debt collection,2.758299990091473,valide,,Debt collection,logistic_regression
+1377276,264,Checking or savings account,1.4961999841034412,valide,,Bank account or service,logistic_regression
+1385936,240,Credit reporting,1.3262000284157693,valide,,Debt collection,logistic_regression
+1387553,261,Debt collection,2.0233000395819545,valide,,Debt collection,logistic_regression
+1388647,2435,Debt collection,4.072500043548644,valide,,Debt collection,logistic_regression
+1388769,1390,Bank account or service,2.83880002098158,valide,,Bank account or service,logistic_regression
+1391707,821,Credit reporting,2.3027000133879483,valide,,Credit reporting,logistic_regression
+1393363,599,Debt collection,2.8852999676018953,valide,,Debt collection,logistic_regression
+1395625,358,Consumer Loan,4.33219998376444,valide,,Consumer Loan,logistic_regression
+1396662,396,Debt collection,2.4707000120542943,valide,,Credit reporting,logistic_regression
+1398012,660,Credit card,1.965500006917864,valide,,Credit card,logistic_regression
+1398598,3058,Bank account or service,2.954700030386448,valide,,Bank account or service,logistic_regression
+1399684,93,Mortgage,1.4356000465340912,valide,,Debt collection,logistic_regression
+1402856,1245,Mortgage,1.9481999916024506,valide,,Mortgage,logistic_regression
+1403337,226,Mortgage,1.331100007519126,valide,,Mortgage,logistic_regression
+1405625,3401,Mortgage,3.930300008505583,valide,,Mortgage,logistic_regression
+1406082,334,Money transfers,3.5028000129386783,valide,,Bank account or service,logistic_regression
+1406132,742,Mortgage,1.9667999586090446,valide,,Mortgage,logistic_regression
+1408400,616,Mortgage,2.4012000067159534,valide,,Mortgage,logistic_regression
+1409635,567,Mortgage,2.101200050674379,valide,,Mortgage,logistic_regression
+1410529,231,Student loan,2.090300025884062,valide,,Student loan,logistic_regression
+1413781,122,Debt collection,1.7621000297367573,valide,,Debt collection,logistic_regression
+1414892,136,Debt collection,1.3457000022754073,valide,,Debt collection,logistic_regression
+1417092,451,Debt collection,1.4155000098980963,valide,,Debt collection,logistic_regression
+1419013,1854,Credit card,2.8252999763935804,valide,,Credit card,logistic_regression
+1419093,406,Other financial service,2.2243999992497265,valide,,Mortgage,logistic_regression
+1421086,479,Consumer Loan,3.7542000063695014,valide,,Consumer Loan,logistic_regression
+1430456,520,Credit card,1.5846999594941735,valide,,Credit card,logistic_regression
+1439510,774,Debt collection,1.7382000223733485,valide,,Debt collection,logistic_regression
+1451726,67,Debt collection,1.4375000027939677,valide,,Debt collection,logistic_regression
+1453932,374,Credit card,1.5613000141456723,valide,,Credit card,logistic_regression
+1454726,1484,Credit card,2.0672999671660364,valide,,Money transfers,logistic_regression
+1463485,29,Debt collection,1.2115000281482935,valide,,Prepaid card,logistic_regression
+1463647,354,Credit reporting,3.2949999440461397,valide,,Credit reporting,logistic_regression
+1465881,2382,Credit reporting,2.8958000475540757,valide,,Credit reporting,logistic_regression
+1466449,39,Credit reporting,1.3643000274896622,valide,,Consumer Loan,logistic_regression
+1467149,258,Debt collection,1.628900005016476,valide,,Debt collection,logistic_regression
+1467684,2149,Mortgage,2.453099994454533,valide,,Mortgage,logistic_regression
+1472555,112,Debt collection,1.2709000147879124,valide,,Debt collection,logistic_regression
+1476983,251,Debt collection,1.2665000394918025,valide,,Debt collection,logistic_regression
+1479065,1550,Credit reporting,1.9734999514184892,valide,,Credit reporting,logistic_regression
+1480271,1846,Student loan,2.1115000126883388,valide,,Student loan,logistic_regression
+1480682,2303,Money transfers,2.451699983794242,valide,,Money transfers,logistic_regression
+1481932,424,Credit reporting,2.083999977912754,valide,,Credit reporting,logistic_regression
+1484860,2411,Credit card,2.646000008098781,valide,,Credit card,logistic_regression
+1486944,408,Debt collection,2.103600010741502,valide,,Debt collection,logistic_regression
+1489753,3440,Consumer Loan,3.288300009444356,valide,,Consumer Loan,logistic_regression
+1493279,492,Mortgage,1.7198999994434416,valide,,Mortgage,logistic_regression
+1496184,332,Debt collection,1.8061999580822885,valide,,Debt collection,logistic_regression
+1497481,989,Debt collection,2.368199988268316,valide,,Debt collection,logistic_regression
+1498069,1263,Credit card,2.670800022315234,valide,,Credit card,logistic_regression
+1498077,175,Credit reporting,1.7048000008799136,valide,,Credit reporting,logistic_regression
+1500811,73,Debt collection,1.5864999732002616,valide,,Credit reporting,logistic_regression
+1500841,3726,Mortgage,3.4002999891526997,valide,,Mortgage,logistic_regression
+1504421,526,"Money transfer, virtual currency, or money service",3.760599996894598,valide,,Money transfers,logistic_regression
+1505529,241,Credit reporting,1.6756000113673508,valide,,Credit card,logistic_regression
+1506072,1373,Bank account or service,2.409899956546724,valide,,Bank account or service,logistic_regression
+1510242,503,Debt collection,1.9953000009991229,valide,,Credit reporting,logistic_regression
+1512685,722,Mortgage,1.761999970767647,valide,,Mortgage,logistic_regression
+1522914,966,Mortgage,1.8763999687507749,valide,,Mortgage,logistic_regression
+1525616,1962,Debt collection,2.4636000161990523,valide,,Payday loan,logistic_regression
+1526661,794,Mortgage,1.7940999823622406,valide,,Mortgage,logistic_regression
+1527182,3880,Mortgage,3.314600035082549,valide,,Mortgage,logistic_regression
+1530236,322,Bank account or service,1.6898000030778348,valide,,Bank account or service,logistic_regression
+1531919,822,Credit reporting,2.0758999744430184,valide,,Credit reporting,logistic_regression
+1534670,1491,Mortgage,4.263100039679557,valide,,Mortgage,logistic_regression
+1539051,876,Mortgage,1.9136000191792846,valide,,Mortgage,logistic_regression
+1540487,779,Mortgage,1.8215999589301646,valide,,Mortgage,logistic_regression
+1544181,1070,Credit card,1.8721999949775636,valide,,Debt collection,logistic_regression
+1545114,171,Student loan,1.5178999747149646,valide,,Debt collection,logistic_regression
+1548476,385,Credit card,1.4635000261478126,valide,,Credit card,logistic_regression
+1553635,1115,Credit card,1.7305000219494104,valide,,Credit card,logistic_regression
+1553925,533,Debt collection,3.0101999873295426,valide,,Debt collection,logistic_regression
+1555469,147,Debt collection,1.500300015322864,valide,,Debt collection,logistic_regression
+1556590,85,Credit reporting,1.5490000369027257,valide,,Credit card,logistic_regression
+1562391,932,Consumer Loan,1.6547000268474221,valide,,Mortgage,logistic_regression
+1562417,283,Mortgage,1.324000011663884,valide,,Mortgage,logistic_regression
+1562429,614,Checking or savings account,1.5213999431580305,valide,,Bank account or service,logistic_regression
+1564110,215,Checking or savings account,1.2183000217191875,valide,,Mortgage,logistic_regression
+1569909,364,Credit card,2.140299999155104,valide,,Credit card,logistic_regression
+1571887,783,Vehicle loan or lease,1.407100004144013,valide,,Consumer Loan,logistic_regression
+1574511,439,Mortgage,2.519399975426495,valide,,Mortgage,logistic_regression
+1577166,663,Credit card,1.1617999989539385,valide,,Credit card,logistic_regression
+1577395,1828,"Credit reporting, credit repair services, or other personal consumer reports",2.5056999875232577,valide,,Debt collection,logistic_regression
+1577770,377,Credit reporting,1.5628999681212008,valide,,Credit reporting,logistic_regression
+1579486,2500,Mortgage,2.6865999680012465,valide,,Mortgage,logistic_regression
+1582754,1196,Checking or savings account,1.7961999983526766,valide,,Bank account or service,logistic_regression
+1583644,445,Bank account or service,1.4184999745339155,valide,,Bank account or service,logistic_regression
+1585296,46,Credit reporting,1.1036999640055,valide,,Credit reporting,logistic_regression
+1589541,1324,Debt collection,1.8654000014066696,valide,,Debt collection,logistic_regression
+1590016,1638,Consumer Loan,2.0659000147134066,valide,,Consumer Loan,logistic_regression
+1591556,495,Money transfers,1.5645999810658395,valide,,Credit card,logistic_regression
+1591715,838,Mortgage,1.5762000111863017,valide,,Mortgage,logistic_regression
+1591812,339,Vehicle loan or lease,1.6047999961301684,valide,,Debt collection,logistic_regression
+1595732,3663,Student loan,3.1462000333704054,valide,,Student loan,logistic_regression
+1595934,311,Credit reporting,2.0955000072717667,valide,,Credit reporting,logistic_regression
+1596153,260,Debt collection,1.5076000127010047,valide,,Debt collection,logistic_regression
+1602628,3895,Bank account or service,4.877100000157952,valide,,Debt collection,logistic_regression
+1610620,2888,Mortgage,3.98710003355518,valide,,Mortgage,logistic_regression
+1612314,191,Debt collection,1.6252999776042998,valide,,Debt collection,logistic_regression
+1612481,387,Mortgage,1.7231000238098204,valide,,Mortgage,logistic_regression
+1612526,494,Credit reporting,1.944800023920834,valide,,Credit reporting,logistic_regression
+1613784,588,Mortgage,1.485199958551675,valide,,Mortgage,logistic_regression
+1617615,1120,"Credit reporting, credit repair services, or other personal consumer reports",2.1087999921292067,valide,,Credit card,logistic_regression
+1621710,205,Bank account or service,4.068699956405908,valide,,Credit card,logistic_regression
+1623555,222,Prepaid card,1.7021999810822308,valide,,Prepaid card,logistic_regression
+1626509,188,Mortgage,1.5792999765835702,valide,,Mortgage,logistic_regression
+1627546,38,Debt collection,1.3568000285886228,valide,,Credit reporting,logistic_regression
+1630749,704,Prepaid card,1.7648999928496778,valide,,Prepaid card,logistic_regression
+1631843,633,Bank account or service,1.902199990581721,valide,,Credit reporting,logistic_regression
+1639436,1883,Consumer Loan,2.3574999650008976,valide,,Consumer Loan,logistic_regression
+1642152,208,Debt collection,1.6174999764189124,valide,,Debt collection,logistic_regression
+1650506,2177,Mortgage,2.822800015565008,valide,,Mortgage,logistic_regression
+1650517,758,Checking or savings account,1.7838000203482807,valide,,Bank account or service,logistic_regression
+1656185,1187,Credit card,2.038199978414923,valide,,Credit card,logistic_regression
+1657205,1554,Mortgage,2.0339000038802624,valide,,Mortgage,logistic_regression
+1661068,1148,Debt collection,1.9591999589465559,valide,,Debt collection,logistic_regression
+1666799,2001,Bank account or service,2.616100013256073,valide,,Bank account or service,logistic_regression
+1667046,238,Debt collection,1.539599965326488,valide,,Debt collection,logistic_regression
+1669900,3067,Mortgage,2.5658999802544713,valide,,Bank account or service,logistic_regression
+1672544,1982,Prepaid card,2.2536999895237386,valide,,Prepaid card,logistic_regression
+1676493,1370,Vehicle loan or lease,2.101199992466718,valide,,Consumer Loan,logistic_regression
+1678093,708,Debt collection,1.6821000026538968,valide,,Debt collection,logistic_regression
+1678961,1027,Credit card,1.8848999752663076,valide,,Credit reporting,logistic_regression
+1682784,493,Debt collection,2.0539999823085964,valide,,Debt collection,logistic_regression
+1683914,2854,Mortgage,2.700700017157942,valide,,Mortgage,logistic_regression
+1685611,1262,Mortgage,1.822599966544658,valide,,Mortgage,logistic_regression
+1689828,566,Debt collection,1.5980000025592744,valide,,Debt collection,logistic_regression
+1691135,468,Credit reporting,1.7037999932654202,valide,,Credit reporting,logistic_regression
+1693336,1232,Credit card,2.5753999943844974,valide,,Credit card,logistic_regression
+1695344,176,Credit card,1.5304000116884708,valide,,Credit card,logistic_regression
+1695935,3166,Mortgage,3.106500022113323,valide,,Mortgage,logistic_regression
+1697246,3036,Bank account or service,2.820199995767325,valide,,Debt collection,logistic_regression
+1714281,1772,Mortgage,2.1191000123508275,valide,,Mortgage,logistic_regression
+1718160,1770,Mortgage,2.0478999940678477,valide,,Mortgage,logistic_regression
+1727705,1133,Credit card or prepaid card,2.0044000120833516,valide,,Credit card,logistic_regression
+1728610,81,Checking or savings account,1.394100021570921,valide,,Bank account or service,logistic_regression
+1728988,324,"Payday loan, title loan, or personal loan",1.4069000026211143,valide,,Consumer Loan,logistic_regression
+1747517,719,Student loan,1.6459000180475414,valide,,Student loan,logistic_regression
+1748681,412,Credit card,1.444399997126311,valide,,Credit card,logistic_regression
+1755248,492,Student loan,1.4408000279217958,valide,,Debt collection,logistic_regression
+1756767,1198,Credit card,1.7605000175535679,valide,,Credit card,logistic_regression
+1761555,217,Consumer Loan,1.1631000088527799,valide,,Consumer Loan,logistic_regression
+1765487,3034,Prepaid card,2.9756000149063766,valide,,Bank account or service,logistic_regression
+1767401,640,Credit reporting,1.6054000006988645,valide,,Credit reporting,logistic_regression
+1767703,396,Credit card,1.5296000055968761,valide,,Credit card,logistic_regression
+1771215,495,Credit reporting,1.1891000322066247,valide,,Credit reporting,logistic_regression
+1781394,1275,Credit reporting,1.4258999726735055,valide,,Credit reporting,logistic_regression
+1785360,1774,Mortgage,1.7066000145860016,valide,,Mortgage,logistic_regression
+1789023,2742,Mortgage,3.0741000082343817,valide,,Mortgage,logistic_regression
+1789243,2993,Mortgage,3.069500031415373,valide,,Mortgage,logistic_regression
+1789521,533,Debt collection,1.5044000465422869,valide,,Debt collection,logistic_regression
+1792984,3921,Checking or savings account,3.1779000419192016,valide,,Bank account or service,logistic_regression
+1794681,1947,Debt collection,2.3418000200763345,valide,,Debt collection,logistic_regression
+1797501,813,Credit reporting,1.7653999966569245,valide,,Credit reporting,logistic_regression
+1798074,1028,Mortgage,1.8628999823704362,valide,,Mortgage,logistic_regression
+1804128,3165,Mortgage,3.2934999908320606,valide,,Mortgage,logistic_regression
+1805774,1520,Bank account or service,2.3941999534144998,valide,,Bank account or service,logistic_regression
+1805969,3462,Mortgage,3.2736000139266253,valide,,Mortgage,logistic_regression
+1807034,503,Mortgage,1.4525000005960464,valide,,Mortgage,logistic_regression
+1810336,209,Debt collection,1.3914000010117888,valide,,Debt collection,logistic_regression
+1813804,667,Credit reporting,1.3590999878942966,valide,,Credit reporting,logistic_regression
+1816655,489,Mortgage,1.596100046299398,valide,,Mortgage,logistic_regression
+1817335,1775,"Payday loan, title loan, or personal loan",2.5112999719567597,valide,,Payday loan,logistic_regression
+1818113,165,Debt collection,1.6344999894499779,valide,,Debt collection,logistic_regression
+1818562,893,Credit reporting,1.8121000030077994,valide,,Credit reporting,logistic_regression
+1822437,572,Credit card or prepaid card,1.5335000352934003,valide,,Credit card,logistic_regression
+1827894,360,Checking or savings account,1.5941999736241996,valide,,Bank account or service,logistic_regression
+1829409,538,Credit reporting,1.5792999765835702,valide,,Credit reporting,logistic_regression
+1829993,462,Credit card,1.512099988758564,valide,,Credit card,logistic_regression
+1830451,2364,Mortgage,2.561400004196912,valide,,Mortgage,logistic_regression
+1838360,237,Credit reporting,1.547000021673739,valide,,Credit reporting,logistic_regression
+1840371,767,Debt collection,1.8342999974265695,valide,,Debt collection,logistic_regression
+1845498,2730,Mortgage,2.9714000411331654,valide,,Mortgage,logistic_regression
+1847040,730,Credit card or prepaid card,1.8981999601237476,valide,,Credit card,logistic_regression
+1847136,413,Checking or savings account,1.5253000310622156,valide,,Mortgage,logistic_regression
+1850303,387,Debt collection,1.4414999750442803,valide,,Debt collection,logistic_regression
+1852441,2324,Debt collection,2.4812999763526022,valide,,Debt collection,logistic_regression
+1861470,214,Debt collection,1.360399997793138,valide,,Debt collection,logistic_regression
+1861704,430,Credit card,1.1257000151090324,valide,,Consumer Loan,logistic_regression
+1863185,220,Debt collection,0.9551999974064529,valide,,Debt collection,logistic_regression
+1864193,718,Credit reporting,5.071800027508289,valide,,Credit reporting,logistic_regression
+1872112,423,Credit reporting,1.4991999487392604,valide,,Credit reporting,logistic_regression
+1872438,1012,Debt collection,1.7255000420846045,valide,,Debt collection,logistic_regression
+1879728,1156,Money transfers,1.8226000247523189,valide,,Bank account or service,logistic_regression
+1881943,684,Checking or savings account,1.3744999887421727,valide,,Bank account or service,logistic_regression
+1882563,245,"Payday loan, title loan, or personal loan",1.2312000035308301,valide,,Payday loan,logistic_regression
+1894320,619,Mortgage,1.3919000048190355,valide,,Mortgage,logistic_regression
+1895598,455,Credit reporting,1.624500029720366,valide,,Credit reporting,logistic_regression
+1898488,375,Credit reporting,1.197699981275946,valide,,Bank account or service,logistic_regression
+1903040,2280,Debt collection,2.2173000033944845,valide,,Debt collection,logistic_regression
+1905909,1700,Student loan,2.215299988165498,valide,,Debt collection,logistic_regression
+1906791,1795,Mortgage,1.6059000045061111,valide,,Mortgage,logistic_regression
+1907542,1338,Consumer Loan,1.2885000323876739,valide,,Consumer Loan,logistic_regression
+1909546,1303,Student loan,1.2305999989621341,valide,,Student loan,logistic_regression
+1914925,1082,Mortgage,1.6126999980770051,valide,,Mortgage,logistic_regression
+1916677,618,Debt collection,1.5961999888531864,valide,,Debt collection,logistic_regression
+1921619,2503,Credit reporting,2.3406000109389424,valide,,Credit reporting,logistic_regression
+1921886,245,Mortgage,1.9358000135980546,valide,,Mortgage,logistic_regression
+1922034,75,Debt collection,1.3738000416196883,valide,,Debt collection,logistic_regression
+1922878,1030,Mortgage,1.7367000109516084,valide,,Mortgage,logistic_regression
+1924859,373,Debt collection,1.3970999862067401,valide,,Debt collection,logistic_regression
+1925828,94,Debt collection,1.1896000360138714,valide,,Debt collection,logistic_regression
+1926461,443,Debt collection,1.2885999749414623,valide,,Debt collection,logistic_regression
+1931713,102,Payday loan,1.1169000063091516,valide,,Payday loan,logistic_regression
+1935407,468,Credit reporting,1.2571999686770141,valide,,Credit reporting,logistic_regression
+1939528,136,Credit card,1.0442000348120928,valide,,Credit card,logistic_regression
+1940808,777,Credit card,1.4528000028803945,valide,,Credit card,logistic_regression
+1943017,310,Consumer Loan,1.2008000048808753,valide,,Consumer Loan,logistic_regression
+1945269,369,Credit reporting,1.7137000104412436,valide,,Credit reporting,logistic_regression
+1952282,91,Debt collection,1.582800003234297,valide,,Student loan,logistic_regression
+1952870,877,Debt collection,1.6683999565429986,valide,,Debt collection,logistic_regression
+1953368,139,Credit reporting,1.6394000267609954,valide,,Credit reporting,logistic_regression
+1954713,1453,Credit card,2.3939000093378127,valide,,Credit card,logistic_regression
+1958081,259,Debt collection,1.3916000025346875,valide,,Debt collection,logistic_regression
+1958621,519,Debt collection,1.519499986898154,valide,,Debt collection,logistic_regression
+1960313,2506,Mortgage,2.377700002398342,valide,,Mortgage,logistic_regression
+1960480,618,Mortgage,1.6189999878406525,valide,,Mortgage,logistic_regression
+1962525,2124,Bank account or service,2.330699993763119,valide,,Bank account or service,logistic_regression
+1963694,3188,Payday loan,3.3790000015869737,valide,,Debt collection,logistic_regression
+1965904,3908,Mortgage,3.242799954023212,valide,,Mortgage,logistic_regression
+1972910,1588,Credit reporting,1.9532999722287059,valide,,Credit reporting,logistic_regression
+1975193,1460,Mortgage,2.766299992799759,valide,,Mortgage,logistic_regression
+1989727,545,Payday loan,1.852200017310679,valide,,Consumer Loan,logistic_regression
+1998809,887,Bank account or service,1.608199963811785,valide,,Mortgage,logistic_regression
+2001197,1161,Credit reporting,1.9835999701172113,valide,,Credit reporting,logistic_regression
+2001686,757,Credit card,2.2566000116057694,valide,,Debt collection,logistic_regression
+2005312,3413,Credit reporting,3.1207000138238072,valide,,Credit reporting,logistic_regression
+2006333,1091,Debt collection,1.774100004695356,valide,,Debt collection,logistic_regression
+2010062,448,Debt collection,1.4646000345237553,valide,,Debt collection,logistic_regression
+2016532,1370,Bank account or service,1.853700028732419,valide,,Bank account or service,logistic_regression
+2021185,271,Debt collection,1.281399978324771,valide,,Debt collection,logistic_regression
+2024231,594,Mortgage,1.350599981378764,valide,,Mortgage,logistic_regression
+2032252,936,"Credit reporting, credit repair services, or other personal consumer reports",1.4815999893471599,valide,,Credit reporting,logistic_regression
+2035733,889,Student loan,1.6439000028185546,valide,,Student loan,logistic_regression
+2036231,2168,Bank account or service,2.786700031720102,valide,,Bank account or service,logistic_regression
+2044167,711,Credit reporting,1.3380000018514693,valide,,Credit reporting,logistic_regression
+2054709,674,Credit card,1.2049000361002982,valide,,Credit card,logistic_regression
+2056578,460,Debt collection,0.9207999682985246,valide,,Debt collection,logistic_regression
+2057191,3417,Bank account or service,1.9251000485382974,valide,,Bank account or service,logistic_regression
+2062920,444,Bank account or service,0.9181000059470534,valide,,Credit card,logistic_regression
+2062989,3863,Mortgage,2.337199985049665,valide,,Mortgage,logistic_regression
+2064578,28,Debt collection,0.8688999805599451,valide,,Debt collection,logistic_regression
+2066350,1412,Debt collection,1.338799949735403,valide,,Debt collection,logistic_regression
+2070911,3876,Vehicle loan or lease,3.5186000168323517,valide,,Consumer Loan,logistic_regression
+2072650,620,Credit reporting,1.851600012741983,valide,,Credit reporting,logistic_regression
+2079062,2052,Mortgage,2.069899986963719,valide,,Mortgage,logistic_regression
+2079387,827,Credit reporting,1.5320000238716602,valide,,Credit reporting,logistic_regression
+2080511,1820,Mortgage,1.914000022225082,valide,,Mortgage,logistic_regression
+2081382,2608,Student loan,2.807200013194233,valide,,Student loan,logistic_regression
+2082248,1126,Consumer Loan,1.5372000052593648,valide,,Consumer Loan,logistic_regression
+2084809,62,Credit card,1.3078000047244132,valide,,Credit card,logistic_regression
+2086787,1181,"Credit reporting, credit repair services, or other personal consumer reports",1.937700028065592,valide,,Mortgage,logistic_regression
+2087976,214,Credit reporting,1.4439999940805137,valide,,Credit reporting,logistic_regression
+2090600,236,Debt collection,1.5235000173561275,valide,,Debt collection,logistic_regression
+2090855,748,Credit reporting,1.575400005094707,valide,,Credit reporting,logistic_regression
+2090995,3809,Bank account or service,3.089600009843707,valide,,Bank account or service,logistic_regression
+2092755,179,Credit reporting,1.2234000023454428,valide,,Credit reporting,logistic_regression
+2098019,377,Credit reporting,1.262500009033829,valide,,Credit reporting,logistic_regression
+2104006,1265,Debt collection,1.671499980147928,valide,,Debt collection,logistic_regression
+2106274,417,Consumer Loan,1.1811000294983387,valide,,Consumer Loan,logistic_regression
+2107040,1249,Credit card,1.8755000201053917,valide,,Bank account or service,logistic_regression
+2109799,105,Debt collection,3.292499983217567,valide,,Debt collection,logistic_regression
+2112008,857,Credit reporting,2.1549000521190464,valide,,Credit reporting,logistic_regression
+2112727,1086,Mortgage,1.3177000219002366,valide,,Mortgage,logistic_regression
+2118380,1871,Debt collection,1.5687000122852623,valide,,Debt collection,logistic_regression
+2124747,1248,Student loan,1.2429000344127417,valide,,Student loan,logistic_regression
+2130153,796,Checking or savings account,1.073199964594096,valide,,Bank account or service,logistic_regression
+2130425,715,"Credit reporting, credit repair services, or other personal consumer reports",1.1504999711178243,valide,,Mortgage,logistic_regression
+2134545,1002,Mortgage,1.5522000030614436,valide,,Credit reporting,logistic_regression
+2139120,298,Bank account or service,1.3510999851860106,valide,,Bank account or service,logistic_regression
+2146174,436,Payday loan,1.374599989503622,valide,,Consumer Loan,logistic_regression
+2147086,1240,Credit reporting,1.6017000307329,valide,,Credit reporting,logistic_regression
+2147110,302,"Credit reporting, credit repair services, or other personal consumer reports",1.1602999875321984,valide,,Credit reporting,logistic_regression
+2147247,462,Credit reporting,1.2075999984517694,valide,,Credit card,logistic_regression
+2149492,1003,Debt collection,1.7247999785467982,valide,,Debt collection,logistic_regression
+2150556,1679,Mortgage,1.9883000059053302,valide,,Mortgage,logistic_regression
+2152410,2486,Credit reporting,2.502900024410337,valide,,Credit reporting,logistic_regression
+2153679,241,Credit reporting,1.350599981378764,valide,,Credit reporting,logistic_regression
+2154464,392,Checking or savings account,1.6698000254109502,valide,,Money transfers,logistic_regression
+2157683,376,"Payday loan, title loan, or personal loan",1.339099952019751,valide,,Consumer Loan,logistic_regression
+2164779,435,Debt collection,1.3531000004149973,valide,,Credit reporting,logistic_regression
+2165449,1148,Bank account or service,1.6611000173725188,valide,,Credit card,logistic_regression
+2166258,1092,Bank account or service,1.5971999964676797,valide,,Bank account or service,logistic_regression
+2166419,149,Credit card,1.1071999906562269,valide,,Debt collection,logistic_regression
+2166588,2197,Credit card or prepaid card,2.127300016582012,valide,,Debt collection,logistic_regression
+2170703,722,Credit card,1.174099976196885,valide,,Bank account or service,logistic_regression
+2174159,83,Bank account or service,0.7845000363886356,valide,,Bank account or service,logistic_regression
+2178377,396,Debt collection,1.394100021570921,valide,,Credit card,logistic_regression
+2178503,747,Credit reporting,1.8199000041931868,valide,,Credit reporting,logistic_regression
+2182443,158,Debt collection,1.1938000097870827,valide,,Debt collection,logistic_regression
+2182602,604,Mortgage,1.3467000098899007,valide,,Mortgage,logistic_regression
+2183179,445,Vehicle loan or lease,1.332300016656518,valide,,Student loan,logistic_regression
+2183362,2110,Bank account or service,2.1492999512702227,valide,,Other financial service,logistic_regression
+2186887,2506,Mortgage,2.564300026278943,valide,,Mortgage,logistic_regression
+2187244,3823,Bank account or service,3.3093999954871833,valide,,Bank account or service,logistic_regression
+2189806,1980,Credit card,2.4864000151865184,valide,,Credit card,logistic_regression
+2198923,858,Payday loan,1.7549999756738544,valide,,Student loan,logistic_regression
+2199354,364,Debt collection,1.1798000195994973,valide,,Consumer Loan,logistic_regression
+2202119,80,Credit reporting,1.2618000037036836,valide,,Credit reporting,logistic_regression
+2205135,648,Debt collection,1.5711000305600464,valide,,Debt collection,logistic_regression
+2206136,268,Debt collection,1.4567000325769186,valide,,Debt collection,logistic_regression
+2206764,506,Debt collection,1.7545000300742686,valide,,Debt collection,logistic_regression
+2207285,749,Credit card,1.539599965326488,valide,,Credit card,logistic_regression
+2211067,1656,Mortgage,2.800900023430586,valide,,Mortgage,logistic_regression
+2213977,850,Debt collection,1.2900999863632023,valide,,Debt collection,logistic_regression
+2216323,1274,Credit reporting,1.3348000356927514,valide,,Credit reporting,logistic_regression
+2216809,1453,Debt collection,2.085499989334494,valide,,Student loan,logistic_regression
+2217643,435,Debt collection,1.4258000301197171,valide,,Credit card,logistic_regression
+2218239,1627,Credit reporting,1.8864000448957086,valide,,Credit reporting,logistic_regression
+2224202,937,Credit card,1.5807999880053103,valide,,Credit card,logistic_regression
+2224495,420,Mortgage,1.3211999903433025,valide,,Mortgage,logistic_regression
+2224736,613,Credit reporting,1.5337999793700874,valide,,Credit reporting,logistic_regression
+2228641,947,Mortgage,1.5907000051811337,valide,,Mortgage,logistic_regression
+2229734,381,Debt collection,1.253900001756847,valide,,Debt collection,logistic_regression
+2230675,1331,Mortgage,2.2142999805510044,valide,,Mortgage,logistic_regression
+2234364,346,Debt collection,4.159800009801984,valide,,Debt collection,logistic_regression
+2234404,306,Credit reporting,1.4592999941669405,valide,,Credit card,logistic_regression
+2237779,938,Student loan,1.6336000408045948,valide,,Debt collection,logistic_regression
+2242482,2157,Credit card,2.4730999721214175,valide,,Consumer Loan,logistic_regression
+2248041,942,Mortgage,1.6521999496035278,valide,,Mortgage,logistic_regression
+2250987,940,Debt collection,1.601400028448552,valide,,Debt collection,logistic_regression
+2252503,495,Credit reporting,1.340300019364804,valide,,Credit reporting,logistic_regression
+2254723,169,Debt collection,1.1717999586835504,valide,,Debt collection,logistic_regression
+2259828,691,Credit card,1.4779000193811953,valide,,Credit card,logistic_regression
+2263785,3349,Mortgage,2.7900999994017184,valide,,Mortgage,logistic_regression
+2264253,253,Mortgage,1.250099972821772,valide,,Mortgage,logistic_regression
+2265512,653,Credit reporting,1.331400009803474,valide,,Credit reporting,logistic_regression
+2266628,468,Mortgage,1.6903000068850815,valide,,Mortgage,logistic_regression
+2267090,189,Student loan,1.2341999681666493,valide,,Consumer Loan,logistic_regression
+2271310,326,Credit reporting,1.2006000033579767,valide,,Credit reporting,logistic_regression
+2272411,1052,Consumer Loan,1.6465000226162374,valide,,Consumer Loan,logistic_regression
+2278441,280,Credit card,1.2449000496417284,valide,,Credit card,logistic_regression
+2278845,221,Mortgage,1.1620000004768372,valide,,Bank account or service,logistic_regression
+2281195,417,Debt collection,1.2688999995589256,valide,,Debt collection,logistic_regression
+2283163,313,Student loan,1.5161000192165375,valide,,Debt collection,logistic_regression
+2287638,622,"Credit reporting, credit repair services, or other personal consumer reports",1.9901999621652067,valide,,Debt collection,logistic_regression
+2288368,205,Debt collection,1.513299997895956,valide,,Debt collection,logistic_regression
+2289817,1019,Credit card,1.887099992018193,valide,,Credit card,logistic_regression
+2291775,363,"Credit reporting, credit repair services, or other personal consumer reports",1.338200003374368,valide,,Credit reporting,logistic_regression
+2292545,401,Mortgage,1.2679999927058816,valide,,Mortgage,logistic_regression
+2292833,767,Credit reporting,1.5578000457026064,valide,,Credit reporting,logistic_regression
+2293270,414,Student loan,1.3360000448301435,valide,,Student loan,logistic_regression
+2295638,119,"Credit reporting, credit repair services, or other personal consumer reports",1.1258999584242702,valide,,Credit reporting,logistic_regression
+2295779,1211,Student loan,2.1053000236861408,valide,,Student loan,logistic_regression
+2297823,416,Student loan,1.6341999871656299,valide,,Student loan,logistic_regression
+2299363,1564,Student loan,1.9289000192657113,valide,,Student loan,logistic_regression
+2299662,151,Student loan,0.9145999792963266,valide,,Student loan,logistic_regression
+2299768,922,Student loan,1.7112000496126711,valide,,Student loan,logistic_regression
+2299827,2329,Credit card,2.642700041178614,valide,,Credit card,logistic_regression
+2300004,427,Consumer Loan,1.3846000074408948,valide,,Mortgage,logistic_regression
+2301260,984,"Payday loan, title loan, or personal loan",1.6635000356473029,valide,,Consumer Loan,logistic_regression
+2303606,1766,Student loan,2.0978000247851014,valide,,Student loan,logistic_regression
+2305781,1692,Debt collection,1.9899000180885196,valide,,Debt collection,logistic_regression
+2306799,625,Checking or savings account,1.7528000171296299,valide,,Bank account or service,logistic_regression
+2308900,394,Mortgage,1.4878999791108072,valide,,Mortgage,logistic_regression
+2310149,751,Credit card,1.5427999896928668,valide,,Credit card,logistic_regression
+2310693,3333,Consumer Loan,3.243899962399155,valide,,Consumer Loan,logistic_regression
+2312769,886,Debt collection,1.9728000042960048,valide,,Debt collection,logistic_regression
+2316723,464,Credit reporting,1.6768999630585313,valide,,Debt collection,logistic_regression
+2318771,1597,Debt collection,2.311999967787415,valide,,Debt collection,logistic_regression
+2325138,110,Debt collection,1.5113999834284186,valide,,Credit reporting,logistic_regression
+2326973,299,Student loan,1.52449996676296,valide,,Debt collection,logistic_regression
+2334419,1438,Debt collection,1.9590999581851065,valide,,Debt collection,logistic_regression
+2341932,487,Debt collection,1.5789000317454338,valide,,Debt collection,logistic_regression
+2351336,691,"Payday loan, title loan, or personal loan",1.5047999913804233,valide,,Consumer Loan,logistic_regression
+2351625,1353,Mortgage,1.8337999936193228,valide,,Mortgage,logistic_regression
+2352338,658,Debt collection,1.4501999830827117,valide,,Debt collection,logistic_regression
+2352579,795,Student loan,1.6596000059507787,valide,,Student loan,logistic_regression
+2360538,1079,Checking or savings account,1.7364000086672604,valide,,Bank account or service,logistic_regression
+2364111,439,Debt collection,1.5309000154957175,valide,,Debt collection,logistic_regression
+2366088,272,Credit reporting,1.3416999718174338,valide,,Credit reporting,logistic_regression
+2366225,653,Credit reporting,1.4961999841034412,valide,,Credit reporting,logistic_regression
+2368562,269,Debt collection,1.4419000362977386,valide,,Debt collection,logistic_regression
+2370263,2235,Credit card or prepaid card,2.5357999838888645,valide,,Credit card,logistic_regression
+2370880,53,Debt collection,1.1194999678991735,valide,,Debt collection,logistic_regression
+2377503,250,Credit reporting,1.2784000136889517,valide,,Credit reporting,logistic_regression
+2383599,535,Credit reporting,1.4300000038929284,valide,,Credit reporting,logistic_regression
+2386136,506,Debt collection,1.3057999894954264,valide,,Debt collection,logistic_regression
+2390215,838,Credit card,1.5146000077947974,valide,,Credit card,logistic_regression
+2390513,892,Mortgage,1.7330999835394323,valide,,Mortgage,logistic_regression
+2392509,111,Mortgage,1.1511999764479697,valide,,Mortgage,logistic_regression
+2396277,1869,Mortgage,2.202300005592406,valide,,Mortgage,logistic_regression
+2400859,2116,Bank account or service,2.511699975002557,valide,,Bank account or service,logistic_regression
+2403918,89,Credit reporting,1.3054999872110784,valide,,Debt collection,logistic_regression
+2407173,608,Credit reporting,1.602300035301596,valide,,Credit reporting,logistic_regression
+2414025,670,Mortgage,1.5156000154092908,valide,,Mortgage,logistic_regression
+2414432,611,Student loan,1.4429999864660203,valide,,Student loan,logistic_regression
+2414831,943,Debt collection,1.5440999995917082,valide,,Debt collection,logistic_regression
+2418124,1770,Mortgage,2.182499971240759,valide,,Mortgage,logistic_regression
+2418311,457,Credit reporting,1.3633000198751688,valide,,Credit reporting,logistic_regression
+2421120,730,Credit reporting,1.6857999726198614,valide,,Credit reporting,logistic_regression
+2421866,903,Mortgage,1.6338999848812819,valide,,Mortgage,logistic_regression
+2421964,3464,Credit card,3.1965000089257956,valide,,Credit card,logistic_regression
+2422640,419,"Credit reporting, credit repair services, or other personal consumer reports",1.3025999651290476,valide,,Credit reporting,logistic_regression
+2423690,1052,Student loan,1.8028999911621213,valide,,Student loan,logistic_regression
+2425123,55,Debt collection,1.1666000355035067,valide,,Debt collection,logistic_regression
+2426316,1437,Student loan,1.923500036355108,valide,,Student loan,logistic_regression
+2429719,948,Debt collection,1.63569999858737,valide,,Debt collection,logistic_regression
+2432276,1031,Credit card,1.729500014334917,valide,,Credit card,logistic_regression
+2437158,510,"Credit reporting, credit repair services, or other personal consumer reports",1.3724000309593976,valide,,Credit reporting,logistic_regression
+2437616,1280,Credit card or prepaid card,1.909600046928972,valide,,Credit card,logistic_regression
+2437617,121,Credit reporting,1.9922000356018543,valide,,Credit reporting,logistic_regression
+2439172,183,Debt collection,1.4557999675162137,valide,,Credit card,logistic_regression
+2441536,628,Student loan,1.820000004954636,valide,,Student loan,logistic_regression
+2443518,1405,Mortgage,1.9678999669849873,valide,,Mortgage,logistic_regression
+2443773,57,"Credit reporting, credit repair services, or other personal consumer reports",1.3933000154793262,valide,,Credit reporting,logistic_regression
+2467124,666,"Credit reporting, credit repair services, or other personal consumer reports",1.6178999794647098,valide,,Debt collection,logistic_regression
+2471016,1095,"Credit reporting, credit repair services, or other personal consumer reports",1.8108999938704073,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2472024,1141,Mortgage,1.6885999939404428,valide,,Mortgage,logistic_regression
+2473558,2456,Mortgage,2.4765999987721443,valide,,Mortgage,logistic_regression
+2474031,193,"Payday loan, title loan, or personal loan",1.2875000247731805,valide,,Debt collection,logistic_regression
+2475109,5532,Checking or savings account,4.642100015189499,valide,,Checking or savings account,logistic_regression
+2475646,698,Vehicle loan or lease,1.5959999873302877,valide,,Vehicle loan or lease,logistic_regression
+2476841,280,Debt collection,1.811399997677654,valide,,Debt collection,logistic_regression
+2477305,102,Credit reporting,1.2953000259585679,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2477702,2214,Debt collection,2.4931999505497515,valide,,Debt collection,logistic_regression
+2481351,413,Credit card,3.6341000231914222,valide,,Credit card or prepaid card,logistic_regression
+2481361,109,Debt collection,1.2486999621614814,valide,,Debt collection,logistic_regression
+2482007,1636,Credit card,2.139899996109307,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2482187,1828,Mortgage,2.2148999851197004,valide,,Mortgage,logistic_regression
+2482470,2403,Credit reporting,2.44899996323511,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2485426,1169,Credit reporting,1.6592000029049814,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2486322,1100,Mortgage,1.646400021854788,valide,,Mortgage,logistic_regression
+2488150,477,Debt collection,1.3357999850995839,valide,,Debt collection,logistic_regression
+2488403,563,Debt collection,1.3355999835766852,valide,,Debt collection,logistic_regression
+2491311,2920,Credit card or prepaid card,3.353299980517477,valide,,"Money transfer, virtual currency, or money service",logistic_regression
+2491660,2112,Consumer Loan,2.696500043384731,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2493766,448,Debt collection,1.3304000021889806,valide,,Checking or savings account,logistic_regression
+2495933,530,"Money transfer, virtual currency, or money service",1.4826999977231026,valide,,Checking or savings account,logistic_regression
+2495979,848,"Credit reporting, credit repair services, or other personal consumer reports",1.2157000019215047,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2496037,1298,Other financial service,2.111900015734136,valide,,Student loan,logistic_regression
+2496743,829,"Money transfer, virtual currency, or money service",1.707600022200495,valide,,Student loan,logistic_regression
+2497201,2072,Credit card or prepaid card,2.1655000164173543,valide,,Credit card or prepaid card,logistic_regression
+2498096,846,Credit reporting,1.5663999947719276,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2500078,193,Debt collection,1.2531999964267015,valide,,Student loan,logistic_regression
+2502179,964,Debt collection,1.6774999676272273,valide,,Debt collection,logistic_regression
+2505130,805,Credit reporting,1.5119999879971147,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2540713,1145,Debt collection,2.207999990787357,valide,,Debt collection,logistic_regression
+2541786,3897,"Credit reporting, credit repair services, or other personal consumer reports",3.29799996688962,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2542255,621,Debt collection,1.50969997048378,valide,,Debt collection,logistic_regression
+2545082,269,"Credit reporting, credit repair services, or other personal consumer reports",1.2490000226534903,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2548231,940,Credit card or prepaid card,1.5577999874949455,valide,,Checking or savings account,logistic_regression
+2548862,262,Credit card or prepaid card,1.1579999700188637,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2552305,1492,"Credit reporting, credit repair services, or other personal consumer reports",1.6033999854698777,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2553244,625,Mortgage,1.4539000112563372,valide,,Mortgage,logistic_regression
+2554856,657,"Credit reporting, credit repair services, or other personal consumer reports",1.6869999817572534,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2555800,716,Consumer Loan,1.6409999807365239,valide,,Vehicle loan or lease,logistic_regression
+2556295,398,Debt collection,1.6825000056996942,valide,,Debt collection,logistic_regression
+2557125,310,Debt collection,1.6210000030696392,valide,,Debt collection,logistic_regression
+2557186,706,Student loan,1.706700015347451,valide,,Student loan,logistic_regression
+2557722,274,Credit reporting,1.582500000949949,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2558216,1555,"Credit reporting, credit repair services, or other personal consumer reports",2.176299982238561,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2559294,2636,"Money transfer, virtual currency, or money service",2.896999998483807,valide,,"Money transfer, virtual currency, or money service",logistic_regression
+2559461,307,Checking or savings account,2.057100005913526,valide,,Checking or savings account,logistic_regression
+2560126,1481,Bank account or service,3.4802999580278993,valide,,Checking or savings account,logistic_regression
+2561721,245,"Credit reporting, credit repair services, or other personal consumer reports",1.7514000064693391,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2562457,3783,Mortgage,3.597999981138855,valide,,Credit card or prepaid card,logistic_regression
+2562973,1257,"Credit reporting, credit repair services, or other personal consumer reports",1.9155999762006104,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2563657,692,Mortgage,1.5710999723523855,valide,,Mortgage,logistic_regression
+2565371,233,Credit reporting,1.2058999855071306,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2568244,506,"Credit reporting, credit repair services, or other personal consumer reports",1.3268999755382538,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2568271,570,Debt collection,1.6339999856427312,valide,,Debt collection,logistic_regression
+2568801,578,Debt collection,2.298199979122728,valide,,Debt collection,logistic_regression
+2569353,675,Debt collection,2.2117000189609826,valide,,Debt collection,logistic_regression
+2570423,941,Checking or savings account,1.7739000031724572,valide,,Checking or savings account,logistic_regression
+2570461,921,Bank account or service,1.6880000475794077,valide,,Credit card or prepaid card,logistic_regression
+2573841,838,Mortgage,1.7610000213608146,valide,,Mortgage,logistic_regression
+2578353,1476,Student loan,2.0664000185206532,valide,,Student loan,logistic_regression
+2578494,323,"Credit reporting, credit repair services, or other personal consumer reports",1.3575000339187682,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2579359,651,Debt collection,1.8118000007234514,valide,,Debt collection,logistic_regression
+2581352,226,Credit reporting,1.7337999888695776,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2581783,1167,"Credit reporting, credit repair services, or other personal consumer reports",2.2440000320784748,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2581888,1042,Mortgage,1.444099994841963,valide,,Mortgage,logistic_regression
+2582102,1440,Mortgage,2.4284999817609787,valide,,Mortgage,logistic_regression
+2582958,611,Credit reporting,1.9004999776370823,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2583104,1083,"Credit reporting, credit repair services, or other personal consumer reports",1.8687999690882862,valide,,Vehicle loan or lease,logistic_regression
+2583326,1449,Credit reporting,2.1695999894291162,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2584237,301,Credit card or prepaid card,1.279400021303445,valide,,Credit card or prepaid card,logistic_regression
+2585713,1258,Debt collection,2.107399981468916,valide,,Debt collection,logistic_regression
+2586367,194,Consumer Loan,5.828699970152229,valide,,Vehicle loan or lease,logistic_regression
+2588210,1646,Mortgage,3.067099954932928,valide,,Mortgage,logistic_regression
+2590348,415,"Credit reporting, credit repair services, or other personal consumer reports",1.6003000200726092,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2592363,1083,Debt collection,1.9494000007398427,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2592984,361,"Credit reporting, credit repair services, or other personal consumer reports",1.5154000138863921,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2593387,368,Debt collection,1.4118999824859202,valide,,Debt collection,logistic_regression
+2595805,523,"Credit reporting, credit repair services, or other personal consumer reports",1.4134999946691096,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2597033,409,"Credit reporting, credit repair services, or other personal consumer reports",1.3602999970316887,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2601298,2648,Credit card or prepaid card,2.8467000229284167,valide,,Credit card or prepaid card,logistic_regression
+2602100,646,Debt collection,2.322800050023943,valide,,Debt collection,logistic_regression
+2603972,503,"Credit reporting, credit repair services, or other personal consumer reports",1.6961999936029315,valide,,Vehicle loan or lease,logistic_regression
+2607690,6102,Mortgage,5.313500005286187,valide,,Mortgage,logistic_regression
+2612384,1004,Credit reporting,2.0707000512629747,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2624462,888,"Credit reporting, credit repair services, or other personal consumer reports",1.7706999788060784,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2626379,1524,"Credit reporting, credit repair services, or other personal consumer reports",2.0480999955907464,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2630778,1275,"Credit reporting, credit repair services, or other personal consumer reports",1.9870999967679381,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2630785,521,Credit card or prepaid card,1.5845000161789358,valide,,Credit card or prepaid card,logistic_regression
+2630938,1989,Mortgage,2.1985999774187803,valide,,Mortgage,logistic_regression
+2633594,815,Bank account or service,1.6228999593295157,valide,,Mortgage,logistic_regression
+2634256,237,Payday loan,1.2414000229910016,valide,,Debt collection,logistic_regression
+2644476,1117,Credit reporting,1.6752000083215535,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2645579,764,Credit card or prepaid card,1.5275999903678894,valide,,Credit card or prepaid card,logistic_regression
+2645833,2160,Mortgage,2.2473999997600913,valide,,Mortgage,logistic_regression
+2646286,1201,"Credit reporting, credit repair services, or other personal consumer reports",1.748100039549172,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2647998,3330,Student loan,3.7225999985821545,valide,,Student loan,logistic_regression
+2649339,1621,Student loan,2.508100005798042,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2651641,1190,Vehicle loan or lease,1.92760000936687,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2652075,1343,Credit reporting,2.39580002380535,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2652081,480,"Payday loan, title loan, or personal loan",1.8972000107169151,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2652231,1092,Mortgage,1.5768999583087862,valide,,Mortgage,logistic_regression
+2652432,3413,Mortgage,2.7781000244431198,valide,,Mortgage,logistic_regression
+2653011,471,Bank account or service,1.6939000342972577,valide,,Checking or savings account,logistic_regression
+2653078,1017,Student loan,1.8148000235669315,valide,,Student loan,logistic_regression
+2653756,420,"Credit reporting, credit repair services, or other personal consumer reports",1.6207000007852912,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2653961,2141,"Money transfer, virtual currency, or money service",2.603999979328364,valide,,"Money transfer, virtual currency, or money service",logistic_regression
+2655184,1781,Student loan,2.5741999852471054,valide,,Student loan,logistic_regression
+2656161,2858,Debt collection,2.7918999549001455,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2659202,1190,Student loan,2.0013999892398715,valide,,Student loan,logistic_regression
+2660304,199,"Credit reporting, credit repair services, or other personal consumer reports",1.967799966223538,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2662600,1763,Vehicle loan or lease,2.377400000113994,valide,,Debt collection,logistic_regression
+2662767,513,Debt collection,1.442899985704571,valide,,Debt collection,logistic_regression
+2662920,451,Student loan,1.0163999977521598,valide,,Student loan,logistic_regression
+2663370,361,"Credit reporting, credit repair services, or other personal consumer reports",1.7880999948829412,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2663412,252,"Credit reporting, credit repair services, or other personal consumer reports",1.424000016413629,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2663451,458,Credit card,1.3738999841734767,valide,,Credit card or prepaid card,logistic_regression
+2665094,380,"Credit reporting, credit repair services, or other personal consumer reports",1.0022000060416758,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2667433,208,Credit card or prepaid card,1.1860000086016953,valide,,Credit card or prepaid card,logistic_regression
+2667530,391,Credit card,1.5991999534890056,valide,,Credit card or prepaid card,logistic_regression
+2667585,150,"Credit reporting, credit repair services, or other personal consumer reports",1.2516999850049615,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2668307,84,"Credit reporting, credit repair services, or other personal consumer reports",1.465700042899698,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2668846,214,"Credit reporting, credit repair services, or other personal consumer reports",1.0272000217810273,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2670344,1082,Mortgage,1.6500999918207526,valide,,Mortgage,logistic_regression
+2670579,721,Debt collection,1.8603000207804143,valide,,Debt collection,logistic_regression
+2671830,3197,"Credit reporting, credit repair services, or other personal consumer reports",2.994599984958768,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2673189,2171,"Credit reporting, credit repair services, or other personal consumer reports",2.177200047299266,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2673233,474,"Credit reporting, credit repair services, or other personal consumer reports",1.411600038409233,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2673518,1149,"Credit reporting, credit repair services, or other personal consumer reports",1.8659999477677047,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2674237,1280,Credit reporting,1.8336999928578734,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2675075,306,Credit card or prepaid card,1.3436999870464206,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2675276,727,"Credit reporting, credit repair services, or other personal consumer reports",1.964900002349168,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2675605,1183,"Credit reporting, credit repair services, or other personal consumer reports",2.329900045879185,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2675948,1762,Credit card or prepaid card,2.474099979735911,valide,,Credit card or prepaid card,logistic_regression
+2677902,800,Credit reporting,1.609999977517873,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2679529,1053,Consumer Loan,2.161299984436482,valide,,Vehicle loan or lease,logistic_regression
+2683674,901,Checking or savings account,1.7167999758385122,valide,,Checking or savings account,logistic_regression
+2686242,3455,Mortgage,2.865400048904121,valide,,Mortgage,logistic_regression
+2686614,750,Credit card or prepaid card,2.110400004312396,valide,,Credit card or prepaid card,logistic_regression
+2688025,169,Vehicle loan or lease,1.5418999828398228,valide,,Vehicle loan or lease,logistic_regression
+2688540,65,Debt collection,1.429300056770444,valide,,Debt collection,logistic_regression
+2689846,2420,"Credit reporting, credit repair services, or other personal consumer reports",2.635899989400059,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2689876,1206,Student loan,2.0205999608151615,valide,,Student loan,logistic_regression
+2690933,475,"Credit reporting, credit repair services, or other personal consumer reports",1.5941999736241996,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2691158,1359,"Credit reporting, credit repair services, or other personal consumer reports",2.4635999579913914,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2692204,611,"Credit reporting, credit repair services, or other personal consumer reports",1.552600006107241,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2694904,1205,"Credit reporting, credit repair services, or other personal consumer reports",1.8350999453105032,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2695949,1039,Debt collection,1.5942000318318605,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2697061,2526,Mortgage,2.911499992478639,valide,,Mortgage,logistic_regression
+2697234,1269,Credit reporting,1.981999957934022,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2697990,4050,Student loan,3.3067999756895006,valide,,Student loan,logistic_regression
+2698393,457,"Credit reporting, credit repair services, or other personal consumer reports",1.415400009136647,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2698952,312,Credit reporting,1.3182000257074833,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2701299,1000,Credit reporting,1.4951999764889479,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2701693,461,"Payday loan, title loan, or personal loan",1.5542000182904303,valide,,Debt collection,logistic_regression
+2702423,1510,Consumer Loan,1.9840000313706696,valide,,Vehicle loan or lease,logistic_regression
+2703830,155,"Credit reporting, credit repair services, or other personal consumer reports",1.2664000387303531,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2704592,988,Credit card,1.830300025176257,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2704651,440,Credit reporting,1.5217000036500394,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2705962,726,Credit reporting,1.6546000260859728,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2707227,2195,Credit card or prepaid card,2.3564999573864043,valide,,Credit card or prepaid card,logistic_regression
+2708951,502,Credit reporting,1.3998000067658722,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2711079,506,Debt collection,1.4807999832555652,valide,,Debt collection,logistic_regression
+2711116,490,"Credit reporting, credit repair services, or other personal consumer reports",1.5272999880835414,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2712799,1644,Debt collection,2.1522000315599144,valide,,Debt collection,logistic_regression
+2714173,3167,Student loan,2.849800046533346,valide,,Student loan,logistic_regression
+2714407,1867,Credit card or prepaid card,1.646400021854788,valide,,Credit card or prepaid card,logistic_regression
+2714430,957,Debt collection,1.365699979942292,valide,,Debt collection,logistic_regression
+2715103,499,"Credit reporting, credit repair services, or other personal consumer reports",1.512999995611608,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2716045,1531,Credit reporting,1.6072000144049525,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2717042,302,Vehicle loan or lease,0.9435000247322023,valide,,Vehicle loan or lease,logistic_regression
+2718085,1407,Credit card or prepaid card,1.519199984613806,valide,,Credit card or prepaid card,logistic_regression
+2718239,354,Credit card or prepaid card,1.0269999620504677,valide,,Credit card or prepaid card,logistic_regression
+2719446,2497,Mortgage,2.463200013153255,valide,,Mortgage,logistic_regression
+2720263,1493,Credit card or prepaid card,1.992099976632744,valide,,Debt collection,logistic_regression
+2722422,26,Credit reporting,1.1990999919362366,valide,,Credit card or prepaid card,logistic_regression
+2723921,1276,Debt collection,2.6335999718867242,valide,,Debt collection,logistic_regression
+2724942,1083,Credit card,1.5374000067822635,valide,,Credit card or prepaid card,logistic_regression
+2725456,2730,Student loan,2.8205999988131225,valide,,Student loan,logistic_regression
+2726147,803,Debt collection,1.4684000052511692,valide,,Debt collection,logistic_regression
+2726585,305,Credit card,0.860300031490624,valide,,"Payday loan, title loan, or personal loan",logistic_regression
+2727161,116,Vehicle loan or lease,1.32310000481084,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2729599,737,Credit card,1.6887999954633415,valide,,Credit card or prepaid card,logistic_regression
+2730181,2044,Checking or savings account,2.2595000336878,valide,,Checking or savings account,logistic_regression
+2731426,168,Debt collection,1.2615000014193356,valide,,Debt collection,logistic_regression
+2731739,208,Debt collection,1.2558000162243843,valide,,Debt collection,logistic_regression
+2732569,667,"Credit reporting, credit repair services, or other personal consumer reports",1.6436000005342066,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2732891,299,Student loan,1.373999984934926,valide,,Student loan,logistic_regression
+2735155,226,Debt collection,1.224299950990826,valide,,"Payday loan, title loan, or personal loan",logistic_regression
+2735918,831,Consumer Loan,1.6182000399567187,valide,,"Payday loan, title loan, or personal loan",logistic_regression
+2735941,721,Student loan,1.4916000072844326,valide,,Student loan,logistic_regression
+2737508,837,Checking or savings account,1.545799954328686,valide,,Checking or savings account,logistic_regression
+2737653,562,Credit card,1.3409000239335,valide,,Credit card or prepaid card,logistic_regression
+2739997,679,Student loan,1.52160000288859,valide,,Debt collection,logistic_regression
+2742766,687,"Credit reporting, credit repair services, or other personal consumer reports",1.489299989771098,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2743397,501,Credit reporting,1.332899963017553,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2744160,455,Debt collection,1.257800031453371,valide,,Debt collection,logistic_regression
+2744233,1972,"Credit reporting, credit repair services, or other personal consumer reports",2.2350999643094838,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2744416,63,"Credit reporting, credit repair services, or other personal consumer reports",1.304499979596585,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2744820,458,Credit card or prepaid card,1.6642999835312366,valide,,Credit card or prepaid card,logistic_regression
+2745283,1395,Bank account or service,2.028200018685311,valide,,Mortgage,logistic_regression
+2745432,557,Debt collection,1.6052999999374151,valide,,Debt collection,logistic_regression
+2745593,195,Credit reporting,1.2844999437220395,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2745723,243,Debt collection,1.235600037034601,valide,,Debt collection,logistic_regression
+2748957,1663,Credit card,1.9745000172406435,valide,,Credit card or prepaid card,logistic_regression
+2749784,3734,Debt collection,3.1478999881073833,valide,,Debt collection,logistic_regression
+2750251,1586,"Credit reporting, credit repair services, or other personal consumer reports",2.076399978250265,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2750676,1633,Credit card or prepaid card,2.306699985638261,valide,,Credit card or prepaid card,logistic_regression
+2753750,1558,Credit card or prepaid card,1.9768999773077667,valide,,Credit card or prepaid card,logistic_regression
+2755155,1530,"Credit reporting, credit repair services, or other personal consumer reports",2.1138000302016735,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2755849,1544,Debt collection,2.075499971397221,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2756390,948,Credit card or prepaid card,1.7916999640874565,valide,,Credit card or prepaid card,logistic_regression
+2760420,260,Student loan,1.3498000334948301,valide,,Student loan,logistic_regression
+2761075,2584,Mortgage,2.4655000306665897,valide,,Mortgage,logistic_regression
+2763190,332,Credit card or prepaid card,1.3461000053212047,valide,,Credit card or prepaid card,logistic_regression
+2763602,531,"Credit reporting, credit repair services, or other personal consumer reports",1.4762000064365566,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2764310,1414,Consumer Loan,2.1720000077039003,valide,,"Payday loan, title loan, or personal loan",logistic_regression
+2766014,853,Vehicle loan or lease,1.7318000318482518,valide,,Vehicle loan or lease,logistic_regression
+2767438,418,"Credit reporting, credit repair services, or other personal consumer reports",1.4609000063501298,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2768135,475,"Money transfer, virtual currency, or money service",1.3887000386603177,valide,,Checking or savings account,logistic_regression
+2772161,2079,Student loan,2.4568999651819468,valide,,Student loan,logistic_regression
+2772323,754,Payday loan,1.5783999697305262,valide,,Debt collection,logistic_regression
+2772396,432,"Payday loan, title loan, or personal loan",1.4733000425621867,valide,,Debt collection,logistic_regression
+2773639,527,Other financial service,1.5220000059343874,valide,,"Money transfer, virtual currency, or money service",logistic_regression
+2773901,401,Debt collection,1.479000027757138,valide,,Debt collection,logistic_regression
+2774522,671,Credit card or prepaid card,1.5687999548390508,valide,,Credit card or prepaid card,logistic_regression
+2774910,3719,"Credit reporting, credit repair services, or other personal consumer reports",2.7782999677583575,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2775309,616,"Credit reporting, credit repair services, or other personal consumer reports",1.444699999410659,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2776395,484,"Credit reporting, credit repair services, or other personal consumer reports",1.633100036997348,valide,,Debt collection,logistic_regression
+2779023,1802,Mortgage,2.271900011692196,valide,,Mortgage,logistic_regression
+2779781,417,Debt collection,1.283199992030859,valide,,Debt collection,logistic_regression
+2780449,458,Debt collection,1.0824999772012234,valide,,Debt collection,logistic_regression
+2781559,371,Credit reporting,0.9244999964721501,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2784888,2028,"Credit reporting, credit repair services, or other personal consumer reports",2.0382999791763723,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2789674,2020,Credit card or prepaid card,2.228099969215691,valide,,Credit card or prepaid card,logistic_regression
+2789857,219,Debt collection,1.312799984589219,valide,,Debt collection,logistic_regression
+2789905,172,"Credit reporting, credit repair services, or other personal consumer reports",1.3938999618403614,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2790556,1064,"Credit reporting, credit repair services, or other personal consumer reports",1.4008000143803656,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2791756,732,"Money transfer, virtual currency, or money service",2.026700007263571,valide,,"Money transfer, virtual currency, or money service",logistic_regression
+2794152,1094,Credit card or prepaid card,2.080500009469688,valide,,Credit card or prepaid card,logistic_regression
+2795077,1220,Debt collection,1.5374000067822635,valide,,Debt collection,logistic_regression
+2796119,1468,Credit card or prepaid card,1.7931999755091965,valide,,Credit card or prepaid card,logistic_regression
+2796328,232,"Money transfer, virtual currency, or money service",1.5577999874949455,valide,,"Money transfer, virtual currency, or money service",logistic_regression
+2798053,1125,"Credit reporting, credit repair services, or other personal consumer reports",2.068699977826327,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2798458,171,"Money transfer, virtual currency, or money service",1.1286000371910632,valide,,"Money transfer, virtual currency, or money service",logistic_regression
+2799626,789,Mortgage,1.4352000434882939,valide,,Mortgage,logistic_regression
+2799998,2539,Debt collection,1.984399976208806,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2800953,1130,Mortgage,1.2243000091984868,valide,,Mortgage,logistic_regression
+2802978,1904,"Credit reporting, credit repair services, or other personal consumer reports",1.4349999837577343,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2803494,2280,Credit card or prepaid card,1.482799998484552,valide,,Credit card or prepaid card,logistic_regression
+2806661,851,Student loan,1.0104000102728605,valide,,Student loan,logistic_regression
+2806692,556,Credit card or prepaid card,0.8706000517122447,valide,,Credit card or prepaid card,logistic_regression
+2806726,596,Debt collection,1.006999984383583,valide,,Debt collection,logistic_regression
+2807484,2867,Mortgage,1.7593000084161758,valide,,Mortgage,logistic_regression
+2808377,235,Vehicle loan or lease,0.7742000161670148,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2808386,993,"Credit reporting, credit repair services, or other personal consumer reports",1.0435000294819474,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2810465,1959,Vehicle loan or lease,1.9823000184260309,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2811040,644,Vehicle loan or lease,1.320800045505166,valide,,Vehicle loan or lease,logistic_regression
+2811182,479,"Credit reporting, credit repair services, or other personal consumer reports",1.130899996496737,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2811379,975,Mortgage,1.5967999934218824,valide,,Mortgage,logistic_regression
+2812449,1956,Checking or savings account,1.9011999829672277,valide,,Checking or savings account,logistic_regression
+2813031,367,Mortgage,1.2783000129275024,valide,,Mortgage,logistic_regression
+2814066,473,"Money transfer, virtual currency, or money service",1.2403999571688473,valide,,Credit card or prepaid card,logistic_regression
+2814401,517,Credit card,0.9879000135697424,valide,,Debt collection,logistic_regression
+2824133,232,Student loan,1.0698999976739287,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2826204,237,"Credit reporting, credit repair services, or other personal consumer reports",1.0970000294037163,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2826481,59,"Credit reporting, credit repair services, or other personal consumer reports",0.9753000340424478,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2828453,5873,Mortgage,4.153499961830676,valide,,Mortgage,logistic_regression
+2828941,2975,Mortgage,3.0805999995209277,valide,,Mortgage,logistic_regression
+2829792,1425,Mortgage,1.9812000100500882,valide,,Mortgage,logistic_regression
+2831427,1111,Debt collection,1.9913000287488103,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2831431,607,"Credit reporting, credit repair services, or other personal consumer reports",1.5762000111863017,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2832804,520,"Money transfer, virtual currency, or money service",1.4120999840088189,valide,,"Money transfer, virtual currency, or money service",logistic_regression
+2836574,243,Debt collection,1.337599998805672,valide,,Debt collection,logistic_regression
+2838902,207,Debt collection,1.468599948566407,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2840016,6757,Vehicle loan or lease,4.55750001128763,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2842242,1760,Student loan,2.383299986831844,valide,,Student loan,logistic_regression
+2843709,840,Credit reporting,1.8539999728091061,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2843982,1291,Debt collection,1.9366000196896493,valide,,Debt collection,logistic_regression
+2844085,2285,Vehicle loan or lease,2.5074000004678965,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2845388,322,Vehicle loan or lease,1.3755999971181154,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2846721,623,Credit reporting,1.4323999639600515,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2846871,766,"Credit reporting, credit repair services, or other personal consumer reports",1.303600030951202,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2847776,118,Debt collection,1.2639999622479081,valide,,Debt collection,logistic_regression
+2848563,1125,"Credit reporting, credit repair services, or other personal consumer reports",2.11569998646155,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2849009,288,Debt collection,1.642199989873916,valide,,Debt collection,logistic_regression
+2849018,311,Credit card or prepaid card,1.5138000017032027,valide,,Credit card or prepaid card,logistic_regression
+2849126,844,Debt collection,1.7671000096015632,valide,,Debt collection,logistic_regression
+2850417,610,"Credit reporting, credit repair services, or other personal consumer reports",1.4632000238634646,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2850498,3650,Credit card or prepaid card,3.2118000090122223,valide,,Credit card or prepaid card,logistic_regression
+2852293,256,Mortgage,1.6585999983362854,valide,,Mortgage,logistic_regression
+2853528,290,"Credit reporting, credit repair services, or other personal consumer reports",1.4658999862149358,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2853664,1259,Vehicle loan or lease,2.0505000138655305,valide,,Debt collection,logistic_regression
+2853978,419,Debt collection,1.5398000250570476,valide,,Debt collection,logistic_regression
+2856844,622,Credit reporting,1.6910000122152269,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2856899,1444,"Credit reporting, credit repair services, or other personal consumer reports",2.0819000201299787,valide,,Mortgage,logistic_regression
+2856970,816,Mortgage,1.7607000190764666,valide,,Mortgage,logistic_regression
+2859741,1576,"Credit reporting, credit repair services, or other personal consumer reports",2.047100046183914,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2859909,745,Debt collection,1.6349999932572246,valide,,Debt collection,logistic_regression
+2860013,1758,"Money transfer, virtual currency, or money service",2.5781000149436295,valide,,"Money transfer, virtual currency, or money service",logistic_regression
+2860170,548,Checking or savings account,1.706099952571094,valide,,Checking or savings account,logistic_regression
+2861021,1400,Credit card or prepaid card,2.283999987412244,valide,,Credit card or prepaid card,logistic_regression
+2861748,568,Checking or savings account,1.796299999114126,valide,,Checking or savings account,logistic_regression
+2862506,1170,Checking or savings account,2.1031000069342554,valide,,"Money transfer, virtual currency, or money service",logistic_regression
+2863149,439,"Credit reporting, credit repair services, or other personal consumer reports",1.4877999783493578,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2863227,2429,Debt collection,2.039399987552315,valide,,Debt collection,logistic_regression
+2863741,1735,Vehicle loan or lease,2.24459997843951,valide,,Vehicle loan or lease,logistic_regression
+2865310,1101,"Credit reporting, credit repair services, or other personal consumer reports",2.272700017783791,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2865403,2682,Credit card or prepaid card,2.5473000132478774,valide,,Credit card or prepaid card,logistic_regression
+2865533,1478,"Credit reporting, credit repair services, or other personal consumer reports",2.433300018310547,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2865657,5125,Credit card or prepaid card,3.82860004901886,valide,,Credit card or prepaid card,logistic_regression
+2866292,1046,"Credit reporting, credit repair services, or other personal consumer reports",1.250400033313781,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2867480,711,"Money transfer, virtual currency, or money service",0.984199985396117,valide,,"Money transfer, virtual currency, or money service",logistic_regression
+2868274,353,Debt collection,0.824499991722405,valide,,Student loan,logistic_regression
+2869413,745,"Credit reporting, credit repair services, or other personal consumer reports",0.9608999826014042,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2869830,434,Checking or savings account,0.9177000029012561,valide,,Checking or savings account,logistic_regression
+2874007,573,"Money transfer, virtual currency, or money service",0.9391000494360924,valide,,Credit card or prepaid card,logistic_regression
+2874917,542,Student loan,0.8968999609351158,valide,,Student loan,logistic_regression
+2875576,42,"Money transfer, virtual currency, or money service",0.7099999929778278,valide,,"Money transfer, virtual currency, or money service",logistic_regression
+2875913,1895,Mortgage,1.4211999950930476,valide,,Mortgage,logistic_regression
+2875965,1303,Student loan,1.1485000140964985,valide,,Student loan,logistic_regression
+2876026,765,Debt collection,0.9854999952949584,valide,,Debt collection,logistic_regression
+2877663,751,"Credit reporting, credit repair services, or other personal consumer reports",1.0581000242382288,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2878910,1566,Credit card or prepaid card,2.2350000217556953,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2880044,1428,Debt collection,1.971699995920062,valide,,Debt collection,logistic_regression
+2882366,1489,Debt collection,2.0935999928042293,valide,,Debt collection,logistic_regression
+2884517,1389,"Credit reporting, credit repair services, or other personal consumer reports",1.8284000107087195,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2885367,266,Credit reporting,1.2858999543823302,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2888285,191,Debt collection,1.3087000115774572,valide,,Debt collection,logistic_regression
+2890282,248,"Credit reporting, credit repair services, or other personal consumer reports",1.2676000478677452,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2890559,2139,Credit card or prepaid card,2.1424999576993287,valide,,Credit card or prepaid card,logistic_regression
+2890995,565,Credit card or prepaid card,1.4510999899357557,valide,,Credit card or prepaid card,logistic_regression
+2891749,1598,"Payday loan, title loan, or personal loan",2.361799997743219,valide,,"Payday loan, title loan, or personal loan",logistic_regression
+2892201,306,Debt collection,1.819099998101592,valide,,Debt collection,logistic_regression
+2892544,1347,Mortgage,1.9671000191010535,valide,,Mortgage,logistic_regression
+2893271,1739,"Credit reporting, credit repair services, or other personal consumer reports",1.9749000202864408,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2893509,201,Debt collection,1.0522999800741673,valide,,Debt collection,logistic_regression
+2894843,160,Credit reporting,1.3869000249542296,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2901748,747,Checking or savings account,1.623599964659661,valide,,Checking or savings account,logistic_regression
+2905222,2321,Credit reporting,2.2666999720968306,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2906288,2045,Student loan,2.26979999570176,valide,,Debt collection,logistic_regression
+2906355,1683,Mortgage,3.079199988860637,valide,,Mortgage,logistic_regression
+2908837,639,"Credit reporting, credit repair services, or other personal consumer reports",1.7053000046871603,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2910141,767,Debt collection,1.5430000494234264,valide,,Debt collection,logistic_regression
+2910295,1223,Vehicle loan or lease,1.7398000345565379,valide,,Vehicle loan or lease,logistic_regression
+2913103,1093,Credit card or prepaid card,1.5030999784357846,valide,,Credit card or prepaid card,logistic_regression
+2913473,157,Bank account or service,1.185000000987202,valide,,Debt collection,logistic_regression
+2915802,3268,Credit card or prepaid card,2.3530999897047877,valide,,Credit card or prepaid card,logistic_regression
+2916296,676,Vehicle loan or lease,1.2926000053994358,valide,,Vehicle loan or lease,logistic_regression
+2917257,623,"Credit reporting, credit repair services, or other personal consumer reports",1.0412000119686127,valide,,Debt collection,logistic_regression
+2918054,6944,Debt collection,5.032500019297004,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2919868,1953,"Credit reporting, credit repair services, or other personal consumer reports",2.1879999549128115,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2920765,3532,Student loan,3.035500005353242,valide,,Debt collection,logistic_regression
+2920972,1021,"Payday loan, title loan, or personal loan",1.802499988116324,valide,,Debt collection,logistic_regression
+2925738,673,Debt collection,1.5183999785222113,valide,,Debt collection,logistic_regression
+2927406,737,"Credit reporting, credit repair services, or other personal consumer reports",1.4850000152364373,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2929358,338,Credit card or prepaid card,1.302399963606149,valide,,Debt collection,logistic_regression
+2931279,272,"Money transfer, virtual currency, or money service",1.277900009881705,valide,,"Money transfer, virtual currency, or money service",logistic_regression
+2931940,801,Checking or savings account,2.2906999802216887,valide,,Checking or savings account,logistic_regression
+2933328,466,Debt collection,1.7445999546907842,valide,,Debt collection,logistic_regression
+2933577,1677,Mortgage,3.4679999807849526,valide,,Mortgage,logistic_regression
+2933693,328,Debt collection,1.6225999570451677,valide,,Debt collection,logistic_regression
+2934120,177,Debt collection,1.6042999923229218,valide,,Student loan,logistic_regression
+2934902,838,Checking or savings account,3.701700014062226,valide,,Checking or savings account,logistic_regression
+2935319,670,Mortgage,2.3593000369146466,valide,,Mortgage,logistic_regression
+2936987,4573,"Credit reporting, credit repair services, or other personal consumer reports",5.133399972692132,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2938190,289,"Credit reporting, credit repair services, or other personal consumer reports",1.66379997972399,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2938823,1286,Debt collection,2.070499991532415,valide,,Debt collection,logistic_regression
+2942579,1337,"Credit reporting, credit repair services, or other personal consumer reports",2.5633000186644495,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2944370,1570,Mortgage,3.1347000040113926,valide,,Mortgage,logistic_regression
+2945722,573,Vehicle loan or lease,1.9090999849140644,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2947037,337,Debt collection,2.0079000387340784,valide,,Debt collection,logistic_regression
+2947055,485,Debt collection,2.3806000244803727,valide,,Debt collection,logistic_regression
+2949141,1211,"Credit reporting, credit repair services, or other personal consumer reports",3.277399984654039,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2950223,1055,"Credit reporting, credit repair services, or other personal consumer reports",2.044400025624782,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2950779,506,Mortgage,1.8366000149399042,valide,,Mortgage,logistic_regression
+2951326,727,Debt collection,1.6751000075601041,valide,,Debt collection,logistic_regression
+2951769,881,"Credit reporting, credit repair services, or other personal consumer reports",1.6650999896228313,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2951953,1206,Vehicle loan or lease,1.5603999490849674,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2959288,764,"Credit reporting, credit repair services, or other personal consumer reports",2.311799966264516,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2959354,5677,Checking or savings account,6.573599996045232,valide,,Checking or savings account,logistic_regression
+2961313,705,Debt collection,2.030799980275333,valide,,Debt collection,logistic_regression
+2962490,251,"Credit reporting, credit repair services, or other personal consumer reports",1.4692999538965523,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2963679,261,Debt collection,1.3914000010117888,valide,,Debt collection,logistic_regression
+2965141,2064,Checking or savings account,2.3589999764226377,valide,,Checking or savings account,logistic_regression
+2965501,97,"Payday loan, title loan, or personal loan",1.2608000542968512,valide,,Mortgage,logistic_regression
+2965745,648,Credit card,1.8031999934464693,valide,,Student loan,logistic_regression
+2965820,1047,Debt collection,1.5917000127956271,valide,,Debt collection,logistic_regression
+2966950,841,Debt collection,2.07430002046749,valide,,Debt collection,logistic_regression
+2967387,1130,"Credit reporting, credit repair services, or other personal consumer reports",2.0757000311277807,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2969169,511,"Credit reporting, credit repair services, or other personal consumer reports",1.4738999889232218,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2970075,461,Credit card or prepaid card,1.4712000265717506,valide,,Credit card or prepaid card,logistic_regression
+2970445,1201,Mortgage,2.1732000168412924,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2970971,614,Debt collection,1.698100008070469,valide,,Debt collection,logistic_regression
+2975533,641,Debt collection,1.7435000045225024,valide,,Debt collection,logistic_regression
+2977116,744,"Credit reporting, credit repair services, or other personal consumer reports",2.0289000240154564,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2980155,306,Checking or savings account,1.6902000061236322,valide,,Checking or savings account,logistic_regression
+2980894,1178,Mortgage,2.815699961502105,valide,,Mortgage,logistic_regression
+2980922,517,"Credit reporting, credit repair services, or other personal consumer reports",1.832400041166693,valide,,Debt collection,logistic_regression
+2981228,4920,Mortgage,9.43350000306964,valide,,Mortgage,logistic_regression
+2981747,450,Debt collection,2.6939999661408365,valide,,Debt collection,logistic_regression
+2982227,825,Debt collection,2.976900024805218,valide,,Debt collection,logistic_regression
+2982752,2245,Debt collection,3.5380999906919897,valide,,Debt collection,logistic_regression
+2984334,453,"Credit reporting, credit repair services, or other personal consumer reports",1.7874000477604568,valide,,Credit card or prepaid card,logistic_regression
+2984471,329,Bank account or service,1.67559995315969,valide,,Checking or savings account,logistic_regression
+2984878,1216,Credit card or prepaid card,2.0700000459328294,valide,,Credit card or prepaid card,logistic_regression
+2985086,2322,Debt collection,2.599800005555153,valide,,Debt collection,logistic_regression
+2988918,519,Debt collection,1.7564999870955944,valide,,Debt collection,logistic_regression
+2989074,180,"Credit reporting, credit repair services, or other personal consumer reports",1.6605000128038228,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2989152,757,Credit card or prepaid card,1.810799993108958,valide,,Credit card or prepaid card,logistic_regression
+2990321,838,"Credit reporting, credit repair services, or other personal consumer reports",1.7766000237315893,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2991914,975,Bank account or service,1.8292000168003142,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2992049,700,Credit card or prepaid card,1.8139000167138875,valide,,"Money transfer, virtual currency, or money service",logistic_regression
+2995214,2030,Checking or savings account,2.522900002077222,valide,,Checking or savings account,logistic_regression
+2995327,1322,Debt collection,2.0997999818064272,valide,,Debt collection,logistic_regression
+2995645,549,Credit card,1.7654000548645854,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2995901,928,Debt collection,1.8921999726444483,valide,,Debt collection,logistic_regression
+2995903,94,Debt collection,1.2854000087827444,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2997960,468,Checking or savings account,1.6537999617867172,valide,,Checking or savings account,logistic_regression
+2998589,353,"Credit reporting, credit repair services, or other personal consumer reports",1.4432999887503684,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+2998764,1039,Checking or savings account,2.0688999793492258,valide,,Debt collection,logistic_regression
+2999333,5159,Debt collection,4.573900019749999,valide,,Debt collection,logistic_regression
+2999560,1813,Credit card or prepaid card,3.42110003111884,valide,,Debt collection,logistic_regression
+3000520,345,Credit reporting,2.0435999613255262,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3001349,267,Debt collection,1.5243000234477222,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3001489,2676,Mortgage,3.9423999842256308,valide,,Mortgage,logistic_regression
+3001960,237,"Credit reporting, credit repair services, or other personal consumer reports",1.9534999737516046,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3004444,241,Debt collection,1.6880000475794077,valide,,Debt collection,logistic_regression
+3005013,2229,Checking or savings account,2.9731999966315925,valide,,Checking or savings account,logistic_regression
+3005627,1624,Credit card or prepaid card,3.8810999831184745,valide,,Credit card or prepaid card,logistic_regression
+3006551,760,"Credit reporting, credit repair services, or other personal consumer reports",2.357900026254356,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3007094,684,"Credit reporting, credit repair services, or other personal consumer reports",2.149400010239333,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3007982,2419,"Credit reporting, credit repair services, or other personal consumer reports",3.436499973759055,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3008649,227,"Money transfer, virtual currency, or money service",1.6589000006206334,valide,,Debt collection,logistic_regression
+3010101,3243,Checking or savings account,3.3705999958328903,valide,,Checking or savings account,logistic_regression
+3010467,1188,"Credit reporting, credit repair services, or other personal consumer reports",2.03730002976954,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3013473,62,Student loan,1.0164999985136092,valide,,Student loan,logistic_regression
+3013798,746,"Credit reporting, credit repair services, or other personal consumer reports",2.153499983251095,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3013984,612,Debt collection,1.7991000204347074,valide,,Debt collection,logistic_regression
+3015672,152,"Credit reporting, credit repair services, or other personal consumer reports",1.777700032107532,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3022242,245,"Credit reporting, credit repair services, or other personal consumer reports",1.9788999925367534,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3022695,2338,Mortgage,3.292800043709576,valide,,Mortgage,logistic_regression
+3022812,800,Checking or savings account,1.9973000162281096,valide,,Checking or savings account,logistic_regression
+3022874,856,"Credit reporting, credit repair services, or other personal consumer reports",2.8778999694623053,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3023307,2963,Credit card or prepaid card,4.388800007291138,valide,,Credit card or prepaid card,logistic_regression
+3023544,3273,"Credit reporting, credit repair services, or other personal consumer reports",3.3910999773070216,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3024716,410,Mortgage,3.0181999900378287,valide,,Mortgage,logistic_regression
+3026809,1853,Debt collection,7.174900034442544,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3026889,1606,Debt collection,3.113200014922768,valide,,Debt collection,logistic_regression
+3029598,1959,Checking or savings account,2.855299971997738,valide,,Checking or savings account,logistic_regression
+3031067,244,"Credit reporting, credit repair services, or other personal consumer reports",1.7166999750770628,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3031780,426,"Credit reporting, credit repair services, or other personal consumer reports",1.5981000033207238,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3036926,1075,Checking or savings account,2.2432999685406685,valide,,Checking or savings account,logistic_regression
+3037158,463,Credit card or prepaid card,1.6942000365816057,valide,,Student loan,logistic_regression
+3039163,890,Checking or savings account,2.3871000157669187,valide,,Checking or savings account,logistic_regression
+3039456,842,Checking or savings account,3.355499997269362,valide,,"Money transfer, virtual currency, or money service",logistic_regression
+3039483,2517,Mortgage,3.4502000198699534,valide,,Mortgage,logistic_regression
+3039677,387,Payday loan,1.7835000180639327,valide,,"Payday loan, title loan, or personal loan",logistic_regression
+3041720,979,Debt collection,2.09500000346452,valide,,Debt collection,logistic_regression
+3042079,425,"Credit reporting, credit repair services, or other personal consumer reports",2.111000008881092,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3043304,893,Credit card or prepaid card,2.1109000081196427,valide,,Credit card or prepaid card,logistic_regression
+3043421,723,"Credit reporting, credit repair services, or other personal consumer reports",1.7835000180639327,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3043501,2091,"Credit reporting, credit repair services, or other personal consumer reports",2.5236000074073672,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3043810,319,Debt collection,1.9647000008262694,valide,,Debt collection,logistic_regression
+3043841,849,"Credit reporting, credit repair services, or other personal consumer reports",2.3536999942734838,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3045436,684,Debt collection,1.9703999860212207,valide,,Debt collection,logistic_regression
+3045831,423,Credit card or prepaid card,1.8170999828726053,valide,,Credit card or prepaid card,logistic_regression
+3047418,1136,Credit card or prepaid card,2.3034000187180936,valide,,Credit card or prepaid card,logistic_regression
+3047890,1771,Student loan,2.8540000203065574,valide,,Student loan,logistic_regression
+3053078,1493,Vehicle loan or lease,2.67580000218004,valide,,Vehicle loan or lease,logistic_regression
+3053691,2278,"Credit reporting, credit repair services, or other personal consumer reports",3.3768999855965376,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3054161,1383,"Credit reporting, credit repair services, or other personal consumer reports",2.299299987498671,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3054473,1183,"Credit reporting, credit repair services, or other personal consumer reports",2.9166999738663435,valide,,Debt collection,logistic_regression
+3054679,289,Debt collection,1.8491000519134104,valide,,Student loan,logistic_regression
+3055868,1562,Debt collection,2.507800003513694,valide,,Debt collection,logistic_regression
+3057906,1247,"Credit reporting, credit repair services, or other personal consumer reports",2.354600001126528,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3058054,136,Checking or savings account,1.568900013808161,valide,,Credit card or prepaid card,logistic_regression
+3059236,3918,Mortgage,3.7025000201538205,valide,,Mortgage,logistic_regression
+3059722,103,Payday loan,1.5358999953605235,valide,,"Payday loan, title loan, or personal loan",logistic_regression
+3061435,966,"Credit reporting, credit repair services, or other personal consumer reports",2.115099981892854,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3062187,138,Credit reporting,1.7228999640792608,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3062332,972,Mortgage,1.9587999559007585,valide,,Mortgage,logistic_regression
+3062500,1934,"Credit reporting, credit repair services, or other personal consumer reports",2.726699982304126,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3062884,349,Mortgage,1.533100032247603,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3063721,625,"Payday loan, title loan, or personal loan",1.576900016516447,valide,,"Payday loan, title loan, or personal loan",logistic_regression
+3065271,1024,Debt collection,1.8297999631613493,valide,,Debt collection,logistic_regression
+3065561,1467,"Credit reporting, credit repair services, or other personal consumer reports",2.1701999939978123,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3066648,297,"Credit reporting, credit repair services, or other personal consumer reports",1.742499996908009,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3066838,230,"Credit reporting, credit repair services, or other personal consumer reports",1.6686000162735581,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3068002,545,Mortgage,2.0483999978750944,valide,,"Payday loan, title loan, or personal loan",logistic_regression
+3070408,539,Debt collection,1.8760000239126384,valide,,Debt collection,logistic_regression
+3073046,5952,Vehicle loan or lease,4.840399953536689,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3074506,2843,Checking or savings account,3.4779999987222254,valide,,Checking or savings account,logistic_regression
+3076377,673,Consumer Loan,1.9681000267155468,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3076926,652,"Credit reporting, credit repair services, or other personal consumer reports",1.852499961387366,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3079683,1064,Debt collection,2.092399983666837,valide,,Debt collection,logistic_regression
+3081670,846,Credit card or prepaid card,1.875300018582493,valide,,Credit card or prepaid card,logistic_regression
+3081813,5891,"Credit reporting, credit repair services, or other personal consumer reports",4.525900003500283,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3082208,621,Debt collection,2.0631999941542745,valide,,Debt collection,logistic_regression
+3082355,659,Debt collection,2.079900004900992,valide,,Debt collection,logistic_regression
+3084137,1022,Credit reporting,2.2327000042423606,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3084154,660,Debt collection,1.8293000175617635,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3085016,252,"Credit reporting, credit repair services, or other personal consumer reports",1.490199996624142,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3085979,1934,Checking or savings account,2.6879000361077487,valide,,Checking or savings account,logistic_regression
+3086601,1413,Checking or savings account,3.522799990605563,valide,,Checking or savings account,logistic_regression
+3089069,1195,"Payday loan, title loan, or personal loan",2.54829996265471,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3093780,139,"Credit reporting, credit repair services, or other personal consumer reports",1.4548000181093812,valide,,Debt collection,logistic_regression
+3094334,542,Bank account or service,1.7746000085026026,valide,,Checking or savings account,logistic_regression
+3095146,1749,Debt collection,2.5030000251717865,valide,,Debt collection,logistic_regression
+3097669,593,"Credit reporting, credit repair services, or other personal consumer reports",2.8301000129431486,valide,,Debt collection,logistic_regression
+3098559,1138,Credit card or prepaid card,2.7555000269785523,valide,,Debt collection,logistic_regression
+3098574,1509,Debt collection,4.0689000161364675,valide,,Debt collection,logistic_regression
+3099029,774,Student loan,2.13199999416247,valide,,Student loan,logistic_regression
+3100826,280,Credit card or prepaid card,1.9663999555632472,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3101164,603,"Credit reporting, credit repair services, or other personal consumer reports",2.0049000158905983,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3103082,1576,Credit card or prepaid card,2.6177000254392624,valide,,Credit card or prepaid card,logistic_regression
+3105500,5549,Mortgage,5.813600029796362,valide,,Mortgage,logistic_regression
+3105774,294,"Credit reporting, credit repair services, or other personal consumer reports",1.7534000216983259,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3106478,540,"Credit reporting, credit repair services, or other personal consumer reports",2.3766999947838485,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3106752,693,"Credit reporting, credit repair services, or other personal consumer reports",2.06389999948442,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3107512,1264,Credit card or prepaid card,2.08320003002882,valide,,Credit card or prepaid card,logistic_regression
+3108587,1348,"Credit reporting, credit repair services, or other personal consumer reports",2.3436000337824225,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3111473,625,"Credit reporting, credit repair services, or other personal consumer reports",1.6567999846301973,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3112411,650,Student loan,1.628900005016476,valide,,Student loan,logistic_regression
+3113061,361,Debt collection,1.84299994725734,valide,,Debt collection,logistic_regression
+3116153,473,Consumer Loan,1.7726999940350652,valide,,"Payday loan, title loan, or personal loan",logistic_regression
+3116837,620,Credit card or prepaid card,2.170699997805059,valide,,Credit card or prepaid card,logistic_regression
+3117155,1397,Mortgage,2.559299988206476,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3117933,3394,Mortgage,3.771000017877668,valide,,Mortgage,logistic_regression
+3120960,1237,Mortgage,2.1268000127747655,valide,,Mortgage,logistic_regression
+3121453,685,Credit reporting,1.4476000214926898,valide,,Debt collection,logistic_regression
+3121807,1147,"Credit reporting, credit repair services, or other personal consumer reports",1.573299989104271,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3121879,400,Checking or savings account,1.8831000197678804,valide,,Debt collection,logistic_regression
+3123121,132,"Credit reporting, credit repair services, or other personal consumer reports",2.203499956522137,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3125861,573,Student loan,2.002499997615814,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3128186,493,Debt collection,1.774100004695356,valide,,Debt collection,logistic_regression
+3129060,472,Debt collection,1.7449000151827931,valide,,Debt collection,logistic_regression
+3133615,1178,Mortgage,2.104200015310198,valide,,Mortgage,logistic_regression
+3133909,800,"Credit reporting, credit repair services, or other personal consumer reports",1.7001000232994556,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3135218,1357,"Credit reporting, credit repair services, or other personal consumer reports",2.064000000245869,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3136784,1309,Credit reporting,2.2544999956153333,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3138487,595,"Payday loan, title loan, or personal loan",1.808399974834174,valide,,"Payday loan, title loan, or personal loan",logistic_regression
+3138593,990,"Credit reporting, credit repair services, or other personal consumer reports",1.972600002773106,valide,,"Payday loan, title loan, or personal loan",logistic_regression
+3139093,1248,Student loan,2.1720000077039003,valide,,Student loan,logistic_regression
+3139508,709,Student loan,1.9180999952368438,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3139633,289,"Credit reporting, credit repair services, or other personal consumer reports",1.465700042899698,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3140013,553,Debt collection,1.6027000383473933,valide,,Debt collection,logistic_regression
+3141937,543,Student loan,1.64309999672696,valide,,Student loan,logistic_regression
+3142011,1286,Checking or savings account,2.5580000365152955,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3144860,133,Credit reporting,1.8020999850705266,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3145374,1306,Mortgage,2.2689999896101654,valide,,Debt collection,logistic_regression
+3146111,516,"Credit reporting, credit repair services, or other personal consumer reports",1.8372999620623887,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3146903,1910,Debt collection,3.386500000488013,valide,,Debt collection,logistic_regression
+3147293,322,Credit reporting,2.009799994993955,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3149319,105,"Credit reporting, credit repair services, or other personal consumer reports",1.6533000161871314,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3151172,982,Student loan,2.765699988231063,valide,,Student loan,logistic_regression
+3153390,739,Vehicle loan or lease,2.9624999733641744,valide,,Vehicle loan or lease,logistic_regression
+3156201,1472,"Credit reporting, credit repair services, or other personal consumer reports",3.0647999956272542,valide,,"Credit reporting, credit repair services, or other personal consumer reports",logistic_regression
+3159921,810,"Credit reporting, credit repair services, or other personal consumer reports",2.2096000029705465,valide,,Debt collection,logistic_regression
+3169400,440,Debt collection,1.859300013165921,valide,,Debt collection,logistic_regression
+3169543,949,Mortgage,2.6103000272996724,valide,,Mortgage,logistic_regression

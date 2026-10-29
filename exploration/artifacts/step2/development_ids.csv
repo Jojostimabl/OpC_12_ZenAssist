@@ -1,0 +1,21 @@
+source_record,partition,complaint_id,label
+901504,train,1326394,Payday loan
+835244,train,1540909,Credit reporting
+820070,train,1583551,Credit reporting
+808149,train,1621079,Virtual currency
+785643,train,1692983,Prepaid card
+726594,train,1876575,Debt collection
+674183,train,2026686,Other financial service
+612766,train,2200667,Mortgage
+584919,train,2274667,Bank account or service
+578463,train,2290335,Credit card
+554884,train,2346165,Consumer Loan
+525682,train,2418116,Money transfers
+389973,train,2705526,Credit card or prepaid card
+356381,train,2751107,Checking or savings account
+338616,train,2775143,"Money transfer, virtual currency, or money service"
+269036,train,2866779,Student loan
+226606,train,2923927,Vehicle loan or lease
+139403,train,3040667,"Payday loan, title loan, or personal loan"
+99238,train,3095313,Checking or savings account
+50303,train,3162534,"Credit reporting, credit repair services, or other personal consumer reports"

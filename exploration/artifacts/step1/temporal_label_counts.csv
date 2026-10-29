@@ -1,0 +1,148 @@
+annee,label,avec_texte,nombre
+2019,"Credit reporting, credit repair services, or other personal consumer reports",False,33712
+2019,Debt collection,False,11635
+2019,Credit card or prepaid card,False,6264
+2019,Mortgage,False,5865
+2019,Checking or savings account,False,5524
+2019,Student loan,False,2122
+2019,Vehicle loan or lease,False,1359
+2019,"Money transfer, virtual currency, or money service",False,1108
+2019,"Payday loan, title loan, or personal loan",False,946
+2019,"Credit reporting, credit repair services, or other personal consumer reports",True,7230
+2019,Debt collection,True,3653
+2019,Credit card or prepaid card,True,1734
+2019,Mortgage,True,1516
+2019,Student loan,True,893
+2019,Checking or savings account,True,1141
+2019,Vehicle loan or lease,True,430
+2019,"Payday loan, title loan, or personal loan",True,380
+2019,"Money transfer, virtual currency, or money service",True,355
+2018,"Credit reporting, credit repair services, or other personal consumer reports",False,62647
+2018,"Credit reporting, credit repair services, or other personal consumer reports",True,48995
+2018,Debt collection,True,26176
+2018,Debt collection,False,25035
+2018,Checking or savings account,False,14215
+2018,Credit card or prepaid card,False,12397
+2018,Credit card or prepaid card,True,11854
+2018,Mortgage,False,14323
+2018,Mortgage,True,10257
+2018,Checking or savings account,True,6997
+2018,Student loan,True,5291
+2018,Vehicle loan or lease,True,3268
+2018,Student loan,False,3490
+2018,"Money transfer, virtual currency, or money service",True,3243
+2018,"Payday loan, title loan, or personal loan",True,2398
+2018,Vehicle loan or lease,False,2626
+2018,"Money transfer, virtual currency, or money service",False,2192
+2018,"Payday loan, title loan, or personal loan",False,1975
+2017,"Credit reporting, credit repair services, or other personal consumer reports",False,37241
+2017,"Credit reporting, credit repair services, or other personal consumer reports",True,36153
+2017,Debt collection,True,23592
+2017,Debt collection,False,24365
+2017,Mortgage,False,17438
+2017,Checking or savings account,False,8021
+2017,Credit card or prepaid card,False,7613
+2017,Credit card or prepaid card,True,7791
+2017,Mortgage,True,13141
+2017,"Money transfer, virtual currency, or money service",True,1868
+2017,Checking or savings account,True,4743
+2017,"Money transfer, virtual currency, or money service",False,1398
+2017,Student loan,True,9642
+2017,Student loan,False,7531
+2017,Vehicle loan or lease,True,2047
+2017,"Payday loan, title loan, or personal loan",True,1643
+2017,"Payday loan, title loan, or personal loan",False,1317
+2017,Vehicle loan or lease,False,1647
+2017,Credit reporting,False,10338
+2017,Credit reporting,True,6249
+2017,Bank account or service,False,4387
+2017,Credit card,False,3972
+2017,Credit card,True,3161
+2017,Bank account or service,True,2569
+2017,Consumer Loan,True,1828
+2017,Consumer Loan,False,1729
+2017,Payday loan,False,227
+2017,Payday loan,True,266
+2017,Money transfers,True,224
+2017,Prepaid card,True,186
+2017,Prepaid card,False,263
+2017,Money transfers,False,216
+2017,Other financial service,False,100
+2017,Other financial service,True,66
+2017,Virtual currency,True,3
+2016,Credit reporting,False,29000
+2016,Debt collection,False,21753
+2016,Mortgage,False,25696
+2016,Debt collection,True,18716
+2016,Mortgage,True,15770
+2016,Credit reporting,True,15081
+2016,Bank account or service,False,14091
+2016,Credit card,False,11631
+2016,Credit card,True,9434
+2016,Bank account or service,True,7757
+2016,Consumer Loan,False,4930
+2016,Consumer Loan,True,4672
+2016,Student loan,True,4179
+2016,Student loan,False,3908
+2016,Prepaid card,False,758
+2016,Money transfers,True,711
+2016,Payday loan,False,700
+2016,Payday loan,True,866
+2016,Money transfers,False,856
+2016,Prepaid card,True,492
+2016,Other financial service,False,326
+2016,Other financial service,True,139
+2016,Virtual currency,True,6
+2016,Virtual currency,False,1
+2015,Mortgage,False,30042
+2015,Credit reporting,False,24014
+2015,Debt collection,False,25163
+2015,Debt collection,True,14573
+2015,Mortgage,True,12303
+2015,Bank account or service,False,12581
+2015,Credit reporting,True,10258
+2015,Credit card,False,11057
+2015,Credit card,True,6243
+2015,Bank account or service,True,4559
+2015,Consumer Loan,False,4912
+2015,Consumer Loan,True,2974
+2015,Student loan,True,1805
+2015,Student loan,False,2696
+2015,Money transfers,False,1057
+2015,Prepaid card,False,1012
+2015,Prepaid card,True,772
+2015,Payday loan,True,615
+2015,Money transfers,True,562
+2015,Payday loan,False,970
+2015,Other financial service,False,225
+2015,Other financial service,True,87
+2015,Virtual currency,True,7
+2014,Debt collection,False,39143
+2014,Mortgage,False,42961
+2014,Credit reporting,False,29239
+2014,Credit card,False,13974
+2014,Bank account or service,False,14662
+2014,Consumer Loan,False,5457
+2014,Student loan,False,4283
+2014,Payday loan,False,1706
+2014,Money transfers,False,1169
+2014,Prepaid card,False,336
+2014,Other financial service,False,116
+2014,Virtual currency,False,1
+2013,Mortgage,False,49401
+2013,Debt collection,False,11069
+2013,Credit reporting,False,14380
+2013,Credit card,False,13105
+2013,Bank account or service,False,13388
+2013,Consumer Loan,False,3117
+2013,Student loan,False,3005
+2013,Payday loan,False,194
+2013,Money transfers,False,559
+2012,Mortgage,False,38109
+2012,Credit card,False,15353
+2012,Bank account or service,False,12212
+2012,Credit reporting,False,1873
+2012,Student loan,False,2840
+2012,Consumer Loan,False,1986
+2011,Mortgage,False,1276
+2011,Credit card,False,1260

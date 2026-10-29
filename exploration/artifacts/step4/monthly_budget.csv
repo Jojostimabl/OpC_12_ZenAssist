@@ -1,0 +1,11 @@
+scenario,approach,model,tickets_per_month,api_usd,hosting_low_usd,hosting_high_usd,maintenance_low_h,maintenance_high_h,budget_low_usd,budget_high_usd
+pilot,LLM,deepseek/deepseek-v4-flash-0731,30000,2.6127528456,0,0,2,4,102.6127528456,202.6127528456
+pilot,LLM,openai/gpt-6-luna,30000,2.5775377499999967,0,0,2,4,102.57753774999999,202.57753775
+pilot,LLM,openai/gpt-6.1-terra,30000,26.1233775,0,0,2,4,126.1233775,226.1233775
+pilot,LLM,qwen/qwen3.8-flash,30000,2.1838254,0,0,2,4,102.1838254,202.1838254
+pilot,ML,logistic_regression,30000,0.0,6,12,3,6,156.0,312.0
+global,LLM,deepseek/deepseek-v4-flash-0731,1200000,104.51011382400002,0,0,2,4,204.51011382400003,304.51011382400003
+global,LLM,openai/gpt-6-luna,1200000,103.10150999999988,0,0,2,4,203.10150999999988,303.10150999999985
+global,LLM,openai/gpt-6.1-terra,1200000,1044.9351,0,0,2,4,1144.9351,1244.9351
+global,LLM,qwen/qwen3.8-flash,1200000,87.353016,0,0,2,4,187.353016,287.353016
+global,ML,logistic_regression,1200000,0.0,6,12,3,6,156.0,312.0

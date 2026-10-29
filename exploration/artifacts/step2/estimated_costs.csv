@@ -1,0 +1,5 @@
+model,input_usd_per_million,output_usd_per_million,calls,estimate_low_usd,estimate_high_usd
+deepseek/deepseek-v4-flash-0731,0.15,0.15,1060,0.13176345,0.36400965
+openai/gpt-6-luna,0.09999999999999999,0.5,1060,0.11497829999999999,0.3512171
+qwen/qwen3.8-flash,0.15,0.47,1060,0.15347225,0.45084484999999996
+openai/gpt-6.1-terra,1.0,5.0,1060,1.149783,3.512171

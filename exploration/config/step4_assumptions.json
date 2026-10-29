@@ -1,0 +1,72 @@
+{
+  "analysis_date": "2026-10-28",
+  "measurement_date": "2026-10-19",
+  "days_per_month": 30,
+  "pilot_tickets_per_day": 1000,
+  "global_tickets_per_day": 40000,
+  "calls_per_ticket": 1,
+  "hourly_rate_usd": 50,
+  "hourly_rate_status": "Convention de calcul modifiable, pas un tarif convenu avec le client",
+  "implementation_tasks": [
+    {
+      "task": "Client fournisseur / API Python et chargement du pipeline",
+      "llm_low_h": 3,
+      "llm_high_h": 5,
+      "ml_low_h": 4,
+      "ml_high_h": 6
+    },
+    {
+      "task": "Validation et erreurs LLM / export du modèle et CI de release",
+      "llm_low_h": 3,
+      "llm_high_h": 5,
+      "ml_low_h": 4,
+      "ml_high_h": 8
+    },
+    {
+      "task": "Interface React, chargement et confirmation humaine",
+      "llm_low_h": 2,
+      "llm_high_h": 4,
+      "ml_low_h": 2,
+      "ml_high_h": 4
+    },
+    {
+      "task": "Tests, déploiement du pilote et vérification produit",
+      "llm_low_h": 4,
+      "llm_high_h": 6,
+      "ml_low_h": 6,
+      "ml_high_h": 10
+    },
+    {
+      "task": "Suivi, documentation et transmission à l'équipe",
+      "llm_low_h": 2,
+      "llm_high_h": 4,
+      "ml_low_h": 4,
+      "ml_high_h": 6
+    }
+  ],
+  "implementation_scope": "Développeur connaissant le dépôt fourni, données et modèles de la mission 1 disponibles, application et authentification existantes. Heures de travail estimées, hors refonte métier, achats, attente d'accès et audit réglementaire.",
+  "maintenance_llm_h_per_month": [
+    2,
+    4
+  ],
+  "maintenance_ml_h_per_month": [
+    3,
+    6
+  ],
+  "maintenance_status": "Hypothèses de budget, à confirmer après le pilote ; incidents majeurs et nouvelle collecte d'annotations exclus",
+  "ml_incremental_hosting_usd_per_month": [
+    6,
+    12
+  ],
+  "ml_hosting_reference": "DigitalOcean Basic Regular : 1 vCPU / 1 GiB à 6 USD/mois ; 1 vCPU / 2 GiB à 12 USD/mois",
+  "ml_hosting_source": "https://www.digitalocean.com/pricing/droplets",
+  "hosting_verified_date": "2026-10-25",
+  "hosting_status": "Scénario de serveur supplémentaire pour l'inférence ; RAM et capacité à valider en charge. Ce n'est pas un devis ni un dimensionnement garanti.",
+  "excluded_common_costs": "Hébergement de l'application existante, base de données et authentification communs aux deux options ; taxes, frais de recharge OpenRouter, stockage et observabilité supplémentaires, entraînements récurrents et incidents hors hypothèses.",
+  "llm_projection_status": "Extrapolation des coûts réellement retournés le 19 octobre 2026, mêmes longueurs, prompts, effets de cache et fournisseur. Ce ne sont pas des tarifs garantis au 25 octobre.",
+  "decision": "Privilégier la régression logistique pondérée comme aide à l'étiquetage, avec confirmation humaine. Conserver le SVM comme alternative à réévaluer si l'accuracy devient prioritaire. Pour les livrables, suivre la séquence pédagogique LLM en mission 2 puis ML en mission 3.",
+  "measurement_dates": {
+    "initial_models": "2026-10-19",
+    "openai/gpt-6.1-terra": "2026-10-28"
+  }
+}
