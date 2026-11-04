@@ -53,7 +53,6 @@ Le script `python -m scripts.export_model` vérifie la provenance et l’environ
 
 Python 3.13 et les versions exactes de scikit-learn, NumPy, SciPy et joblib sont conservés. `uv.lock` fixe également les dépendances API et de test. Les formats pickle/joblib pouvant exécuter du code au chargement, utiliser exclusivement les fichiers de notre dépôt ou de nos releases approuvées ; une empreinte vérifie l’intégrité, pas l’identité d’un fournisseur inconnu.
 
-Pour promouvoir un nouveau modèle depuis le projet d’étude complet : `uv run python scripts/prepare_mission3_training.py` à la racine du projet d’étude, puis contrôler les nouveaux artefacts et tests avant de les versionner. Ce script de promotion n’est pas requis pour servir ou republier le modèle déjà inclus.
 
 ## Tests et publication
 

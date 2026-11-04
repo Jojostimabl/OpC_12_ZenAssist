@@ -1,6 +1,6 @@
 # ZenAssist — mission 3, classification ML
 
-Cette branche `mission-3-ml` réunit l’application [JavaScript/Next.js](javascript/README.md) et le [service Python/FastAPI](ml-service/README.md) dans le même dépôt. La variante `typescript/` est le starter officiel inchangé et ne contient pas cette intégration. La version LLM de mission 2 est conservée sur `main`, commit `f41c052`.
+Cette branche `mission-3-ml` réunit l’application [JavaScript/Next.js](javascript/README.md) et le [service Python/FastAPI](ml-service/README.md) dans le même dépôt. La version LLM de mission 2 est conservée sur `main`, commit `f41c052`.
 
 ## Démarrage local
 
@@ -52,4 +52,4 @@ La première exécution de `uv sync` peut télécharger Python 3.13.5. Les dépe
 
 Pour tester l’indisponibilité, arrêter le terminal Python puis cliquer **Auto-tag** : un message doit s’afficher et l’étiquette doit rester inchangée. Relancer Python pour rétablir l’analyse.
 
-Le [workflow de release](.github/workflows/release-model.yml) exporte le pipeline entraîné en `model.pkl`, teste l’API puis joint le modèle, ses métadonnées et ses métriques à une release GitHub publiée. Le lancement manuel produit un artefact téléchargeable sans créer de release. Le workflow devra être poussé sur votre propre dépôt GitHub ; aucun push ni publication n’a été effectué ici.
+Le [workflow de release](.github/workflows/release-model.yml) exporte le pipeline entraîné en `model.pkl`, teste l’API puis joint le modèle, ses métadonnées et ses métriques à une release GitHub publiée. Le lancement manuel produit un artefact téléchargeable sans créer de release. Publier une release visant cette branche pour déclencher le workflow.

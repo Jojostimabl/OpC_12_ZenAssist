@@ -41,7 +41,7 @@ La réponse affiche le temps mesuré dans le navigateur, jusqu’à réception d
 
 Le modèle Python est chargé une seule fois. Timeout d’appel interne : 10 s ; timeout navigateur : 15 s. Les demandes simultanées du même ticket sont regroupées, deux tickets distincts maximum par processus. Les erreurs de réseau, HTTP, JSON ou catégorie invalide restent affichées sans enregistrement. Aucun repli vers un fournisseur externe.
 
-Le SDK, les prompts et les modules d’intégration fournisseur ont été retirés de cette version. Next.js 15.5.28, React 19.1.10, CSS Modules et pilote PostgreSQL `pg` sont conservés. La variante `../typescript/` reste le starter inchangé.
+Le SDK, les prompts et les modules d’intégration fournisseur ont été retirés de cette version. Next.js 15.5.28, React 19.1.10, CSS Modules et pilote PostgreSQL `pg` sont conservés.
 
 ## Vérifications automatiques
 
