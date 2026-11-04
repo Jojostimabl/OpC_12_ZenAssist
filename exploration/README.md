@@ -7,8 +7,8 @@ enregistrées de toute la mission : préparation, quatre LLM (Terra compris), tr
 algorithmes ML et référence majoritaire, erreurs, temps de réponse, coûts et recommandation.
 Il est consultable directement sur GitHub sans installation ni clé API.
 
-Les modules `src/`, scripts d'exécution, tests, paramètres et dépendances verrouillées
-sont inclus, ainsi que les résultats CSV/JSON et les graphiques utilisés par le notebook.
+Les modules `src/`, scripts de calcul, tests, paramètres et dépendances verrouillées
+sont inclus, ainsi que les résultats CSV/JSON lus par le notebook. Ses cellules génèrent les graphiques.
 Les applications sont à la racine du dépôt : `main` pour le LLM, `mission-3-ml` pour le ML.
 
 ## Réexécution locale
@@ -23,10 +23,6 @@ Les applications sont à la racine du dépôt : `main` pour le LLM, `mission-3-m
 4. Les étapes LLM/ML lisent les résultats publiés : le notebook ne déclenche aucun appel
    fournisseur ni nouvel entraînement. Les scripts `run_step2.py` et `run_step3.py`
    servent aux exécutions explicites ; le premier nécessite une clé et peut être payant.
-5. La toute dernière cellule vérifie le support de présentation livré séparément :
-   placer sa version finale dans `livrables/ZenAssist_Mission1_Recommandation.pptx`
-   sous ce dossier pour satisfaire cette vérification. Le PowerPoint est en cours de mise à jour
-   et ne fait pas partie de cette publication du code.
 
 Le CSV de 639 Mo, la base SQLite, les environnements, clés privées et caches sont exclus.
 Les sorties enregistrées sont conservées telles quelles. Les mesures historiques datent du
@@ -36,4 +32,5 @@ Les sorties enregistrées sont conservées telles quelles. Les mesures historiqu
 
 `uv run python -m unittest discover -s tests -v`
 
-Le contenu publié est décrit et vérifiable dans `publication_manifest.json`.
+Les scripts `finalize_step2.py`, `finalize_step3.py` et `finalize_step4.py` calculent
+les métriques comparatives et les budgets à partir des résultats des évaluations.

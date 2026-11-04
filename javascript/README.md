@@ -48,7 +48,7 @@ La proposition seule ne modifie jamais la base. Réponses malformées, étiquett
 
 `OPENROUTER_MODEL=qwen/qwen3.8-flash` par défaut. Les autres configurations évaluées sont `deepseek/deepseek-v4-flash-0731` et `openai/gpt-6-luna`. Un modèle inconnu est refusé, sans remplacement silencieux.
 
-Les prompts sélectionnés en mission 1 sont repris **à l’identique**, avec les 18 étiquettes d’origine. `src/server/llm-config.json` contient leurs textes, empreintes et paramètres. Régénération depuis la racine : `uv run python scripts/export_mission2_config.py`.
+Les prompts sélectionnés en mission 1 sont repris **à l’identique**, avec les 18 étiquettes d’origine. `src/server/llm-config.json` contient leurs textes, empreintes et paramètres.
 
 Le serveur lit le texte complet du ticket en PostgreSQL, appelle OpenRouter et valide strictement le JSON `{ "label": "..." }`. Limite de 100 000 caractères, sans troncature silencieuse. La réponse interne contient l’étiquette, le modèle, la durée en millisecondes et le coût USD s’il est fourni. Les plafonds de prix sont ceux du catalogue de mission 1 : une hausse ou un paramètre non pris en charge entraîne une erreur explicite.
 
@@ -71,4 +71,4 @@ Les tests navigateur simulent uniquement les réponses de la route LLM pour ne r
 
 ## Périmètre
 
-Prototype local pédagogique, sans authentification comme le starter. Avant exposition publique : authentification, droits, limitation persistante des appels, suivi des coûts et politique de données. Les données envoyées à OpenRouter quittent le poste ; les essais réels utilisent les tickets publics de démonstration. Aucun entraînement ou évaluation de mission 1 n’est relancé. L’intégration ML de mission 3 reste à réaliser.
+Prototype local pédagogique, sans authentification comme le starter. Avant exposition publique : authentification, droits, limitation persistante des appels, suivi des coûts et politique de données. Les données envoyées à OpenRouter quittent le poste ; les essais réels utilisent les tickets publics de démonstration. Aucun entraînement ou évaluation de mission 1 n’est relancé. La version ML est disponible sur la branche `mission-3-ml`.

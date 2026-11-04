@@ -1,2 +1,2 @@
-# Preserve the exact published bytes recorded in publication_manifest.json.
+# Preserve source bytes and recorded experiment hashes.
 * -text
