@@ -17,7 +17,7 @@
     "db:reset": "node --env-file=.env.local src/database/seed.js"
   },
   "dependencies": {
-    "next": "15.5.28",
+    "next": "15.5.29",
     "openai": "7.43.0",
     "pg": "^8.16.3",
     "react": "19.1.10",
